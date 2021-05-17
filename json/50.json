@@ -1,0 +1,32 @@
+{
+  "id": "50",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Male",
+    "Spots",
+    "Fedora"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Hemba",
+      "To": "",
+      "Amount": "0.50\u039e ($119)",
+      "Date": "Jul 09, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "Hemba",
+      "To": "",
+      "Amount": "0.50\u039e ($119)",
+      "Date": "Jul 09, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

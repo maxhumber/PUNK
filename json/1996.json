@@ -1,0 +1,32 @@
+{
+  "id": "1996",
+  "owner": "0xef768ef781637a7995a2b57ff77825e8abcf682d",
+  "attributes": [
+    "Female",
+    "Pipe",
+    "Dark Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "25\u039e ($37,175)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "25\u039e ($36,523)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xef768e",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

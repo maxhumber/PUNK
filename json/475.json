@@ -1,0 +1,31 @@
+{
+  "id": "475",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Female",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "simona.e\u2026",
+      "To": "",
+      "Amount": "5\u039e ($8,872)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "simona.e\u2026",
+      "To": "",
+      "Amount": "5\u039e ($8,757)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

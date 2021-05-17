@@ -1,0 +1,124 @@
+{
+  "id": "8821",
+  "owner": "0x301874ccffa7587ccddf8a6198fb91fb9878fcc9",
+  "attributes": [
+    "Male",
+    "Wild Hair",
+    "Earring",
+    "Big Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "jesterbo\u2026",
+      "To": "0x301874",
+      "Amount": "23.95\u039e ($46,365)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7f3aff",
+      "To": "",
+      "Amount": "19\u039e ($37,370)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.95\u039e ($45,851)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.95\u039e ($56,383)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7f3aff",
+      "To": "",
+      "Amount": "19\u039e ($36,222)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($45,467)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($37,514)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16\u039e ($28,008)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11\u039e ($19,196)",
+      "Date": "Feb 10, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4d17cf",
+      "To": "jesterbo\u2026",
+      "Amount": "",
+      "Date": "Oct 31, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "2.77\u039e ($1,145)",
+      "Date": "Oct 24, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "2.77\u039e ($1,097)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4d17cf",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

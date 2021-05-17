@@ -1,0 +1,201 @@
+{
+  "id": "3520",
+  "owner": "0x6336fbba58a55ee3cfc509047449176979ef044b",
+  "attributes": [
+    "Female",
+    "Red Mohawk",
+    "Black Lipstick",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.95\u039e ($96,567)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.50\u039e ($102,749)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.50\u039e ($77,083)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($72,370)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "anonymou\u2026",
+      "To": "0x6336fb",
+      "Amount": "22.25\u039e ($50,110)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.25\u039e ($50,110)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.50\u039e ($55,322)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.50\u039e ($52,972)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.25\u039e ($51,460)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.25\u039e ($52,639)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "CPyrc",
+      "To": "anonymou\u2026",
+      "Amount": "21\u039e ($43,407)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($38,715)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa3cb30",
+      "To": "CPyrc",
+      "Amount": "18\u039e ($33,184)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "18\u039e ($33,184)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa7bd74",
+      "To": "",
+      "Amount": "17.50\u039e ($32,262)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "17\u039e ($31,340)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "\ud83d\udc71\u200d\u2640.eth",
+      "To": "",
+      "Amount": "16\u039e ($29,384)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.50\u039e ($33,975)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($36,041)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.99\u039e ($43,176)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($54,155)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33.50\u039e ($62,213)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

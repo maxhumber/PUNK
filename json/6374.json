@@ -1,0 +1,83 @@
+{
+  "id": "6374",
+  "owner": "0xfd127b082d2702d570efb29c308698a77b013bc9",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Cap Forward",
+    "Shadow Beard",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "point-gr\u2026",
+      "To": "0xfd127b",
+      "Amount": "24.97\u039e ($39,786)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.97\u039e ($39,488)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.98\u039e ($43,114)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.99\u039e ($45,869)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28\u039e ($47,891)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($53,146)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0b88fd",
+      "To": "point-gr\u2026",
+      "Amount": "24\u039e ($43,983)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($43,983)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6611fe",
+      "To": "0x0b88fd",
+      "Amount": "",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "1005",
+  "owner": "0x03490e013f47390aea78707a33a23c8d674e283a",
+  "attributes": [
+    "Male",
+    "Purple Hair",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "500\u039e ($860,130)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "tchen.et\u2026",
+      "To": "0x03490e",
+      "Amount": "42\u039e ($76,259)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42\u039e ($65,570)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe03559",
+      "To": "tchen.et\u2026",
+      "Amount": "30\u039e ($47,116)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaae8c5",
+      "To": "",
+      "Amount": "20\u039e ($31,410)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaae8c5",
+      "To": "",
+      "Amount": "20\u039e ($31,410)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($47,028)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe03559",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

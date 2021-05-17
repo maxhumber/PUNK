@@ -1,0 +1,60 @@
+{
+  "id": "4986",
+  "owner": "0x8f6b1e467fbe74d7dd43d59de0558f693c736798",
+  "attributes": [
+    "Male",
+    "Eye Mask",
+    "Peak Spike"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x2e2e26",
+      "To": "0x8f6b1e",
+      "Amount": "24\u039e ($46,391)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($46,146)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.49\u039e ($681)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.49\u039e ($202)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb0b0b5",
+      "To": "0x2e2e26",
+      "Amount": "0.29\u039e ($34)",
+      "Date": "Dec 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.29\u039e ($88)",
+      "Date": "Sep 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb0b0b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

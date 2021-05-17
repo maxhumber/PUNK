@@ -1,0 +1,20 @@
+{
+  "id": "9395",
+  "owner": "0x729fcb34c7c84af5fb9a4ad514bae745d30c9aab",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Hot Lipstick",
+    "Half Shaved",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x729fcb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

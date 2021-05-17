@@ -1,0 +1,195 @@
+{
+  "id": "2050",
+  "owner": "0x6dfc99cdefd0f2da327b0f31fd0046d8096e955b",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Earring",
+    "Do-rag",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbc469d",
+      "To": "",
+      "Amount": "0.05\u039e ($114)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbc469d",
+      "To": "",
+      "Amount": "0.05\u039e ($114)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbc6c33",
+      "To": "0x6dfc99",
+      "Amount": "16.10\u039e ($32,469)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "14\u039e ($29,452)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "14\u039e ($29,700)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.10\u039e ($34,155)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd3b4a5",
+      "To": "",
+      "Amount": "15\u039e ($25,590)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd3b4a5",
+      "To": "",
+      "Amount": "15\u039e ($25,267)",
+      "Date": "Mar 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($39,084)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "61.60\u039e ($92,186)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Gmugr",
+      "To": "0xbc6c33",
+      "Amount": "15.33\u039e ($29,513)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.33\u039e ($29,410)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Artnome",
+      "To": "Gmugr",
+      "Amount": "13\u039e ($23,921)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13\u039e ($23,921)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($437)",
+      "Date": "Nov 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($456)",
+      "Date": "Nov 06, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "1\u039e ($352)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "1\u039e ($345)",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Sylveste\u2026",
+      "To": "",
+      "Amount": "1.50\u039e ($533)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Sylveste\u2026",
+      "To": "",
+      "Amount": "1.50\u039e ($529)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Artnome",
+      "Amount": "0.13\u039e ($145)",
+      "Date": "Jan 07, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.13\u039e ($131)",
+      "Date": "Jan 06, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

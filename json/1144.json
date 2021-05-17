@@ -1,0 +1,60 @@
+{
+  "id": "1144",
+  "owner": "0x51688cd36c18891167e8036bde2a8fb10ec80c43",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Muttonchops"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x637532",
+      "To": "0x51688c",
+      "Amount": "",
+      "Date": "Jun 01, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x58164b",
+      "To": "0x637532",
+      "Amount": "",
+      "Date": "May 10, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0x58164b",
+      "Amount": "0.28\u039e ($63)",
+      "Date": "Aug 01, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "juggerna\u2026",
+      "To": "",
+      "Amount": "0.20\u039e ($40)",
+      "Date": "Jul 31, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "juggerna\u2026",
+      "To": "",
+      "Amount": "0.20\u039e ($39)",
+      "Date": "Jul 30, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.28\u039e ($53)",
+      "Date": "Jul 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

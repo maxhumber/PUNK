@@ -1,0 +1,48 @@
+{
+  "id": "7740",
+  "owner": "0xe9e7b800ec5fc6015cf6b2826711254bab3c12e4",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Eye Mask",
+    "Frown",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "LSD",
+      "To": "",
+      "Amount": "2\u039e ($950)",
+      "Date": "Nov 19, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0b30fd",
+      "To": "0xe9e7b8",
+      "Amount": "3.31\u039e ($1,578)",
+      "Date": "Nov 19, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "LSD",
+      "To": "",
+      "Amount": "2\u039e ($950)",
+      "Date": "Nov 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.31\u039e ($1,547)",
+      "Date": "Nov 19, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x0b30fd",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

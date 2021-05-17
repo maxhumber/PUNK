@@ -1,0 +1,103 @@
+{
+  "id": "7609",
+  "owner": "0x54685c62db8e16b1484768db8e0daf3c644d50bf",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Earring",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaea8e3",
+      "To": "",
+      "Amount": "15\u039e ($31,380)",
+      "Date": "Apr 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb941f9",
+      "To": "0x54685c",
+      "Amount": "17\u039e ($32,834)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaea8e3",
+      "To": "",
+      "Amount": "15\u039e ($28,947)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x052564",
+      "To": "",
+      "Amount": "11\u039e ($21,228)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17\u039e ($32,631)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "na",
+      "To": "0xb941f9",
+      "Amount": "11\u039e ($20,021)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11\u039e ($2,492)",
+      "Date": "Jul 03, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.30\u039e ($463)",
+      "Date": "Jul 31, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x02751f",
+      "To": "na",
+      "Amount": "0.20\u039e ($39)",
+      "Date": "Jul 30, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($39)",
+      "Date": "Jul 30, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($152)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x02751f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

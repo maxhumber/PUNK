@@ -1,0 +1,48 @@
+{
+  "id": "8197",
+  "owner": "0xb63633d726a54a29bfba0b12f57d6f847e306d9d",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Vape",
+    "Earring",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x538455",
+      "To": "0xb63633",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0x538455",
+      "Amount": "22.40\u039e ($48,225)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.40\u039e ($56,498)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.80\u039e ($52,908)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

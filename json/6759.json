@@ -1,0 +1,138 @@
+{
+  "id": "6759",
+  "owner": "0xcffc60228e1a8aa7c631101eb82fa94981621cbf",
+  "attributes": [
+    "Female",
+    "Orange Side",
+    "Big Shades",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x51636d",
+      "To": "",
+      "Amount": "115.50\u039e ($210,545)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "181.81\u039e ($329,311)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "165\u039e ($293,444)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "150\u039e ($266,767)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x51636d",
+      "To": "",
+      "Amount": "115.50\u039e ($217,630)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "111\u039e ($188,229)",
+      "Date": "Feb 06, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "20\u039e ($26,432)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "20\u039e ($26,600)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4d17cf",
+      "To": "jesterbo\u2026",
+      "Amount": "",
+      "Date": "Oct 31, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0601d0",
+      "To": "",
+      "Amount": "10\u039e ($4,156)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0601d0",
+      "To": "",
+      "Amount": "10\u039e ($3,983)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "8\u039e ($3,167)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0601d0",
+      "To": "",
+      "Amount": "7\u039e ($2,771)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "1.50\u039e ($594)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4d17cf",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

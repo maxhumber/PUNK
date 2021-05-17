@@ -1,0 +1,54 @@
+{
+  "id": "5696",
+  "owner": "0xc24f574d6853f6f6a31c19d468a8c1b3f31c0e54",
+  "attributes": [
+    "Male",
+    "Eye Mask",
+    "Police Cap",
+    "Mustache"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($139,786)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49\u039e ($90,311)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69\u039e ($115,138)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

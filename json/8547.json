@@ -1,0 +1,97 @@
+{
+  "id": "8547",
+  "owner": "0x83506d12aca4cdb36e8d03cda7611365142a29bf",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Frumpy Hair",
+    "Normal Beard Black",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69\u039e ($126,382)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "pelvis.e\u2026",
+      "To": "pelvis.e\u2026",
+      "Amount": "",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "149.99\u039e ($226,627)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49.99\u039e ($90,113)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "43.99\u039e ($84,679)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.99\u039e ($67,628)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($50,123)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99.99\u039e ($192,021)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "pelvis.e\u2026",
+      "Amount": "11\u039e ($19,138)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "pelvis.e\u2026",
+      "To": "",
+      "Amount": "11\u039e ($19,138)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "6930",
+  "owner": "0x062c5432107e3b9ad924512209a7468b5c200fcd",
+  "attributes": [
+    "Male",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "250\u039e ($520,948)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xca8fe4",
+      "To": "0x062c54",
+      "Amount": "",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaae8c5",
+      "To": "",
+      "Amount": "9.50\u039e ($10,361)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaae8c5",
+      "To": "",
+      "Amount": "9.50\u039e ($12,444)",
+      "Date": "Jan 10, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdbc416",
+      "To": "",
+      "Amount": "4.50\u039e ($4,579)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdbc416",
+      "To": "",
+      "Amount": "4.50\u039e ($4,531)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

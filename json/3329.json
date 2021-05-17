@@ -1,0 +1,33 @@
+{
+  "id": "3329",
+  "owner": "0x3be89b64e1437bb18da2d26bcbe9bd3daaadfc26",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Clown Eyes Green",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($171,719)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0x3be89b",
+      "Amount": "",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

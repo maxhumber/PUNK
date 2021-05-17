@@ -1,0 +1,46 @@
+{
+  "id": "1352",
+  "owner": "0x271b97fcbd218fe66f69d4478cd4e161eaa7d10f",
+  "attributes": [
+    "Female",
+    "Horned Rim Glasses",
+    "Half Shaved"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x9ebcc5",
+      "To": "0x271b97",
+      "Amount": "",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0x9ebcc5",
+      "Amount": "24.99\u039e ($44,094)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($44,278)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

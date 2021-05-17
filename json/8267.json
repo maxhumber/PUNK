@@ -1,0 +1,102 @@
+{
+  "id": "8267",
+  "owner": "0x0601d0235645a6ce6356ef11aa0b225c68605131",
+  "attributes": [
+    "Female",
+    "Eye Patch",
+    "Wild Blonde"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x7e5280",
+      "To": "0x0601d0",
+      "Amount": "",
+      "Date": "Jun 05, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Dude_Nak\u2026",
+      "To": "0x7e5280",
+      "Amount": "0.85\u039e ($222)",
+      "Date": "May 19, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.85\u039e ($222)",
+      "Date": "May 19, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x58164b",
+      "To": "Dude_Nak\u2026",
+      "Amount": "0.08\u039e ($16)",
+      "Date": "Oct 14, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.08\u039e ($37)",
+      "Date": "Jul 28, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Kenney",
+      "To": "",
+      "Amount": "0.12\u039e ($70)",
+      "Date": "May 25, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Kenney",
+      "To": "",
+      "Amount": "0.12\u039e ($77)",
+      "Date": "Apr 23, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.11\u039e ($68)",
+      "Date": "Apr 22, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.08\u039e ($50)",
+      "Date": "Apr 22, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Kenney",
+      "To": "",
+      "Amount": "0.12\u039e ($44)",
+      "Date": "Apr 06, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Kenney",
+      "To": "",
+      "Amount": "0.12\u039e ($45)",
+      "Date": "Apr 04, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0a4eaf\u2026",
+      "To": "",
+      "Amount": "0.06\u039e ($67)",
+      "Date": "Jan 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x58164b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

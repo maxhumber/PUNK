@@ -1,0 +1,102 @@
+{
+  "id": "8104",
+  "owner": "0x4bbb41f61fffc1bbe65a2aa192c65281e16ea758",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Luxurious Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "azkaban",
+      "To": "0x4bbb41",
+      "Amount": "",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.55\u039e ($765)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Nov 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.55\u039e ($208)",
+      "Date": "Oct 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.65\u039e ($1,989)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x1a96af",
+      "To": "azkaban",
+      "Amount": "0.54\u039e ($107)",
+      "Date": "Apr 29, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Catdog",
+      "To": "",
+      "Amount": "0.45\u039e ($87)",
+      "Date": "Apr 27, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Catdog",
+      "To": "",
+      "Amount": "0.45\u039e ($89)",
+      "Date": "Apr 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.54\u039e ($92)",
+      "Date": "Apr 17, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe45df5",
+      "To": "0x1a96af",
+      "Amount": "",
+      "Date": "Apr 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.97\u039e ($199)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($152)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe45df5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

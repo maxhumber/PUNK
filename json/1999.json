@@ -1,0 +1,53 @@
+{
+  "id": "1999",
+  "owner": "0xef768ef781637a7995a2b57ff77825e8abcf682d",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Cowboy Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "25\u039e ($40,920)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($81,292)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "25\u039e ($40,646)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xef768e",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

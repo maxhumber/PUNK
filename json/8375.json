@@ -1,0 +1,75 @@
+{
+  "id": "8375",
+  "owner": "0x6cab4d8f878c6ebafb058b03a44cdd51d09b6aa1",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Earring",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "410\u039e ($1.01M)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "0x6cab4d",
+      "Amount": "21.98\u039e ($54,002)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.98\u039e ($51,864)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.90\u039e ($45,427)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "70\u039e ($133,079)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($19,251)",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($2,271)",
+      "Date": "Jun 20, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

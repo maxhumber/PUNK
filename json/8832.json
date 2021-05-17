@@ -1,0 +1,68 @@
+{
+  "id": "8832",
+  "owner": "0xe113e7b1e8ecd07973ea40978aed520241d17f27",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Big Shades",
+    "Muttonchops"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Nov 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.79\u039e ($2,031)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($2,895)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "niwin",
+      "Amount": "4.98\u039e ($1,817)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.98\u039e ($1,817)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x515a82",
+      "To": "0x5b098b",
+      "Amount": "0.18\u039e ($50)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.18\u039e ($50)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x515a82",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

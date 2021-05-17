@@ -1,0 +1,61 @@
+{
+  "id": "7260",
+  "owner": "0xef768ef781637a7995a2b57ff77825e8abcf682d",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Wild White Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "70\u039e ($149,023)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($68,681)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x36d1b7",
+      "To": "",
+      "Amount": "25\u039e ($40,646)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x36d1b7",
+      "To": "",
+      "Amount": "25\u039e ($40,646)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xef768e",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

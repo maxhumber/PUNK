@@ -1,0 +1,61 @@
+{
+  "id": "3917",
+  "owner": "0x2d8d75d4ba64efda74eead05ac6127df4e46efa9",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Headband",
+    "Clown Eyes Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x05e709",
+      "To": "0x2d8d75",
+      "Amount": "14.99\u039e ($55,239)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.99\u039e ($59,125)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.98\u039e ($66,052)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x05e709",
+      "Amount": "",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x2c51da",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x387405",
+      "To": "0x2c51da",
+      "Amount": "",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x387405",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "7594",
+  "owner": "0xe5c4c41194901047523108bb47eb109781a1a86a",
+  "attributes": [
+    "Female",
+    "Mohawk Thin",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "111\u039e ($169,649)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "Kataster\u2026",
+      "Amount": "33.99\u039e ($51,949)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Kataster\u2026",
+      "To": "",
+      "Amount": "32.50\u039e ($49,672)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33.99\u039e ($51,949)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Kataster\u2026",
+      "To": "",
+      "Amount": "32.50\u039e ($49,672)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "36.50\u039e ($56,647)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

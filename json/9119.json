@@ -1,0 +1,89 @@
+{
+  "id": "9119",
+  "owner": "0x254459b53c747e96d8a8a0f4d52ac054559f817d",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Classic Shades",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xf5c1d5",
+      "To": "0x254459",
+      "Amount": "32\u039e ($106,590)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x254459",
+      "To": "",
+      "Amount": "28.82\u039e ($95,997)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x254459",
+      "To": "",
+      "Amount": "28.82\u039e ($95,559)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32\u039e ($86,775)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.82\u039e ($71,733)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf7f7d7",
+      "To": "",
+      "Amount": "20\u039e ($50,843)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0xf5c1d5",
+      "Amount": "22\u039e ($55,927)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf7f7d7",
+      "To": "",
+      "Amount": "20\u039e ($50,650)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($53,706)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

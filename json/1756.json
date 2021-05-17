@@ -1,0 +1,33 @@
+{
+  "id": "1756",
+  "owner": "0x8363b3c46c057f9218ddc2f8fa87994173b57d82",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Front Beard",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x99b884",
+      "To": "0x8363b3",
+      "Amount": "9.50\u039e ($17,484)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.50\u039e ($15,523)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x99b884",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

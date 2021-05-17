@@ -1,0 +1,40 @@
+{
+  "id": "2024",
+  "owner": "0x67c4438c86c00257d3bca9bbfb3f6234bc961468",
+  "attributes": [
+    "Male",
+    "Nerd Glasses",
+    "Goat",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "ddaavvee",
+      "To": "0x67c443",
+      "Amount": "20.24\u039e ($39,658)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.24\u039e ($35,208)",
+      "Date": "Feb 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($6,221)",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

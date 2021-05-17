@@ -1,0 +1,132 @@
+{
+  "id": "9684",
+  "owner": "0x655d17814af0c5b0412ee7bc631c66b2c64f3ab5",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Handlebars",
+    "Pipe",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "200\u039e ($362,576)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "100\u039e ($179,850)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x33b17a",
+      "To": "0x655d17",
+      "Amount": "55.55\u039e ($99,907)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "55.55\u039e ($101,585)",
+      "Date": "Mar 10, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5e1b38",
+      "To": "",
+      "Amount": "40\u039e ($74,864)",
+      "Date": "Mar 10, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "dafky200\u2026",
+      "To": "0x33b17a",
+      "Amount": "45\u039e ($82,646)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5e1b38",
+      "To": "",
+      "Amount": "40\u039e ($73,463)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($82,646)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x50c8b7",
+      "To": "",
+      "Amount": "38\u039e ($69,185)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($74,858)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x530166",
+      "To": "",
+      "Amount": "1\u039e ($1,348)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x530166",
+      "To": "",
+      "Amount": "1\u039e ($1,530)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "dafky200\u2026",
+      "To": "dafky200\u2026",
+      "Amount": "",
+      "Date": "Jun 28, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x7c511d",
+      "To": "dafky200\u2026",
+      "Amount": "0.20\u039e ($84)",
+      "Date": "Jun 28, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($104)",
+      "Date": "Jun 14, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x7c511d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

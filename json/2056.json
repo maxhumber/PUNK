@@ -1,0 +1,40 @@
+{
+  "id": "2056",
+  "owner": "0x8ca89c56aefd379baa15e0ec91c7f5ae7f5b096f",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Shaved Head",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "0x8ca89c",
+      "Amount": "0.11\u039e ($76)",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.11\u039e ($76)",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.70\u039e ($460)",
+      "Date": "Dec 12, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

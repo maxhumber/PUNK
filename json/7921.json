@@ -1,0 +1,34 @@
+{
+  "id": "7921",
+  "owner": "0xde62377a6ccbcf6d5f2b33c743cdaebc129ebed6",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Handlebars",
+    "Big Shades",
+    "Pipe"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0xde6237",
+      "Amount": "29\u039e ($64,104)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($67,629)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

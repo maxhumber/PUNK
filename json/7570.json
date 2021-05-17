@@ -1,0 +1,34 @@
+{
+  "id": "7570",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Earring",
+    "Nerd Glasses",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x2bcbbd",
+      "To": "0xc352b5",
+      "Amount": "0.50\u039e ($43)",
+      "Date": "Dec 13, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($152)",
+      "Date": "Nov 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x2bcbbd",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

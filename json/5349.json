@@ -1,0 +1,61 @@
+{
+  "id": "5349",
+  "owner": "0xbcf489672c2eaf1f63883c4c4e15aa25a8d48ca4",
+  "attributes": [
+    "Male",
+    "Eye Mask",
+    "Shadow Beard",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xc480fb",
+      "To": "0xbcf489",
+      "Amount": "21.50\u039e ($50,975)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x267e95",
+      "To": "",
+      "Amount": "19\u039e ($45,266)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x267e95",
+      "To": "",
+      "Amount": "19\u039e ($39,665)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.50\u039e ($46,466)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.75\u039e ($48,978)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($51,886)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc480fb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

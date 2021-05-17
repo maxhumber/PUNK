@@ -1,0 +1,68 @@
+{
+  "id": "5532",
+  "owner": "0xd839464c711294358b74badf801d935cf6b22e01",
+  "attributes": [
+    "Female",
+    "Clown Eyes Green",
+    "Mohawk Thin",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69\u039e ($136,189)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "777\u039e ($960,123)",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x682c30",
+      "To": "0xd83946",
+      "Amount": "0.49\u039e ($73)",
+      "Date": "Feb 22, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.20\u039e ($24)",
+      "Date": "Dec 22, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.49\u039e ($188)",
+      "Date": "Aug 30, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.90\u039e ($1,113)",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.20\u039e ($34)",
+      "Date": "Jul 15, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x682c30",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

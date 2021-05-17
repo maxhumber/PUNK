@@ -1,0 +1,67 @@
+{
+  "id": "1035",
+  "owner": "0xd7eae9fe9152317ee0542558836cb45fc5af2d39",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x4e0030",
+      "To": "0xd7eae9",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0x4e0030",
+      "Amount": "8.25\u039e ($14,765)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5b331e",
+      "To": "",
+      "Amount": "7\u039e ($12,144)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b331e",
+      "To": "",
+      "Amount": "7\u039e ($12,230)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "6\u039e ($10,247)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.25\u039e ($14,090)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "6\u039e ($10,247)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

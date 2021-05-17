@@ -1,0 +1,18 @@
+{
+  "id": "3962",
+  "owner": "0x06bf2b4da028b66fb08a75dd872acb9a483e5639",
+  "attributes": [
+    "Female",
+    "Green Eye Shadow",
+    "Straight Hair Blonde"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x06bf2b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

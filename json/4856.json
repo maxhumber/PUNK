@@ -1,0 +1,25 @@
+{
+  "id": "4856",
+  "owner": "0x8a4f86fa90e457b7a7afaf1d0f232dcf86057e9f",
+  "attributes": [
+    "Male",
+    "Horned Rim Glasses",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "\u2728\ud83d\ude80\ud83c\udf19.et\u2026",
+      "To": "0x8a4f86",
+      "Amount": "",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "\u2728\ud83d\ude80\ud83c\udf19.et\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

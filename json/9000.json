@@ -1,0 +1,96 @@
+{
+  "id": "9000",
+  "owner": "0xef784caf2d2001fb8fbb9678f9a0a1b83cd582dc",
+  "attributes": [
+    "Female",
+    "Blonde Short",
+    "Hot Lipstick",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "90.90\u039e ($159,580)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5f5df4",
+      "To": "0xef784c",
+      "Amount": "28\u039e ($50,453)",
+      "Date": "Mar 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($53,805)",
+      "Date": "Mar 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xef784c",
+      "To": "",
+      "Amount": "28\u039e ($50,235)",
+      "Date": "Mar 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31.50\u039e ($58,021)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.99\u039e ($63,803)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.99\u039e ($62,029)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($88,172)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xca8fe4",
+      "To": "0x5f5df4",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($63,070)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

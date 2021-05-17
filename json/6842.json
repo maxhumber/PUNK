@@ -1,0 +1,116 @@
+{
+  "id": "6842",
+  "owner": "0x0601d0235645a6ce6356ef11aa0b225c68605131",
+  "attributes": [
+    "Female",
+    "Tiara",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc5f70b",
+      "To": "",
+      "Amount": "79\u039e ($127,483)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc5f70b",
+      "To": "",
+      "Amount": "79\u039e ($122,669)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "15\u039e ($5,231)",
+      "Date": "Sep 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "15\u039e ($5,536)",
+      "Date": "Sep 12, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "10\u039e ($3,643)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "1.65\u039e ($221)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "1.65\u039e ($212)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x7e5280",
+      "To": "0x0601d0",
+      "Amount": "",
+      "Date": "Jun 05, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xd27e3f",
+      "To": "0x7e5280",
+      "Amount": "",
+      "Date": "Oct 04, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.65\u039e ($147)",
+      "Date": "Jul 24, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.65\u039e ($148)",
+      "Date": "Jul 23, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xff8414",
+      "To": "0xd27e3f",
+      "Amount": "",
+      "Date": "Jul 16, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0xff8414",
+      "Amount": "0.15\u039e ($44)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.15\u039e ($43)",
+      "Date": "Jun 27, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

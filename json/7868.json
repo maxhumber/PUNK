@@ -1,0 +1,123 @@
+{
+  "id": "7868",
+  "owner": "0x0601d0235645a6ce6356ef11aa0b225c68605131",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Medical Mask"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x9224bb",
+      "To": "",
+      "Amount": "5.50\u039e ($2,908)",
+      "Date": "Nov 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9224bb",
+      "To": "",
+      "Amount": "5.50\u039e ($2,648)",
+      "Date": "Nov 17, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "1.45\u039e ($238)",
+      "Date": "Jan 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0x0601d0",
+      "Amount": "2\u039e ($328)",
+      "Date": "Jan 14, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "1.45\u039e ($238)",
+      "Date": "Jan 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($328)",
+      "Date": "Jan 14, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "1.35\u039e ($226)",
+      "Date": "Jan 14, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "1.35\u039e ($226)",
+      "Date": "Jan 14, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd8e806",
+      "To": "",
+      "Amount": "0.29\u039e ($55)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0bf913",
+      "To": "0x5b098b",
+      "Amount": "0.38\u039e ($72)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd8e806",
+      "To": "",
+      "Amount": "0.29\u039e ($60)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.38\u039e ($78)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($93)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x0bf913",
+      "Amount": "0.22\u039e ($44)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0bf913",
+      "To": "",
+      "Amount": "0.22\u039e ($44)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

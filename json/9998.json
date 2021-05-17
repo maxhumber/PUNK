@@ -1,0 +1,82 @@
+{
+  "id": "9998",
+  "owner": "0xcfd9ccafc35b86299fc5617f66e89c0782bacfe0",
+  "attributes": [
+    "Female",
+    "Wild White Hair",
+    "Black Lipstick",
+    "Clown Eyes Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49\u039e ($163,951)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xcd879e",
+      "To": "",
+      "Amount": "30\u039e ($53,232)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "TokenAng\u2026",
+      "To": "0xcfd9cc",
+      "Amount": "38\u039e ($61,170)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcd879e",
+      "To": "",
+      "Amount": "30\u039e ($40,275)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "38\u039e ($51,972)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99.98\u039e ($191,642)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x73e4a2",
+      "To": "TokenAng\u2026",
+      "Amount": "15\u039e ($9,499)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($4,292)",
+      "Date": "Jun 27, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x73e4a2",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

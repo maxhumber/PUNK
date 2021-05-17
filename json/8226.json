@@ -1,0 +1,236 @@
+{
+  "id": "8226",
+  "owner": "0xebf02c6e12c3ee119abba161c40bfeead0a06b15",
+  "attributes": [
+    "Male",
+    "Fedora",
+    "Earring",
+    "Goat"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.50\u039e ($94,446)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($87,869)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.90\u039e ($47,531)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26\u039e ($47,655)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9\u039e ($12,186)",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "Zonked",
+      "Amount": "",
+      "Date": "Oct 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "Zonked",
+      "Amount": "2.50\u039e ($865)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xaadfe3",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Carlini8",
+      "To": "0xaadfe3",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "natealex",
+      "To": "Carlini8",
+      "Amount": "1.79\u039e ($673)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.79\u039e ($368)",
+      "Date": "May 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "_K_A_M_I\u2026",
+      "To": "natealex",
+      "Amount": "1.50\u039e ($310)",
+      "Date": "May 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($310)",
+      "Date": "May 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.79\u039e ($369)",
+      "Date": "May 28, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.65\u039e ($342)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($412)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.65\u039e ($336)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.75\u039e ($355)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($304)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.85\u039e ($373)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.90\u039e ($386)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($408)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "TweetyPi\u2026",
+      "To": "_K_A_M_I\u2026",
+      "Amount": "1.40\u039e ($291)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.40\u039e ($278)",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "TweetyPi\u2026",
+      "Amount": "1.10\u039e ($218)",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.10\u039e ($188)",
+      "Date": "Jan 17, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

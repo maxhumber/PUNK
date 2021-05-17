@@ -1,0 +1,82 @@
+{
+  "id": "2593",
+  "owner": "0x9ae8912ea6562957043c8d048641aa9b450c397f",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Goat",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Michel_M\u2026",
+      "To": "snax",
+      "Amount": "3.10\u039e ($1,194)",
+      "Date": "Sep 18, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "snax",
+      "To": "",
+      "Amount": "3.10\u039e ($1,194)",
+      "Date": "Sep 18, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "Michel_M\u2026",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x60207f",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Michel_M\u2026",
+      "To": "0x60207f",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Michel_M\u2026",
+      "Amount": "0.88\u039e ($344)",
+      "Date": "Aug 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.88\u039e ($344)",
+      "Date": "Aug 28, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.49\u039e ($101)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

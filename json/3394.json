@@ -1,0 +1,62 @@
+{
+  "id": "3394",
+  "owner": "0x3f17244f636f12e4324717ba47848be81d6bcb35",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Horned Rim Glasses",
+    "Headband",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Party",
+      "To": "",
+      "Amount": "4\u039e ($3,909)",
+      "Date": "Jan 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Party",
+      "To": "",
+      "Amount": "4\u039e ($3,636)",
+      "Date": "Jan 03, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($910)",
+      "Date": "Jun 20, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x3f1724",
+      "Amount": "1.30\u039e ($270)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.30\u039e ($229)",
+      "Date": "Jan 19, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

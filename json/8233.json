@@ -1,0 +1,68 @@
+{
+  "id": "8233",
+  "owner": "0x4885aad85013aa86e14b4f64ef889e6b89c11d9d",
+  "attributes": [
+    "Male",
+    "Cap",
+    "Goat",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "46.50\u039e ($182,244)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "0x4885aa",
+      "Amount": "8.50\u039e ($15,561)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.50\u039e ($14,841)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.91\u039e ($204)",
+      "Date": "Jul 12, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0x00bd9f",
+      "Amount": "0.20\u039e ($57)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($59)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

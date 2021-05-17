@@ -1,0 +1,131 @@
+{
+  "id": "1490",
+  "owner": "0xa58ff195a0294e352d1e6b3bee317909af6b66e4",
+  "attributes": [
+    "Male",
+    "Cap",
+    "Earring",
+    "Clown Eyes Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "aviexkak\u2026",
+      "To": "0xa58ff1",
+      "Amount": "25.50\u039e ($46,317)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa58ff1",
+      "To": "",
+      "Amount": "25.50\u039e ($45,497)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa58ff1",
+      "To": "",
+      "Amount": "24\u039e ($42,713)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa58ff1",
+      "To": "",
+      "Amount": "24\u039e ($42,278)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28\u039e ($46,514)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($46,583)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33\u039e ($44,901)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "aviexkak\u2026",
+      "Amount": "",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x3d4c8b",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 25, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6f6101",
+      "To": "0x3d4c8b",
+      "Amount": "",
+      "Date": "Dec 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe4f0ac",
+      "To": "0x6f6101",
+      "Amount": "4.25\u039e ($2,665)",
+      "Date": "Dec 25, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf65e16",
+      "To": "",
+      "Amount": "3.60\u039e ($2,092)",
+      "Date": "Dec 24, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf65e16",
+      "To": "",
+      "Amount": "3.60\u039e ($2,154)",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa4edbd",
+      "To": "",
+      "Amount": "3\u039e ($1,843)",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.25\u039e ($2,508)",
+      "Date": "Dec 05, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0xe4f0ac",
+      "Amount": "",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

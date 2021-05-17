@@ -1,0 +1,110 @@
+{
+  "id": "5958",
+  "owner": "0x0601d0235645a6ce6356ef11aa0b225c68605131",
+  "attributes": [
+    "Male",
+    "Wild Hair",
+    "Horned Rim Glasses",
+    "Medical Mask"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "scalynel\u2026",
+      "To": "",
+      "Amount": "1.50\u039e ($273)",
+      "Date": "Jan 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "scalynel\u2026",
+      "To": "",
+      "Amount": "1.50\u039e ($260)",
+      "Date": "Jan 30, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x7e5280",
+      "To": "0x0601d0",
+      "Amount": "",
+      "Date": "Jun 05, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xd4fa6e",
+      "To": "0x7e5280",
+      "Amount": "1.50\u039e ($253)",
+      "Date": "Apr 14, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7e5280",
+      "To": "",
+      "Amount": "0.75\u039e ($127)",
+      "Date": "Apr 14, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7e5280",
+      "To": "",
+      "Amount": "0.75\u039e ($123)",
+      "Date": "Apr 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($495)",
+      "Date": "Aug 25, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.37\u039e ($100)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.37\u039e ($100)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.23\u039e ($67)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.23\u039e ($67)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.13\u039e ($38)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.13\u039e ($39)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xd4fa6e",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

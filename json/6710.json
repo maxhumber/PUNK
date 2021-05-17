@@ -1,0 +1,166 @@
+{
+  "id": "6710",
+  "owner": "0x56178626332fc530561535eeaa914b863aa455f2",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Mohawk",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xbf6ccf",
+      "To": "0x561786",
+      "Amount": "5.70\u039e ($6,739)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.70\u039e ($6,614)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa5c80b",
+      "To": "",
+      "Amount": "4.95\u039e ($3,616)",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf0f068\u2026",
+      "To": "0xbf6ccf",
+      "Amount": "5.46\u039e ($3,982)",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa5c80b",
+      "To": "",
+      "Amount": "4.95\u039e ($3,467)",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.46\u039e ($3,969)",
+      "Date": "Dec 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.70\u039e ($3,516)",
+      "Date": "Dec 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.25\u039e ($3,042)",
+      "Date": "Dec 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.55\u039e ($3,457)",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.10\u039e ($3,331)",
+      "Date": "Dec 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.95\u039e ($3,191)",
+      "Date": "Dec 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.40\u039e ($2,590)",
+      "Date": "Nov 17, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xf0f068\u2026",
+      "Amount": "",
+      "Date": "Nov 17, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "223332",
+      "To": "0xf0f068\u2026",
+      "Amount": "4.80\u039e ($1,717)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0a4eaf\u2026",
+      "To": "223332",
+      "Amount": "2.24\u039e ($736)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x828451",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x0a4eaf\u2026",
+      "To": "0x828451",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($67)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0x0a4eaf\u2026",
+      "Amount": "0.35\u039e ($67)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($97)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4440",
+  "owner": "0xc24f574d6853f6f6a31c19d468a8c1b3f31c0e54",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Earring",
+    "Crazy Hair",
+    "Pipe"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "80\u039e ($128,614)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

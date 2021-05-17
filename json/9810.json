@@ -1,0 +1,68 @@
+{
+  "id": "9810",
+  "owner": "0x4bbb41f61fffc1bbe65a2aa192c65281e16ea758",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Shadow Beard",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x98c488",
+      "To": "0x4bbb41",
+      "Amount": "",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "natealex",
+      "To": "0x98c488",
+      "Amount": "1.38\u039e ($285)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.38\u039e ($281)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x1a96af",
+      "To": "natealex",
+      "Amount": "0.59\u039e ($118)",
+      "Date": "May 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.59\u039e ($101)",
+      "Date": "Apr 17, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe45df5",
+      "To": "0x1a96af",
+      "Amount": "",
+      "Date": "Apr 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($274)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe45df5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "2444",
+  "owner": "0x22de60776e0932429bb5f12bef1814777362ae4b",
+  "attributes": [
+    "Male",
+    "Fedora",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x5fdafa",
+      "To": "0x22de60",
+      "Amount": "",
+      "Date": "Sep 19, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "ManOverb\u2026",
+      "To": "0x5fdafa",
+      "Amount": "1.20\u039e ($445)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.20\u039e ($419)",
+      "Date": "Sep 07, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "TweetyPi\u2026",
+      "To": "ManOverb\u2026",
+      "Amount": "0.99\u039e ($232)",
+      "Date": "Jun 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.99\u039e ($232)",
+      "Date": "Jun 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($369)",
+      "Date": "Jun 10, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 31, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.55\u039e ($360)",
+      "Date": "May 30, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.90\u039e ($385)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x231707",
+      "To": "TweetyPi\u2026",
+      "Amount": "1.50\u039e ($305)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($266)",
+      "Date": "Nov 18, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.55\u039e ($297)",
+      "Date": "Mar 22, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($123)",
+      "Date": "Mar 14, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x231707",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

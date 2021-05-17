@@ -1,0 +1,194 @@
+{
+  "id": "4208",
+  "owner": "0xcf8401fabc11524de68ca98e52b7459e52b0ce89",
+  "attributes": [
+    "Female",
+    "Stringy Hair",
+    "Earring",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "sartoshi\u2026",
+      "To": "",
+      "Amount": "15\u039e ($60,716)",
+      "Date": "May 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.85\u039e ($80,347)",
+      "Date": "May 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x110929",
+      "To": "0xcf8401",
+      "Amount": "15.99\u039e ($64,723)",
+      "Date": "May 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "sartoshi\u2026",
+      "To": "",
+      "Amount": "15\u039e ($61,370)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "sartoshi\u2026",
+      "To": "",
+      "Amount": "13\u039e ($53,333)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.99\u039e ($64,368)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x110929",
+      "Amount": "",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa6ca06",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x3ee505",
+      "To": "0xa6ca06",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "CPyrc",
+      "To": "0x3ee505",
+      "Amount": "2.49\u039e ($861)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.49\u039e ($818)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "CPyrc",
+      "Amount": "",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x36adad",
+      "To": "CPyrc",
+      "Amount": "2.20\u039e ($720)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0x36adad",
+      "Amount": "1.95\u039e ($720)",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x776758",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Pranksy",
+      "To": "0x776758",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x122491",
+      "To": "Pranksy",
+      "Amount": "1.75\u039e ($659)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.75\u039e ($648)",
+      "Date": "Sep 10, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x122491",
+      "Amount": "1.55\u039e ($574)",
+      "Date": "Sep 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.55\u039e ($371)",
+      "Date": "Jun 03, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pixls",
+      "To": "",
+      "Amount": "0.30\u039e ($54)",
+      "Date": "Apr 08, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($132)",
+      "Date": "Apr 07, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pixls",
+      "To": "",
+      "Amount": "0.30\u039e ($43)",
+      "Date": "Mar 30, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($43)",
+      "Date": "Jan 31, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "8930",
+  "owner": "0xba0c68d6b353c2c36a657289e24ba36fe7172d2f",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Crazy Hair",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xba0c68",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

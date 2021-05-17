@@ -1,0 +1,242 @@
+{
+  "id": "8456",
+  "owner": "0x83d66b34c20d177c035edef859bf6bcbb174afeb",
+  "attributes": [
+    "Female",
+    "Stringy Hair",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x1424d2",
+      "To": "0x83d66b",
+      "Amount": "22.94\u039e ($79,730)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.94\u039e ($82,654)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($87,495)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.70\u039e ($85,857)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.98\u039e ($92,192)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.99\u039e ($136,847)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x3fce52",
+      "To": "0x1424d2",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x1424d2",
+      "To": "0x3fce52",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x83d66b",
+      "To": "",
+      "Amount": "22.94\u039e ($76,296)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.99\u039e ($87,601)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.80\u039e ($91,619)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.90\u039e ($81,393)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.90\u039e ($85,303)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34\u039e ($79,695)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x74be0a",
+      "To": "0x1424d2",
+      "Amount": "20.99\u039e ($43,291)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.99\u039e ($43,387)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.99\u039e ($37,067)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.69\u039e ($35,487)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.99\u039e ($43,156)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.99\u039e ($40,239)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x13816f",
+      "To": "",
+      "Amount": "13.50\u039e ($20,189)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.99\u039e ($46,700)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.99\u039e ($78,897)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($48,682)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "CryptoIn\u2026",
+      "To": "0x74be0a",
+      "Amount": "16.99\u039e ($33,098)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x13816f",
+      "To": "",
+      "Amount": "13.50\u039e ($26,095)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "ekaitza.\u2026",
+      "To": "",
+      "Amount": "6.55\u039e ($12,833)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "ekaitza.\u2026",
+      "To": "",
+      "Amount": "6.55\u039e ($12,833)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.99\u039e ($30,330)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "CryptoIn\u2026",
+      "Amount": "1.50\u039e ($302)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "CryptoIn\u2026",
+      "To": "",
+      "Amount": "1\u039e ($202)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($382)",
+      "Date": "Feb 12, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

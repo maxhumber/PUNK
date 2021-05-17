@@ -1,0 +1,186 @@
+{
+  "id": "6485",
+  "owner": "0x0d3ada2a0e63631e1515c208998bf63ad4882cee",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32\u039e ($130,934)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($121,645)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($135,344)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($91,678)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($84,303)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0553de",
+      "To": "tencent",
+      "Amount": "3.50\u039e ($1,875)",
+      "Date": "Nov 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.95\u039e ($2,042)",
+      "Date": "Nov 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "tencent",
+      "To": "",
+      "Amount": "3.50\u039e ($1,808)",
+      "Date": "Nov 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.35\u039e ($1,988)",
+      "Date": "Nov 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.97\u039e ($2,073)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "NeonNFT",
+      "To": "0x0553de",
+      "Amount": "4.25\u039e ($1,750)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.25\u039e ($1,759)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "NeonNFT",
+      "Amount": "",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xf86e70",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbdde8",
+      "To": "0xf86e70",
+      "Amount": "",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "KittyGr_\u2026",
+      "To": "0xcbdde8",
+      "Amount": "",
+      "Date": "Oct 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.50\u039e ($2,004)",
+      "Date": "Oct 09, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Carlini8",
+      "To": "",
+      "Amount": "4\u039e ($1,364)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Carlini8",
+      "To": "",
+      "Amount": "4\u039e ($1,365)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x0144b7",
+      "To": "KittyGr_\u2026",
+      "Amount": "",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "KittyGr_\u2026",
+      "To": "0x0144b7",
+      "Amount": "",
+      "Date": "Jun 23, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "KittyGr_\u2026",
+      "Amount": "0.05\u039e ($30)",
+      "Date": "Jun 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.05\u039e ($28)",
+      "Date": "May 29, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

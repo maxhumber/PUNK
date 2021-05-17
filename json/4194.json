@@ -1,0 +1,33 @@
+{
+  "id": "4194",
+  "owner": "0x8f6b1e467fbe74d7dd43d59de0558f693c736798",
+  "attributes": [
+    "Female",
+    "Clown Nose",
+    "Hot Lipstick",
+    "Stringy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0x8f6b1e",
+      "Amount": "10\u039e ($18,088)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($18,282)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

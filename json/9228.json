@@ -1,0 +1,110 @@
+{
+  "id": "9228",
+  "owner": "0x8be6ad79f67d1b76eba486b0ef4fd2c9bd1cd067",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Mohawk",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x8be6ad",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xbea00d",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "sexpunks\u2026",
+      "To": "0xbea00d",
+      "Amount": "",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "EliteCat\u2026",
+      "To": "sexpunks\u2026",
+      "Amount": "15.50\u039e ($25,615)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "sexpunks\u2026",
+      "To": "",
+      "Amount": "15.50\u039e ($25,648)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.65\u039e ($28,324)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "EliteCat\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "GoWest23",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa18fd5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "0xa18fd5",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x682c30",
+      "To": "GoWest23",
+      "Amount": "0.75\u039e ($121)",
+      "Date": "Jan 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($184)",
+      "Date": "Jul 08, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.39\u039e ($104)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x682c30",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

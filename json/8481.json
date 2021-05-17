@@ -1,0 +1,54 @@
+{
+  "id": "8481",
+  "owner": "0xf51d05c6477f23647c0d4c9832e6a800e77621ed",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Headband",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xceb63c",
+      "To": "0xf51d05",
+      "Amount": "26.99\u039e ($63,868)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.99\u039e ($65,307)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.99\u039e ($67,418)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0xceb63c",
+      "Amount": "25\u039e ($60,515)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($60,515)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

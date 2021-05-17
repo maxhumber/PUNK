@@ -1,0 +1,67 @@
+{
+  "id": "5239",
+  "owner": "0x8ad272ac86c6c88683d9a60eb8ed57e6c304bb0c",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Clown Hair Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "j1mmy",
+      "To": "j1mmy_va\u2026",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0b88fd",
+      "To": "j1mmy",
+      "Amount": "27\u039e ($84,788)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($73,843)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28\u039e ($73,851)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6611fe",
+      "To": "0x0b88fd",
+      "Amount": "",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Punkofth\u2026",
+      "To": "0x6611fe",
+      "Amount": "0.50\u039e ($103)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($123)",
+      "Date": "Jul 08, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Punkofth\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

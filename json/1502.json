@@ -1,0 +1,74 @@
+{
+  "id": "1502",
+  "owner": "0xf75fcd9849d3365d436d0cd889ed500150c9482a",
+  "attributes": [
+    "Male",
+    "Eye Mask",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x561786",
+      "To": "0xf75fcd",
+      "Amount": "23\u039e ($42,067)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($42,702)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($40,846)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe4f0ac",
+      "To": "0x561786",
+      "Amount": "5\u039e ($5,497)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($5,600)",
+      "Date": "Jan 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "scalynel\u2026",
+      "To": "",
+      "Amount": "4.20\u039e ($2,903)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "scalynel\u2026",
+      "To": "",
+      "Amount": "4.20\u039e ($2,705)",
+      "Date": "Dec 26, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0xe4f0ac",
+      "Amount": "",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

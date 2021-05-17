@@ -1,0 +1,130 @@
+{
+  "id": "1836",
+  "owner": "0x27073cd0d709d89c391af9767595d91c78ed43a7",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($162,382)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "dustmrtn",
+      "To": "runhot99\u2026",
+      "Amount": "17\u039e ($",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "runhot99\u2026",
+      "To": "",
+      "Amount": "17\u039e ($63,924)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.99\u039e ($75,167)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($151,600)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($137,376)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x93d020",
+      "To": "",
+      "Amount": "35\u039e ($97,001)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x93d020",
+      "To": "",
+      "Amount": "35\u039e ($75,449)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($106,255)",
+      "Date": "Apr 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 15, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($393)",
+      "Date": "Oct 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($368)",
+      "Date": "Oct 20, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "1\u039e ($352)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "1\u039e ($345)",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "dustmrtn",
+      "Amount": "0.08\u039e ($61)",
+      "Date": "May 05, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.08\u039e ($61)",
+      "Date": "May 05, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

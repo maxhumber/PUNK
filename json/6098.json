@@ -1,0 +1,33 @@
+{
+  "id": "6098",
+  "owner": "0x03911fecabd6b4809c88e2e6eb856ec932b2ee3e",
+  "attributes": [
+    "Female",
+    "Big Shades",
+    "Hot Lipstick",
+    "Straight Hair Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x470e9b",
+      "To": "0x03911f",
+      "Amount": "0.30\u039e ($227)",
+      "Date": "Jan 01, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($77)",
+      "Date": "Sep 21, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x470e9b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "6078",
+  "owner": "0x6611fe71c233e4e7510b2795c242c9a57790b376",
+  "attributes": [
+    "Female",
+    "Red Mohawk",
+    "Hot Lipstick",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": "4842",
+  "owner": "0xe83c750b2708320bb134796c555b80df39a3d97b",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Earring",
+    "Smile"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x2cb435",
+      "To": "Snowfro",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0e9aed",
+      "To": "0x2cb435",
+      "Amount": "34.99\u039e ($114,067)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.99\u039e ($100,955)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5deedc",
+      "To": "0x0e9aed",
+      "Amount": "30\u039e ($83,473)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($83,473)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30.50\u039e ($82,499)",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31\u039e ($83,567)",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xfa4c8f",
+      "To": "",
+      "Amount": "28.50\u039e ($76,441)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31.50\u039e ($82,883)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32\u039e ($80,816)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xfa4c8f",
+      "To": "",
+      "Amount": "28.50\u039e ($71,304)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32.50\u039e ($72,796)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "point-gr\u2026",
+      "To": "",
+      "Amount": "25\u039e ($55,303)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33\u039e ($73,000)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34\u039e ($86,433)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "36\u039e ($77,580)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa3cb30",
+      "To": "0x5deedc",
+      "Amount": "18.50\u039e ($34,106)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5deedc",
+      "To": "",
+      "Amount": "18.50\u039e ($34,106)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0x00bd9f",
+      "Amount": "0.26\u039e ($70)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.26\u039e ($70)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0x5b098b",
+      "Amount": "0.10\u039e ($30)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($30)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

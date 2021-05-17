@@ -1,0 +1,75 @@
+{
+  "id": "4013",
+  "owner": "0x968e01e5a6e1ae8a103ad578b73e9328e90b8ba8",
+  "attributes": [
+    "Male",
+    "Police Cap",
+    "Big Shades",
+    "Muttonchops"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x701f37",
+      "To": "0x968e01",
+      "Amount": "",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3e17fa",
+      "To": "0x701f37",
+      "Amount": "11\u039e ($18,921)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11\u039e ($18,921)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($18,568)",
+      "Date": "Jan 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13\u039e ($8,024)",
+      "Date": "Nov 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7\u039e ($3,228)",
+      "Date": "Nov 13, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "0x3e17fa",
+      "Amount": "6.19\u039e ($2,178)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.19\u039e ($1,514)",
+      "Date": "Jun 22, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

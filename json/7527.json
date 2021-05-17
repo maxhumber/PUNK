@@ -1,0 +1,96 @@
+{
+  "id": "7527",
+  "owner": "0x81facc69908d9c1188280fbb2793567de39f8f9b",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Peak Spike",
+    "Big Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($199,694)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "80\u039e ($150,005)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.63\u039e ($876)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.63\u039e ($261)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($14,525)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($5,558)",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($2,819)",
+      "Date": "Feb 19, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbc081c",
+      "To": "Ajiyl",
+      "Amount": "0.15\u039e ($70)",
+      "Date": "Dec 04, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($39)",
+      "Date": "Sep 21, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "metakid",
+      "To": "0xbc081c",
+      "Amount": "",
+      "Date": "Sep 20, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "metakid",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

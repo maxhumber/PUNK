@@ -1,0 +1,47 @@
+{
+  "id": "9070",
+  "owner": "0x968fa02ec46c8f32807f28455dd4c96212c9c7bf",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Handlebars",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x968fa0",
+      "Amount": "22.40\u039e ($35,640)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6e2e9",
+      "To": "",
+      "Amount": "20\u039e ($32,195)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6e2e9",
+      "To": "",
+      "Amount": "20\u039e ($32,141)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.40\u039e ($33,079)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

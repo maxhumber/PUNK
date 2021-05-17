@@ -1,0 +1,69 @@
+{
+  "id": "1034",
+  "owner": "0xa060870b4824b6a36862a69b6f6cec65c6d5b203",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Hoodie",
+    "Big Shades",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdd23ab",
+      "To": "",
+      "Amount": "80\u039e ($268,828)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdd23ab",
+      "To": "",
+      "Amount": "80\u039e ($297,049)",
+      "Date": "May 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Mr_0x",
+      "To": "",
+      "Amount": "0.40\u039e ($732)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Mr_0x",
+      "To": "",
+      "Amount": "0.40\u039e ($55)",
+      "Date": "Feb 28, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Mr_0x",
+      "To": "",
+      "Amount": "0.15\u039e ($20)",
+      "Date": "Feb 28, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Mr_0x",
+      "To": "",
+      "Amount": "0.15\u039e ($18)",
+      "Date": "Feb 11, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xa06087",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

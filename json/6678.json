@@ -1,0 +1,110 @@
+{
+  "id": "6678",
+  "owner": "0xc0548825bd34b96448b487ed7028cf6b532228f9",
+  "attributes": [
+    "Female",
+    "Horned Rim Glasses",
+    "Dark Hair",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "36\u039e ($63,959)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "TokenAng\u2026",
+      "To": "0xc05488",
+      "Amount": "35\u039e ($63,565)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "\ud83d\udc71\u200d\u2640.eth",
+      "To": "",
+      "Amount": "12\u039e ($18,037)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "\ud83d\udc71\u200d\u2640.eth",
+      "To": "",
+      "Amount": "12\u039e ($16,788)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($12,735)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($2,125)",
+      "Date": "May 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,043)",
+      "Date": "May 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($485)",
+      "Date": "Apr 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "TokenAng\u2026",
+      "Amount": "1\u039e ($145)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($216)",
+      "Date": "Aug 11, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

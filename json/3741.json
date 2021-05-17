@@ -1,0 +1,60 @@
+{
+  "id": "3741",
+  "owner": "0x6f574fd71d1466e1369e6d8124aa6163085202f1",
+  "attributes": [
+    "Female",
+    "VR",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb74f01",
+      "To": "",
+      "Amount": "0.33\u039e ($508)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb74f01",
+      "To": "",
+      "Amount": "0.33\u039e ($662)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x91d6e2",
+      "To": "0x6f574f",
+      "Amount": "",
+      "Date": "Feb 22, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0x91d6e2",
+      "Amount": "0.85\u039e ($127)",
+      "Date": "Feb 22, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.85\u039e ($205)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4618",
+  "owner": "0xfba6476b6b9671afc9f4d475ea02953717ce0a86",
+  "attributes": [
+    "Male",
+    "Classic Shades",
+    "Earring",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xa6e2e9",
+      "To": "0xfba647",
+      "Amount": "22.48\u039e ($33,049)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.48\u039e ($33,360)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xa6e2e9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

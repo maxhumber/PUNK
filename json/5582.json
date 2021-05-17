@@ -1,0 +1,81 @@
+{
+  "id": "5582",
+  "owner": "0x050159029e8133db862317df326d4db6c3bb4236",
+  "attributes": [
+    "Male",
+    "Muttonchops",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xc272ed",
+      "To": "0x050159",
+      "Amount": "22\u039e ($39,421)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x050159",
+      "To": "",
+      "Amount": "20\u039e ($34,340)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x050159",
+      "To": "",
+      "Amount": "20\u039e ($34,340)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($34,612)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4e16d9",
+      "To": "",
+      "Amount": "16\u039e ($25,127)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4e16d9",
+      "To": "",
+      "Amount": "16\u039e ($24,980)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb9f310",
+      "To": "",
+      "Amount": "14\u039e ($21,977)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($34,436)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($36,372)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

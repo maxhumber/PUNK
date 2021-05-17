@@ -1,0 +1,83 @@
+{
+  "id": "5707",
+  "owner": "0x560b9244a2fdc11563a7e7293997d54e147d63c3",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Big Shades",
+    "Shadow Beard",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "hotbtch",
+      "To": "",
+      "Amount": "0.52\u039e ($107)",
+      "Date": "Jul 29, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc00c2b",
+      "To": "0x560b92",
+      "Amount": "0.64\u039e ($122)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.63\u039e ($169)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 05, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "hotbtch",
+      "To": "",
+      "Amount": "0.52\u039e ($138)",
+      "Date": "Jul 05, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.62\u039e ($167)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.43\u039e ($112)",
+      "Date": "Jul 01, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.04\u039e ($12)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($86)",
+      "Date": "Jun 27, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc00c2b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

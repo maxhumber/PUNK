@@ -1,0 +1,138 @@
+{
+  "id": "839",
+  "owner": "0xede64a571cfe98b936271b935a955620f387e05a",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Purple Eye Shadow",
+    "Frumpy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf9e200",
+      "To": "",
+      "Amount": "1.20\u039e ($2,317)",
+      "Date": "Mar 31, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf9e200",
+      "To": "",
+      "Amount": "1.20\u039e ($2,317)",
+      "Date": "Mar 31, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Bombard",
+      "To": "",
+      "Amount": "16\u039e ($26,343)",
+      "Date": "Mar 26, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xddfdcb",
+      "To": "bartdecr\u2026",
+      "Amount": "19.98\u039e ($32,876)",
+      "Date": "Mar 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Bombard",
+      "To": "",
+      "Amount": "16\u039e ($25,901)",
+      "Date": "Mar 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.98\u039e ($32,610)",
+      "Date": "Mar 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.99\u039e ($36,921)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($42,941)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.99\u039e ($46,430)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.99\u039e ($53,688)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33.99\u039e ($60,308)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "0xddfdcb",
+      "Amount": "19.99\u039e ($39,438)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.99\u039e ($39,014)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "Carlini8",
+      "Amount": "16.49\u039e ($32,100)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.49\u039e ($33,111)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($57,015)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "Pranksy",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

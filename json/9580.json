@@ -1,0 +1,96 @@
+{
+  "id": "9580",
+  "owner": "0x13816f65ba8195768e6825eb774fd3c6a05a0ac8",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Silver Chain",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.25\u039e ($66,204)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.88\u039e ($32,338)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x13816f",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x067034",
+      "To": "0x13816f",
+      "Amount": "4.70\u039e ($1,682)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "0x067034",
+      "Amount": "6\u039e ($2,194)",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xaadfe3",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Carlini8",
+      "To": "0xaadfe3",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc00c2b",
+      "To": "Carlini8",
+      "Amount": "2.50\u039e ($940)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($520)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($598)",
+      "Date": "Aug 14, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.69\u039e ($136)",
+      "Date": "Jul 30, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc00c2b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

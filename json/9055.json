@@ -1,0 +1,33 @@
+{
+  "id": "9055",
+  "owner": "0x00b278dd68f9d8491795ffaf771120638bef1686",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Frumpy Hair",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x00b278",
+      "Amount": "0.25\u039e ($60)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($66)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "6611",
+  "owner": "0x8ac65ff8600810e3470705cacb35a80fa218355a",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Silver Chain",
+    "Vape",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4e0030",
+      "To": "",
+      "Amount": "8\u039e ($11,239)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4e0030",
+      "To": "",
+      "Amount": "8\u039e ($10,525)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8ac65f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

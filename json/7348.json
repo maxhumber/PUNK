@@ -1,0 +1,41 @@
+{
+  "id": "7348",
+  "owner": "0x69021ae8769586d56791d29615959997c2012b99",
+  "attributes": [
+    "Female",
+    "Vape",
+    "Half Shaved",
+    "Purple Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "sov",
+      "To": "0x69021a",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "2\u039e ($419)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "2\u039e ($416)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "sov",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

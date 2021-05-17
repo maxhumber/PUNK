@@ -1,0 +1,54 @@
+{
+  "id": "8858",
+  "owner": "0xde62377a6ccbcf6d5f2b33c743cdaebc129ebed6",
+  "attributes": [
+    "Female",
+    "Bandana",
+    "Clown Eyes Green",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "0xde6237",
+      "Amount": "22.97\u039e ($50,775)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.97\u039e ($55,924)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.97\u039e ($52,717)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "70\u039e ($133,079)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($4,541)",
+      "Date": "Jun 20, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

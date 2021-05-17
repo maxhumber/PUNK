@@ -1,0 +1,40 @@
+{
+  "id": "3814",
+  "owner": "0xcffc336e6d019c1af58257a0b10bf2146a3f42a4",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Spots",
+    "Smile"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xceb63c",
+      "To": "",
+      "Amount": "30\u039e ($116,805)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xceb63c",
+      "To": "",
+      "Amount": "30\u039e ($100,747)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xba7ccc",
+      "To": "0xcffc33",
+      "Amount": "",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xba7ccc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3014",
+  "owner": "0xdd9d84399a8e81602e89f5bfef4c138b7908fc55",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Wild Hair",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Shrugs",
+      "To": "",
+      "Amount": "0.50\u039e ($680)",
+      "Date": "Jan 14, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Shrugs",
+      "To": "",
+      "Amount": "0.50\u039e ($680)",
+      "Date": "Jan 14, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xdd9d84",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "5807",
+  "owner": "0x068b748a47aec5cc443cdfd7590d071feb82b038",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Regular Shades",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x4b47bd",
+      "To": "0x068b74",
+      "Amount": "",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x023ef7",
+      "To": "0x4b47bd",
+      "Amount": "22.30\u039e ($35,004)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4b47bd",
+      "To": "",
+      "Amount": "22.30\u039e ($35,983)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "sexpunks\u2026",
+      "To": "",
+      "Amount": "19.25\u039e ($31,165)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "sexpunks\u2026",
+      "To": "",
+      "Amount": "19.25\u039e ($31,165)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.30\u039e ($36,248)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.30\u039e ($36,248)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "19\u039e ($29,826)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "19\u039e ($29,608)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.98\u039e ($35,326)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x05c31f",
+      "To": "",
+      "Amount": "18\u039e ($25,481)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($37,554)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa6e2e9",
+      "To": "0x023ef7",
+      "Amount": "22.50\u039e ($35,207)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.50\u039e ($34,637)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xa6e2e9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

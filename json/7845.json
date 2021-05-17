@@ -1,0 +1,40 @@
+{
+  "id": "7845",
+  "owner": "0xe586602f4841e21d4ce49c9a4d761e213f611f4c",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Luxurious Beard",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0xe58660",
+      "Amount": "35\u039e ($60,845)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe58660",
+      "To": "",
+      "Amount": "35\u039e ($60,845)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

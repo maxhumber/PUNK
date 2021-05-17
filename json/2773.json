@@ -1,0 +1,109 @@
+{
+  "id": "2773",
+  "owner": "0xe75021660e00a7fa0df1b97da13ebabe6d82e7ea",
+  "attributes": [
+    "Male",
+    "Medical Mask",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xeb725f",
+      "To": "0xe75021",
+      "Amount": "31\u039e ($61,160)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31\u039e ($61,726)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5e49d0",
+      "To": "0xeb725f",
+      "Amount": "24\u039e ($47,079)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($47,079)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "200\u039e ($367,020)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($45,877)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "MadMax",
+      "To": "0x5e49d0",
+      "Amount": "13.25\u039e ($24,096)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.25\u039e ($24,428)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "MadMax",
+      "Amount": "9\u039e ($16,344)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "MadMax",
+      "Amount": "9\u039e ($16,344)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

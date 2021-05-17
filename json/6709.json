@@ -1,0 +1,54 @@
+{
+  "id": "6709",
+  "owner": "0xd31158643cef2220165049cc56a6cc27f49bf688",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Shadow Beard",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "blocksta\u2026",
+      "To": "0xd31158",
+      "Amount": "23\u039e ($56,533)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($53,900)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x938bd2",
+      "To": "blocksta\u2026",
+      "Amount": "",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x577ebc",
+      "To": "0x938bd2",
+      "Amount": "",
+      "Date": "Feb 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

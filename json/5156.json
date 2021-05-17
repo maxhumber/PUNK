@@ -1,0 +1,96 @@
+{
+  "id": "5156",
+  "owner": "0x67c4438c86c00257d3bca9bbfb3f6234bc961468",
+  "attributes": [
+    "Male",
+    "Nerd Glasses",
+    "Knitted Cap",
+    "Pipe"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6a43e6",
+      "To": "0x67c443",
+      "Amount": "23.69\u039e ($46,595)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.69\u039e ($46,595)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($54,241)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "1\u039e ($1,544)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "1\u039e ($1,015)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Mikhail",
+      "To": "0x6a43e6",
+      "Amount": "",
+      "Date": "Sep 27, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Mikhail",
+      "Amount": "0.25\u039e ($77)",
+      "Date": "Sep 27, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($65)",
+      "Date": "Sep 17, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($99)",
+      "Date": "Aug 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.21\u039e ($57)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "0.21\u039e ($57)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

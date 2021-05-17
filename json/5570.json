@@ -1,0 +1,75 @@
+{
+  "id": "5570",
+  "owner": "0xe83c750b2708320bb134796c555b80df39a3d97b",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Big Shades",
+    "Mustache"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "ArtBlock\u2026",
+      "To": "Snowfro",
+      "Amount": "",
+      "Date": "Dec 18, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "juggerna\u2026",
+      "To": "ArtBlock\u2026",
+      "Amount": "0.25\u039e ($41)",
+      "Date": "Oct 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($41)",
+      "Date": "Oct 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($65)",
+      "Date": "Oct 14, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($75)",
+      "Date": "Oct 14, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($80)",
+      "Date": "Oct 05, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "juggerna\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($153)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

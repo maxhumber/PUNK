@@ -1,0 +1,88 @@
+{
+  "id": "8350",
+  "owner": "0x470e9bd486ebf96ddf6b38de58f21b0872f85776",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Pilot Helmet"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0ec348",
+      "To": "",
+      "Amount": "83.50\u039e ($205,318)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0ec348",
+      "To": "",
+      "Amount": "83.50\u039e ($192,752)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "2.50\u039e ($505)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "2.50\u039e ($510)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Zieg",
+      "To": "",
+      "Amount": "0.80\u039e ($180)",
+      "Date": "Aug 03, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "Zieg",
+      "To": "",
+      "Amount": "0.80\u039e ($161)",
+      "Date": "Jul 31, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Zieg",
+      "To": "",
+      "Amount": "0.28\u039e ($53)",
+      "Date": "Jul 17, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "Zieg",
+      "To": "",
+      "Amount": "0.28\u039e ($47)",
+      "Date": "Jul 15, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x470e9b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

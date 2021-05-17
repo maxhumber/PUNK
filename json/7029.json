@@ -1,0 +1,89 @@
+{
+  "id": "7029",
+  "owner": "0xe861cbc1f3d615c69e393aa6353ecea97c577bc9",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Front Beard Dark",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "60\u039e ($224,925)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "48\u039e ($188,196)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3be89b",
+      "To": "0xe861cb",
+      "Amount": "22\u039e ($86,526)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($85,336)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($88,222)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($87,782)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0x3be89b",
+      "Amount": "",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.85\u039e ($1,578)",
+      "Date": "Oct 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.50\u039e ($1,782)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "7471",
+  "owner": "0x9a9358fe6aff463bdf8f3c9c53245b85290d4f4c",
+  "attributes": [
+    "Male",
+    "Eye Patch",
+    "Mole",
+    "Cowboy Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x9a9358",
+      "Amount": "0.50\u039e ($113)",
+      "Date": "Jul 24, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($68)",
+      "Date": "Jul 24, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($114)",
+      "Date": "Jul 23, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

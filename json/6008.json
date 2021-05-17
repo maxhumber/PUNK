@@ -1,0 +1,166 @@
+{
+  "id": "6008",
+  "owner": "0xfefc2850b25fe1aa3e9aa154df61c6b9bc7aa374",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Muttonchops",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe281b9",
+      "To": "",
+      "Amount": "15.50\u039e ($34,095)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xec4b06",
+      "To": "0xfefc28",
+      "Amount": "19.50\u039e ($46,256)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.50\u039e ($48,593)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe281b9",
+      "To": "",
+      "Amount": "15.50\u039e ($38,082)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.90\u039e ($48,480)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5aaeb9",
+      "To": "0xec4b06",
+      "Amount": "3.10\u039e ($1,091)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.10\u039e ($1,100)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "ross_VRO\u2026",
+      "To": "0x5aaeb9",
+      "Amount": "2.95\u039e ($1,047)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x5aaeb9",
+      "Amount": "",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Nissla",
+      "To": "ross_VRO\u2026",
+      "Amount": "2.90\u039e ($1,018)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Ranger",
+      "To": "Nissla",
+      "Amount": "2.50\u039e ($865)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x33db2e",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Ranger",
+      "To": "0x33db2e",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($996)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Pranksy",
+      "To": "Ranger",
+      "Amount": "",
+      "Date": "Apr 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.60\u039e ($151)",
+      "Date": "Feb 12, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.65\u039e ($124)",
+      "Date": "Feb 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($216)",
+      "Date": "Aug 11, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

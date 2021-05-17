@@ -1,0 +1,48 @@
+{
+  "id": "7314",
+  "owner": "0x811e4327de2dbbcb69a5e35652e0af1a5d3d9e23",
+  "attributes": [
+    "Male",
+    "Frown",
+    "Big Shades",
+    "Muttonchops",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($73,583)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "0x811e43",
+      "Amount": "29.50\u039e ($44,217)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.50\u039e ($45,807)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

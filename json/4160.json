@@ -1,0 +1,33 @@
+{
+  "id": "4160",
+  "owner": "0x00000217d2795f1da57e392d2a5bc87125baa38d",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Purple Hair",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x000002",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

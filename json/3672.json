@@ -1,0 +1,174 @@
+{
+  "id": "3672",
+  "owner": "0x61d9d9cc8c3203dab7100ea79ced77587201c990",
+  "attributes": [
+    "Male",
+    "Clown Eyes Blue",
+    "Hoodie",
+    "Shadow Beard",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x14ae81",
+      "To": "0x61d9d9",
+      "Amount": "40\u039e ($148,094)",
+      "Date": "May 15, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "58\u039e ($236,300)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x61d9d9",
+      "To": "",
+      "Amount": "40\u039e ($155,093)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "66\u039e ($234,582)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "75\u039e ($173,087)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "85\u039e ($215,954)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "100\u039e ($213,340)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x3c6691",
+      "To": "0x14ae81",
+      "Amount": "",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x14ae81",
+      "To": "0x3c6691",
+      "Amount": "",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "85\u039e ($170,134)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x231707",
+      "To": "0x14ae81",
+      "Amount": "30\u039e ($57,755)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($10,943)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "1.30\u039e ($505)",
+      "Date": "Aug 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "1.30\u039e ($499)",
+      "Date": "Aug 03, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "1.10\u039e ($417)",
+      "Date": "Aug 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($2,316)",
+      "Date": "Jul 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.50\u039e ($799)",
+      "Date": "Nov 18, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.62\u039e ($884)",
+      "Date": "Mar 23, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.60\u039e ($870)",
+      "Date": "Mar 23, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.82\u039e ($504)",
+      "Date": "Mar 15, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.55\u039e ($337)",
+      "Date": "Mar 14, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x231707",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

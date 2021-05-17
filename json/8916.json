@@ -1,0 +1,75 @@
+{
+  "id": "8916",
+  "owner": "0xee433c8acefafeb457738c0c362c877ca3ab4d59",
+  "attributes": [
+    "Female",
+    "Purple Eye Shadow",
+    "Pigtails",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xc05488",
+      "To": "0xee433c",
+      "Amount": "40.50\u039e ($68,449)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xee433c",
+      "To": "",
+      "Amount": "40.50\u039e ($69,161)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49.50\u039e ($91,671)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($92,170)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0xc05488",
+      "Amount": "32.50\u039e ($59,863)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32.50\u039e ($59,486)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

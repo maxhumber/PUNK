@@ -1,0 +1,123 @@
+{
+  "id": "4139",
+  "owner": "0xdde8df9a7dc9f68bdac815f493d1d731de911b5a",
+  "attributes": [
+    "Female",
+    "Red Mohawk",
+    "Green Eye Shadow"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "Kenney",
+      "Amount": "0.19\u039e ($162)",
+      "Date": "Mar 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.19\u039e ($161)",
+      "Date": "Feb 28, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($174)",
+      "Date": "Feb 05, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($132)",
+      "Date": "Aug 18, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.55\u039e ($164)",
+      "Date": "Aug 10, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.50\u039e ($1,641)",
+      "Date": "Aug 10, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.35\u039e ($103)",
+      "Date": "Aug 09, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.35\u039e ($104)",
+      "Date": "Aug 08, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.74\u039e ($219)",
+      "Date": "Aug 08, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($241)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0a4eaf\u2026",
+      "To": "",
+      "Amount": "0.04\u039e ($11)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0a4eaf\u2026",
+      "To": "",
+      "Amount": "0.04\u039e ($11)",
+      "Date": "Jul 05, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($254)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($254)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

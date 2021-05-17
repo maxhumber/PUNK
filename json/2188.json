@@ -1,0 +1,89 @@
+{
+  "id": "2188",
+  "owner": "0xa1f257f534d2ea65b2b6be420d01e552114872c5",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Front Beard Dark",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Theodora",
+      "To": "0xa1f257",
+      "Amount": "8\u039e ($14,549)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($14,723)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "ChrisR",
+      "To": "Theodora",
+      "Amount": "0.87\u039e ($305)",
+      "Date": "Sep 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.87\u039e ($340)",
+      "Date": "Aug 23, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Pranksy",
+      "To": "ChrisR",
+      "Amount": "",
+      "Date": "Jul 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.99\u039e ($226)",
+      "Date": "Jul 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.15\u039e ($269)",
+      "Date": "Jun 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.79\u039e ($378)",
+      "Date": "May 19, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "Pranksy",
+      "Amount": "0.90\u039e ($190)",
+      "Date": "May 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($405)",
+      "Date": "Jul 23, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

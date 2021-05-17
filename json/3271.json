@@ -1,0 +1,39 @@
+{
+  "id": "3271",
+  "owner": "0x88822756ec33b3a18341966c3ab7a201856371d9",
+  "attributes": [
+    "Female",
+    "Green Eye Shadow",
+    "Pigtails"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($1,013)",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($735)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x888227",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

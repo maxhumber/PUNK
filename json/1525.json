@@ -1,0 +1,33 @@
+{
+  "id": "1525",
+  "owner": "0x3be89b64e1437bb18da2d26bcbe9bd3daaadfc26",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Normal Beard",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xe4f0ac",
+      "To": "0x3be89b",
+      "Amount": "",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0xe4f0ac",
+      "Amount": "",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

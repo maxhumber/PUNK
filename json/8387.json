@@ -1,0 +1,69 @@
+{
+  "id": "8387",
+  "owner": "0xe83c750b2708320bb134796c555b80df39a3d97b",
+  "attributes": [
+    "Female",
+    "Clown Eyes Green",
+    "Purple Lipstick",
+    "Earring",
+    "Blonde Bob"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Snowfro",
+      "Amount": "1\u039e ($143)",
+      "Date": "Mar 30, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Snowfro",
+      "To": "",
+      "Amount": "1\u039e ($143)",
+      "Date": "Mar 30, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "CryptoPu\u2026",
+      "To": "",
+      "Amount": "0.23\u039e ($22)",
+      "Date": "Dec 17, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "CryptoPu\u2026",
+      "To": "",
+      "Amount": "0.23\u039e ($21)",
+      "Date": "Dec 10, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.06\u039e ($31)",
+      "Date": "Jun 18, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.28\u039e ($63)",
+      "Date": "Jul 24, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.28\u039e ($54)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

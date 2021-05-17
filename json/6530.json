@@ -1,0 +1,68 @@
+{
+  "id": "6530",
+  "owner": "0x621f2a5ef987e064e76da1eb378e7193cefc0baa",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Fedora",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "0x621f2a",
+      "Amount": "35\u039e ($74,789)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x621f2a",
+      "To": "",
+      "Amount": "35\u039e ($74,940)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39\u039e ($80,237)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "0.60\u039e ($150)",
+      "Date": "Jun 02, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "0.60\u039e ($128)",
+      "Date": "May 20, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "0.40\u039e ($85)",
+      "Date": "May 20, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "0.40\u039e ($83)",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

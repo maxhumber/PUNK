@@ -1,0 +1,130 @@
+{
+  "id": "5950",
+  "owner": "0xe83c750b2708320bb134796c555b80df39a3d97b",
+  "attributes": [
+    "Female",
+    "Red Mohawk",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "49.10\u039e ($166,135)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "49.10\u039e ($159,650)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x06d925",
+      "To": "",
+      "Amount": "26\u039e ($55,594)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x06d925",
+      "To": "",
+      "Amount": "26\u039e ($55,659)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Austin_G\u2026",
+      "To": "",
+      "Amount": "3\u039e ($1,333)",
+      "Date": "Nov 15, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Austin_G\u2026",
+      "To": "",
+      "Amount": "3\u039e ($1,341)",
+      "Date": "Nov 15, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.40\u039e ($54)",
+      "Date": "Mar 26, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf5099e",
+      "To": "Snowfro",
+      "Amount": "0.75\u039e ($120)",
+      "Date": "Feb 23, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.40\u039e ($48)",
+      "Date": "Feb 09, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x33f848",
+      "To": "",
+      "Amount": "0.50\u039e ($105)",
+      "Date": "Nov 12, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x33f848",
+      "To": "",
+      "Amount": "0.50\u039e ($102)",
+      "Date": "Oct 23, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($139)",
+      "Date": "Sep 11, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($295)",
+      "Date": "Aug 09, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa0a59c",
+      "To": "0xf5099e",
+      "Amount": "",
+      "Date": "Aug 04, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa9bfa9",
+      "To": "0xa0a59c",
+      "Amount": "0.30\u039e ($67)",
+      "Date": "Aug 03, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.30\u039e ($67)",
+      "Date": "Aug 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xa9bfa9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

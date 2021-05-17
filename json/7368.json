@@ -1,0 +1,153 @@
+{
+  "id": "7368",
+  "owner": "0x8e662143178bb8c797620a3a61f34a71832475b0",
+  "attributes": [
+    "Male",
+    "Frown",
+    "Front Beard Dark",
+    "Fedora",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.95\u039e ($1,699)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.95\u039e ($598)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.69\u039e ($338)",
+      "Date": "May 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Fearless\u2026",
+      "To": "Dude_Nak\u2026",
+      "Amount": "0.50\u039e ($59)",
+      "Date": "Mar 13, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($59)",
+      "Date": "Mar 13, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($28)",
+      "Date": "Jan 27, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc2ac3c",
+      "To": "Fearless\u2026",
+      "Amount": "0.40\u039e ($47)",
+      "Date": "Jan 24, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($38)",
+      "Date": "Jan 09, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($56)",
+      "Date": "Dec 28, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($209)",
+      "Date": "Aug 03, 2018"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xb11d6a",
+      "To": "0xc2ac3c",
+      "Amount": "",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x470e9b",
+      "To": "0xb11d6a",
+      "Amount": "0.25\u039e ($83)",
+      "Date": "Aug 25, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($83)",
+      "Date": "Aug 25, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($81)",
+      "Date": "Jul 31, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x470e9b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

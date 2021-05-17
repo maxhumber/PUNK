@@ -1,0 +1,202 @@
+{
+  "id": "8682",
+  "owner": "0xddcd2507ed28dd8e91cccea5a36308d43d5cea84",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Nerd Glasses",
+    "Normal Beard",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.27\u039e ($89,624)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x71ecad",
+      "To": "0xddcd25",
+      "Amount": "27\u039e ($91,133)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($80,913)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($124,596)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0ec348",
+      "To": "0x71ecad",
+      "Amount": "25.52\u039e ($59,434)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.52\u039e ($54,155)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0ec629",
+      "To": "0x0ec348",
+      "Amount": "23.99\u039e ($49,752)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.99\u039e ($46,341)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($42,724)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x88d357",
+      "To": "",
+      "Amount": "25\u039e ($45,617)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x88d357",
+      "To": "",
+      "Amount": "25\u039e ($45,392)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.99\u039e ($49,913)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32.99\u039e ($61,541)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49.99\u039e ($89,457)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.97\u039e ($62,578)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xfc2a61",
+      "To": "0x0ec629",
+      "Amount": "23\u039e ($41,771)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($41,628)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x979a0c",
+      "To": "0xfc2a61",
+      "Amount": "",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x422fac",
+      "To": "0x979a0c",
+      "Amount": "7.77\u039e ($14,120)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.77\u039e ($13,812)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe5e771",
+      "To": "0x422fac",
+      "Amount": "",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Korniej",
+      "To": "0xe5e771",
+      "Amount": "2.50\u039e ($858)",
+      "Date": "Sep 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($860)",
+      "Date": "Sep 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "Korniej",
+      "Amount": "2.19\u039e ($808)",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.19\u039e ($816)",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

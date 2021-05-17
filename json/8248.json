@@ -1,0 +1,21 @@
+{
+  "id": "8248",
+  "owner": "0x36a5bc205df1ed65c86301022cfc343a6ce546ff",
+  "attributes": [
+    "Female",
+    "Clown Nose",
+    "Blue Eye Shadow",
+    "Black Lipstick",
+    "Frumpy Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x36a5bc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

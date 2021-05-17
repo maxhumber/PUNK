@@ -1,0 +1,60 @@
+{
+  "id": "9661",
+  "owner": "0x0b88fd87884080bd6d93d341fcca0eea76b03e75",
+  "attributes": [
+    "Female",
+    "Clown Hair Green",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "44\u039e ($120,337)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "48.50\u039e ($109,416)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6611fe",
+      "To": "0x0b88fd",
+      "Amount": "",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc00c2b",
+      "To": "0x6611fe",
+      "Amount": "0.48\u039e ($134)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.48\u039e ($126)",
+      "Date": "Jul 01, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.83\u039e ($1,262)",
+      "Date": "Jul 01, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc00c2b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

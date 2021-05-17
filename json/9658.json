@@ -1,0 +1,124 @@
+{
+  "id": "9658",
+  "owner": "0xc41253971d96815aa8331a86045dd72b0d113bf1",
+  "attributes": [
+    "Male",
+    "Spots",
+    "Small Shades",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x07c5ea",
+      "To": "0xc41253",
+      "Amount": "15\u039e ($29,211)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($28,870)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.90\u039e ($30,155)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($36,913)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "3van.eth",
+      "To": "0x07c5ea",
+      "Amount": "14.98\u039e ($27,473)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.98\u039e ($26,602)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.49\u039e ($27,772)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.99\u039e ($28,899)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc69ae4",
+      "To": "3van.eth",
+      "Amount": "12.66\u039e ($22,881)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12.66\u039e ($4,443)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x231707",
+      "To": "0xc69ae4",
+      "Amount": "2.56\u039e ($511)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.56\u039e ($455)",
+      "Date": "Nov 18, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($435)",
+      "Date": "Mar 23, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($245)",
+      "Date": "Mar 14, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($276)",
+      "Date": "Mar 14, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x231707",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

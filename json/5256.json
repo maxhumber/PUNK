@@ -1,0 +1,26 @@
+{
+  "id": "5256",
+  "owner": "0xa4288ba1062685d01990e99623bd7d125a7e4115",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Hot Lipstick",
+    "Wild Blonde"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "curating\u2026",
+      "To": "0xa4288b",
+      "Amount": "",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "curating\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

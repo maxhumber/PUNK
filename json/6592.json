@@ -1,0 +1,89 @@
+{
+  "id": "6592",
+  "owner": "0xc72f3a0fedd9df54af271912f283cc0024c14197",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Straight Hair Blonde",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "333\u039e ($46,693)",
+      "Date": "Mar 20, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33\u039e ($4,570)",
+      "Date": "Mar 06, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x4dcaf3",
+      "To": "0xc72f3a",
+      "Amount": "0.75\u039e ($114)",
+      "Date": "Jan 07, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4960c4\u2026",
+      "To": "",
+      "Amount": "0.36\u039e ($108)",
+      "Date": "Aug 14, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4960c4\u2026",
+      "To": "",
+      "Amount": "0.36\u039e ($111)",
+      "Date": "Aug 12, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($146)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($205)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.97\u039e ($475)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x4dcaf3",
+      "Amount": "0.48\u039e ($128)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.48\u039e ($128)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

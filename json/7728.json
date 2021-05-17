@@ -1,0 +1,152 @@
+{
+  "id": "7728",
+  "owner": "0xf36972bbff0bb63dbc8f2c8a93625647b32e024b",
+  "attributes": [
+    "Male",
+    "Buck Teeth",
+    "Headband",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99.99\u039e ($384,795)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "95\u039e ($258,132)",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "119\u039e ($273,566)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "109.99\u039e ($236,014)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99.99\u039e ($178,400)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x29b1b2",
+      "To": "0xf36972",
+      "Amount": "",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xabf107",
+      "To": "0x29b1b2",
+      "Amount": "56.99\u039e ($103,976)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x29b1b2",
+      "To": "",
+      "Amount": "56.99\u039e ($103,225)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "59.99\u039e ($106,291)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0xabf107",
+      "Amount": "47.99\u039e ($85,030)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xabf107",
+      "To": "",
+      "Amount": "47.99\u039e ($85,030)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

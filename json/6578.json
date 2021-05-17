@@ -1,0 +1,18 @@
+{
+  "id": "6578",
+  "owner": "0x06bf2b4da028b66fb08a75dd872acb9a483e5639",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x06bf2b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

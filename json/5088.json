@@ -1,0 +1,40 @@
+{
+  "id": "5088",
+  "owner": "0x8133a5dcba30387e88b8dd3b782797ae00defcc0",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Knitted Cap",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x6167cd",
+      "To": "0x8133a5",
+      "Amount": "",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x99b884",
+      "To": "0x6167cd",
+      "Amount": "5.75\u039e ($9,450)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.75\u039e ($9,396)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x99b884",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

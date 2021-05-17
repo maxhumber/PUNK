@@ -1,0 +1,214 @@
+{
+  "id": "1338",
+  "owner": "0xf8703aa13247a25fe7f3e5d29f05d924a09473f4",
+  "attributes": [
+    "Male",
+    "Smile",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "helpchai\u2026",
+      "To": "0xf8703a",
+      "Amount": "33\u039e ($70,881)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33\u039e ($68,860)",
+      "Date": "Apr 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "antunes_\u2026",
+      "To": "helpchai\u2026",
+      "Amount": "1.50\u039e ($282)",
+      "Date": "Feb 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($287)",
+      "Date": "Feb 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($332)",
+      "Date": "Jan 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "helpchai\u2026",
+      "To": "",
+      "Amount": "1\u039e ($164)",
+      "Date": "Jan 16, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "helpchai\u2026",
+      "To": "",
+      "Amount": "0.85\u039e ($122)",
+      "Date": "Jan 12, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($289)",
+      "Date": "Jan 08, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "helpchai\u2026",
+      "To": "",
+      "Amount": "0.85\u039e ($127)",
+      "Date": "Dec 06, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "helpchai\u2026",
+      "To": "",
+      "Amount": "0.75\u039e ($112)",
+      "Date": "Dec 06, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($222)",
+      "Date": "Dec 05, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "helpchai\u2026",
+      "To": "",
+      "Amount": "0.75\u039e ($114)",
+      "Date": "Dec 01, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($310)",
+      "Date": "Nov 29, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($376)",
+      "Date": "Nov 22, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($498)",
+      "Date": "Sep 26, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($541)",
+      "Date": "Aug 11, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($547)",
+      "Date": "Jul 31, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.85\u039e ($821)",
+      "Date": "Jul 05, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,480)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($2,685)",
+      "Date": "Jun 16, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($6,154)",
+      "Date": "Jun 05, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "antunes_\u2026",
+      "Amount": "0.40\u039e ($77)",
+      "Date": "May 11, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($77)",
+      "Date": "May 11, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.50\u039e ($1,807)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "100\u039e ($28,068)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Cyborg",
+      "Amount": "0.08\u039e ($25)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.08\u039e ($25)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

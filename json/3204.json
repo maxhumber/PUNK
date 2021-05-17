@@ -1,0 +1,68 @@
+{
+  "id": "3204",
+  "owner": "0x7f6ca7e7e3383db380b96badcf006a8cd8e7b120",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Classic Shades",
+    "Pipe"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "0x7f6ca7",
+      "Amount": "0.09\u039e ($77)",
+      "Date": "Feb 23, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.09\u039e ($77)",
+      "Date": "Feb 23, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($81)",
+      "Date": "Feb 23, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($378)",
+      "Date": "Jan 01, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.12\u039e ($81)",
+      "Date": "Dec 24, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($393)",
+      "Date": "Dec 18, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($559)",
+      "Date": "Dec 13, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "5758",
+  "owner": "0x69021ae8769586d56791d29615959997c2012b99",
+  "attributes": [
+    "Female",
+    "Big Shades",
+    "Crazy Hair",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "sov",
+      "To": "0x69021a",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($73)",
+      "Date": "Mar 09, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($82)",
+      "Date": "Mar 06, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "sov",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

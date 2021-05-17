@@ -1,0 +1,103 @@
+{
+  "id": "3601",
+  "owner": "0x8bd7a05a48d78fddd0e4accafa096c542c4c03c6",
+  "attributes": [
+    "Male",
+    "Spots",
+    "Headband",
+    "Medical Mask"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.05K\u039e ($1.24M)",
+      "Date": "Dec 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.90\u039e ($12,911)",
+      "Date": "Dec 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.42\u039e ($12,656)",
+      "Date": "Dec 11, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf5099e",
+      "To": "Liber8Ho\u2026",
+      "Amount": "0.40\u039e ($58)",
+      "Date": "Dec 04, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($60)",
+      "Date": "Dec 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($94)",
+      "Date": "Nov 05, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.54\u039e ($88)",
+      "Date": "Oct 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.60\u039e ($100)",
+      "Date": "Sep 24, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($139)",
+      "Date": "Sep 11, 2018"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa0a59c",
+      "To": "0xf5099e",
+      "Amount": "",
+      "Date": "Aug 11, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x22ff03",
+      "To": "0xa0a59c",
+      "Amount": "0.30\u039e ($89)",
+      "Date": "Aug 10, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.30\u039e ($68)",
+      "Date": "Aug 01, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x22ff03",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

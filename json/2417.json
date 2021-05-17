@@ -1,0 +1,47 @@
+{
+  "id": "2417",
+  "owner": "0xb3af57ac61fc0e66839c8bc951a7a6bf24b8b082",
+  "attributes": [
+    "Male",
+    "Normal Beard",
+    "Crazy Hair",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "VonMises",
+      "To": "0xb3af57",
+      "Amount": "6.99\u039e ($12,247)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.99\u039e ($12,139)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x470e9b",
+      "To": "VonMises",
+      "Amount": "1\u039e ($213)",
+      "Date": "May 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($194)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x470e9b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

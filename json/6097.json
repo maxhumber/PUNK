@@ -1,0 +1,116 @@
+{
+  "id": "6097",
+  "owner": "0x584cdfdeed39622ef121ceff65f10a8875bea115",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Peak Spike"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb1aaf1",
+      "To": "",
+      "Amount": "17\u039e ($28,849)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "0x584cdf",
+      "Amount": "21\u039e ($35,249)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb1aaf1",
+      "To": "",
+      "Amount": "17\u039e ($28,535)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "15.10\u039e ($25,302)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "15.10\u039e ($25,282)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "15.10\u039e ($25,282)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "15\u039e ($25,115)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "16\u039e ($26,789)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($35,430)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "16\u039e ($26,994)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "15.10\u039e ($25,476)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "15\u039e ($25,431)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "14\u039e ($23,736)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

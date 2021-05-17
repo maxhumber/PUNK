@@ -1,0 +1,54 @@
+{
+  "id": "7429",
+  "owner": "0x0b88fd87884080bd6d93d341fcca0eea76b03e75",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Bandana",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "0x0b88fd",
+      "Amount": "22.97\u039e ($67,519)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.97\u039e ($55,924)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.95\u039e ($57,923)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "60\u039e ($114,068)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($4,541)",
+      "Date": "Jun 20, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

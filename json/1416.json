@@ -1,0 +1,103 @@
+{
+  "id": "1416",
+  "owner": "0xdfc05563f947718ca9ebd9e685022a200a5075c8",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Earring",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x9b35db",
+      "To": "0xdfc055",
+      "Amount": "",
+      "Date": "Jan 02, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa1b2c1",
+      "To": "0x9b35db",
+      "Amount": "5.30\u039e ($2,173)",
+      "Date": "Oct 24, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9b35db",
+      "To": "",
+      "Amount": "5.30\u039e ($1,956)",
+      "Date": "Oct 16, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaa126e\u2026",
+      "To": "",
+      "Amount": "3\u039e ($1,069)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaa126e\u2026",
+      "To": "",
+      "Amount": "3\u039e ($1,028)",
+      "Date": "Sep 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "ross_VRO\u2026",
+      "To": "0xa1b2c1",
+      "Amount": "0.40\u039e ($83)",
+      "Date": "Sep 17, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($84)",
+      "Date": "Aug 09, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe45df5",
+      "To": "ross_VRO\u2026",
+      "Amount": "0.30\u039e ($42)",
+      "Date": "Mar 28, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($26)",
+      "Date": "Dec 13, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.90\u039e ($579)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0xe45df5",
+      "Amount": "0.30\u039e ($91)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($98)",
+      "Date": "Jun 23, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

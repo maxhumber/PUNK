@@ -1,0 +1,145 @@
+{
+  "id": "7894",
+  "owner": "0x4e84a91a450aeef23f0670fb486d55b1d85a8dd0",
+  "attributes": [
+    "Female",
+    "Headband",
+    "Earring",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xb4bb41",
+      "To": "0x4e84a9",
+      "Amount": "21.55\u039e ($36,910)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4e84a9",
+      "To": "",
+      "Amount": "21.55\u039e ($36,938)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4e84a9",
+      "To": "",
+      "Amount": "20.50\u039e ($35,138)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4e84a9",
+      "To": "",
+      "Amount": "20.50\u039e ($35,079)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.99\u039e ($39,011)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x13816f",
+      "To": "",
+      "Amount": "20\u039e ($31,547)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.99\u039e ($43,785)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x47d4f2",
+      "To": "0xb4bb41",
+      "Amount": "21.40\u039e ($34,717)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.40\u039e ($34,717)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x13816f",
+      "To": "",
+      "Amount": "20\u039e ($32,538)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "renaissa\u2026",
+      "To": "",
+      "Amount": "18\u039e ($29,463)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "renaissa\u2026",
+      "To": "",
+      "Amount": "18\u039e ($29,599)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($36,177)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.40\u039e ($38,045)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.50\u039e ($39,469)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.80\u039e ($42,125)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28\u039e ($46,083)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($48,020)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x47d4f2",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

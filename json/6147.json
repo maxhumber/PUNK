@@ -1,0 +1,165 @@
+{
+  "id": "6147",
+  "owner": "0xb3e7355d9535008c186636f946daf9ed0529e827",
+  "attributes": [
+    "Male",
+    "VR",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5fd36a",
+      "To": "",
+      "Amount": "36\u039e ($79,402)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5fd36a",
+      "To": "",
+      "Amount": "36\u039e ($81,692)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42\u039e ($95,307)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "scalynel\u2026",
+      "To": "0xb3e735",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "scalynel\u2026",
+      "To": "scalynel\u2026",
+      "Amount": "",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "GtC",
+      "To": "scalynel\u2026",
+      "Amount": "7\u039e ($7,267)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "scalynel\u2026",
+      "To": "",
+      "Amount": "7\u039e ($5,442)",
+      "Date": "Jan 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12\u039e ($4,405)",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "antunes_\u2026",
+      "To": "",
+      "Amount": "0.40\u039e ($79)",
+      "Date": "Sep 16, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "GtC",
+      "Amount": "0.55\u039e ($104)",
+      "Date": "Sep 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.55\u039e ($104)",
+      "Date": "Sep 14, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.55\u039e ($104)",
+      "Date": "Sep 14, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "antunes_\u2026",
+      "To": "",
+      "Amount": "0.40\u039e ($76)",
+      "Date": "Sep 14, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.68\u039e ($123)",
+      "Date": "Sep 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.85\u039e ($148)",
+      "Date": "Sep 05, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.25\u039e ($45)",
+      "Date": "Sep 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "Pranksy",
+      "Amount": "0.25\u039e ($45)",
+      "Date": "Sep 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($306)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4dcaf3",
+      "To": "",
+      "Amount": "0.10\u039e ($21)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4dcaf3",
+      "To": "",
+      "Amount": "0.10\u039e ($21)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

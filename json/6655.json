@@ -1,0 +1,47 @@
+{
+  "id": "6655",
+  "owner": "0xf40b3d16ae26262db9b19e0ec80d8a490c40bdcb",
+  "attributes": [
+    "Male",
+    "Frown",
+    "Horned Rim Glasses",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xf40b3d",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0xf40b3d",
+      "Amount": "2.75\u039e ($900)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x193847",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Hemba",
+      "To": "0x193847",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

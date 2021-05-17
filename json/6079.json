@@ -1,0 +1,152 @@
+{
+  "id": "6079",
+  "owner": "0xb02365dc1a28d82cc454d05a765feee31ccc2b00",
+  "attributes": [
+    "Female",
+    "Hot Lipstick",
+    "Wild Hair",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "jessieje\u2026",
+      "To": "0xb02365",
+      "Amount": "",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "scalynel\u2026",
+      "To": "jessieje\u2026",
+      "Amount": "3.60\u039e ($2,141)",
+      "Date": "Dec 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jessieje\u2026",
+      "To": "",
+      "Amount": "3.60\u039e ($2,141)",
+      "Date": "Dec 07, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jessieje\u2026",
+      "To": "",
+      "Amount": "3.30\u039e ($1,962)",
+      "Date": "Dec 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jessieje\u2026",
+      "To": "",
+      "Amount": "3.30\u039e ($1,955)",
+      "Date": "Dec 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($2,423)",
+      "Date": "Nov 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "1.21\u039e ($463)",
+      "Date": "Nov 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.51\u039e ($200)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,895)",
+      "Date": "Oct 20, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "scalynel\u2026",
+      "Amount": "",
+      "Date": "Oct 17, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xdc88af",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "scalynel\u2026",
+      "To": "0xdc88af",
+      "Amount": "",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7\u039e ($2,500)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "scalynel\u2026",
+      "Amount": "1\u039e ($135)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "scalynel\u2026",
+      "To": "",
+      "Amount": "0.85\u039e ($115)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "scalynel\u2026",
+      "To": "",
+      "Amount": "0.85\u039e ($114)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($216)",
+      "Date": "Aug 11, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "4147",
+  "owner": "0x82cefc39c34fb6b6507ac11247d356e54511f5c5",
+  "attributes": [
+    "Female",
+    "Horned Rim Glasses",
+    "Purple Lipstick",
+    "Earring",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xcce1f0",
+      "To": "0x82cefc",
+      "Amount": "",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0xcce1f0",
+      "Amount": "21\u039e ($50,891)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcce1f0",
+      "To": "",
+      "Amount": "21\u039e ($50,891)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.70\u039e ($49,537)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

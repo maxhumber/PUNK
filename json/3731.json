@@ -1,0 +1,145 @@
+{
+  "id": "3731",
+  "owner": "0xbdc21fae769d7f5469993d8e83b465495d88cfc0",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Cap",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "ROBODOG",
+      "To": "moonwhal\u2026",
+      "Amount": "50\u039e ($88,433)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($90,667)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x097761",
+      "To": "",
+      "Amount": "23\u039e ($34,999)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x097761",
+      "To": "",
+      "Amount": "23\u039e ($34,572)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($386)",
+      "Date": "Oct 28, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($368)",
+      "Date": "Oct 20, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "100\u039e ($31,653)",
+      "Date": "Jun 25, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 21, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18\u039e ($8,317)",
+      "Date": "Jul 26, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 26, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5K\u039e ($2.31M)",
+      "Date": "Jul 26, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 26, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5K\u039e ($2.31M)",
+      "Date": "Jul 26, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5K\u039e ($2.31M)",
+      "Date": "Jul 26, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "ROBODOG",
+      "Amount": "0.22\u039e ($104)",
+      "Date": "Jul 25, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.13\u039e ($72)",
+      "Date": "Mar 20, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.13\u039e ($70)",
+      "Date": "Mar 18, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.22\u039e ($153)",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "23",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Earring",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x10ae9f",
+      "To": "",
+      "Amount": "0.10\u039e ($74)",
+      "Date": "Dec 27, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x10ae9f",
+      "To": "",
+      "Amount": "0.10\u039e ($74)",
+      "Date": "Dec 27, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd80c8c",
+      "To": "",
+      "Amount": "0.02\u039e ($16)",
+      "Date": "Dec 13, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

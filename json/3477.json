@@ -1,0 +1,19 @@
+{
+  "id": "3477",
+  "owner": "0xa6e2e910515e6cf485462eeb6e454df33c60cb0e",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Crazy Hair",
+    "Clown Eyes Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xa6e2e9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

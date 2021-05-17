@@ -1,0 +1,47 @@
+{
+  "id": "890",
+  "owner": "0xb88f61e6fbda83fbfffabe364112137480398018",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "VR",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0xb88f61",
+      "Amount": "",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Binksy",
+      "To": "",
+      "Amount": "1\u039e ($346)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Binksy",
+      "To": "",
+      "Amount": "1\u039e ($347)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x347976",
+      "To": "",
+      "Amount": "0.20\u039e ($132)",
+      "Date": "Apr 26, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

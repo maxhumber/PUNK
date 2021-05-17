@@ -1,0 +1,39 @@
+{
+  "id": "3069",
+  "owner": "0x6f574fd71d1466e1369e6d8124aa6163085202f1",
+  "attributes": [
+    "Male",
+    "Knitted Cap",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "hedonism\u2026",
+      "To": "0x6f574f",
+      "Amount": "",
+      "Date": "Feb 22, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "hedonism\u2026",
+      "Amount": "0.33\u039e ($49)",
+      "Date": "Feb 22, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.33\u039e ($109)",
+      "Date": "Aug 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "5600",
+  "owner": "0x51688cd36c18891167e8036bde2a8fb10ec80c43",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Gold Chain",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.05\u039e ($8)",
+      "Date": "Jan 26, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x637532",
+      "To": "0x51688c",
+      "Amount": "",
+      "Date": "Jun 01, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x58164b",
+      "To": "0x637532",
+      "Amount": "",
+      "Date": "May 08, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.05\u039e ($10)",
+      "Date": "Oct 28, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x58164b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

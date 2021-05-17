@@ -1,0 +1,60 @@
+{
+  "id": "3286",
+  "owner": "0x54be3a794282c030b15e43ae2bb182e14c409c5e",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "Snowfro",
+      "To": "dingalin\u2026",
+      "Amount": "",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "snowfro",
+      "To": "Snowfro",
+      "Amount": "",
+      "Date": "Apr 29, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pixls",
+      "To": "snowfro",
+      "Amount": "0.15\u039e ($15)",
+      "Date": "Dec 05, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($30)",
+      "Date": "Nov 01, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Pixls",
+      "Amount": "0.13\u039e ($26)",
+      "Date": "Nov 01, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.13\u039e ($26)",
+      "Date": "Oct 28, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

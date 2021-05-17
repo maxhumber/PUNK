@@ -1,0 +1,75 @@
+{
+  "id": "9052",
+  "owner": "0xc72aed14386158960d0e93fecb83642e68482e4b",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Gold Chain",
+    "Blonde Bob"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "500\u039e ($1.07M)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "curating\u2026",
+      "To": "0xc72aed",
+      "Amount": "18\u039e ($22,250)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18\u039e ($19,907)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.30\u039e ($100)",
+      "Date": "Oct 16, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.30\u039e ($61)",
+      "Date": "Jul 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "curating\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

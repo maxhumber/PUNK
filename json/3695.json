@@ -1,0 +1,145 @@
+{
+  "id": "3695",
+  "owner": "0x4de20e4fd38430668eec7c40b0f20d6b75b24960",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Small Shades",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x6c273b",
+      "To": "",
+      "Amount": "0.02\u039e ($30)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6c273b",
+      "To": "",
+      "Amount": "0.02\u039e ($30)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "iPhone",
+      "To": "0x4de20e",
+      "Amount": "10\u039e ($18,215)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($18,495)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.50\u039e ($13,407)",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12\u039e ($4,268)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "evkort",
+      "To": "iPhone",
+      "Amount": "5.99\u039e ($2,126)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.99\u039e ($2,178)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "evkort",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "GoWest23",
+      "To": "evkort",
+      "Amount": "4.85\u039e ($1,764)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa18fd5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "0xa18fd5",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Blaze310",
+      "To": "GoWest23",
+      "Amount": "0.35\u039e ($61)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($42)",
+      "Date": "Jan 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.37\u039e ($32)",
+      "Date": "Dec 16, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Blaze310",
+      "Amount": "0.27\u039e ($23)",
+      "Date": "Dec 16, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.27\u039e ($106)",
+      "Date": "Sep 01, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "9229",
+  "owner": "0x3dde27c2379440a62ac40048e56eb62c57f80977",
+  "attributes": [
+    "Female",
+    "Vape",
+    "Crazy Hair",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "TokenAng\u2026",
+      "To": "0x3dde27",
+      "Amount": "1.50\u039e ($248)",
+      "Date": "Jan 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($397)",
+      "Date": "Jun 18, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($671)",
+      "Date": "Jun 16, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,226)",
+      "Date": "Jun 11, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "TokenAng\u2026",
+      "To": "TokenAng\u2026",
+      "Amount": "",
+      "Date": "Jun 11, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "TokenAng\u2026",
+      "Amount": "0.50\u039e ($123)",
+      "Date": "Jun 11, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "renaissa\u2026",
+      "To": "",
+      "Amount": "0.45\u039e ($112)",
+      "Date": "Jun 06, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "renaissa\u2026",
+      "To": "",
+      "Amount": "0.45\u039e ($112)",
+      "Date": "Jun 06, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($126)",
+      "Date": "May 20, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($3,151)",
+      "Date": "Jan 16, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($408)",
+      "Date": "Jan 14, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

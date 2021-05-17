@@ -1,0 +1,82 @@
+{
+  "id": "9296",
+  "owner": "0xba0c68d6b353c2c36a657289e24ba36fe7172d2f",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Goat",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34\u039e ($133,362)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($123,609)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdef4ed",
+      "To": "",
+      "Amount": "32.50\u039e ($114,189)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdef4ed",
+      "To": "",
+      "Amount": "32.50\u039e ($113,280)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdef4ed",
+      "To": "",
+      "Amount": "32\u039e ($110,985)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdef4ed",
+      "To": "",
+      "Amount": "32\u039e ($109,900)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "sighduck\u2026",
+      "To": "",
+      "Amount": "31\u039e ($101,945)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "sighduck\u2026",
+      "To": "",
+      "Amount": "31\u039e ($104,671)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "36\u039e ($121,553)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xba0c68",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "9293",
+  "owner": "0x530afa101bed324809d0738d45b38a669314ff54",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Handlebars",
+    "Mohawk Thin"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "PB",
+      "Amount": "0.35\u039e ($48)",
+      "Date": "Mar 24, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($157)",
+      "Date": "Jul 23, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

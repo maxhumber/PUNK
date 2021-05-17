@@ -1,0 +1,48 @@
+{
+  "id": "6376",
+  "owner": "0x4db1dd33159f5f7b9b600fb4a44e19e2976578e3",
+  "attributes": [
+    "Female",
+    "Pipe",
+    "Eye Mask",
+    "Stringy Hair",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4c9692",
+      "To": "",
+      "Amount": "10\u039e ($20,794)",
+      "Date": "Apr 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4c9692",
+      "To": "",
+      "Amount": "10\u039e ($20,552)",
+      "Date": "Apr 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "0x4db1dd",
+      "Amount": "35\u039e ($63,874)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($63,874)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

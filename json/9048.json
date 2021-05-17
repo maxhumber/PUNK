@@ -1,0 +1,32 @@
+{
+  "id": "9048",
+  "owner": "0xc272ed09c636edb6e858fa8702c182406185f1af",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Purple Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "OnlyToas\u2026",
+      "To": "",
+      "Amount": "17\u039e ($32,918)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "OnlyToas\u2026",
+      "To": "",
+      "Amount": "17\u039e ($32,728)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "5231",
+  "owner": "0x94de7e2c73529ebf3206aa3459e699fbcdfcd49b",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Earring",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "tonyherr\u2026",
+      "Amount": "4.99\u039e ($6,412)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.99\u039e ($6,290)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0x5b098b",
+      "Amount": "0.24\u039e ($65)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.24\u039e ($65)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

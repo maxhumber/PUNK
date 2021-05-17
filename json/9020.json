@@ -1,0 +1,33 @@
+{
+  "id": "9020",
+  "owner": "0xcc7c335f3365ae3f7e4e8c9535dc92780a4add9d",
+  "attributes": [
+    "Female",
+    "Eye Mask",
+    "Dark Hair",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.50\u039e ($95)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.50\u039e ($103)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcc7c33",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

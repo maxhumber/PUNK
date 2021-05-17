@@ -1,0 +1,118 @@
+{
+  "id": "8247",
+  "owner": "0x4322aa46ffed67809862da613725728e2fb8eae3",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Earring",
+    "Regular Shades",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "charley",
+      "To": "0x4322aa",
+      "Amount": "6.80\u039e ($11,200)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.80\u039e ($9,168)",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7\u039e ($9,963)",
+      "Date": "Jan 25, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "charley",
+      "Amount": "",
+      "Date": "Jan 25, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xfc4dee",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "flipper_",
+      "To": "0xfc4dee",
+      "Amount": "",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x19ac60",
+      "To": "flipper_",
+      "Amount": "6\u039e ($3,711)",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x55f879",
+      "To": "",
+      "Amount": "<",
+      "Date": "Nov 13, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x55f879",
+      "To": "",
+      "Amount": "<",
+      "Date": "Nov 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($2,255)",
+      "Date": "Oct 11, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Wilcox",
+      "To": "0x19ac60",
+      "Amount": "",
+      "Date": "Oct 11, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "Wilcox",
+      "Amount": "",
+      "Date": "Sep 28, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($1,279)",
+      "Date": "Jan 15, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($65)",
+      "Date": "Sep 17, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

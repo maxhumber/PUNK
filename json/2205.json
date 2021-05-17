@@ -1,0 +1,74 @@
+{
+  "id": "2205",
+  "owner": "0x59bb7bc404ecc382a5f635c3f10331d0df72c264",
+  "attributes": [
+    "Male",
+    "Knitted Cap",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x88c500",
+      "To": "0x59bb7b",
+      "Amount": "9.80\u039e ($17,984)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.80\u039e ($17,194)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "curating\u2026",
+      "To": "0x88c500",
+      "Amount": "",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.85\u039e ($16,235)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Theodora",
+      "To": "curating\u2026",
+      "Amount": "6.84\u039e ($12,326)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.84\u039e ($2,495)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x20e386",
+      "To": "Theodora",
+      "Amount": "1.20\u039e ($465)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.20\u039e ($465)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x20e386",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

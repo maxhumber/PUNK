@@ -1,0 +1,131 @@
+{
+  "id": "9644",
+  "owner": "0xd68965dc81d519e271f7e2911966fb9700a5af52",
+  "attributes": [
+    "Male",
+    "Goat",
+    "Medical Mask",
+    "Clown Hair Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xeb9191",
+      "To": "0xd68965",
+      "Amount": "",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Dude_Nak\u2026",
+      "To": "0xeb9191",
+      "Amount": "3.49\u039e ($700)",
+      "Date": "May 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.49\u039e ($696)",
+      "Date": "May 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.95\u039e ($501)",
+      "Date": "Apr 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.75\u039e ($347)",
+      "Date": "Mar 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Thing",
+      "To": "Dude_Nak\u2026",
+      "Amount": "1.60\u039e ($366)",
+      "Date": "Feb 09, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "1.60\u039e ($366)",
+      "Date": "Feb 09, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xde7460",
+      "To": "Thing",
+      "Amount": "",
+      "Date": "Jan 27, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "NFTinTin",
+      "To": "",
+      "Amount": "0.66\u039e ($88)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "NFTinTin",
+      "To": "",
+      "Amount": "0.66\u039e ($88)",
+      "Date": "Jan 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.99\u039e ($131)",
+      "Date": "Jan 03, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Dude_Nak\u2026",
+      "To": "0xde7460",
+      "Amount": "0.85\u039e ($160)",
+      "Date": "Nov 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.85\u039e ($160)",
+      "Date": "Nov 13, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Dude_Nak\u2026",
+      "Amount": "0.35\u039e ($60)",
+      "Date": "Apr 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.35\u039e ($61)",
+      "Date": "Apr 20, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

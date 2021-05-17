@@ -1,0 +1,34 @@
+{
+  "id": "9101",
+  "owner": "0x12e5e3e7a1389fed96e1be50aed32316c027b18b",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Bandana",
+    "Earring",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "stazie",
+      "Amount": "0.49\u039e ($125)",
+      "Date": "May 30, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.49\u039e ($101)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

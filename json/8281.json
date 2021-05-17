@@ -1,0 +1,33 @@
+{
+  "id": "8281",
+  "owner": "0xded2cb7109ebfe5e6ef409995b0af2211a22a6c9",
+  "attributes": [
+    "Male",
+    "Nerd Glasses",
+    "Goat",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb4bb41",
+      "To": "",
+      "Amount": "20\u039e ($29,075)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb4bb41",
+      "To": "",
+      "Amount": "20\u039e ($28,845)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xded2cb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

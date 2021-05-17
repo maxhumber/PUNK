@@ -1,0 +1,333 @@
+{
+  "id": "6584",
+  "owner": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+  "attributes": [
+    "Female",
+    "Stringy Hair",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "(Wrap)",
+      "From": "0x992061",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xb198dd",
+      "To": "0x992061",
+      "Amount": "",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe8f119",
+      "To": "0xb198dd",
+      "Amount": "16.75\u039e ($65,444)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb198dd",
+      "To": "",
+      "Amount": "16.75\u039e ($65,444)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17\u039e ($66,421)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "16\u039e ($66,826)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.50\u039e ($77,151)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.50\u039e ($76,657)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.50\u039e ($70,103)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.15\u039e ($72,711)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.90\u039e ($76,687)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.50\u039e ($78,404)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x4f63c2",
+      "To": "0xe8f119",
+      "Amount": "21.98\u039e ($64,790)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.98\u039e ($64,253)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.48\u039e ($62,402)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.96\u039e ($62,483)",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.50\u039e ($61,074)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x4f63c2",
+      "Amount": "",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xeb0a8f",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x62bdc6",
+      "To": "0xeb0a8f",
+      "Amount": "",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x379133",
+      "To": "0x62bdc6",
+      "Amount": "18\u039e ($44,792)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "18\u039e ($44,792)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.40\u039e ($48,343)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.80\u039e ($49,340)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "18.60\u039e ($45,406)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "18.60\u039e ($45,406)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.50\u039e ($47,603)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($53,706)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc9f203",
+      "To": "0x379133",
+      "Amount": "15.50\u039e ($30,371)",
+      "Date": "Apr 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "13.50\u039e ($28,355)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "13.50\u039e ($28,562)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.50\u039e ($32,709)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xac7cd5",
+      "To": "",
+      "Amount": "0.31\u039e ($564)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($46,418)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "0xc9f203",
+      "Amount": "0.09\u039e ($45)",
+      "Date": "Apr 14, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.09\u039e ($37)",
+      "Date": "Apr 10, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($343)",
+      "Date": "Apr 05, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($42)",
+      "Date": "Apr 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($57)",
+      "Date": "Apr 01, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($107)",
+      "Date": "Mar 18, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($261)",
+      "Date": "Feb 27, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($1,170)",
+      "Date": "Jan 29, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($314)",
+      "Date": "Dec 18, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($657)",
+      "Date": "Dec 12, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

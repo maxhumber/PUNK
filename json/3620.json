@@ -1,0 +1,76 @@
+{
+  "id": "3620",
+  "owner": "0x98cfea4a7632ef7148b2f6933c5af622d16b956b",
+  "attributes": [
+    "Male",
+    "Gold Chain",
+    "Wild Hair",
+    "Earring",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7e1de5",
+      "To": "",
+      "Amount": "26\u039e ($55,750)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7e1de5",
+      "To": "",
+      "Amount": "26\u039e ($53,830)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x910b41",
+      "To": "",
+      "Amount": "4.40\u039e ($4,460)",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x910b41",
+      "To": "",
+      "Amount": "4.40\u039e ($3,284)",
+      "Date": "Dec 30, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "MadMax",
+      "To": "",
+      "Amount": "2.75\u039e ($1,785)",
+      "Date": "Dec 20, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "MadMax",
+      "To": "",
+      "Amount": "2.75\u039e ($1,780)",
+      "Date": "Dec 20, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "6373D",
+      "To": "",
+      "Amount": "2.50\u039e ($1,625)",
+      "Date": "Dec 20, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "evkort",
+      "To": "",
+      "Amount": "1\u039e ($650)",
+      "Date": "Dec 20, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x98cfea",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

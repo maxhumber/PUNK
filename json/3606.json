@@ -1,0 +1,96 @@
+{
+  "id": "3606",
+  "owner": "0xd69e74f1bdeb29edc50e20abc7782635e291628c",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Mohawk",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "daddykal\u2026",
+      "To": "",
+      "Amount": "21\u039e ($45,149)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5f5df4",
+      "To": "0xd69e74",
+      "Amount": "22.50\u039e ($51,540)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "daddykal\u2026",
+      "To": "",
+      "Amount": "21\u039e ($48,104)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.50\u039e ($53,474)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.50\u039e ($60,967)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.99\u039e ($55,769)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($54,881)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31.50\u039e ($58,305)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa3cb30",
+      "To": "0x5f5df4",
+      "Amount": "",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.50\u039e ($34,512)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

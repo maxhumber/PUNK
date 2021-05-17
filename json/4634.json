@@ -1,0 +1,81 @@
+{
+  "id": "4634",
+  "owner": "0x44a3ccddccae339d05200a8f4347f83a58847e52",
+  "attributes": [
+    "Female",
+    "Vape",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x65f2a2",
+      "To": "0x44a3cc",
+      "Amount": "16\u039e ($59,144)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x44a3cc",
+      "To": "",
+      "Amount": "16\u039e ($59,664)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x54b174",
+      "To": "",
+      "Amount": "15\u039e ($55,558)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x54b174",
+      "To": "",
+      "Amount": "15\u039e ($56,184)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.90\u039e ($74,561)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x90b653",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Aug 27, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x65f2a2",
+      "Amount": "0.10\u039e ($61)",
+      "Date": "Jun 06, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x90b653",
+      "To": "",
+      "Amount": "0.05\u039e ($28)",
+      "Date": "May 30, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($59)",
+      "Date": "May 26, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "7976",
+  "owner": "0x69021ae8769586d56791d29615959997c2012b99",
+  "attributes": [
+    "Female",
+    "Purple Eye Shadow",
+    "Medical Mask",
+    "Blonde Bob"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xb5599c",
+      "To": "0x69021a",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "sov",
+      "To": "0xb5599c",
+      "Amount": "",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "1.60\u039e ($322)",
+      "Date": "May 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "1.60\u039e ($317)",
+      "Date": "May 15, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "1.55\u039e ($308)",
+      "Date": "May 15, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "1.55\u039e ($309)",
+      "Date": "May 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "sov",
+      "Amount": "0.10\u039e ($30)",
+      "Date": "Oct 27, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "sov",
+      "To": "",
+      "Amount": "0.10\u039e ($30)",
+      "Date": "Oct 27, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($15)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "3759",
+  "owner": "0x81c0405a635d340ffac20be92eba1de64915531b",
+  "attributes": [
+    "Male",
+    "Chinstrap",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x05e709",
+      "To": "0x81c040",
+      "Amount": "14.99\u039e ($58,240)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.99\u039e ($55,239)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.98\u039e ($66,052)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x05e709",
+      "Amount": "",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xee707d",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6ff0be",
+      "To": "0xee707d",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x6ff0be",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x780ac3",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x9fd86d",
+      "To": "0x780ac3",
+      "Amount": "",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Slider92",
+      "To": "0x9fd86d",
+      "Amount": "3.10\u039e ($1,887)",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.10\u039e ($1,899)",
+      "Date": "Dec 21, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "Slider92",
+      "Amount": "",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xb0ff2d",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 08, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Slider92",
+      "To": "0xb0ff2d",
+      "Amount": "",
+      "Date": "Dec 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.50\u039e ($2,079)",
+      "Date": "Dec 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.99\u039e ($2,393)",
+      "Date": "Nov 30, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "6373D",
+      "To": "",
+      "Amount": "2\u039e ($1,179)",
+      "Date": "Nov 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "cryptosa\u2026",
+      "To": "Slider92",
+      "Amount": "2.69\u039e ($1,586)",
+      "Date": "Nov 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "6373D",
+      "To": "",
+      "Amount": "2\u039e ($1,179)",
+      "Date": "Nov 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.69\u039e ($1,586)",
+      "Date": "Nov 25, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.49\u039e ($2,368)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "cryptosa\u2026",
+      "Amount": "2.15\u039e ($816)",
+      "Date": "Sep 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.15\u039e ($809)",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6fe0dd",
+      "To": "0x5b098b",
+      "Amount": "0.19\u039e ($25)",
+      "Date": "Nov 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.19\u039e ($174)",
+      "Date": "Feb 18, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x6fe0dd",
+      "Amount": "0.09\u039e ($82)",
+      "Date": "Feb 18, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Slush",
+      "To": "",
+      "Amount": "0.03\u039e ($32)",
+      "Date": "Jan 24, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.09\u039e ($125)",
+      "Date": "Jan 13, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

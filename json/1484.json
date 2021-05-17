@@ -1,0 +1,47 @@
+{
+  "id": "1484",
+  "owner": "0x5b68ee14964c2dddd36e5471f02008008876a3d0",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Handlebars",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x967ee5",
+      "To": "",
+      "Amount": "1.50\u039e ($2,207)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x967ee5",
+      "To": "",
+      "Amount": "1.50\u039e ($2,049)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc272ed",
+      "To": "0x5b68ee",
+      "Amount": "0.04\u039e ($4)",
+      "Date": "Dec 28, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b68ee",
+      "To": "",
+      "Amount": "0.04\u039e ($5)",
+      "Date": "Mar 09, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

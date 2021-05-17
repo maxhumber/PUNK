@@ -1,0 +1,82 @@
+{
+  "id": "4014",
+  "owner": "0x9e199d8a3a39c9892b1c3ae348a382662dcbaa12",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Earring",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Pixls",
+      "To": "0x9e199d",
+      "Amount": "0.28\u039e ($24)",
+      "Date": "Dec 16, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.28\u039e ($26)",
+      "Date": "Dec 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($50)",
+      "Date": "Nov 01, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbc081c",
+      "To": "Pixls",
+      "Amount": "0.15\u039e ($30)",
+      "Date": "Oct 25, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($39)",
+      "Date": "Sep 21, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 21, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.29\u039e ($65)",
+      "Date": "Aug 03, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Aug 03, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($58)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xbc081c",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "6448",
+  "owner": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+  "attributes": [
+    "Female",
+    "Knitted Cap",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "(Wrap)",
+      "From": "0x7cd45f",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe85740",
+      "To": "0x7cd45f",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xe85740",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xce18b6",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xbae25a",
+      "To": "0xce18b6",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa25803",
+      "To": "0xbae25a",
+      "Amount": "24\u039e ($76,066)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($56,277)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Wilcox",
+      "To": "0xa25803",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($56,224)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa25803",
+      "To": "Wilcox",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Wilcox",
+      "To": "0xa25803",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.00\u039e ($50,528)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "Wilcox",
+      "Amount": "",
+      "Date": "Sep 18, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($153)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "246",
+  "owner": "0x6186290b28d511bff971631c916244a9fc539cfe",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Luxurious Beard",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.99\u039e ($167,023)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "31.50\u039e ($128,230)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "31.50\u039e ($122,415)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "32.75\u039e ($127,272)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.99\u039e ($134,540)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "32.75\u039e ($115,919)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "32.15\u039e ($113,795)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "36.99\u039e ($130,926)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "32.15\u039e ($113,453)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "31.50\u039e ($111,159)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "37.99\u039e ($132,712)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "31.50\u039e ($111,249)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "30.50\u039e ($107,717)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.99\u039e ($140,444)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "30.50\u039e ($104,300)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($150,529)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69.69\u039e ($219,007)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x2cbee4",
+      "To": "barthazi\u2026",
+      "Amount": "",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x35388c",
+      "To": "0x2cbee4",
+      "Amount": "",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0x35388c",
+      "Amount": "",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

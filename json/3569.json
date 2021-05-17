@@ -1,0 +1,292 @@
+{
+  "id": "3569",
+  "owner": "0x6b4331048c411795a89d54484e3653107d58a64e",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Smile",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x8bd9c4",
+      "To": "\ud83c\udfc3\ud83c\udffb\u200d\u2642.e\u2026",
+      "Amount": "27.90\u039e ($58,260)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "\ud83c\udfc3\ud83c\udffb\u200d\u2642.e\u2026",
+      "To": "",
+      "Amount": "24.36\u039e ($41,225)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "\ud83c\udfc3\ud83c\udffb\u200d\u2642.e\u2026",
+      "To": "",
+      "Amount": "24.36\u039e ($39,456)",
+      "Date": "Mar 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.90\u039e ($47,552)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.50\u039e ($53,621)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31\u039e ($49,902)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x2b84b3",
+      "To": "",
+      "Amount": "19.60\u039e ($26,664)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "176\u039e ($241,875)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Tschuuul\u2026",
+      "To": "0x8bd9c4",
+      "Amount": "27\u039e ($36,928)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x2b84b3",
+      "To": "",
+      "Amount": "19.60\u039e ($28,707)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x2b84b3",
+      "To": "",
+      "Amount": "9.60\u039e ($14,060)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($38,940)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x2b84b3",
+      "To": "",
+      "Amount": "9.60\u039e ($17,781)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,002)",
+      "Date": "May 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.25\u039e ($234)",
+      "Date": "Apr 24, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "0.65\u039e ($122)",
+      "Date": "Apr 24, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "0.65\u039e ($121)",
+      "Date": "Apr 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.10\u039e ($287)",
+      "Date": "Feb 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.95\u039e ($256)",
+      "Date": "Feb 13, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "helpchai\u2026",
+      "To": "",
+      "Amount": "0.75\u039e ($165)",
+      "Date": "Feb 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "helpchai\u2026",
+      "To": "",
+      "Amount": "0.75\u039e ($142)",
+      "Date": "Feb 03, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x581b59",
+      "To": "Tschuuul\u2026",
+      "Amount": "0.45\u039e ($121)",
+      "Date": "Jul 11, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($121)",
+      "Date": "Jul 11, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.49\u039e ($141)",
+      "Date": "Jul 10, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.95\u039e ($301)",
+      "Date": "Jun 25, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x61e7e7",
+      "To": "0x581b59",
+      "Amount": "",
+      "Date": "Jun 24, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x581b59",
+      "To": "0x61e7e7",
+      "Amount": "",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($544)",
+      "Date": "Jun 20, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x61e7e7",
+      "To": "0x581b59",
+      "Amount": "",
+      "Date": "Jun 20, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.35\u039e ($355)",
+      "Date": "Jun 12, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jun 11, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.25\u039e ($312)",
+      "Date": "May 24, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($1,881)",
+      "Date": "May 12, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x61e7e7",
+      "Amount": "0.50\u039e ($84)",
+      "Date": "May 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($88)",
+      "Date": "Apr 07, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Cryptokk\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($33)",
+      "Date": "Mar 02, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cryptokk\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($34)",
+      "Date": "Feb 28, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.37\u039e ($84)",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

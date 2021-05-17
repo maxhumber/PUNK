@@ -1,0 +1,75 @@
+{
+  "id": "6924",
+  "owner": "0xdde8df9a7dc9f68bdac815f493d1d731de911b5a",
+  "attributes": [
+    "Female",
+    "Pigtails",
+    "Hot Lipstick",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xcd2c66",
+      "To": "",
+      "Amount": "0.70\u039e ($1,240)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcd2c66",
+      "To": "",
+      "Amount": "0.70\u039e ($170)",
+      "Date": "Jun 09, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.06\u039e ($6)",
+      "Date": "Feb 03, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Kenney",
+      "Amount": "0.45\u039e ($526)",
+      "Date": "Jan 29, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.06\u039e ($61)",
+      "Date": "Jan 17, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x287b15",
+      "To": "",
+      "Amount": "0.35\u039e ($359)",
+      "Date": "Jan 17, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x287b15",
+      "To": "",
+      "Amount": "0.35\u039e ($448)",
+      "Date": "Jan 15, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($575)",
+      "Date": "Jan 15, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

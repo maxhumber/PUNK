@@ -1,0 +1,68 @@
+{
+  "id": "4964",
+  "owner": "0xb4d8b83b41dd65a719a47a77014315f01f34fa77",
+  "attributes": [
+    "Female",
+    "Vape",
+    "Black Lipstick",
+    "Mohawk Thin"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x5ac996",
+      "To": "0xb4d8b8",
+      "Amount": "",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x19f233",
+      "To": "0x5ac996",
+      "Amount": "23\u039e ($34,684)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($36,204)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($42,826)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33\u039e ($52,918)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33\u039e ($53,969)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x19f233",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

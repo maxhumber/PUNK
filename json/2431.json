@@ -1,0 +1,33 @@
+{
+  "id": "2431",
+  "owner": "0x3be89b64e1437bb18da2d26bcbe9bd3daaadfc26",
+  "attributes": [
+    "Female",
+    "Knitted Cap",
+    "Horned Rim Glasses",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0x3be89b",
+      "Amount": "",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xbfe1f8",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xbfe1f8",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

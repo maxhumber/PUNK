@@ -1,0 +1,89 @@
+{
+  "id": "7684",
+  "owner": "0x6611fe71c233e4e7510b2795c242c9a57790b376",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Nerd Glasses",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x33b17a",
+      "To": "0x6611fe",
+      "Amount": "29.50\u039e ($52,663)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.50\u039e ($52,464)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31.20\u039e ($54,632)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "38.90\u039e ($61,527)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x23b50b",
+      "To": "0x33b17a",
+      "Amount": "26.95\u039e ($41,434)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.95\u039e ($39,604)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48c85c",
+      "To": "0x23b50b",
+      "Amount": "",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($43,495)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x47d4f2",
+      "To": "0x48c85c",
+      "Amount": "20\u039e ($34,292)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($34,223)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x47d4f2",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

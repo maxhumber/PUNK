@@ -1,0 +1,61 @@
+{
+  "id": "6757",
+  "owner": "0xfb184169f71d632377f8e14192d3098ba2c1f006",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Green Eye Shadow",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0xfb1841",
+      "Amount": "21.99\u039e ($40,120)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.99\u039e ($37,670)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($34,890)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($40,065)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26\u039e ($34,992)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "3095",
+  "owner": "0x900c9f768cd3f41316c17becb0131d09ceab8420",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Normal Beard Black",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd94be5",
+      "To": "",
+      "Amount": "25\u039e ($63,553)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd94be5",
+      "To": "",
+      "Amount": "25\u039e ($61,689)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($73,086)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0e4437",
+      "To": "",
+      "Amount": "5\u039e ($8,135)",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "CPyrc",
+      "To": "0x900c9f",
+      "Amount": "5.99\u039e ($10,465)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0e4437",
+      "To": "",
+      "Amount": "5\u039e ($8,254)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.99\u039e ($9,537)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.45\u039e ($10,094)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.75\u039e ($11,118)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x656c90",
+      "To": "CPyrc",
+      "Amount": "5\u039e ($8,193)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($8,193)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "420\u039e ($578,411)",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x99b884",
+      "To": "0x656c90",
+      "Amount": "",
+      "Date": "Jul 17, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x99b884",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

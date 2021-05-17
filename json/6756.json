@@ -1,0 +1,66 @@
+{
+  "id": "6756",
+  "owner": "0x0601d0235645a6ce6356ef11aa0b225c68605131",
+  "attributes": [
+    "Male",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x54ca97",
+      "To": "",
+      "Amount": "4.90\u039e ($6,117)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc480fb",
+      "To": "0x0601d0",
+      "Amount": "9.99\u039e ($12,470)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.99\u039e ($12,470)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.90\u039e ($12,358)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x54ca97",
+      "To": "",
+      "Amount": "4.90\u039e ($6,197)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($687)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($546)",
+      "Date": "Dec 11, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc480fb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

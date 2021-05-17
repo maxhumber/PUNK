@@ -1,0 +1,95 @@
+{
+  "id": "7413",
+  "owner": "0x9b11aa03c726923d770f9b2d5e7b57dbce003ce4",
+  "attributes": [
+    "Female",
+    "Purple Eye Shadow",
+    "Straight Hair Blonde"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x7eb28b",
+      "To": "0x9b11aa",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00b278",
+      "To": "0x7eb28b",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x22160e",
+      "To": "0x00b278",
+      "Amount": "",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.39\u039e ($89)",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.96K\u039e ($978,217)",
+      "Date": "Jul 14, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.39\u039e ($87)",
+      "Date": "Jul 12, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.60\u039e ($305)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.30\u039e ($62)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Cyborg",
+      "To": "0x22160e",
+      "Amount": "",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($152)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

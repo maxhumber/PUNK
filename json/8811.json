@@ -1,0 +1,96 @@
+{
+  "id": "8811",
+  "owner": "0xddfdcb21c935e8432a559cf689c83695b27a4177",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Buck Teeth",
+    "Handlebars"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa743f9",
+      "To": "",
+      "Amount": "44.50\u039e ($91,842)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xcc7c33",
+      "To": "0xddfdcb",
+      "Amount": "61\u039e ($125,896)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "61\u039e ($119,910)",
+      "Date": "Apr 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa743f9",
+      "To": "",
+      "Amount": "44.50\u039e ($92,985)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa743f9",
+      "To": "",
+      "Amount": "40\u039e ($83,582)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "65\u039e ($137,983)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa743f9",
+      "To": "",
+      "Amount": "40\u039e ($80,699)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "11\u039e ($15,406)",
+      "Date": "Jan 29, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "11\u039e ($13,944)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.55\u039e ($124)",
+      "Date": "Jul 24, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.55\u039e ($125)",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcc7c33",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

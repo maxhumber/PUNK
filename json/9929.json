@@ -1,0 +1,131 @@
+{
+  "id": "9929",
+  "owner": "0xd934cc70b1b06256581527a534285f5bd6a7edc7",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Shadow Beard",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x2de7bc",
+      "To": "0xd934cc",
+      "Amount": "",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5aaeb9",
+      "To": "0x2de7bc",
+      "Amount": "3\u039e ($1,065)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($1,061)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x5aaeb9",
+      "Amount": "",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x067034",
+      "To": "0x5aaeb9",
+      "Amount": "2.87\u039e ($1,015)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "0x067034",
+      "Amount": "4\u039e ($1,513)",
+      "Date": "Sep 19, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xaadfe3",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Carlini8",
+      "To": "0xaadfe3",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "natealex",
+      "To": "Carlini8",
+      "Amount": "1.44\u039e ($541)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.44\u039e ($294)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Goop",
+      "To": "natealex",
+      "Amount": "0.60\u039e ($120)",
+      "Date": "May 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.60\u039e ($147)",
+      "Date": "Feb 12, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.68\u039e ($120)",
+      "Date": "Jan 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.64\u039e ($108)",
+      "Date": "Jan 17, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe45df5",
+      "To": "Goop",
+      "Amount": "0.59\u039e ($100)",
+      "Date": "Jan 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.59\u039e ($165)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe45df5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

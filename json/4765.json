@@ -1,0 +1,40 @@
+{
+  "id": "4765",
+  "owner": "0x94de7e2c73529ebf3206aa3459e699fbcdfcd49b",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Shadow Beard",
+    "Pipe"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42\u039e ($110,562)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd4442b",
+      "To": "",
+      "Amount": "21.50\u039e ($44,696)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd4442b",
+      "To": "",
+      "Amount": "21.50\u039e ($44,696)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "tonyherr\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

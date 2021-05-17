@@ -1,0 +1,138 @@
+{
+  "id": "3439",
+  "owner": "0xb88f61e6fbda83fbfffabe364112137480398018",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Frown",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xcf6165",
+      "To": "0xb88f61",
+      "Amount": "",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x68a7ac",
+      "To": "",
+      "Amount": "4.25\u039e ($2,732)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "coinduph\u2026",
+      "To": "0xcf6165",
+      "Amount": "4.90\u039e ($3,149)",
+      "Date": "Dec 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x68a7ac",
+      "To": "",
+      "Amount": "4.25\u039e ($2,738)",
+      "Date": "Dec 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.90\u039e ($2,868)",
+      "Date": "Dec 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.50\u039e ($3,372)",
+      "Date": "Dec 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.50\u039e ($2,624)",
+      "Date": "Nov 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($2,110)",
+      "Date": "Nov 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($2,234)",
+      "Date": "Nov 09, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x51357b",
+      "To": "",
+      "Amount": "3\u039e ($1,051)",
+      "Date": "Oct 09, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x51357b",
+      "To": "",
+      "Amount": "3\u039e ($1,058)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa84aa4",
+      "To": "coinduph\u2026",
+      "Amount": "0.15\u039e ($91)",
+      "Date": "Apr 21, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($78)",
+      "Date": "Mar 24, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0xa84aa4",
+      "Amount": "0.10\u039e ($52)",
+      "Date": "Mar 24, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "HEDBIG",
+      "To": "",
+      "Amount": "0.05\u039e ($30)",
+      "Date": "Mar 16, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "HEDBIG",
+      "To": "",
+      "Amount": "0.05\u039e ($31)",
+      "Date": "Mar 15, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($114)",
+      "Date": "Jan 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

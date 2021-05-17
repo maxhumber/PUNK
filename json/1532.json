@@ -1,0 +1,53 @@
+{
+  "id": "1532",
+  "owner": "0x8fd884eab9ef1db593d0bf6e620456eb292943ae",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.90\u039e ($40,952)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe4f0ac",
+      "To": "carstenb\u2026",
+      "Amount": "5\u039e ($5,619)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($5,600)",
+      "Date": "Jan 11, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0xe4f0ac",
+      "Amount": "",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "4220",
+  "owner": "0x1c38e6b7a886a8d5dde7c12ef896a0352abd5775",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Big Shades",
+    "Shadow Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc52908",
+      "To": "",
+      "Amount": "0.25\u039e ($433)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc52908",
+      "To": "",
+      "Amount": "0.25\u039e ($462)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x1c38e6",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

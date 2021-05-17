@@ -1,0 +1,137 @@
+{
+  "id": "4909",
+  "owner": "0xce7a9f981a2a79c79340297edff7bb6b73f71913",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb155c5",
+      "To": "",
+      "Amount": "22.50\u039e ($36,974)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "pleyuh.e\u2026",
+      "To": "0xce7a9f",
+      "Amount": "25\u039e ($41,812)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb155c5",
+      "To": "",
+      "Amount": "22.50\u039e ($37,381)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "22\u039e ($36,172)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb155c5",
+      "To": "",
+      "Amount": "21\u039e ($34,528)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "20\u039e ($33,519)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xce7a9f",
+      "To": "",
+      "Amount": "18\u039e ($30,065)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($41,757)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Shrugs",
+      "To": "pleyuh.e\u2026",
+      "Amount": "12\u039e ($20,571)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12\u039e ($4,530)",
+      "Date": "Oct 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0bf913",
+      "To": "Shrugs",
+      "Amount": "0.30\u039e ($84)",
+      "Date": "Aug 15, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($345)",
+      "Date": "Jan 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($186)",
+      "Date": "Aug 29, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.33\u039e ($68)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.46\u039e ($919)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x0bf913",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

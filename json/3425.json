@@ -1,0 +1,83 @@
+{
+  "id": "3425",
+  "owner": "0x283d4f6752f4d2d112cce4bc5c55fb1955d76b83",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Wild Hair",
+    "Earring",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xfaf959\u2026",
+      "To": "0x283d4f",
+      "Amount": "6.66\u039e ($11,636)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "charley",
+      "To": "",
+      "Amount": "5.40\u039e ($8,786)",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "charley",
+      "To": "",
+      "Amount": "5.40\u039e ($9,189)",
+      "Date": "Feb 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.66\u039e ($10,200)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x387405",
+      "To": "0xfaf959\u2026",
+      "Amount": "4.10\u039e ($4,927)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xfaf959\u2026",
+      "To": "",
+      "Amount": "4.10\u039e ($4,931)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.39\u039e ($5,280)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.60\u039e ($5,557)",
+      "Date": "Jan 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.85\u039e ($5,833)",
+      "Date": "Jan 15, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x387405",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

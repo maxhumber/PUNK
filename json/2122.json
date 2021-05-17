@@ -1,0 +1,60 @@
+{
+  "id": "2122",
+  "owner": "0x422fac9209d91c24b3115bf7fb0ef7a3a7efbd7d",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xd34261",
+      "To": "0x422fac",
+      "Amount": "10\u039e ($18,194)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x422fac",
+      "To": "",
+      "Amount": "8\u039e ($14,555)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x422fac",
+      "To": "",
+      "Amount": "8\u039e ($14,696)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x46b4fa",
+      "To": "",
+      "Amount": "1.76\u039e ($2,665)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x46b4fa",
+      "To": "",
+      "Amount": "1.76\u039e ($2,325)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($1,663)",
+      "Date": "Apr 06, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xd34261",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

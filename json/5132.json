@@ -1,0 +1,68 @@
+{
+  "id": "5132",
+  "owner": "0x66f6d639199342619caf8617bf80ea738e5960a3",
+  "attributes": [
+    "Female",
+    "Choker",
+    "Mohawk Dark",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0x66f6d6",
+      "Amount": "65\u039e ($124,105)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "65\u039e ($115,336)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x167e00",
+      "To": "",
+      "Amount": "2\u039e ($2,799)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x167e00",
+      "To": "",
+      "Amount": "2\u039e ($2,403)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "KennyB",
+      "To": "",
+      "Amount": "4.05\u039e ($4,886)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "KennyB",
+      "To": "",
+      "Amount": "4.05\u039e ($4,886)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

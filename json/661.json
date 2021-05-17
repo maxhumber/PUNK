@@ -1,0 +1,81 @@
+{
+  "id": "661",
+  "owner": "0x05467ecea464e1704c3fd142ef9ba816ba7a7088",
+  "attributes": [
+    "Male",
+    "Goat",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($165,081)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xba1994",
+      "To": "0x05467e",
+      "Amount": "45\u039e ($152,262)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($103,070)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf305f9",
+      "To": "0xba1994",
+      "Amount": "36\u039e ($85,563)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "36\u039e ($74,413)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33\u039e ($52,361)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x2cbee4",
+      "To": "0xf305f9",
+      "Amount": "",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x35388c",
+      "To": "0x2cbee4",
+      "Amount": "",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0x35388c",
+      "Amount": "",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

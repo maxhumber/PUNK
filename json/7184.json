@@ -1,0 +1,61 @@
+{
+  "id": "7184",
+  "owner": "0x2e7698859a96de0dd240aa96ac6d47f90752b530",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Headband",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x5f5df4",
+      "To": "0x2e7698",
+      "Amount": "20.50\u039e ($36,677)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.50\u039e ($37,760)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.99\u039e ($40,098)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xca8fe4",
+      "To": "0x5f5df4",
+      "Amount": "",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.50\u039e ($39,596)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

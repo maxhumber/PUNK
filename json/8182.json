@@ -1,0 +1,26 @@
+{
+  "id": "8182",
+  "owner": "0x6611fe71c233e4e7510b2795c242c9a57790b376",
+  "attributes": [
+    "Male",
+    "Clown Nose",
+    "Cap",
+    "Handlebars"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "36.50\u039e ($81,886)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

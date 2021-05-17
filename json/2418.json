@@ -1,0 +1,60 @@
+{
+  "id": "2418",
+  "owner": "0x6611fe71c233e4e7510b2795c242c9a57790b376",
+  "attributes": [
+    "Female",
+    "Messy Hair",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb70c1a",
+      "To": "",
+      "Amount": "38\u039e ($128,075)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb70c1a",
+      "To": "",
+      "Amount": "38\u039e ($112,467)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4c9692",
+      "To": "",
+      "Amount": "9\u039e ($16,318)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4c9692",
+      "To": "",
+      "Amount": "9\u039e ($15,907)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4c9692",
+      "To": "",
+      "Amount": "5\u039e ($6,649)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4c9692",
+      "To": "",
+      "Amount": "5\u039e ($7,116)",
+      "Date": "Jan 25, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2037",
+  "owner": "0x0e616785638663c88a493a82972e2f9cadaab4bc",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Hot Lipstick",
+    "Frumpy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "renaissa\u2026",
+      "To": "0x0e6167",
+      "Amount": "17.80\u039e ($35,118)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.80\u039e ($34,428)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "renaissa\u2026",
+      "Amount": "9.60\u039e ($16,810)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.60\u039e ($17,095)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

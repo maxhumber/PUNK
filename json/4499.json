@@ -1,0 +1,47 @@
+{
+  "id": "4499",
+  "owner": "0x33f848d90d2af11bf7f731a54ec845f85c23db21",
+  "attributes": [
+    "Male",
+    "Earring",
+    "VR",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x33f848",
+      "Amount": "0.24\u039e ($49)",
+      "Date": "Oct 23, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x33f848",
+      "To": "",
+      "Amount": "0.24\u039e ($49)",
+      "Date": "Oct 23, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.24\u039e ($49)",
+      "Date": "Oct 23, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x33f848",
+      "To": "",
+      "Amount": "0.24\u039e ($49)",
+      "Date": "Oct 23, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

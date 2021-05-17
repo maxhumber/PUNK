@@ -1,0 +1,123 @@
+{
+  "id": "8676",
+  "owner": "0x08668be6da9b57172178711126961c26f1bb86b0",
+  "attributes": [
+    "Male",
+    "Fedora",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "5.25\u039e ($1,996)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x51357b",
+      "To": "derspook\u2026",
+      "Amount": "5.95\u039e ($2,210)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "5.25\u039e ($1,938)",
+      "Date": "Oct 20, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.95\u039e ($2,196)",
+      "Date": "Oct 20, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.95\u039e ($3,805)",
+      "Date": "Oct 14, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($3,771)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Novo311",
+      "To": "0x51357b",
+      "Amount": "1.98\u039e ($727)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.98\u039e ($461)",
+      "Date": "Jun 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.75\u039e ($577)",
+      "Date": "May 23, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0553de",
+      "To": "Novo311",
+      "Amount": "1.48\u039e ($312)",
+      "Date": "May 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.48\u039e ($213)",
+      "Date": "Jan 11, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x0553de",
+      "Amount": "0.40\u039e ($84)",
+      "Date": "Aug 09, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($230)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0553de",
+      "To": "",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

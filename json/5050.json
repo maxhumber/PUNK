@@ -1,0 +1,89 @@
+{
+  "id": "5050",
+  "owner": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Shaved Head",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "(Wrap)",
+      "From": "0x6500c0",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "beautifu\u2026",
+      "To": "0x6500c0",
+      "Amount": "",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "ddaavvee",
+      "To": "beautifu\u2026",
+      "Amount": "50.50\u039e ($82,086)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "beautifu\u2026",
+      "To": "",
+      "Amount": "30\u039e ($44,520)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "beautifu\u2026",
+      "To": "",
+      "Amount": "30\u039e ($45,294)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50.50\u039e ($75,509)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd5af82",
+      "To": "",
+      "Amount": "3\u039e ($5,808)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.04\u039e ($12)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($14,307)",
+      "Date": "Jun 27, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

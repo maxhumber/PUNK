@@ -1,0 +1,88 @@
+{
+  "id": "5744",
+  "owner": "0x51636d9efbfb79631824dd6107d54f2dcf548359",
+  "attributes": [
+    "Female",
+    "Big Shades",
+    "Frumpy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "0x51636d",
+      "Amount": "22.50\u039e ($41,521)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28\u039e ($44,796)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x51636d",
+      "To": "",
+      "Amount": "22.50\u039e ($41,062)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($63,874)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39\u039e ($68,954)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49\u039e ($87,386)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($68,384)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($55,600)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Cryptokk\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($37)",
+      "Date": "Feb 20, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cryptokk\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($34)",
+      "Date": "Feb 17, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

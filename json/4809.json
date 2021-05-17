@@ -1,0 +1,110 @@
+{
+  "id": "4809",
+  "owner": "0x59a5493513ba2378ed57ae5ecfb8a027e9d80365",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Horned Rim Glasses",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x19ac60",
+      "To": "0x59a549",
+      "Amount": "4.69\u039e ($6,639)",
+      "Date": "Jan 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.69\u039e ($5,834)",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($7,573)",
+      "Date": "Jan 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.50\u039e ($5,715)",
+      "Date": "Jan 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd3e2e7",
+      "To": "",
+      "Amount": "4.40\u039e ($5,461)",
+      "Date": "Jan 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd3e2e7",
+      "To": "",
+      "Amount": "4.40\u039e ($4,724)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "4\u039e ($4,294)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "4\u039e ($4,264)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.99\u039e ($5,389)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($2,255)",
+      "Date": "Oct 11, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Wilcox",
+      "To": "0x19ac60",
+      "Amount": "",
+      "Date": "Oct 11, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "Wilcox",
+      "Amount": "",
+      "Date": "Sep 17, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($157)",
+      "Date": "Jul 08, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

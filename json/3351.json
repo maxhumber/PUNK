@@ -1,0 +1,54 @@
+{
+  "id": "3351",
+  "owner": "0x28c42de479e57cc0c90b8a3eceb406dc173ad7cc",
+  "attributes": [
+    "Female",
+    "Tassle Hat",
+    "Vape",
+    "Big Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "7.50\u039e ($13,533)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "7.50\u039e ($13,730)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x05dfd4",
+      "To": "",
+      "Amount": "6.70\u039e ($11,549)",
+      "Date": "Feb 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x05dfd4",
+      "To": "",
+      "Amount": "6.70\u039e ($12,155)",
+      "Date": "Feb 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x28c42d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

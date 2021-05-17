@@ -1,0 +1,61 @@
+{
+  "id": "1985",
+  "owner": "0xe03559ea7be32a6b7152ba745fadb7e07a772bff",
+  "attributes": [
+    "Female",
+    "Blonde Short",
+    "Hot Lipstick",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "75\u039e ($161,464)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaea8e3",
+      "To": "",
+      "Amount": "25\u039e ($37,777)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($78,526)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaea8e3",
+      "To": "",
+      "Amount": "25\u039e ($39,157)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xce6259",
+      "To": "",
+      "Amount": "2\u039e ($2,581)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xce6259",
+      "To": "",
+      "Amount": "2\u039e ($2,511)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe03559",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

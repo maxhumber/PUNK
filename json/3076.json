@@ -1,0 +1,46 @@
+{
+  "id": "3076",
+  "owner": "0x4084df8bf74ba73f04eb39b89df698608df7f4b5",
+  "attributes": [
+    "Female",
+    "Clown Eyes Green",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x207355",
+      "To": "0x4084df",
+      "Amount": "",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9be1c7",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x207355",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

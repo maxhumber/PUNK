@@ -1,0 +1,179 @@
+{
+  "id": "7263",
+  "owner": "0x6f4a2d3a4f47f9c647d86c929755593911ee91ec",
+  "attributes": [
+    "Male",
+    "Fedora",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x13816f",
+      "To": "0x6f4a2d",
+      "Amount": "7.50\u039e ($13,515)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.50\u039e ($10,002)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x13816f",
+      "Amount": "",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x7c18fd",
+      "To": "0x13816f",
+      "Amount": "5.99\u039e ($2,131)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "redlione\u2026",
+      "To": "0x7c18fd",
+      "Amount": "5.99\u039e ($2,143)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "redlione\u2026",
+      "Amount": "4.80\u039e ($1,741)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "zonted",
+      "To": "Pranksy",
+      "Amount": "3.95\u039e ($1,413)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "zonted",
+      "Amount": "3\u039e ($1,036)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xaadfe3",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Carlini8",
+      "To": "0xaadfe3",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "Carlini8",
+      "Amount": "1.99\u039e ($748)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.99\u039e ($735)",
+      "Date": "Sep 12, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "alxo",
+      "To": "Pranksy",
+      "Amount": "",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($1,362)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Goop",
+      "To": "",
+      "Amount": "0.25\u039e ($38)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "juggerna\u2026",
+      "To": "alxo",
+      "Amount": "0.25\u039e ($38)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Goop",
+      "To": "",
+      "Amount": "0.25\u039e ($38)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "alxo",
+      "Amount": "0.25\u039e ($38)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($73)",
+      "Date": "Nov 03, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($91)",
+      "Date": "Oct 13, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "juggerna\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($87)",
+      "Date": "Sep 28, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($230)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

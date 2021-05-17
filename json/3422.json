@@ -1,0 +1,201 @@
+{
+  "id": "3422",
+  "owner": "0xa86fd35dbb69502075ca2e265e534147999d265d",
+  "attributes": [
+    "Male",
+    "Nerd Glasses",
+    "Headband",
+    "Pipe"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "FunBum69",
+      "To": "0xa86fd3",
+      "Amount": "25.25\u039e ($47,512)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.25\u039e ($47,512)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "48\u039e ($90,137)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.72\u039e ($54,353)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "95\u039e ($182,256)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "48\u039e ($87,296)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($8,798)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($5,386)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9\u039e ($3,069)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "FunBum69",
+      "Amount": "",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x9e7cdc",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "FunBum69",
+      "To": "0x9e7cdc",
+      "Amount": "",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.50\u039e ($3,058)",
+      "Date": "Aug 19, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "BumFun69",
+      "To": "FunBum69",
+      "Amount": "",
+      "Date": "Jun 02, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "BumFun69",
+      "Amount": "1.89\u039e ($467)",
+      "Date": "Jun 02, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "MantaXR",
+      "To": "",
+      "Amount": "1\u039e ($222)",
+      "Date": "May 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.89\u039e ($402)",
+      "Date": "May 28, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "MantaXR",
+      "To": "",
+      "Amount": "1\u039e ($213)",
+      "Date": "May 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.79\u039e ($365)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.49\u039e ($298)",
+      "Date": "May 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($216)",
+      "Date": "Aug 11, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($109)",
+      "Date": "Jun 20, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

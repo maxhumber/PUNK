@@ -1,0 +1,82 @@
+{
+  "id": "5221",
+  "owner": "0x062c5432107e3b9ad924512209a7468b5c200fcd",
+  "attributes": [
+    "Female",
+    "Tassle Hat",
+    "Big Shades",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "24.50\u039e ($41,637)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa3cb30",
+      "To": "0x062c54",
+      "Amount": "",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "24.50\u039e ($41,924)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf3016b",
+      "To": "",
+      "Amount": "24\u039e ($40,312)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.99\u039e ($48,693)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xddfdcb",
+      "To": "",
+      "Amount": "22.50\u039e ($37,624)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30.50\u039e ($51,001)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

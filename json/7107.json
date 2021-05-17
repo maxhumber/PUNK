@@ -1,0 +1,235 @@
+{
+  "id": "7107",
+  "owner": "0xbf8afa76bcc2f7fee2f3b358571f426a698e5edd",
+  "attributes": [
+    "Male",
+    "Cap",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x398646",
+      "To": "0xbf8afa",
+      "Amount": "17.60\u039e ($32,386)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.60\u039e ($32,009)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($34,396)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "43\u039e ($77,753)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x13816f",
+      "To": "0x398646",
+      "Amount": "8.40\u039e ($15,189)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.40\u039e ($15,459)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x13816f",
+      "Amount": "",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xf3ead0",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x135bd1",
+      "To": "0xf3ead0",
+      "Amount": "",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($2,256)",
+      "Date": "Oct 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14\u039e ($5,107)",
+      "Date": "Oct 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7\u039e ($2,553)",
+      "Date": "Oct 09, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "iandoz",
+      "To": "0x135bd1",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "evkort",
+      "To": "iandoz",
+      "Amount": "5.75\u039e ($1,997)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "iandoz",
+      "To": "",
+      "Amount": "5\u039e ($1,737)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "iandoz",
+      "To": "",
+      "Amount": "5\u039e ($1,741)",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.75\u039e ($1,983)",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.25\u039e ($2,262)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "evkort",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x11c9a7",
+      "To": "evkort",
+      "Amount": "5.15\u039e ($1,870)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x692885",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x11c9a7",
+      "To": "0x692885",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "smbros",
+      "To": "0x11c9a7",
+      "Amount": "4.81\u039e ($1,721)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.81\u039e ($1,659)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe1023c",
+      "To": "smbros",
+      "Amount": "",
+      "Date": "Aug 17, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "snowfro",
+      "To": "0xe1023c",
+      "Amount": "",
+      "Date": "Aug 10, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "snowfro",
+      "Amount": "0.50\u039e ($113)",
+      "Date": "Aug 07, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "snowfro",
+      "To": "",
+      "Amount": "0.35\u039e ($79)",
+      "Date": "Aug 07, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "snowfro",
+      "To": "",
+      "Amount": "0.35\u039e ($82)",
+      "Date": "Aug 05, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($153)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

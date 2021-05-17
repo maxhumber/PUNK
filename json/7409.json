@@ -1,0 +1,60 @@
+{
+  "id": "7409",
+  "owner": "0x8f6b1e467fbe74d7dd43d59de0558f693c736798",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x0ebd1a",
+      "To": "0x8f6b1e",
+      "Amount": "",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "ross_VRO\u2026",
+      "To": "0x0ebd1a",
+      "Amount": "15.99\u039e ($28,262)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.99\u039e ($28,735)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.99\u039e ($35,597)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x99b884",
+      "To": "ross_VRO\u2026",
+      "Amount": "5.75\u039e ($9,381)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.75\u039e ($9,381)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x99b884",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

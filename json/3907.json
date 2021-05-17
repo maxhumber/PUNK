@@ -1,0 +1,174 @@
+{
+  "id": "3907",
+  "owner": "0x8f6b1e467fbe74d7dd43d59de0558f693c736798",
+  "attributes": [
+    "Male",
+    "Clown Eyes Blue",
+    "Muttonchops",
+    "Fedora",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x953750",
+      "To": "",
+      "Amount": "7\u039e ($12,777)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "renaissa\u2026",
+      "To": "0x8f6b1e",
+      "Amount": "10\u039e ($18,031)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x953750",
+      "To": "",
+      "Amount": "7\u039e ($12,716)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($3,620)",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Michel_M\u2026",
+      "To": "renaissa\u2026",
+      "Amount": "5.80\u039e ($2,065)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.80\u039e ($2,065)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.45\u039e ($2,293)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.50\u039e ($2,736)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.50\u039e ($2,362)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($2,121)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($2,133)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9\u039e ($3,472)",
+      "Date": "Sep 19, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jun 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($1,887)",
+      "Date": "Jun 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Michel_M\u2026",
+      "Amount": "1.40\u039e ($327)",
+      "Date": "Jun 12, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "1.30\u039e ($304)",
+      "Date": "Jun 12, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.40\u039e ($327)",
+      "Date": "Jun 12, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "1.30\u039e ($303)",
+      "Date": "Jun 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($400)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

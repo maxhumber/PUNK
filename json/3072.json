@@ -1,0 +1,40 @@
+{
+  "id": "3072",
+  "owner": "0xc330219f80328380a75dbbaca7f92f2f7976bcb8",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Earring",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "Deepyr",
+      "To": "0xc33021",
+      "Amount": "",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Deepyr",
+      "Amount": "0.35\u039e ($48)",
+      "Date": "Mar 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($116)",
+      "Date": "Aug 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

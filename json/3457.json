@@ -1,0 +1,33 @@
+{
+  "id": "3457",
+  "owner": "0xa4288ba1062685d01990e99623bd7d125a7e4115",
+  "attributes": [
+    "Female",
+    "Wild Blonde",
+    "Purple Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "100\u039e ($402,576)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "curating\u2026",
+      "To": "0xa4288b",
+      "Amount": "",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "curating\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

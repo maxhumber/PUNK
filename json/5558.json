@@ -1,0 +1,68 @@
+{
+  "id": "5558",
+  "owner": "0x8d5773e7edfda319888e98a460ee2760d2dea3c4",
+  "attributes": [
+    "Male",
+    "Cap",
+    "Mustache",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x561786",
+      "To": "0x8d5773",
+      "Amount": "",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbf6ccf",
+      "To": "0x561786",
+      "Amount": "4.50\u039e ($4,908)",
+      "Date": "Jan 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.50\u039e ($5,724)",
+      "Date": "Jan 10, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8ed137",
+      "To": "0xbf6ccf",
+      "Amount": "4\u039e ($2,491)",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa5b139",
+      "To": "",
+      "Amount": "3\u039e ($1,169)",
+      "Date": "Nov 01, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa5b139",
+      "To": "",
+      "Amount": "3\u039e ($1,225)",
+      "Date": "Oct 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($1,653)",
+      "Date": "Oct 24, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8ed137",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

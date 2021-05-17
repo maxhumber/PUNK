@@ -1,0 +1,103 @@
+{
+  "id": "1971",
+  "owner": "0x4e3eb7544833508c46ed2be14db78fbebc3bdd2f",
+  "attributes": [
+    "Female",
+    "Green Eye Shadow",
+    "Hot Lipstick",
+    "Dark Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xe03559",
+      "To": "0x4e3eb7",
+      "Amount": "36\u039e ($65,495)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "36\u039e ($64,752)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "38\u039e ($70,673)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0x000000",
+      "Amount": "38\u039e ($70,673)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x783ca9",
+      "To": "",
+      "Amount": "38\u039e ($72,308)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x783ca9",
+      "To": "",
+      "Amount": "38\u039e ($72,021)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x51636d",
+      "To": "",
+      "Amount": "34.50\u039e ($65,387)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x33b17a",
+      "To": "",
+      "Amount": "30\u039e ($57,129)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($85,693)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaea8e3",
+      "To": "",
+      "Amount": "20\u039e ($30,221)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($54,968)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaea8e3",
+      "To": "",
+      "Amount": "20\u039e ($31,489)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe03559",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

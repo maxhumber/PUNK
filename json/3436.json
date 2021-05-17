@@ -1,0 +1,33 @@
+{
+  "id": "3436",
+  "owner": "0x7f6ca7e7e3383db380b96badcf006a8cd8e7b120",
+  "attributes": [
+    "Female",
+    "Big Shades",
+    "Hot Lipstick",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x7f6ca7",
+      "Amount": "0.08\u039e ($103)",
+      "Date": "Jan 09, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.08\u039e ($91)",
+      "Date": "Jan 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

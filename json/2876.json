@@ -1,0 +1,82 @@
+{
+  "id": "2876",
+  "owner": "0x27c79a01878962ce0b6126af6e184c06d36c8f37",
+  "attributes": [
+    "Female",
+    "Vape",
+    "Stringy Hair",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31\u039e ($98,251)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($40,557)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Tschuuul\u2026",
+      "To": "",
+      "Amount": "1\u039e ($207)",
+      "Date": "May 23, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x27c79a",
+      "Amount": "1.20\u039e ($249)",
+      "Date": "May 23, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Tschuuul\u2026",
+      "To": "",
+      "Amount": "1\u039e ($208)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6e5e91",
+      "To": "",
+      "Amount": "0.80\u039e ($166)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "barthazi\u2026",
+      "To": "",
+      "Amount": "0.65\u039e ($85)",
+      "Date": "Mar 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "barthazi\u2026",
+      "To": "",
+      "Amount": "0.65\u039e ($83)",
+      "Date": "Mar 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.20\u039e ($212)",
+      "Date": "Jan 19, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

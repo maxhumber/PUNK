@@ -1,0 +1,117 @@
+{
+  "id": "8516",
+  "owner": "0x9cc5f02499328d007d749801fbc197c4f910757a",
+  "attributes": [
+    "Female",
+    "Vape",
+    "Hot Lipstick",
+    "Straight Hair Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xb24086",
+      "To": "0x9cc5f0",
+      "Amount": "30\u039e ($54,079)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($59,005)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x5c7432",
+      "To": "0xb24086",
+      "Amount": "",
+      "Date": "Nov 28, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd8e806",
+      "To": "",
+      "Amount": "0.29\u039e ($60)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x515a82",
+      "To": "0x5c7432",
+      "Amount": "0.41\u039e ($84)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd8e806",
+      "To": "",
+      "Amount": "0.29\u039e ($60)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.41\u039e ($97)",
+      "Date": "Jul 09, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.61\u039e ($162)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($108)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.18\u039e ($50)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.18\u039e ($50)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.06\u039e ($19)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.06\u039e ($19)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x515a82",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

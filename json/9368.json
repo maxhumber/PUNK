@@ -1,0 +1,200 @@
+{
+  "id": "9368",
+  "owner": "0x7224a1a8750d77c182d7ade10b8edcbd3aae0e2d",
+  "attributes": [
+    "Zombie",
+    "Hoodie",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "yfimaxi.\u2026",
+      "To": "",
+      "Amount": "450\u039e ($1.24M)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "yfimaxi.\u2026",
+      "To": "",
+      "Amount": "450\u039e ($1.22M)",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xeb725f",
+      "To": "",
+      "Amount": "250\u039e ($443,098)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xeb725f",
+      "To": "",
+      "Amount": "250\u039e ($428,652)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7a3960",
+      "To": "",
+      "Amount": "65\u039e ($50,529)",
+      "Date": "Jan 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x832179",
+      "To": "0x7224a1",
+      "Amount": "88.55\u039e ($65,335)",
+      "Date": "Jan 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7a3960",
+      "To": "",
+      "Amount": "65\u039e ($48,342)",
+      "Date": "Jan 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3dee68",
+      "To": "",
+      "Amount": "61\u039e ($45,367)",
+      "Date": "Jan 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7a3960",
+      "To": "",
+      "Amount": "60\u039e ($44,623)",
+      "Date": "Jan 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "88.55\u039e ($65,371)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "88.77\u039e ($65,534)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "natealex",
+      "To": "",
+      "Amount": "35\u039e ($13,708)",
+      "Date": "Nov 01, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "natealex",
+      "To": "",
+      "Amount": "35\u039e ($13,708)",
+      "Date": "Nov 01, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "500\u039e ($106,465)",
+      "Date": "May 20, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 16, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "15\u039e ($3,009)",
+      "Date": "May 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "Pranksy",
+      "Amount": "35\u039e ($6,961)",
+      "Date": "May 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "15\u039e ($3,007)",
+      "Date": "May 16, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "7.50\u039e ($1,608)",
+      "Date": "Mar 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "75\u039e ($16,078)",
+      "Date": "Mar 01, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "7.50\u039e ($1,677)",
+      "Date": "Feb 29, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cyrus",
+      "To": "",
+      "Amount": "1.88\u039e ($207)",
+      "Date": "Nov 27, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cyrus",
+      "To": "",
+      "Amount": "1.50\u039e ($165)",
+      "Date": "Nov 27, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x832179",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7721",
+  "owner": "0xcd2c66fe27f8c6e08a5bd42b2617a34f8854eece",
+  "attributes": [
+    "Male",
+    "Eye Mask",
+    "Muttonchops",
+    "Earring",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0xcd2c66",
+      "Amount": "22\u039e ($47,394)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($46,776)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcd2c66",
+      "To": "",
+      "Amount": "21\u039e ($45,054)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

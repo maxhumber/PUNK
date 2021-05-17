@@ -1,0 +1,33 @@
+{
+  "id": "8810",
+  "owner": "0x12e5e3e7a1389fed96e1be50aed32316c027b18b",
+  "attributes": [
+    "Female",
+    "Mohawk Thin",
+    "Classic Shades",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "stazie",
+      "Amount": "0.90\u039e ($176)",
+      "Date": "Apr 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($235)",
+      "Date": "Feb 22, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

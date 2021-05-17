@@ -1,0 +1,47 @@
+{
+  "id": "4688",
+  "owner": "0xc5ec9640b56c4c5e3bed67f5ac64d6567b369a11",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Earring",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($55,029)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6f0e05",
+      "To": "0xc5ec96",
+      "Amount": "",
+      "Date": "Sep 12, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x6f0e05",
+      "Amount": "1.40\u039e ($516)",
+      "Date": "Sep 12, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.40\u039e ($524)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

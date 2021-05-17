@@ -1,0 +1,68 @@
+{
+  "id": "8926",
+  "owner": "0x584cdfdeed39622ef121ceff65f10a8875bea115",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Classic Shades",
+    "Smile"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xe5e64f",
+      "To": "0x584cdf",
+      "Amount": "10\u039e ($18,166)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($3,584)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,732)",
+      "Date": "Sep 21, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "cryptosa\u2026",
+      "To": "0xe5e64f",
+      "Amount": "0.80\u039e ($350)",
+      "Date": "Aug 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe5e64f",
+      "To": "",
+      "Amount": "0.80\u039e ($336)",
+      "Date": "Aug 31, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "cryptosa\u2026",
+      "Amount": "1.45\u039e ($299)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.45\u039e ($290)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

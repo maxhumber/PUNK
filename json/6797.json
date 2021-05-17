@@ -1,0 +1,88 @@
+{
+  "id": "6797",
+  "owner": "0xcffc60228e1a8aa7c631101eb82fa94981621cbf",
+  "attributes": [
+    "Female",
+    "Blonde Short",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "37\u039e ($159,554)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "41.14\u039e ($141,525)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "54.85\u039e ($117,026)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "62.20\u039e ($112,662)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "44.44\u039e ($83,553)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdbc416",
+      "To": "",
+      "Amount": "7.50\u039e ($7,752)",
+      "Date": "Jan 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdbc416",
+      "To": "",
+      "Amount": "7.50\u039e ($9,454)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4d17cf",
+      "To": "jesterbo\u2026",
+      "Amount": "",
+      "Date": "Oct 31, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4d17cf",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

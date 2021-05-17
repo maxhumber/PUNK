@@ -1,0 +1,194 @@
+{
+  "id": "6755",
+  "owner": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+  "attributes": [
+    "Male",
+    "Do-rag",
+    "Regular Shades",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "(Wrap)",
+      "From": "0xeb0a8f",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x62bdc6",
+      "To": "0xeb0a8f",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x62bdc6",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x47bab6",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "wookie.e\u2026",
+      "To": "0x47bab6",
+      "Amount": "",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($29,091)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($32,078)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "wookie.e\u2026",
+      "Amount": "",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x34183b",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "seel.eth",
+      "To": "0x34183b",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x033ee7",
+      "To": "seel.eth",
+      "Amount": "13.54\u039e ($25,647)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.54\u039e ($25,948)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe4c479",
+      "To": "0x033ee7",
+      "Amount": "2.90\u039e ($1,031)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.90\u039e ($1,023)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xe4c479",
+      "Amount": "",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xd306a0",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe4c479",
+      "To": "0xd306a0",
+      "Amount": "",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($1,032)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xe4c479",
+      "Amount": "",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0xe4c479",
+      "Amount": "2.75\u039e ($937)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5aaeb9",
+      "To": "Pranksy",
+      "Amount": "2.29\u039e ($792)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0x5aaeb9",
+      "Amount": "2.19\u039e ($757)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Pranksy",
+      "Amount": "1.80\u039e ($613)",
+      "Date": "Sep 22, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x193847",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Hemba",
+      "To": "0x193847",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

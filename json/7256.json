@@ -1,0 +1,33 @@
+{
+  "id": "7256",
+  "owner": "0x4682aa8dee36a04933b0a06b35a388b96b1adf66",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Chinstrap",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x36a5bc",
+      "To": "0x4682aa",
+      "Amount": "25\u039e ($46,379)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($4,933)",
+      "Date": "Apr 28, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x36a5bc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

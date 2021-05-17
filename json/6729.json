@@ -1,0 +1,41 @@
+{
+  "id": "6729",
+  "owner": "0x062c5432107e3b9ad924512209a7468b5c200fcd",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Goat",
+    "Pipe",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xca8fe4",
+      "To": "0x062c54",
+      "Amount": "",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($817)",
+      "Date": "Jun 23, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

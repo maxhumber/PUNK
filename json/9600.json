@@ -1,0 +1,62 @@
+{
+  "id": "9600",
+  "owner": "0x51688cd36c18891167e8036bde2a8fb10ec80c43",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Wild Hair",
+    "Classic Shades",
+    "Smile"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($17)",
+      "Date": "Jan 26, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x637532",
+      "To": "0x51688c",
+      "Amount": "",
+      "Date": "Jun 01, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x58164b",
+      "To": "0x637532",
+      "Amount": "",
+      "Date": "May 08, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($15)",
+      "Date": "Jan 09, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x58164b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

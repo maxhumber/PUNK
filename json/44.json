@@ -1,0 +1,45 @@
+{
+  "id": "44",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Male",
+    "Messy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x1fca36",
+      "To": "",
+      "Amount": "25\u039e ($41,717)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x1fca36",
+      "To": "",
+      "Amount": "25\u039e ($43,889)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x1fca36",
+      "To": "",
+      "Amount": "10\u039e ($17,556)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x1fca36",
+      "To": "",
+      "Amount": "10\u039e ($18,817)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

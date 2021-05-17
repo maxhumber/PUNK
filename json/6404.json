@@ -1,0 +1,75 @@
+{
+  "id": "6404",
+  "owner": "0x062c5432107e3b9ad924512209a7468b5c200fcd",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Silver Chain",
+    "Purple Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xca8fe4",
+      "To": "0x062c54",
+      "Amount": "",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($60,665)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x3dee68",
+      "To": "",
+      "Amount": "6\u039e ($6,227)",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3dee68",
+      "To": "",
+      "Amount": "6\u039e ($6,082)",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

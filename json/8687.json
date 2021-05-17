@@ -1,0 +1,159 @@
+{
+  "id": "8687",
+  "owner": "0x060d19764de004b37aa64c088a0e55e8401a1041",
+  "attributes": [
+    "Male",
+    "Fedora",
+    "Classic Shades",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "CPyrc",
+      "To": "0x060d19",
+      "Amount": "16\u039e ($31,146)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16\u039e ($31,470)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd3e2e7",
+      "To": "",
+      "Amount": "15\u039e ($28,777)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd3e2e7",
+      "To": "",
+      "Amount": "15\u039e ($28,588)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17\u039e ($31,376)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.25\u039e ($26,394)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb9c71d",
+      "To": "CPyrc",
+      "Amount": "13\u039e ($24,079)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "CPyrc",
+      "Amount": "13\u039e ($23,842)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.33\u039e ($24,129)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb26c43",
+      "To": "",
+      "Amount": "8\u039e ($14,505)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14\u039e ($24,449)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe39e5d",
+      "To": "0xb9c71d",
+      "Amount": "10\u039e ($17,398)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb26c43",
+      "To": "",
+      "Amount": "8\u039e ($14,052)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($3,734)",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Shrugs",
+      "To": "0xe39e5d",
+      "Amount": "",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($412)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Shrugs",
+      "Amount": "0.19\u039e ($53)",
+      "Date": "Aug 15, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.19\u039e ($191)",
+      "Date": "Jan 06, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

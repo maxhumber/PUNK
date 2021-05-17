@@ -1,0 +1,27 @@
+{
+  "id": "7622",
+  "owner": "0x6f4a2d3a4f47f9c647d86c929755593911ee91ec",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Spots",
+    "Green Eye Shadow",
+    "Dark Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "48\u039e ($72,470)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

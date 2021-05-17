@@ -1,0 +1,62 @@
+{
+  "id": "4191",
+  "owner": "0x407f0caf24df420ee7880f82be76efee2720ceef",
+  "attributes": [
+    "Female",
+    "Pipe",
+    "Mohawk",
+    "Hot Lipstick",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28\u039e ($109,398)",
+      "Date": "May 15, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($71,477)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($98,123)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4bc2cc",
+      "To": "0x407f0c",
+      "Amount": "",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4bc2cc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

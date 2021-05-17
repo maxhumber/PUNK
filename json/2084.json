@@ -1,0 +1,46 @@
+{
+  "id": "2084",
+  "owner": "0x7760e0243ca9baa630412865df7b39afba42ff0f",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "SpacedPa\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($185)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "SpacedPa\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($168)",
+      "Date": "Sep 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x515a82",
+      "To": "0x7760e0",
+      "Amount": "0.35\u039e ($97)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($97)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x515a82",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

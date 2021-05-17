@@ -1,0 +1,117 @@
+{
+  "id": "535",
+  "owner": "0x93d020b0c5158939274235ee9e670edb9612726e",
+  "attributes": [
+    "Male",
+    "Mustache",
+    "Knitted Cap",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "CPyrc",
+      "To": "0x93d020",
+      "Amount": "18\u039e ($33,057)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x93d020",
+      "To": "",
+      "Amount": "18\u039e ($33,143)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x93d020",
+      "To": "",
+      "Amount": "16\u039e ($29,460)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.25\u039e ($35,445)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x93d020",
+      "To": "",
+      "Amount": "16\u039e ($29,543)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.95\u039e ($36,535)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($35,484)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($40,788)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($49,499)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($52,370)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($45,320)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x2cbee4",
+      "To": "CPyrc",
+      "Amount": "",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x35388c",
+      "To": "0x2cbee4",
+      "Amount": "",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0x35388c",
+      "Amount": "",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

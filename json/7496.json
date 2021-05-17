@@ -1,0 +1,70 @@
+{
+  "id": "7496",
+  "owner": "0xcffc336e6d019c1af58257a0b10bf2146a3f42a4",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Luxurious Beard",
+    "Earring",
+    "Rosy Cheeks",
+    "Clown Eyes Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbb1ec7",
+      "To": "",
+      "Amount": "39\u039e ($167,396)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbb1ec7",
+      "To": "",
+      "Amount": "39\u039e ($153,315)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "\ud83e\udd39\ud83c\udffb\u200d\u2642.e\u2026",
+      "To": "",
+      "Amount": "36\u039e ($141,521)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbb1ec7",
+      "To": "",
+      "Amount": "35\u039e ($136,950)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xba7ccc",
+      "To": "0xcffc33",
+      "Amount": "",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xba7ccc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

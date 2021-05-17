@@ -1,0 +1,81 @@
+{
+  "id": "3809",
+  "owner": "0xc24f574d6853f6f6a31c19d468a8c1b3f31c0e54",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "199\u039e ($585,802)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "475\u039e ($1.01M)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "150\u039e ($276,804)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4fe5d0",
+      "To": "",
+      "Amount": "15\u039e ($28,598)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4fe5d0",
+      "To": "",
+      "Amount": "15\u039e ($29,594)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe97afe",
+      "To": "",
+      "Amount": "12.50\u039e ($24,490)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf0f068\u2026",
+      "To": "",
+      "Amount": "1.20\u039e ($246)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf0f068\u2026",
+      "To": "",
+      "Amount": "1.20\u039e ($250)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

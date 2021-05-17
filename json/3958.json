@@ -1,0 +1,89 @@
+{
+  "id": "3958",
+  "owner": "0xaaaba02c6b904ad70b3566d5efac65253d1168dc",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Headband",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.50\u039e ($102,327)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.50\u039e ($104,807)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($97,918)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($83,368)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($62,785)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0xaaaba0",
+      "Amount": "26.60\u039e ($48,378)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.60\u039e ($48,591)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

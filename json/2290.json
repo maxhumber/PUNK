@@ -1,0 +1,88 @@
+{
+  "id": "2290",
+  "owner": "0x727646dcbc60a7c0b38c64c649a3866950443d10",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Luxurious Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.80\u039e ($44,095)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc69ae4",
+      "To": "0x727646",
+      "Amount": "2.88\u039e ($1,095)",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.88\u039e ($1,109)",
+      "Date": "Sep 19, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0xc69ae4",
+      "Amount": "1.10\u039e ($225)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.10\u039e ($229)",
+      "Date": "May 23, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "helpchai\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($48)",
+      "Date": "Nov 06, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "helpchai\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($46)",
+      "Date": "Nov 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($94)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

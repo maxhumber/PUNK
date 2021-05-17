@@ -1,0 +1,215 @@
+{
+  "id": "2777",
+  "owner": "0xcde1603d59fd03d29a7c5502f090a0b2c9794e1a",
+  "attributes": [
+    "Male",
+    "Normal Beard",
+    "Shaved Head",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.77\u039e ($47,778)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x98d217",
+      "To": "0xcde160\u2026",
+      "Amount": "0.80\u039e ($329)",
+      "Date": "Sep 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($315)",
+      "Date": "Aug 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.85\u039e ($323)",
+      "Date": "Aug 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($347)",
+      "Date": "Aug 26, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "ThisNFTG\u2026",
+      "To": "",
+      "Amount": "0.67\u039e ($260)",
+      "Date": "Aug 07, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "sudheer",
+      "To": "0x98d217",
+      "Amount": "0.80\u039e ($315)",
+      "Date": "Aug 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($316)",
+      "Date": "Aug 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "ThisNFTG\u2026",
+      "To": "",
+      "Amount": "0.67\u039e ($268)",
+      "Date": "Aug 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.87\u039e ($340)",
+      "Date": "Aug 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.95\u039e ($367)",
+      "Date": "Aug 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.07\u039e ($400)",
+      "Date": "Aug 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.60\u039e ($381)",
+      "Date": "Jun 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "ross_VRO\u2026",
+      "To": "sudheer",
+      "Amount": "1.24\u039e ($294)",
+      "Date": "Jun 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.24\u039e ($296)",
+      "Date": "Jun 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.47\u039e ($298)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.57\u039e ($321)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pixls",
+      "To": "",
+      "Amount": "0.90\u039e ($184)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "natealex",
+      "To": "ross_VRO\u2026",
+      "Amount": "1.07\u039e ($219)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pixls",
+      "To": "",
+      "Amount": "0.90\u039e ($183)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4b9af5",
+      "To": "",
+      "Amount": "0.75\u039e ($154)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.07\u039e ($220)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "natealex",
+      "Amount": "0.63\u039e ($126)",
+      "Date": "May 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.63\u039e ($139)",
+      "Date": "Feb 07, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($88)",
+      "Date": "Apr 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($41)",
+      "Date": "Jan 24, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

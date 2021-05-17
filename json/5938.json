@@ -1,0 +1,110 @@
+{
+  "id": "5938",
+  "owner": "0x5a8681ca9efdda2739a84e84a46fdf3ded1148ca",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Vape",
+    "Goat"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "500\u039e ($775,990)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0553de",
+      "To": "ObiWanKe\u2026",
+      "Amount": "0.98\u039e ($380)",
+      "Date": "Aug 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.98\u039e ($387)",
+      "Date": "Aug 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.18\u039e ($382)",
+      "Date": "Jul 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($598)",
+      "Date": "Jun 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.93\u039e ($386)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3a8441",
+      "To": "0x0553de",
+      "Amount": "1.49\u039e ($297)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.49\u039e ($303)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Wilcox",
+      "To": "0x3a8441",
+      "Amount": "",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.25\u039e ($32)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "Wilcox",
+      "Amount": "",
+      "Date": "Oct 02, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.25\u039e ($44)",
+      "Date": "Sep 28, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($153)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "8689",
+  "owner": "0x4db1dd33159f5f7b9b600fb4a44e19e2976578e3",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Classic Shades",
+    "Clown Hair Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x131b2b",
+      "To": "",
+      "Amount": "27\u039e ($58,127)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x131b2b",
+      "To": "",
+      "Amount": "27\u039e ($57,895)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x131b2b",
+      "To": "",
+      "Amount": "25\u039e ($53,606)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x131b2b",
+      "To": "",
+      "Amount": "25\u039e ($51,760)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "0x4db1dd",
+      "Amount": "22\u039e ($37,611)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.99\u039e ($41,165)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4db1dd",
+      "To": "",
+      "Amount": "22\u039e ($37,883)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd94be5",
+      "To": "",
+      "Amount": "21.50\u039e ($36,672)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($41,858)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd94be5",
+      "To": "",
+      "Amount": "21.50\u039e ($36,273)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb4bb41",
+      "To": "",
+      "Amount": "18\u039e ($30,466)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "15\u039e ($25,431)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

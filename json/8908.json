@@ -1,0 +1,62 @@
+{
+  "id": "8908",
+  "owner": "0xb38071b23f0fa92cf9e1bd6feec5a5f9821f3ccc",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Mohawk Thin",
+    "Smile",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35.80\u039e ($154,296)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "71.60\u039e ($135,423)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35.80\u039e ($65,231)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.70\u039e ($25,718)",
+      "Date": "Jan 29, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb38071",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

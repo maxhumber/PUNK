@@ -1,0 +1,109 @@
+{
+  "id": "5898",
+  "owner": "0x649b84336c431d3abbb0c5a705e28a82891032b0",
+  "attributes": [
+    "Female",
+    "Tiara",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "555\u039e ($1.6M)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "MrTpunks",
+      "To": "0x649b84",
+      "Amount": "85\u039e ($134,803)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x649b84",
+      "To": "",
+      "Amount": "85\u039e ($134,803)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc5f70b",
+      "To": "",
+      "Amount": "70\u039e ($107,137)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc5f70b",
+      "To": "",
+      "Amount": "70\u039e ($101,679)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "MrTpunks\u2026",
+      "To": "MrTpunks",
+      "Amount": "",
+      "Date": "Apr 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "MrTpunks\u2026",
+      "Amount": "4.50\u039e ($842)",
+      "Date": "Apr 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($936)",
+      "Date": "Apr 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "MrTpunks\u2026",
+      "To": "",
+      "Amount": "4.50\u039e ($839)",
+      "Date": "Apr 25, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($132)",
+      "Date": "Jun 18, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($134)",
+      "Date": "Jun 16, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Hemba",
+      "To": "",
+      "Amount": "0.40\u039e ($114)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "Hemba",
+      "To": "",
+      "Amount": "0.40\u039e ($114)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

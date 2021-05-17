@@ -1,0 +1,145 @@
+{
+  "id": "4906",
+  "owner": "0x94de7e2c73529ebf3206aa3459e699fbcdfcd49b",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Horned Rim Glasses",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "owlman.e\u2026",
+      "To": "",
+      "Amount": "19.19\u039e ($46,715)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb9afc8",
+      "To": "tonyherr\u2026",
+      "Amount": "20.69\u039e ($50,367)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "owlman.e\u2026",
+      "To": "",
+      "Amount": "19.19\u039e ($47,863)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc5b066",
+      "To": "",
+      "Amount": "19\u039e ($47,269)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "17\u039e ($44,856)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "17\u039e ($41,439)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.69\u039e ($50,434)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc155f9",
+      "To": "0xb9afc8",
+      "Amount": "5.69\u039e ($8,636)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.69\u039e ($3,703)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe4c479",
+      "To": "0xc155f9",
+      "Amount": "2.90\u039e ($1,021)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.90\u039e ($1,017)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xe4c479",
+      "Amount": "",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0xe4c479",
+      "Amount": "3\u039e ($1,051)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x193847",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Hemba",
+      "To": "0x193847",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($88)",
+      "Date": "Apr 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($76)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

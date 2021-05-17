@@ -1,0 +1,82 @@
+{
+  "id": "2905",
+  "owner": "0x3fcddb0dd912e6f68927b448546cce99f22a3e31",
+  "attributes": [
+    "Female",
+    "Knitted Cap",
+    "Hot Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x62bdc6",
+      "To": "studio13\u2026",
+      "Amount": "21.97\u039e ($65,221)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.97\u039e ($64,317)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.49\u039e ($65,461)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x62bdc6",
+      "Amount": "",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x31bc92",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "CryptoPa\u2026",
+      "To": "0x31bc92",
+      "Amount": "",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($5,714)",
+      "Date": "Dec 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x48db19",
+      "To": "CryptoPa\u2026",
+      "Amount": "4\u039e ($2,357)",
+      "Date": "Nov 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($2,421)",
+      "Date": "Nov 24, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

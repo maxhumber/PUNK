@@ -1,0 +1,111 @@
+{
+  "id": "9717",
+  "owner": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+  "attributes": [
+    "Male",
+    "Mustache",
+    "Earring",
+    "Nerd Glasses",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "(Wrap)",
+      "From": "0xd5d49e",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "aviexkak\u2026",
+      "To": "0xd5d49e",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "aviexkak\u2026",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xb3313c",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa18672",
+      "To": "0xb3313c",
+      "Amount": "",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xa18672",
+      "Amount": "",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xfe9bbb",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa577ed",
+      "To": "0xfe9bbb",
+      "Amount": "",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x19ac60",
+      "To": "0xa577ed",
+      "Amount": "6\u039e ($3,711)",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($2,255)",
+      "Date": "Oct 11, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Wilcox",
+      "To": "0x19ac60",
+      "Amount": "",
+      "Date": "Oct 11, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "Wilcox",
+      "Amount": "",
+      "Date": "Sep 28, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($235)",
+      "Date": "Jul 08, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

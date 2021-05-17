@@ -1,0 +1,207 @@
+{
+  "id": "2076",
+  "owner": "0xe301612b0751f6d862a27be205fb8e3c40c8c6db",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xab61cc",
+      "To": "0xe30161",
+      "Amount": "",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Deeze",
+      "To": "0xab61cc",
+      "Amount": "20.49\u039e ($43,621)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.49\u039e ($44,063)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.99\u039e ($45,406)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.99\u039e ($45,524)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.99\u039e ($47,906)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.99\u039e ($50,013)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($51,413)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($62,097)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "Deeze",
+      "Amount": "",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xac12a8",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 13, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "gaus",
+      "To": "0xac12a8",
+      "Amount": "",
+      "Date": "Dec 13, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "gaus",
+      "To": "0x4d64ab",
+      "Amount": "0.00\u039e ($0.00)",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0x4d64ab",
+      "Amount": "0.00\u039e ($0.00)",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "gaus",
+      "Amount": "",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x290b4e",
+      "To": "gaus",
+      "Amount": "2.60\u039e ($907)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0x290b4e",
+      "Amount": "1.99\u039e ($674)",
+      "Date": "Sep 23, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x776758",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Pranksy",
+      "To": "0x776758",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc69ae4",
+      "To": "Pranksy",
+      "Amount": "1.94\u039e ($731)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.94\u039e ($726)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0xc69ae4",
+      "Amount": "1.10\u039e ($225)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.10\u039e ($229)",
+      "Date": "May 23, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($88)",
+      "Date": "Apr 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.37\u039e ($50)",
+      "Date": "Mar 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.33\u039e ($50)",
+      "Date": "Jan 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

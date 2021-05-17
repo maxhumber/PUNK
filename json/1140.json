@@ -1,0 +1,33 @@
+{
+  "id": "1140",
+  "owner": "0xd79b937791724e47f193f67162b92cdfbf7abdfd",
+  "attributes": [
+    "Female",
+    "Wild White Hair",
+    "Purple Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "100\u039e ($329,440)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x133524",
+      "To": "0xd79b93",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x133524",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

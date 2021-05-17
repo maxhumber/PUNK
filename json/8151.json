@@ -1,0 +1,47 @@
+{
+  "id": "8151",
+  "owner": "0x475566f2b32f98a8fb8ddfaf184dc522d0701f72",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Headband",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x475566",
+      "Amount": "9.49\u039e ($16,901)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc2ecb8",
+      "To": "",
+      "Amount": "7\u039e ($12,738)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc2ecb8",
+      "To": "",
+      "Amount": "7\u039e ($12,465)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.49\u039e ($16,324)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

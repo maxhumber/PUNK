@@ -1,0 +1,145 @@
+{
+  "id": "6036",
+  "owner": "0x491be76b1b212ecd63ec80fcb315b4b6c397674f",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Muttonchops",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69.50\u039e ($106,149)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "74\u039e ($144,583)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe96c3e",
+      "To": "0x491be7",
+      "Amount": "34\u039e ($66,430)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34\u039e ($64,400)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "el",
+      "To": "0xe96c3e",
+      "Amount": "",
+      "Date": "Jan 19, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x87e225",
+      "To": "el",
+      "Amount": "0.55\u039e ($79)",
+      "Date": "Dec 11, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "el",
+      "To": "",
+      "Amount": "0.55\u039e ($81)",
+      "Date": "Nov 26, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.95\u039e ($179)",
+      "Date": "Nov 13, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "\ud83c\udf7e\ud83d\udc83\ud83d\udd7a\ud83c\udfb6\u2026",
+      "To": "0x87e225",
+      "Amount": "0.49\u039e ($92)",
+      "Date": "Nov 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.49\u039e ($88)",
+      "Date": "Oct 26, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 26, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.90\u039e ($674)",
+      "Date": "Mar 07, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7\u039e ($969)",
+      "Date": "Mar 06, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe45df5",
+      "To": "\ud83c\udf7e\ud83d\udc83\ud83d\udd7a\ud83c\udfb6\u2026",
+      "Amount": "0.70\u039e ($97)",
+      "Date": "Mar 06, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x87e225",
+      "To": "",
+      "Amount": "0.21\u039e ($32)",
+      "Date": "Jan 07, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x87e225",
+      "To": "",
+      "Amount": "0.21\u039e ($33)",
+      "Date": "Jan 04, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.70\u039e ($196)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe45df5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

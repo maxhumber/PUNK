@@ -1,0 +1,75 @@
+{
+  "id": "6015",
+  "owner": "0xdde8df9a7dc9f68bdac815f493d1d731de911b5a",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Welding Goggles",
+    "Straight Hair Blonde"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($6,680)",
+      "Date": "Jun 18, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x58164b",
+      "To": "Kenney",
+      "Amount": "0.15\u039e ($113)",
+      "Date": "May 07, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Kenney",
+      "To": "",
+      "Amount": "0.15\u039e ($97)",
+      "Date": "Apr 23, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.20\u039e ($105)",
+      "Date": "Apr 18, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.20\u039e ($76)",
+      "Date": "Apr 04, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($3,614)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x58164b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

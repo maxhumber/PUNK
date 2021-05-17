@@ -1,0 +1,47 @@
+{
+  "id": "3893",
+  "owner": "0x13d72a0dc32901e19460527a20890f24be8cda25",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Normal Beard",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12\u039e ($2,517)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "panch",
+      "Amount": "0.09\u039e ($41)",
+      "Date": "Dec 05, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.09\u039e ($26)",
+      "Date": "Nov 01, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

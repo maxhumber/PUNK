@@ -1,0 +1,32 @@
+{
+  "id": "3243",
+  "owner": "0x0169a5af5f33a6592c424302c5db7fa0ffb1ebb5",
+  "attributes": [
+    "Male",
+    "Clown Eyes Blue",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xa6e2e9",
+      "To": "0x0169a5",
+      "Amount": "21.50\u039e ($33,127)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.50\u039e ($31,857)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xa6e2e9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

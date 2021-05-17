@@ -1,0 +1,20 @@
+{
+  "id": "7490",
+  "owner": "0xc272ed09c636edb6e858fa8702c182406185f1af",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Vape",
+    "Shaved Head",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

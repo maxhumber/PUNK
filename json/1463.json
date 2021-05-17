@@ -1,0 +1,75 @@
+{
+  "id": "1463",
+  "owner": "0x8be6ad79f67d1b76eba486b0ef4fd2c9bd1cd067",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Mohawk Thin",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "jmg",
+      "To": "0x8be6ad",
+      "Amount": "22.99\u039e ($73,376)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.99\u039e ($62,614)",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa3cb30",
+      "To": "jmg",
+      "Amount": "16.50\u039e ($34,106)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.50\u039e ($34,024)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($35,210)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x00bd9f",
+      "Amount": "0.25\u039e ($67)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($67)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

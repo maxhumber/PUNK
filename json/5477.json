@@ -1,0 +1,132 @@
+{
+  "id": "5477",
+  "owner": "0x303052148a78a692d7aa89bad454f3e91785488d",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Chinstrap",
+    "Earring",
+    "Rosy Cheeks"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "65\u039e ($98,716)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($1,437)",
+      "Date": "Jan 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($279)",
+      "Date": "Jan 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.99\u039e ($188)",
+      "Date": "Sep 15, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7f3560",
+      "To": "",
+      "Amount": "0.12\u039e ($25)",
+      "Date": "Aug 13, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pixls",
+      "Amount": "0.25\u039e ($52)",
+      "Date": "Aug 13, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7f3560",
+      "To": "",
+      "Amount": "0.12\u039e ($25)",
+      "Date": "Aug 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($52)",
+      "Date": "Aug 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($153)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($1,074)",
+      "Date": "Jun 16, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.70\u039e ($120)",
+      "Date": "Apr 22, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($241)",
+      "Date": "Sep 22, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($72)",
+      "Date": "Aug 27, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

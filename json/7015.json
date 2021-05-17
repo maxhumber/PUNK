@@ -1,0 +1,238 @@
+{
+  "id": "7015",
+  "owner": "0xb70c1a3242e363b4772b83acdc10df94e6c3fb02",
+  "attributes": [
+    "Female",
+    "Tassle Hat",
+    "Vape",
+    "Blue Eye Shadow",
+    "Black Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "114\u039e ($384,783)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "108\u039e ($250,342)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xff70ec",
+      "To": "0xb70c1a",
+      "Amount": "",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "108\u039e ($225,871)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x67e095",
+      "To": "0xff70ec",
+      "Amount": "56\u039e ($89,687)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "64\u039e ($117,330)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff70ec",
+      "To": "",
+      "Amount": "56\u039e ($102,155)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xff70ec",
+      "To": "",
+      "Amount": "46\u039e ($83,913)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff70ec",
+      "To": "",
+      "Amount": "46\u039e ($83,625)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "70\u039e ($128,384)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "80\u039e ($143,841)",
+      "Date": "Mar 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdc5556",
+      "To": "",
+      "Amount": "36\u039e ($56,127)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdc5556",
+      "To": "",
+      "Amount": "36\u039e ($56,127)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "91\u039e ($130,569)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "95\u039e ($154,557)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdc5556",
+      "To": "",
+      "Amount": "25\u039e ($41,145)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdc5556",
+      "To": "",
+      "Amount": "25\u039e ($40,992)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "97\u039e ($149,322)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x67e095",
+      "Amount": "",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa44777",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x641cf1",
+      "To": "0xa44777",
+      "Amount": "",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Novo311",
+      "To": "0x641cf1",
+      "Amount": "12\u039e ($7,544)",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x641cf1",
+      "To": "",
+      "Amount": "12\u039e ($7,544)",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.98\u039e ($9,639)",
+      "Date": "Dec 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.98\u039e ($10,185)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "ddaavvee",
+      "To": "Novo311",
+      "Amount": "",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($7,640)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "2.20\u039e ($848)",
+      "Date": "Aug 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "2.20\u039e ($912)",
+      "Date": "Aug 20, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

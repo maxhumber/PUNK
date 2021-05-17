@@ -1,0 +1,56 @@
+{
+  "id": "4415",
+  "owner": "0x4c1147725bac8c98c0ee45ea09d650ae34f5165e",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Pipe",
+    "Smile",
+    "Mohawk",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc9ab58",
+      "To": "",
+      "Amount": "1.50\u039e ($1,755)",
+      "Date": "Jan 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc9ab58",
+      "To": "",
+      "Amount": "1.50\u039e ($1,847)",
+      "Date": "Jan 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "0.35\u039e ($428)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "0.35\u039e ($258)",
+      "Date": "Dec 28, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4c1147",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

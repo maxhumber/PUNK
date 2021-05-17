@@ -1,0 +1,60 @@
+{
+  "id": "1745",
+  "owner": "0x3921bc5c561010c785870c68a8f153ab7dd9a124",
+  "attributes": [
+    "Male",
+    "Do-rag",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x3921bc",
+      "Amount": "41\u039e ($72,002)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "sighduck\u2026",
+      "To": "",
+      "Amount": "30\u039e ($52,284)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "sighduck\u2026",
+      "To": "",
+      "Amount": "30\u039e ($52,284)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "41\u039e ($75,056)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($60)",
+      "Date": "May 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($52)",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

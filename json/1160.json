@@ -1,0 +1,47 @@
+{
+  "id": "1160",
+  "owner": "0x38caf2d24a26a7f14000860198642e6cae834764",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Knitted Cap",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0x38caf2",
+      "Amount": "6.27\u039e ($7,371)",
+      "Date": "Jan 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.27\u039e ($2,280)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x5b098b",
+      "Amount": "0.15\u039e ($43)",
+      "Date": "Jun 27, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($43)",
+      "Date": "Jun 27, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

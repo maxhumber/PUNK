@@ -1,0 +1,77 @@
+{
+  "id": "6971",
+  "owner": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Spots",
+    "Earring",
+    "Headband",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "(Wrap)",
+      "From": "0x367a4c",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x42f3f7",
+      "To": "0x367a4c",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0x42f3f7",
+      "Amount": "65\u039e ($215,305)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "natealex",
+      "To": "",
+      "Amount": "52\u039e ($139,872)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "natealex",
+      "To": "",
+      "Amount": "52\u039e ($136,823)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "42\u039e ($96,928)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "42\u039e ($106,146)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "65\u039e ($135,052)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

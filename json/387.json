@@ -1,0 +1,61 @@
+{
+  "id": "387",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Gold Chain",
+    "Pipe"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "bottles",
+      "To": "",
+      "Amount": "2\u039e ($697)",
+      "Date": "Sep 09, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "bottles",
+      "To": "",
+      "Amount": "2\u039e ($671)",
+      "Date": "Sep 08, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.06\u039e ($23)",
+      "Date": "Nov 22, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.06\u039e ($23)",
+      "Date": "Nov 22, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

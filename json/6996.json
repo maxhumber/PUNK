@@ -1,0 +1,68 @@
+{
+  "id": "6996",
+  "owner": "0x00b278dd68f9d8491795ffaf771120638bef1686",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Smile",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7f3560",
+      "To": "",
+      "Amount": "0.01\u039e ($2)",
+      "Date": "Apr 24, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7f3560",
+      "To": "",
+      "Amount": "0.01\u039e ($3)",
+      "Date": "Oct 05, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "protospi\u2026",
+      "To": "",
+      "Amount": "0.01\u039e ($2)",
+      "Date": "Sep 25, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x515a82",
+      "To": "0x00b278",
+      "Amount": "0.28\u039e ($75)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.01\u039e ($3)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x970bfa",
+      "To": "",
+      "Amount": "0\u039e ($3)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.28\u039e ($77)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x515a82",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

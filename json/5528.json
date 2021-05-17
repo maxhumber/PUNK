@@ -1,0 +1,32 @@
+{
+  "id": "5528",
+  "owner": "0x09b6f9717e04224fb413e0aba09ea72b7c0d313b",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Spots"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0x09b6f9",
+      "Amount": "27\u039e ($41,238)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($46,451)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

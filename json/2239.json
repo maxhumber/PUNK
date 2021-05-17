@@ -1,0 +1,187 @@
+{
+  "id": "2239",
+  "owner": "0x7760e0243ca9baa630412865df7b39afba42ff0f",
+  "attributes": [
+    "Male",
+    "Gold Chain",
+    "Mohawk",
+    "Big Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "40\u039e ($36,516)",
+      "Date": "Jan 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "40\u039e ($29,493)",
+      "Date": "Jan 01, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "35\u039e ($12,374)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "35\u039e ($12,160)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "20\u039e ($7,008)",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "20\u039e ($6,975)",
+      "Date": "Sep 21, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "7.50\u039e ($1,470)",
+      "Date": "Apr 27, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "7.50\u039e ($1,477)",
+      "Date": "Apr 26, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "4\u039e ($727)",
+      "Date": "Oct 25, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "4\u039e ($708)",
+      "Date": "Oct 05, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "4\u039e ($1,006)",
+      "Date": "May 25, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "4\u039e ($1,006)",
+      "Date": "May 25, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "3.50\u039e ($874)",
+      "Date": "May 24, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "3.50\u039e ($874)",
+      "Date": "May 24, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "1\u039e ($107)",
+      "Date": "Feb 03, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "1\u039e ($107)",
+      "Date": "Jan 31, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.50\u039e ($377)",
+      "Date": "Dec 26, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.50\u039e ($359)",
+      "Date": "Dec 17, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.50\u039e ($135)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.50\u039e ($135)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xcbd482",
+      "To": "0x7760e0",
+      "Amount": "0.20\u039e ($57)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.20\u039e ($57)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.20\u039e ($52)",
+      "Date": "Jul 01, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

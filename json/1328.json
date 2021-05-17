@@ -1,0 +1,67 @@
+{
+  "id": "1328",
+  "owner": "0x062c5432107e3b9ad924512209a7468b5c200fcd",
+  "attributes": [
+    "Female",
+    "Big Shades",
+    "Half Shaved"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4c9692",
+      "To": "",
+      "Amount": "35\u039e ($124,188)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4c9692",
+      "To": "",
+      "Amount": "35\u039e ($124,938)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "125\u039e ($260,474)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa3cb30",
+      "To": "0x062c54",
+      "Amount": "",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "2pac",
+      "To": "",
+      "Amount": "4.50\u039e ($2,805)",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "2pac",
+      "To": "",
+      "Amount": "4.50\u039e ($2,648)",
+      "Date": "Dec 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

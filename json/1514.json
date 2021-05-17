@@ -1,0 +1,54 @@
+{
+  "id": "1514",
+  "owner": "0x670d7542947f0dd01342d5b3cdbe2b818f8908ea",
+  "attributes": [
+    "Female",
+    "Pink With Hat",
+    "Hot Lipstick",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x36d1b7",
+      "To": "",
+      "Amount": "18\u039e ($26,542)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x36d1b7",
+      "To": "",
+      "Amount": "18\u039e ($27,444)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x36d1b7",
+      "To": "",
+      "Amount": "11\u039e ($16,784)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x36d1b7",
+      "To": "",
+      "Amount": "11\u039e ($16,784)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x670d75",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

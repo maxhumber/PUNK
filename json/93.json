@@ -1,0 +1,31 @@
+{
+  "id": "93",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Female",
+    "Bandana"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "shilpixe\u2026",
+      "To": "",
+      "Amount": "5\u039e ($2,003)",
+      "Date": "Nov 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "shilpixe\u2026",
+      "To": "",
+      "Amount": "5\u039e ($1,791)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

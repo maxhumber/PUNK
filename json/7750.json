@@ -1,0 +1,222 @@
+{
+  "id": "7750",
+  "owner": "0x9e64b47bbdb9c1f7b599f11987b84c416c0c4110",
+  "attributes": [
+    "Female",
+    "Crazy Hair",
+    "Classic Shades",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "66.60\u039e ($117,781)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "EliteCat\u2026",
+      "To": "jamis.et\u2026",
+      "Amount": "19.25\u039e ($34,043)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.25\u039e ($34,816)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.11\u039e ($13,531)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "EliteCat\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "GoWest23",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa18fd5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "0xa18fd5",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "007",
+      "To": "GoWest23",
+      "Amount": "0.85\u039e ($143)",
+      "Date": "Apr 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.85\u039e ($140)",
+      "Date": "Apr 07, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "TweetyPi\u2026",
+      "To": "007",
+      "Amount": "0.70\u039e ($115)",
+      "Date": "Apr 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.70\u039e ($109)",
+      "Date": "Apr 06, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($115)",
+      "Date": "Apr 02, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.40\u039e ($190)",
+      "Date": "Mar 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xdc569c",
+      "To": "TweetyPi\u2026",
+      "Amount": "0.75\u039e ($105)",
+      "Date": "Mar 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "0.75\u039e ($105)",
+      "Date": "Mar 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.85\u039e ($117)",
+      "Date": "Mar 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Davicio",
+      "To": "",
+      "Amount": "0.70\u039e ($97)",
+      "Date": "Mar 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "0.60\u039e ($84)",
+      "Date": "Mar 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.89\u039e ($125)",
+      "Date": "Mar 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($208)",
+      "Date": "Mar 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($269)",
+      "Date": "Mar 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa1c78e\u2026",
+      "To": "0xdc569c",
+      "Amount": "0.20\u039e ($27)",
+      "Date": "Mar 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($27)",
+      "Date": "Mar 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0xa1c78e\u2026",
+      "Amount": "0.10\u039e ($31)",
+      "Date": "Nov 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($30)",
+      "Date": "Oct 31, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

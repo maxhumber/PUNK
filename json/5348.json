@@ -1,0 +1,95 @@
+{
+  "id": "5348",
+  "owner": "0xb10004a5faf2c1e72548f3c9c69947e9af01a622",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Clown Hair Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($107,298)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($120,337)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($82,681)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc480fb",
+      "To": "0xb10004",
+      "Amount": "17\u039e ($35,564)",
+      "Date": "Apr 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "14.50\u039e ($30,639)",
+      "Date": "Apr 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "14.50\u039e ($30,945)",
+      "Date": "Apr 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdb2b36",
+      "To": "",
+      "Amount": "13.50\u039e ($28,212)",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Bombard",
+      "To": "",
+      "Amount": "13\u039e ($25,936)",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17\u039e ($33,864)",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.75\u039e ($45,528)",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "37\u039e ($69,953)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc480fb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

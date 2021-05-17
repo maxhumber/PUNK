@@ -1,0 +1,67 @@
+{
+  "id": "1032",
+  "owner": "0xeb1c22baacafac7836f20f684c946228401ff01c",
+  "attributes": [
+    "Female",
+    "Straight Hair Dark",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "richerd.\u2026",
+      "Amount": "17\u039e ($34,063)",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17\u039e ($",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($36,403)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($46,134)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($45,825)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "boywitht\u2026",
+      "To": "",
+      "Amount": "0.02\u039e ($9)",
+      "Date": "Jul 20, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "boywitht\u2026",
+      "To": "",
+      "Amount": "0.02\u039e ($10)",
+      "Date": "Jul 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

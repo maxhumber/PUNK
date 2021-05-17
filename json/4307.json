@@ -1,0 +1,41 @@
+{
+  "id": "4307",
+  "owner": "0x7760e0243ca9baa630412865df7b39afba42ff0f",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Earring",
+    "Knitted Cap",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0x7760e0",
+      "Amount": "0.20\u039e ($57)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.04\u039e ($11)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($59)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

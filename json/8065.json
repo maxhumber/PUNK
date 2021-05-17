@@ -1,0 +1,188 @@
+{
+  "id": "8065",
+  "owner": "0xa374a95b8246cc6d9c5bb660a913571be8c2d8aa",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Gold Chain",
+    "Earring",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb5696e",
+      "To": "",
+      "Amount": "26\u039e ($47,056)",
+      "Date": "Mar 29, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb5696e",
+      "To": "",
+      "Amount": "26\u039e ($47,635)",
+      "Date": "Mar 29, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($89,318)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.96\u039e ($1,243)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.96\u039e ($395)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16\u039e ($5,710)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($6,463)",
+      "Date": "Jun 02, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "Cryptokk\u2026",
+      "Amount": "0.70\u039e ($111)",
+      "Date": "Apr 04, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cryptokk\u2026",
+      "To": "",
+      "Amount": "0.70\u039e ($111)",
+      "Date": "Apr 04, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.78\u039e ($109)",
+      "Date": "Mar 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($134)",
+      "Date": "Mar 26, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($672)",
+      "Date": "Mar 12, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 09, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($87)",
+      "Date": "Jun 29, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 02, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($198)",
+      "Date": "Apr 26, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($5,850)",
+      "Date": "Jan 29, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 15, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "100\u039e ($19,714)",
+      "Date": "Jul 14, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

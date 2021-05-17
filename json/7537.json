@@ -1,0 +1,40 @@
+{
+  "id": "7537",
+  "owner": "0x1c41d8667e815451c6efc242367cd15f0a4564dd",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Horned Rim Glasses",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x938bd2",
+      "To": "0x1c41d8",
+      "Amount": "",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x577ebc",
+      "To": "0x938bd2",
+      "Amount": "",
+      "Date": "Feb 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

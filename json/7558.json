@@ -1,0 +1,228 @@
+{
+  "id": "7558",
+  "owner": "0x0bb14d47a450e1a5641ba39e94a9b8b892794afb",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xe05e48",
+      "To": "0x0bb14d",
+      "Amount": "",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "100\u039e ($191,276)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc026a3",
+      "To": "0xe05e48",
+      "Amount": "33\u039e ($57,784)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33\u039e ($55,929)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "TokenAng\u2026",
+      "To": "0xc026a3",
+      "Amount": "32\u039e ($57,684)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32\u039e ($61,338)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($56,144)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe50c4f",
+      "To": "",
+      "Amount": "7\u039e ($12,968)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe50c4f",
+      "To": "",
+      "Amount": "7\u039e ($12,952)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($27,805)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($8,497)",
+      "Date": "Sep 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($2,906)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($2,322)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,037)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.50\u039e ($724)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.40\u039e ($509)",
+      "Date": "May 18, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xfa1c0-\u2026",
+      "To": "TokenAng\u2026",
+      "Amount": "1\u039e ($210)",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($221)",
+      "Date": "Feb 08, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 08, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "treetop",
+      "To": "",
+      "Amount": "0.60\u039e ($132)",
+      "Date": "Feb 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "treetop",
+      "Amount": "0.80\u039e ($177)",
+      "Date": "Feb 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Dude_Nak\u2026",
+      "To": "0xfa1c0-\u2026",
+      "Amount": "0.68\u039e ($150)",
+      "Date": "Feb 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "treetop",
+      "To": "",
+      "Amount": "0.60\u039e ($132)",
+      "Date": "Feb 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.68\u039e ($150)",
+      "Date": "Feb 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.50\u039e ($111)",
+      "Date": "Feb 07, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Dude_Nak\u2026",
+      "Amount": "0.10\u039e ($42)",
+      "Date": "Apr 03, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($38)",
+      "Date": "Apr 02, 2018"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe4d36b",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe4d36b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

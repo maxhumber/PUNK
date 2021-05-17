@@ -1,0 +1,77 @@
+{
+  "id": "7944",
+  "owner": "0xaebe68c4d463e29ff5e24f393c054b9478f2a12b",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Frown",
+    "Muttonchops",
+    "Earring",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe27e6a",
+      "To": "",
+      "Amount": "1\u039e ($1,338)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe27e6a",
+      "To": "",
+      "Amount": "1\u039e ($1,422)",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($810)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($927)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "0.35\u039e ($428)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "0.35\u039e ($258)",
+      "Date": "Dec 28, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "iandoz",
+      "To": "",
+      "Amount": "0.30\u039e ($122)",
+      "Date": "Oct 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "iandoz",
+      "To": "",
+      "Amount": "0.30\u039e ($123)",
+      "Date": "Oct 24, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xaebe68",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

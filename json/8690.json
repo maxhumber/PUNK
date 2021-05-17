@@ -1,0 +1,32 @@
+{
+  "id": "8690",
+  "owner": "0x00b278dd68f9d8491795ffaf771120638bef1686",
+  "attributes": [
+    "Male",
+    "Pipe",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x515a82",
+      "To": "0x00b278",
+      "Amount": "0.30\u039e ($83)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($83)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x515a82",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

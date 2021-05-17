@@ -1,0 +1,40 @@
+{
+  "id": "2983",
+  "owner": "0x7132c9f36abe62eab74cdfdd08c154c9ae45691b",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Shaved Head",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.35K\u039e ($3.56M)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x7132c9",
+      "Amount": "0.42\u039e ($95)",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.42\u039e ($80)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

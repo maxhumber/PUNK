@@ -1,0 +1,46 @@
+{
+  "id": "3285",
+  "owner": "0x2478c4d111e3ed59a56292564ea70448de6c492a",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Aug 03, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.76\u039e ($155)",
+      "Date": "Jul 25, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x2478c4",
+      "Amount": "0.42\u039e ($92)",
+      "Date": "Jul 21, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.42\u039e ($81)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

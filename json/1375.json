@@ -1,0 +1,89 @@
+{
+  "id": "1375",
+  "owner": "0xaa584127b91100dde6b52228c28848a7b1d059c9",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Shaved Head",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "notmycir\u2026",
+      "To": "",
+      "Amount": "16.69\u039e ($26,888)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc272ed",
+      "To": "0xaa5841",
+      "Amount": "22\u039e ($37,629)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "notmycir\u2026",
+      "To": "",
+      "Amount": "16.69\u039e ($28,560)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "notmycir\u2026",
+      "To": "",
+      "Amount": "14.69\u039e ($25,137)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($37,331)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "notmycir\u2026",
+      "To": "",
+      "Amount": "14.69\u039e ($25,271)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($44,241)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($37,834)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($36,892)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

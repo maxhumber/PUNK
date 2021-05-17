@@ -1,0 +1,88 @@
+{
+  "id": "4149",
+  "owner": "0x2d8d75d4ba64efda74eead05ac6127df4e46efa9",
+  "attributes": [
+    "Female",
+    "Horned Rim Glasses",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "magicdhz\u2026",
+      "To": "0x2d8d75",
+      "Amount": "24.99\u039e ($57,630)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($63,490)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.49\u039e ($59,364)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26\u039e ($62,936)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.49\u039e ($65,934)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($62,881)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28\u039e ($63,466)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($62,785)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "magicdhz\u2026",
+      "Amount": "24.30\u039e ($52,610)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.30\u039e ($50,791)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

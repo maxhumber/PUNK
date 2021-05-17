@@ -1,0 +1,243 @@
+{
+  "id": "3744",
+  "owner": "0xd4442b4c85e54c9e40304eedeaf0d9a5e6a4a072",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Crazy Hair",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.90\u039e ($62,947)",
+      "Date": "May 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "quantbik\u2026",
+      "To": "0xd4442b",
+      "Amount": "15.90\u039e ($65,448)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd4442b",
+      "To": "",
+      "Amount": "15\u039e ($61,236)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd4442b",
+      "To": "",
+      "Amount": "15\u039e ($60,157)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.90\u039e ($61,956)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x344f2b",
+      "To": "",
+      "Amount": "15\u039e ($55,558)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x344f2b",
+      "To": "",
+      "Amount": "15\u039e ($56,299)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.50\u039e ($65,548)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "quantbik\u2026",
+      "Amount": "",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x7c36cb",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x5b9454",
+      "To": "0x7c36cb",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x5b9454",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7a612b",
+      "To": "",
+      "Amount": "20\u039e ($42,957)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xeb0a8f",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7a612b",
+      "To": "",
+      "Amount": "20\u039e ($42,957)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x62bdc6",
+      "To": "0xeb0a8f",
+      "Amount": "",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.97\u039e ($47,188)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x62bdc6",
+      "Amount": "",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb6f83e",
+      "To": "",
+      "Amount": "3.50\u039e ($4,791)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x051561",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xaae8c5",
+      "To": "0x051561",
+      "Amount": "",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Bendicio\u2026",
+      "To": "0xaae8c5",
+      "Amount": "4.20\u039e ($5,955)",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb6f83e",
+      "To": "",
+      "Amount": "3.50\u039e ($4,664)",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x38caf2",
+      "To": "",
+      "Amount": "2.95\u039e ($3,888)",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.20\u039e ($5,536)",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.50\u039e ($5,406)",
+      "Date": "Jan 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($6,669)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x408061",
+      "To": "",
+      "Amount": "0.35\u039e ($129)",
+      "Date": "Aug 02, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x408061",
+      "To": "",
+      "Amount": "0.35\u039e ($76)",
+      "Date": "May 03, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Thing",
+      "To": "",
+      "Amount": "0.30\u039e ($65)",
+      "Date": "May 03, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Bendicio\u2026",
+      "Amount": "0.39\u039e ($80)",
+      "Date": "Jul 29, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.39\u039e ($79)",
+      "Date": "Jul 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

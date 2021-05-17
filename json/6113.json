@@ -1,0 +1,89 @@
+{
+  "id": "6113",
+  "owner": "0x577ebc5de943e35cdf9ecb5bbe1f7d7cb6c7c647",
+  "attributes": [
+    "Female",
+    "Messy Hair",
+    "Silver Chain",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "magicdhz\u2026",
+      "To": "0x577ebc",
+      "Amount": "30\u039e ($63,662)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0x577ebc",
+      "Amount": "30\u039e ($63,662)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x577ebc",
+      "To": "",
+      "Amount": "29\u039e ($61,562)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31\u039e ($65,784)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x577ebc",
+      "To": "",
+      "Amount": "29\u039e ($61,540)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "magicdhz\u2026",
+      "Amount": "25.40\u039e ($53,997)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.40\u039e ($53,997)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb4a8bf",
+      "To": "",
+      "Amount": "21\u039e ($44,230)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb4a8bf",
+      "To": "",
+      "Amount": "21\u039e ($45,828)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($57,644)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

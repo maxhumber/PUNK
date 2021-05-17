@@ -1,0 +1,111 @@
+{
+  "id": "4723",
+  "owner": "0x8c794d7345a81e1c9ef45bbb794579beb3555613",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Classic Shades",
+    "Medical Mask",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x623fc4",
+      "To": "0x8c794d",
+      "Amount": "",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "tonyherr\u2026",
+      "To": "0x623fc4",
+      "Amount": "33\u039e ($90,081)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0x623fc4",
+      "Amount": "33\u039e ($90,081)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0x623fc4",
+      "Amount": "32\u039e ($87,352)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x449c69",
+      "To": "",
+      "Amount": "30\u039e ($69,794)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x449c69",
+      "To": "",
+      "Amount": "30\u039e ($64,498)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "point-gr\u2026",
+      "To": "",
+      "Amount": "28\u039e ($58,028)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "point-gr\u2026",
+      "To": "",
+      "Amount": "28\u039e ($58,113)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "37\u039e ($76,918)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($15)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "tonyherr\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

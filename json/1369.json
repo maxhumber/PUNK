@@ -1,0 +1,319 @@
+{
+  "id": "1369",
+  "owner": "0xa07737951d1c32a86e3dfa8214430d7ec2682806",
+  "attributes": [
+    "Female",
+    "Knitted Cap",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xe6d2a9",
+      "To": "0xa07737",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x93b0b1",
+      "To": "0xe6d2a9",
+      "Amount": "14\u039e ($27,085)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14\u039e ($26,010)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "aviexkak\u2026",
+      "To": "0x93b0b1",
+      "Amount": "8.10\u039e ($14,907)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.10\u039e ($14,788)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.20\u039e ($14,732)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "aviexkak\u2026",
+      "Amount": "",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "6373D",
+      "To": "",
+      "Amount": "2.20\u039e ($1,343)",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa44777",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x641cf1",
+      "To": "0xa44777",
+      "Amount": "",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "pinkiepi\u2026",
+      "To": "0x641cf1",
+      "Amount": "4.30\u039e ($2,682)",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.30\u039e ($2,598)",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "2pac",
+      "To": "pinkiepi\u2026",
+      "Amount": "",
+      "Date": "Dec 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.40\u039e ($2,836)",
+      "Date": "Dec 18, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "6373D",
+      "To": "",
+      "Amount": "2.20\u039e ($1,418)",
+      "Date": "Dec 18, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "SenecaEt\u2026",
+      "To": "",
+      "Amount": "1.50\u039e ($963)",
+      "Date": "Dec 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($1,991)",
+      "Date": "Dec 17, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.49\u039e ($2,567)",
+      "Date": "Dec 13, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($3,154)",
+      "Date": "Nov 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf2d515",
+      "To": "2pac",
+      "Amount": "3.30\u039e ($2,011)",
+      "Date": "Nov 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.30\u039e ($2,011)",
+      "Date": "Nov 24, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "1.04\u039e ($398)",
+      "Date": "Nov 04, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Party",
+      "To": "",
+      "Amount": "3\u039e ($1,246)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Party",
+      "To": "",
+      "Amount": "3\u039e ($1,247)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.25\u039e ($1,761)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.80\u039e ($2,406)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "An111",
+      "To": "0xf2d515",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.40\u039e ($2,608)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x005700",
+      "To": "An111",
+      "Amount": "0.11\u039e ($114)",
+      "Date": "Jan 19, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x412438",
+      "To": "",
+      "Amount": "<",
+      "Date": "Jan 18, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x08562e",
+      "To": "",
+      "Amount": "<",
+      "Date": "Jan 18, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.11\u039e ($150)",
+      "Date": "Jan 14, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.11\u039e ($106)",
+      "Date": "Jan 05, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.14\u039e ($114)",
+      "Date": "Dec 19, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4960c4\u2026",
+      "To": "",
+      "Amount": "0.08\u039e ($24)",
+      "Date": "Sep 18, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.56\u039e ($209)",
+      "Date": "Aug 29, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($130)",
+      "Date": "Aug 29, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4960c4\u2026",
+      "To": "",
+      "Amount": "0.08\u039e ($30)",
+      "Date": "Aug 29, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.43\u039e ($149)",
+      "Date": "Aug 28, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($52)",
+      "Date": "Aug 28, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($133)",
+      "Date": "Aug 09, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x005700",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

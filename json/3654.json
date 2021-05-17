@@ -1,0 +1,257 @@
+{
+  "id": "3654",
+  "owner": "0x7b6107f5df88b23643511718fffe0865673b8dd8",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Classic Shades",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "beautifu\u2026",
+      "To": "",
+      "Amount": "23\u039e ($38,452)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "beautifu\u2026",
+      "To": "",
+      "Amount": "23\u039e ($38,764)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "0x7b6107",
+      "Amount": "19.99\u039e ($38,480)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.99\u039e ($39,014)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.99\u039e ($27,666)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($25,985)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x13816f",
+      "To": "Carlini8",
+      "Amount": "8.88\u039e ($15,383)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.88\u039e ($16,023)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x13816f",
+      "Amount": "",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3ba9cd",
+      "To": "0x13816f",
+      "Amount": "3.15\u039e ($1,114)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "redlione\u2026",
+      "To": "0x3ba9cd",
+      "Amount": "2.10\u039e ($712)",
+      "Date": "Sep 23, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "CPyrc",
+      "To": "redlione\u2026",
+      "Amount": "1.40\u039e ($526)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "CPyrc",
+      "Amount": "1.25\u039e ($459)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x776758",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Pranksy",
+      "To": "0x776758",
+      "Amount": "",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "PM_disco\u2026",
+      "To": "Pranksy",
+      "Amount": "1.15\u039e ($419)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.15\u039e ($412)",
+      "Date": "Sep 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.45\u039e ($414)",
+      "Date": "Jul 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "ross_VRO\u2026",
+      "To": "PM_disco\u2026",
+      "Amount": "1\u039e ($236)",
+      "Date": "Jun 12, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "PM_disco\u2026",
+      "To": "",
+      "Amount": "1\u039e ($236)",
+      "Date": "Jun 12, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.45\u039e ($337)",
+      "Date": "May 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.80\u039e ($572)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.97\u039e ($165)",
+      "Date": "Jan 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.79\u039e ($112)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "ross_VRO\u2026",
+      "Amount": "0.55\u039e ($79)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.55\u039e ($73)",
+      "Date": "Dec 22, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($216)",
+      "Date": "Aug 11, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($1,074)",
+      "Date": "Jun 16, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($971)",
+      "Date": "Feb 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($126)",
+      "Date": "Jan 12, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "9064",
+  "owner": "0xb4bb4156e5e6ca5d81041f616c27dffb253b7845",
+  "attributes": [
+    "Female",
+    "Wild White Hair",
+    "Welding Goggles",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "150\u039e ($342,328)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0e4437",
+      "To": "",
+      "Amount": "75\u039e ($127,925)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0e4437",
+      "To": "",
+      "Amount": "75\u039e ($127,276)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "120\u039e ($189,124)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3dae9a",
+      "To": "0xb4bb41",
+      "Amount": "67.99\u039e ($115,071)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "67.99\u039e ($115,071)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x0053f2",
+      "To": "0x3dae9a",
+      "Amount": "",
+      "Date": "Jul 22, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.36\u039e ($96)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6611fe",
+      "To": "",
+      "Amount": "0.36\u039e ($96)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.30\u039e ($83)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6611fe",
+      "To": "",
+      "Amount": "0.30\u039e ($83)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.20\u039e ($57)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.20\u039e ($57)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.10\u039e ($28)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6611fe",
+      "To": "",
+      "Amount": "0.10\u039e ($28)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x0053f2",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

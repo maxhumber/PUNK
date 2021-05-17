@@ -1,0 +1,33 @@
+{
+  "id": "5735",
+  "owner": "0xc182d81b3c3bb743b8660eb41fb36780a910d106",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Silver Chain",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "1\u039e ($1,544)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "1\u039e ($1,015)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc182d8",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

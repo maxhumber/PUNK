@@ -1,0 +1,209 @@
+{
+  "id": "6871",
+  "owner": "0x290fbe4d4745f6b5267c209c92c8d81cebb5e9f0",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Buck Teeth",
+    "Nerd Glasses",
+    "Pipe"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "natealex",
+      "To": "0x290fbe",
+      "Amount": "50\u039e ($89,041)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($74,543)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0e4437",
+      "To": "",
+      "Amount": "50\u039e ($73,477)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "59.59\u039e ($87,570)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0e4437",
+      "To": "",
+      "Amount": "50\u039e ($73,046)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "55.55\u039e ($84,529)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "62\u039e ($94,456)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69\u039e ($136,131)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "jesterbo\u2026",
+      "To": "natealex",
+      "Amount": "45.54\u039e ($89,846)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45.54\u039e ($90,678)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "78.90\u039e ($151,593)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "75\u039e ($133,978)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4d17cf",
+      "To": "jesterbo\u2026",
+      "Amount": "",
+      "Date": "Oct 31, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($10,347)",
+      "Date": "Oct 23, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x257e2b",
+      "To": "",
+      "Amount": "14\u039e ($5,798)",
+      "Date": "Oct 23, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x257e2b",
+      "To": "",
+      "Amount": "14\u039e ($5,576)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cry",
+      "To": "",
+      "Amount": "7\u039e ($2,771)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0601d0",
+      "To": "",
+      "Amount": "6\u039e ($2,375)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cry",
+      "To": "",
+      "Amount": "4.50\u039e ($1,782)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "4\u039e ($1,584)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cry",
+      "To": "",
+      "Amount": "3\u039e ($1,188)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x257e2b",
+      "To": "",
+      "Amount": "2\u039e ($792)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "1.50\u039e ($594)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4d17cf",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

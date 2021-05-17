@@ -1,0 +1,47 @@
+{
+  "id": "5963",
+  "owner": "0xc480fb0ebea2591470f571436926785be5ebcd22",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Normal Beard Black",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf3016b",
+      "To": "",
+      "Amount": "53\u039e ($116,562)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf3016b",
+      "To": "",
+      "Amount": "53\u039e ($128,894)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf3016b",
+      "To": "",
+      "Amount": "43.50\u039e ($104,998)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf3016b",
+      "To": "",
+      "Amount": "43.50\u039e ($106,410)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc480fb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

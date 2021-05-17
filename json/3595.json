@@ -1,0 +1,82 @@
+{
+  "id": "3595",
+  "owner": "0x8dbbca57ea56290efa14d835bbfd34faf1d89753",
+  "attributes": [
+    "Female",
+    "Purple Lipstick",
+    "Blonde Bob",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x257e2b",
+      "To": "",
+      "Amount": "9\u039e ($3,072)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x257e2b",
+      "To": "",
+      "Amount": "9\u039e ($3,068)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "lander",
+      "To": "",
+      "Amount": "6\u039e ($2,150)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "lander",
+      "To": "",
+      "Amount": "6\u039e ($2,114)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xaf5e63",
+      "To": "VonMises",
+      "Amount": "",
+      "Date": "Aug 16, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "1.10\u039e ($474)",
+      "Date": "Aug 16, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x48db19",
+      "To": "0xaf5e63",
+      "Amount": "1.25\u039e ($538)",
+      "Date": "Aug 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.25\u039e ($538)",
+      "Date": "Aug 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "1.10\u039e ($481)",
+      "Date": "Aug 15, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

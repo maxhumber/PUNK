@@ -1,0 +1,95 @@
+{
+  "id": "7632",
+  "owner": "0x6ef2376fa6e12dabb3a3ed0fb44e4ff29847af68",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x561786",
+      "To": "",
+      "Amount": "4\u039e ($4,320)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x561786",
+      "To": "",
+      "Amount": "4\u039e ($5,241)",
+      "Date": "Jan 10, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "2pac",
+      "To": "0x6ef237",
+      "Amount": "5\u039e ($6,425)",
+      "Date": "Jan 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6ef237",
+      "To": "",
+      "Amount": "5\u039e ($6,582)",
+      "Date": "Jan 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.89\u039e ($6,485)",
+      "Date": "Jan 06, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.50\u039e ($4,818)",
+      "Date": "Jan 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xde0193",
+      "To": "2pac",
+      "Amount": "5\u039e ($3,664)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "2pac",
+      "To": "",
+      "Amount": "5\u039e ($3,664)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff40d2",
+      "To": "",
+      "Amount": "4\u039e ($2,939)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "2pac",
+      "To": "",
+      "Amount": "3\u039e ($2,204)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xde0193",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

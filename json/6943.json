@@ -1,0 +1,126 @@
+{
+  "id": "6943",
+  "owner": "0x279679e6b44ec547c6e0466e5efd7d47ef3a400f",
+  "attributes": [
+    "Male",
+    "Clown Nose",
+    "Crazy Hair",
+    "Pipe",
+    "Smile",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "333\u039e ($715,734)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "222\u039e ($455,449)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x0e4437",
+      "To": "0x279679",
+      "Amount": "",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "240\u039e ($476,935)",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0x0e4437",
+      "Amount": "82.99\u039e ($152,007)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0e4437",
+      "To": "",
+      "Amount": "75\u039e ($137,372)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "82.99\u039e ($152,007)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0e4437",
+      "To": "",
+      "Amount": "75\u039e ($137,372)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "84.99\u039e ($155,447)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf4b4a5",
+      "To": "",
+      "Amount": "65\u039e ($119,575)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "5\u039e ($7,604)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "5\u039e ($6,173)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x8cbd1b",
+      "To": "",
+      "Amount": "7\u039e ($8,681)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x8cbd1b",
+      "To": "",
+      "Amount": "7\u039e ($8,413)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

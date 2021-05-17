@@ -1,0 +1,96 @@
+{
+  "id": "6861",
+  "owner": "0x574d479d8cf0437b440ce692dd7c8f07c4e9bbed",
+  "attributes": [
+    "Female",
+    "Big Shades",
+    "Mohawk Thin",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "250\u039e ($511,957)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x3b7f24",
+      "To": "",
+      "Amount": "22\u039e ($39,367)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3b7f24",
+      "To": "",
+      "Amount": "22\u039e ($39,135)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "125\u039e ($222,356)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x5caff0\u2026",
+      "Amount": "20\u039e ($34,697)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5caff0\u2026",
+      "To": "",
+      "Amount": "17.50\u039e ($30,845)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5caff0\u2026",
+      "To": "",
+      "Amount": "17.50\u039e ($29,918)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($35,653)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5caff0\u2026",
+      "To": "",
+      "Amount": "15\u039e ($27,110)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5caff0\u2026",
+      "To": "",
+      "Amount": "13\u039e ($23,495)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5caff0\u2026",
+      "To": "",
+      "Amount": "13\u039e ($23,519)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "id": "4278",
+  "owner": "0x007eb9fe5553d5027149a05ff715efe55ca4247a",
+  "attributes": [
+    "Male",
+    "Police Cap",
+    "Mustache"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "ross_VRO\u2026",
+      "To": "0x007eb9",
+      "Amount": "13.12\u039e ($23,729)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x007eb9",
+      "To": "",
+      "Amount": "13.12\u039e ($23,729)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x007eb9",
+      "To": "",
+      "Amount": "12\u039e ($21,710)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x007eb9",
+      "To": "",
+      "Amount": "12\u039e ($21,909)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.12\u039e ($4,598)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.99\u039e ($3,698)",
+      "Date": "Sep 12, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.99\u039e ($1,769)",
+      "Date": "Sep 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.99\u039e ($1,282)",
+      "Date": "Aug 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($2,016)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "ross_VRO\u2026",
+      "Amount": "1.49\u039e ($300)",
+      "Date": "May 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.49\u039e ($298)",
+      "Date": "May 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.29\u039e ($245)",
+      "Date": "May 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.69\u039e ($242)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.69\u039e ($121)",
+      "Date": "Sep 04, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.25\u039e ($45)",
+      "Date": "Sep 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "Pranksy",
+      "Amount": "0.25\u039e ($45)",
+      "Date": "Sep 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($538)",
+      "Date": "Jul 13, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

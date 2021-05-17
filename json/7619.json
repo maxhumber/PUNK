@@ -1,0 +1,88 @@
+{
+  "id": "7619",
+  "owner": "0x8e662143178bb8c797620a3a61f34a71832475b0",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "Dude_Nak\u2026",
+      "Amount": "",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x11c9a7",
+      "To": "Dude_Nak\u2026",
+      "Amount": "1.85\u039e ($714)",
+      "Date": "Sep 18, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "CPyrc",
+      "To": "0x11c9a7",
+      "Amount": "1.75\u039e ($646)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x6f0186",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "CPyrc",
+      "To": "0x6f0186",
+      "Amount": "",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.45\u039e ($486)",
+      "Date": "Sep 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "CPyrc",
+      "Amount": "1.10\u039e ($371)",
+      "Date": "Sep 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.10\u039e ($430)",
+      "Date": "Aug 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($443)",
+      "Date": "May 29, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

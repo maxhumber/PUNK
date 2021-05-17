@@ -1,0 +1,166 @@
+{
+  "id": "6699",
+  "owner": "0x94de7e2c73529ebf3206aa3459e699fbcdfcd49b",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Wild Hair",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "antunes_\u2026",
+      "To": "tonyherr\u2026",
+      "Amount": "7.50\u039e ($10,385)",
+      "Date": "Jan 25, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x8abfca",
+      "To": "",
+      "Amount": "5\u039e ($6,809)",
+      "Date": "Jan 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x8abfca",
+      "To": "",
+      "Amount": "5\u039e ($6,119)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.50\u039e ($4,606)",
+      "Date": "Dec 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($3,882)",
+      "Date": "Dec 18, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "1.03\u039e ($426)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "antunes_\u2026",
+      "Amount": "",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xfdd9bc",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "antunes_\u2026",
+      "To": "0xfdd9bc",
+      "Amount": "",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($281)",
+      "Date": "Apr 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "antunes_\u2026",
+      "Amount": "1\u039e ($138)",
+      "Date": "Jan 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($135)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($248)",
+      "Date": "Jun 22, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "antunes_\u2026",
+      "To": "",
+      "Amount": "0.42\u039e ($124)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "Pranksy",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "antunes_\u2026",
+      "To": "",
+      "Amount": "0.42\u039e ($124)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.25\u039e ($66)",
+      "Date": "May 16, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.25\u039e ($43)",
+      "Date": "May 08, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

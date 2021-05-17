@@ -1,0 +1,139 @@
+{
+  "id": "3760",
+  "owner": "0xa9c2066be0c0bbccdd84cd7a689277a64624ea61",
+  "attributes": [
+    "Male",
+    "Goat",
+    "Smile",
+    "Do-rag",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0xa9c206",
+      "Amount": "0.55\u039e ($96)",
+      "Date": "Sep 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0xa9c206",
+      "Amount": "0.55\u039e ($96)",
+      "Date": "Sep 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($175)",
+      "Date": "Jul 31, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($175)",
+      "Date": "Jul 31, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Zieg",
+      "To": "Pranksy",
+      "Amount": "0.49\u039e ($132)",
+      "Date": "Jul 11, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.49\u039e ($132)",
+      "Date": "Jul 11, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.79\u039e ($239)",
+      "Date": "Jul 03, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "Zieg",
+      "Amount": "0.30\u039e ($50)",
+      "Date": "Apr 05, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Zieg",
+      "To": "",
+      "Amount": "0.30\u039e ($50)",
+      "Date": "Apr 05, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($71)",
+      "Date": "Apr 01, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($72)",
+      "Date": "Mar 30, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.23\u039e ($173)",
+      "Date": "Mar 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($140)",
+      "Date": "Mar 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($201)",
+      "Date": "Mar 26, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($516)",
+      "Date": "Sep 21, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

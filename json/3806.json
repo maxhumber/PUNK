@@ -1,0 +1,110 @@
+{
+  "id": "3806",
+  "owner": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Normal Beard Black",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "(Wrap)",
+      "From": "0x027002",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcf6165",
+      "To": "0x027002",
+      "Amount": "",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Jiho",
+      "To": "0xcf6165",
+      "Amount": "4\u039e ($2,513)",
+      "Date": "Dec 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($2,507)",
+      "Date": "Dec 26, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "avcdsld",
+      "To": "",
+      "Amount": "0.60\u039e ($169)",
+      "Date": "Feb 19, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "avcdsld",
+      "To": "",
+      "Amount": "0.60\u039e ($168)",
+      "Date": "Feb 18, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "ross_VRO\u2026",
+      "To": "Jiho",
+      "Amount": "0.59\u039e ($108)",
+      "Date": "Feb 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.59\u039e ($104)",
+      "Date": "Jan 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($128)",
+      "Date": "Jan 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.59\u039e ($84)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe45df5",
+      "To": "ross_VRO\u2026",
+      "Amount": "0.55\u039e ($79)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.55\u039e ($48)",
+      "Date": "Dec 13, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($761)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe45df5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

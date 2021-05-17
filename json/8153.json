@@ -1,0 +1,40 @@
+{
+  "id": "8153",
+  "owner": "0xaa14c41fd6cb09b84b8096e3dd52430816c14b63",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Clown Nose",
+    "Goat"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49\u039e ($89,992)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0xaa14c4",
+      "Amount": "9\u039e ($16,456)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9\u039e ($16,683)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "712",
+  "owner": "0x7f208e6b4f99b3481eca475960201fbf392c5155",
+  "attributes": [
+    "Female",
+    "Straight Hair",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7b88df",
+      "To": "",
+      "Amount": "0.01\u039e ($34)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7b88df",
+      "To": "",
+      "Amount": "0.01\u039e ($21)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 14, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0x7f208e",
+      "Amount": "",
+      "Date": "Dec 17, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

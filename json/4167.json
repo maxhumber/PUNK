@@ -1,0 +1,208 @@
+{
+  "id": "4167",
+  "owner": "0xea9724fe1b46b3e397e3b00a62323e49c867cacc",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "VR",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "brazy.et\u2026",
+      "To": "0xea9724",
+      "Amount": "38.50\u039e ($127,655)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xea9724",
+      "To": "",
+      "Amount": "38.50\u039e ($127,655)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.50\u039e ($115,555)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40.50\u039e ($111,986)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "41.50\u039e ($113,383)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42.50\u039e ($117,300)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.99\u039e ($104,807)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "41\u039e ($99,821)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "55\u039e ($124,332)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.97\u039e ($94,250)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "43\u039e ($103,464)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "44\u039e ($106,205)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "44.90\u039e ($112,250)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0a4eaf\u2026",
+      "To": "brazy.et\u2026",
+      "Amount": "38\u039e ($95,845)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "38\u039e ($95,845)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($67)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($67)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.41\u039e ($78)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.41\u039e ($78)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x5b098b",
+      "To": "0x0a4eaf\u2026",
+      "Amount": "",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf138eb",
+      "To": "0x5b098b",
+      "Amount": "0.23\u039e ($70)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "0.23\u039e ($70)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xf138eb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

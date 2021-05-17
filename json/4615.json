@@ -1,0 +1,40 @@
+{
+  "id": "4615",
+  "owner": "0x75a28547ac8eb72c2035aad5e146cb775604a05f",
+  "attributes": [
+    "Female",
+    "Regular Shades",
+    "Half Shaved",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xa3cb30",
+      "To": "0x75a285",
+      "Amount": "26.50\u039e ($48,453)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.50\u039e ($47,853)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "id": "6869",
+  "owner": "0x2b84773955eee20e0ab23e44f0a174d92633fe84",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Buck Teeth",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "59.95\u039e ($222,601)",
+      "Date": "May 15, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Michel_M\u2026",
+      "To": "0x2b8477",
+      "Amount": "",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "150\u039e ($224,830)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "82\u039e ($126,596)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "95\u039e ($161,097)",
+      "Date": "Feb 06, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.50\u039e ($17,970)",
+      "Date": "Dec 01, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Party",
+      "To": "",
+      "Amount": "5.10\u039e ($3,081)",
+      "Date": "Dec 01, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Party",
+      "To": "",
+      "Amount": "5.10\u039e ($3,128)",
+      "Date": "Dec 01, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Nov 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.50\u039e ($11,247)",
+      "Date": "Nov 30, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "5\u039e ($2,910)",
+      "Date": "Nov 23, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "5\u039e ($2,767)",
+      "Date": "Nov 22, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Party",
+      "To": "",
+      "Amount": "4\u039e ($1,671)",
+      "Date": "Oct 23, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Party",
+      "To": "",
+      "Amount": "4\u039e ($1,665)",
+      "Date": "Oct 23, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($8,647)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($9,935)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x34e801",
+      "To": "Michel_M\u2026",
+      "Amount": "",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x4d17cf",
+      "To": "0x34e801",
+      "Amount": "1\u039e ($396)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($368)",
+      "Date": "Oct 20, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4d17cf",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

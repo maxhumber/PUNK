@@ -1,0 +1,89 @@
+{
+  "id": "8548",
+  "owner": "0xbec69dfce4c1fa8b7843fee1ca85788d84a86b06",
+  "attributes": [
+    "Female",
+    "Bandana",
+    "Hot Lipstick",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x18ee9c",
+      "To": "anonymou\u2026",
+      "Amount": "20.50\u039e ($80,983)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.25\u039e ($82,914)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "anonymou\u2026",
+      "To": "",
+      "Amount": "20.50\u039e ($77,679)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.95\u039e ($85,107)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($88,569)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.50\u039e ($82,724)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($73,158)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0x18ee9c",
+      "Amount": "22.22\u039e ($62,937)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.22\u039e ($62,937)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

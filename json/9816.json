@@ -1,0 +1,124 @@
+{
+  "id": "9816",
+  "owner": "0x8f8b4759dc93ca55bd6997df719f20f581f10f5c",
+  "attributes": [
+    "Male",
+    "Frown",
+    "Shaved Head",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42\u039e ($170,974)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "44\u039e ($161,657)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "52.50\u039e ($173,022)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($152,801)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "53\u039e ($124,162)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe907c9",
+      "To": "",
+      "Amount": "36\u039e ($93,385)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($128,444)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0b88fd",
+      "To": "0x8f8b47",
+      "Amount": "39.75\u039e ($96,471)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.75\u039e ($97,100)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc480fb",
+      "To": "0x0b88fd",
+      "Amount": "",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe907c9",
+      "To": "",
+      "Amount": "36\u039e ($86,712)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42\u039e ($101,220)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc480fb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

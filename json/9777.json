@@ -1,0 +1,40 @@
+{
+  "id": "9777",
+  "owner": "0xf837045a01a0283409b56dea4b4ee42eed6e563e",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Luxurious Beard",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "rleshner\u2026",
+      "To": "0xf83704",
+      "Amount": "",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x000c1c\u2026",
+      "To": "rleshner\u2026",
+      "Amount": "",
+      "Date": "Jan 25, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x887caa",
+      "To": "0x000c1c\u2026",
+      "Amount": "",
+      "Date": "Oct 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x887caa",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "3880",
+  "owner": "0x5a99fa495c894441180113515aab3b80ce79e491",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Do-rag",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "parttty6",
+      "To": "",
+      "Amount": "0\u039e ($3)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "gaus",
+      "To": "parttty6",
+      "Amount": "0\u039e ($3)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0x5a99fa",
+      "Amount": "0.00\u039e ($0.00)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x5a99fa",
+      "To": "gaus",
+      "Amount": "",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "gaus",
+      "To": "parttty6",
+      "Amount": "0\u039e ($3)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0x5a99fa",
+      "Amount": "0.00\u039e ($0.00)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xf247f7",
+      "To": "gaus",
+      "Amount": "",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "gaus",
+      "To": "parttty6",
+      "Amount": "0\u039e ($3)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0xf247f7",
+      "Amount": "0.00\u039e ($0.00)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "parttty6",
+      "To": "",
+      "Amount": "0\u039e ($3)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "gaus",
+      "Amount": "",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "gaus",
+      "Amount": "2.75\u039e ($949)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Pranksy",
+      "Amount": "2.30\u039e ($796)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x193847",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Hemba",
+      "To": "0x193847",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

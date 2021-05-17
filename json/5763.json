@@ -1,0 +1,83 @@
+{
+  "id": "5763",
+  "owner": "0xcffc60228e1a8aa7c631101eb82fa94981621cbf",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Wild Hair",
+    "Classic Shades",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "pelvis.e\u2026",
+      "To": "",
+      "Amount": "15\u039e ($27,047)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "pelvis.e\u2026",
+      "To": "",
+      "Amount": "15\u039e ($26,894)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4d17cf",
+      "To": "jesterbo\u2026",
+      "Amount": "",
+      "Date": "Oct 31, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Cryptokk\u2026",
+      "To": "",
+      "Amount": "2.30\u039e ($960)",
+      "Date": "Oct 23, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cryptokk\u2026",
+      "To": "",
+      "Amount": "2.30\u039e ($961)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x587ff7\u2026",
+      "To": "",
+      "Amount": "0.06\u039e ($8)",
+      "Date": "Dec 19, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x587ff7\u2026",
+      "To": "",
+      "Amount": "0.06\u039e ($11)",
+      "Date": "Oct 15, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "0.04\u039e ($15)",
+      "Date": "Jun 23, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4d17cf",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

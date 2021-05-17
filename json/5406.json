@@ -1,0 +1,130 @@
+{
+  "id": "5406",
+  "owner": "0x78f0269f5b1ca914c8c58993f41181f89e212b27",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Gold Chain"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($125,704)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($109,828)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($9,096)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12\u039e ($4,459)",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($1,229)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($798)",
+      "Date": "May 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0553de",
+      "To": "TokenAng\u2026",
+      "Amount": "1.25\u039e ($266)",
+      "Date": "May 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.25\u039e ($267)",
+      "Date": "May 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($519)",
+      "Date": "Jan 18, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "0.80\u039e ($129)",
+      "Date": "Jan 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "0.80\u039e ($133)",
+      "Date": "Jan 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.49\u039e ($214)",
+      "Date": "Jan 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x0553de",
+      "Amount": "0.40\u039e ($125)",
+      "Date": "Jul 08, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($306)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0553de",
+      "To": "",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

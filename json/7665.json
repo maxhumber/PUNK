@@ -1,0 +1,97 @@
+{
+  "id": "7665",
+  "owner": "0xd94be559c07539ad8f303e3d20db18d007d72591",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Earring",
+    "Top Hat",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "135\u039e ($387,874)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "70\u039e ($175,925)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc480fb",
+      "To": "0xd94be5",
+      "Amount": "80\u039e ($201,058)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "80\u039e ($201,058)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "70\u039e ($174,435)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xddfdcb",
+      "To": "",
+      "Amount": "35.50\u039e ($66,256)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xddfdcb",
+      "To": "",
+      "Amount": "35.50\u039e ($62,991)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "5\u039e ($6,255)",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "5\u039e ($6,241)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "6373D",
+      "To": "",
+      "Amount": "1\u039e ($612)",
+      "Date": "Dec 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc480fb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

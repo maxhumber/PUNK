@@ -1,0 +1,89 @@
+{
+  "id": "9304",
+  "owner": "0x7786089b523202b02409a4763ed375e6fffce464",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Messy Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "0x778608",
+      "Amount": "19.99\u039e ($38,111)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.99\u039e ($39,014)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x3b6eac",
+      "To": "",
+      "Amount": "12\u039e ($23,359)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "renaissa\u2026",
+      "To": "Carlini8",
+      "Amount": "14.95\u039e ($29,102)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3b6eac",
+      "To": "",
+      "Amount": "12\u039e ($24,069)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.95\u039e ($28,681)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10.90\u039e ($18,635)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "renaissa\u2026",
+      "Amount": "8.90\u039e ($15,215)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.90\u039e ($15,346)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

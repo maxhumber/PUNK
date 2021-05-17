@@ -1,0 +1,60 @@
+{
+  "id": "5224",
+  "owner": "0xe301612b0751f6d862a27be205fb8e3c40c8c6db",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xab61cc",
+      "To": "0xe30161",
+      "Amount": "",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xff70ec",
+      "To": "",
+      "Amount": "26.50\u039e ($56,987)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0xab61cc",
+      "Amount": "31\u039e ($66,664)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31\u039e ($65,926)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff70ec",
+      "To": "",
+      "Amount": "26.50\u039e ($56,836)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.50\u039e ($72,110)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

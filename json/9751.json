@@ -1,0 +1,47 @@
+{
+  "id": "9751",
+  "owner": "0x374bd185ee19fd9f8682eb875e5d0546a8d58cdd",
+  "attributes": [
+    "Male",
+    "Clown Eyes Blue",
+    "Earring",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf9728b",
+      "To": "",
+      "Amount": "1\u039e ($349)",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf9728b",
+      "To": "",
+      "Amount": "1\u039e ($354)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x374bd1",
+      "Amount": "0.98\u039e ($239)",
+      "Date": "May 22, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.98\u039e ($125)",
+      "Date": "Jan 10, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

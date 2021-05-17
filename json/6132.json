@@ -1,0 +1,20 @@
+{
+  "id": "6132",
+  "owner": "0x44fab57dba0e643018c06d83cc8d658980b7ee08",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Mohawk Thin",
+    "Shadow Beard",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x44fab5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

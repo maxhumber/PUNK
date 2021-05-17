@@ -1,0 +1,194 @@
+{
+  "id": "2130",
+  "owner": "0xe03559ea7be32a6b7152ba745fadb7e07a772bff",
+  "attributes": [
+    "Male",
+    "Top Hat",
+    "Small Shades",
+    "Big Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb70c1a",
+      "To": "",
+      "Amount": "100\u039e ($218,172)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "140\u039e ($308,605)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "115\u039e ($261,998)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb70c1a",
+      "To": "",
+      "Amount": "100\u039e ($227,824)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "116\u039e ($263,551)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0e9aed",
+      "To": "",
+      "Amount": "89\u039e ($202,207)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "118\u039e ($273,282)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "80\u039e ($189,583)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "80\u039e ($180,969)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "70\u039e ($150,851)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaea8e3",
+      "To": "",
+      "Amount": "40\u039e ($73,906)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "185\u039e ($326,634)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "105\u039e ($185,971)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaea8e3",
+      "To": "",
+      "Amount": "40\u039e ($62,304)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x29b1b2",
+      "To": "",
+      "Amount": "65\u039e ($101,809)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x29b1b2",
+      "To": "",
+      "Amount": "65\u039e ($101,809)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x65ba4f",
+      "To": "",
+      "Amount": "37\u039e ($57,953)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "barthazi\u2026",
+      "To": "",
+      "Amount": "30\u039e ($46,989)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "200\u039e ($313,520)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x6fec47",
+      "To": "",
+      "Amount": "15\u039e ($29,503)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6fec47",
+      "To": "",
+      "Amount": "15\u039e ($26,711)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "1\u039e ($1,544)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "1\u039e ($1,015)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3639a0",
+      "To": "",
+      "Amount": "0.10\u039e ($36)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe03559",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "1953",
+  "owner": "0x5654967dc2c3f207b68bbd8003bc27a0a4106b56",
+  "attributes": [
+    "Female",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "61\u039e ($251,262)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "65\u039e ($216,510)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd3e2e7",
+      "To": "",
+      "Amount": "60.67\u039e ($190,648)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "70\u039e ($220,840)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd3e2e7",
+      "To": "",
+      "Amount": "60.67\u039e ($191,393)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "68.50\u039e ($216,108)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "75\u039e ($206,749)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xca7ae4",
+      "To": "",
+      "Amount": "55\u039e ($150,918)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "85\u039e ($206,274)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99\u039e ($206,730)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "55\u039e ($114,766)",
+      "Date": "Apr 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "60\u039e ($111,116)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x51636d",
+      "To": "",
+      "Amount": "40\u039e ($72,750)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "75\u039e ($136,407)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x51636d",
+      "To": "",
+      "Amount": "40\u039e ($72,750)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "70\u039e ($126,492)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "199.99\u039e ($360,780)",
+      "Date": "Mar 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0x565496",
+      "Amount": "44.99\u039e ($79,979)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "44.99\u039e ($79,979)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "6\u039e ($7,490)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "6\u039e ($7,290)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x087173",
+      "To": "",
+      "Amount": "5.80\u039e ($7,047)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

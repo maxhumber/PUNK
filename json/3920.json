@@ -1,0 +1,102 @@
+{
+  "id": "3920",
+  "owner": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+  "attributes": [
+    "Female",
+    "Mohawk Thin",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "(Wrap)",
+      "From": "0x7cd45f",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe85740",
+      "To": "0x7cd45f",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xe85740",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x47bab6",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "wookie.e\u2026",
+      "To": "0x47bab6",
+      "Amount": "",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf4a775",
+      "To": "wookie.e\u2026",
+      "Amount": "16.50\u039e ($28,116)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "16.50\u039e ($28,116)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x05e709",
+      "To": "",
+      "Amount": "16\u039e ($27,323)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x05e709",
+      "To": "",
+      "Amount": "16\u039e ($27,323)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18\u039e ($30,649)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "0xf4a775",
+      "Amount": "0.09\u039e ($41)",
+      "Date": "Dec 05, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.09\u039e ($26)",
+      "Date": "Nov 01, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

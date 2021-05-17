@@ -1,0 +1,54 @@
+{
+  "id": "964",
+  "owner": "0xb88f61e6fbda83fbfffabe364112137480398018",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Earring",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x516358",
+      "To": "",
+      "Amount": "16\u039e ($33,294)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x516358",
+      "To": "",
+      "Amount": "16\u039e ($32,700)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0xb88f61",
+      "Amount": "",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "MBK",
+      "To": "",
+      "Amount": "1\u039e ($203)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "MBK",
+      "To": "",
+      "Amount": "1\u039e ($211)",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

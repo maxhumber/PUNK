@@ -1,0 +1,33 @@
+{
+  "id": "9624",
+  "owner": "0x59a5493513ba2378ed57ae5ecfb8a027e9d80365",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Normal Beard Black",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x067107",
+      "To": "0x59a549",
+      "Amount": "5.87\u039e ($7,790)",
+      "Date": "Jan 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.87\u039e ($7,037)",
+      "Date": "Jan 06, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x067107",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

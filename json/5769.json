@@ -1,0 +1,47 @@
+{
+  "id": "5769",
+  "owner": "0xdfc05563f947718ca9ebd9e685022a200a5075c8",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Horned Rim Glasses",
+    "Dark Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x9b35db",
+      "To": "0xdfc055",
+      "Amount": "",
+      "Date": "Jan 02, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x9b35db",
+      "Amount": "1.40\u039e ($536)",
+      "Date": "Aug 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.40\u039e ($536)",
+      "Date": "Aug 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($500)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

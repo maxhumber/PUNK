@@ -1,0 +1,81 @@
+{
+  "id": "311",
+  "owner": "0xb88f61e6fbda83fbfffabe364112137480398018",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Frumpy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "3.11\u039e ($4,893)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0xb88f61",
+      "Amount": "",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "3.11\u039e ($3,936)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "3.11\u039e ($4,132)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "3.11\u039e ($4,130)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "3.11\u039e ($2,012)",
+      "Date": "Dec 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "3.11\u039e ($1,898)",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "3.11\u039e ($1,135)",
+      "Date": "Oct 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "3.11\u039e ($1,055)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

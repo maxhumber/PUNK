@@ -1,0 +1,60 @@
+{
+  "id": "1516",
+  "owner": "0x28d17da9de37c8eb0f5c7e20fcfbeecb6fce3f42",
+  "attributes": [
+    "Male",
+    "Knitted Cap",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69.42\u039e ($247,938)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x3aa8bf",
+      "To": "",
+      "Amount": "21.75\u039e ($32,526)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3aa8bf",
+      "To": "",
+      "Amount": "21.75\u039e ($35,037)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe4f0ac",
+      "To": "0x28d17d",
+      "Amount": "9.80\u039e ($17,846)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.80\u039e ($16,884)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0xe4f0ac",
+      "Amount": "",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

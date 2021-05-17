@@ -1,0 +1,33 @@
+{
+  "id": "6213",
+  "owner": "0x38740516f691a66b4c1cd9156e9434c7915e73b3",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Shadow Beard",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16\u039e ($59,285)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x387405",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

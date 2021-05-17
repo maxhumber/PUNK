@@ -1,0 +1,33 @@
+{
+  "id": "1486",
+  "owner": "0x7a341c8d5f04e55f907c3b1ef5c6c74b5add01c6",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Big Shades",
+    "Muttonchops"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0x7a341c",
+      "Amount": "0.20\u039e ($56)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($59)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

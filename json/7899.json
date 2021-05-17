@@ -1,0 +1,39 @@
+{
+  "id": "7899",
+  "owner": "0x4edaa8c329f1f72e10a64a3d7454fa277332371b",
+  "attributes": [
+    "Female",
+    "Headband",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0x4edaa8",
+      "Amount": "27\u039e ($40,068)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($36,338)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

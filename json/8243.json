@@ -1,0 +1,103 @@
+{
+  "id": "8243",
+  "owner": "0xc24f574d6853f6f6a31c19d468a8c1b3f31c0e54",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Pigtails",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb70c1a",
+      "To": "",
+      "Amount": "52\u039e ($171,074)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb70c1a",
+      "To": "",
+      "Amount": "52\u039e ($175,260)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xcf8401",
+      "To": "",
+      "Amount": "51\u039e ($168,014)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcf8401",
+      "To": "",
+      "Amount": "51\u039e ($168,078)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb70c1a",
+      "To": "",
+      "Amount": "50\u039e ($164,782)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "60\u039e ($115,034)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00ce50",
+      "To": "shilpixe\u2026",
+      "Amount": "24.49\u039e ($46,622)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "shilpixe\u2026",
+      "To": "",
+      "Amount": "24.49\u039e ($47,017)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($810)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($950)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00ce50",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

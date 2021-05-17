@@ -1,0 +1,159 @@
+{
+  "id": "6294",
+  "owner": "0x3245d30c08bb3629d5848b1a440ab8b040eab291",
+  "attributes": [
+    "Female",
+    "Crazy Hair",
+    "Hot Lipstick",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32\u039e ($121,745)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "hellogar\u2026",
+      "To": "0x3245d3",
+      "Amount": "21\u039e ($41,319)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($41,449)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.99\u039e ($46,453)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($46,141)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($35,615)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($54,246)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa7eba7",
+      "To": "hellogar\u2026",
+      "Amount": "19\u039e ($34,783)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($34,741)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.99\u039e ($2,866)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.49\u039e ($2,666)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.99\u039e ($2,858)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.50\u039e ($3,007)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9\u039e ($3,173)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($3,651)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($6,523)",
+      "Date": "Sep 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39\u039e ($14,341)",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49\u039e ($11,027)",
+      "Date": "Jun 27, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xa7eba7",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

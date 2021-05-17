@@ -1,0 +1,54 @@
+{
+  "id": "5533",
+  "owner": "0xcffc336e6d019c1af58257a0b10bf2146a3f42a4",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Police Cap",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xba7ccc",
+      "To": "0xcffc33",
+      "Amount": "",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5b0a56",
+      "To": "",
+      "Amount": "0.13\u039e ($240)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b0a56",
+      "To": "",
+      "Amount": "0.13\u039e ($240)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xba7ccc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

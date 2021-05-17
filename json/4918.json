@@ -1,0 +1,124 @@
+{
+  "id": "4918",
+  "owner": "0xaa73a811a4898ca0e116376be752b3960d554021",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Muttonchops",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x9ce03d",
+      "To": "",
+      "Amount": "2.50\u039e ($1,022)",
+      "Date": "Oct 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x_NFT",
+      "To": "Plinythe\u2026",
+      "Amount": "3.80\u039e ($1,558)",
+      "Date": "Oct 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9ce03d",
+      "To": "",
+      "Amount": "2.50\u039e ($1,043)",
+      "Date": "Oct 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.80\u039e ($1,573)",
+      "Date": "Oct 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.75\u039e ($1,841)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x51357b",
+      "To": "0x_NFT",
+      "Amount": "3.75\u039e ($1,293)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.75\u039e ($1,317)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($3,771)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x51357b",
+      "Amount": "1.50\u039e ($551)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($359)",
+      "Date": "Jun 03, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "0.15\u039e ($40)",
+      "Date": "Jun 14, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "0.15\u039e ($37)",
+      "Date": "Jun 10, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.51\u039e ($84)",
+      "Date": "Apr 12, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.42\u039e ($80)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

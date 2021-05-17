@@ -1,0 +1,119 @@
+{
+  "id": "3438",
+  "owner": "0x42f3f76ba5202d7a4c48fd428b5613c657689bcc",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Frown",
+    "Shadow Beard",
+    "Classic Shades",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "75\u039e ($309,700)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "88\u039e ($296,594)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x42f3f7",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x367a4c",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x42f3f7",
+      "To": "0x367a4c",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "88\u039e ($298,867)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x42f3f7",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x9cec84",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x8be6ad",
+      "To": "0x9cec84",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x8be6ad",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xb4b290",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "snax",
+      "To": "0xb4b290",
+      "Amount": "",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "snax",
+      "Amount": "0.11\u039e ($127)",
+      "Date": "Jan 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.11\u039e ($125)",
+      "Date": "Jan 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

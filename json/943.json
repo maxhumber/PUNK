@@ -1,0 +1,115 @@
+{
+  "id": "943",
+  "owner": "0xaea8e3bd369217cc6e3e6abddf0da318fba8e59b",
+  "attributes": [
+    "Male",
+    "Cowboy Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "84.99\u039e ($294,261)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "89.99\u039e ($250,392)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99.99\u039e ($240,589)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "sbdave.e\u2026",
+      "To": "",
+      "Amount": "55.50\u039e ($136,259)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xfeeb2d",
+      "To": "0xaea8e3",
+      "Amount": "67\u039e ($164,492)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "67\u039e ($164,492)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "sbdave.e\u2026",
+      "To": "",
+      "Amount": "55.50\u039e ($134,496)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xebf1db",
+      "To": "",
+      "Amount": "49\u039e ($124,121)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "79\u039e ($200,114)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xebf1db",
+      "To": "",
+      "Amount": "49\u039e ($124,121)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "sbdave.e\u2026",
+      "To": "",
+      "Amount": "46\u039e ($114,468)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xebf1db",
+      "To": "",
+      "Amount": "43\u039e ($107,002)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0xfeeb2d",
+      "Amount": "",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

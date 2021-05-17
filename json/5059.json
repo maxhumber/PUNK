@@ -1,0 +1,68 @@
+{
+  "id": "5059",
+  "owner": "0x6611fe71c233e4e7510b2795c242c9a57790b376",
+  "attributes": [
+    "Male",
+    "Gold Chain",
+    "Headband",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x64756a",
+      "To": "",
+      "Amount": "30\u039e ($122,124)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "44\u039e ($128,623)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x64756a",
+      "To": "",
+      "Amount": "30\u039e ($82,232)",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7f3560",
+      "To": "",
+      "Amount": "0.01\u039e ($2)",
+      "Date": "Apr 24, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7f3560",
+      "To": "",
+      "Amount": "0.01\u039e ($3)",
+      "Date": "Oct 05, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "protospi\u2026",
+      "To": "",
+      "Amount": "0.01\u039e ($2)",
+      "Date": "Sep 25, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x970bfa",
+      "To": "",
+      "Amount": "0\u039e ($2)",
+      "Date": "Jul 12, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

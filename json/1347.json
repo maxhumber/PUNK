@@ -1,0 +1,67 @@
+{
+  "id": "1347",
+  "owner": "0x584cdfdeed39622ef121ceff65f10a8875bea115",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Goat"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xe4f0ac",
+      "To": "0x584cdf",
+      "Amount": "8.50\u039e ($15,441)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.50\u039e ($15,370)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.90\u039e ($14,188)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.50\u039e ($11,884)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($14,748)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.90\u039e ($12,089)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0xe4f0ac",
+      "Amount": "",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

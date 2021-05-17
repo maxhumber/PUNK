@@ -1,0 +1,90 @@
+{
+  "id": "9432",
+  "owner": "0x8c2e67bd3d0f432ef75d9ae6623cd0dfbce66050",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Big Shades",
+    "Front Beard Dark",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x7a9fe2",
+      "To": "borgetse\u2026",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x287b15",
+      "To": "",
+      "Amount": "22.30\u039e ($52,241)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5f5df4",
+      "To": "0x7a9fe2",
+      "Amount": "24.99\u039e ($58,543)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x287b15",
+      "To": "",
+      "Amount": "22.30\u039e ($50,546)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($51,637)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32.99\u039e ($60,371)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35.50\u039e ($65,709)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xca8fe4",
+      "To": "0x5f5df4",
+      "Amount": "",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.49\u039e ($39,108)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

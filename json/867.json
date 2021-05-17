@@ -1,0 +1,48 @@
+{
+  "id": "867",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Blonde Short",
+    "Clown Eyes Blue",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "2pac",
+      "To": "",
+      "Amount": "8.50\u039e ($4,441)",
+      "Date": "Nov 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "2pac",
+      "To": "",
+      "Amount": "8.50\u039e ($4,441)",
+      "Date": "Nov 26, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.70\u039e ($95)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.70\u039e ($92)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

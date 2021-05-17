@@ -1,0 +1,88 @@
+{
+  "id": "4416",
+  "owner": "0xa88173757486529adb2162a060b6355a90f242e2",
+  "attributes": [
+    "Female",
+    "Mohawk Thin",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.10\u039e ($53,985)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.10\u039e ($48,419)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x1f8add",
+      "To": "Theodora",
+      "Amount": "1.10\u039e ($371)",
+      "Date": "Jul 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.10\u039e ($313)",
+      "Date": "Jul 25, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0x000000",
+      "Amount": "0.00\u039e ($0.00)",
+      "Date": "Jul 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.95\u039e ($402)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x1f8add",
+      "Amount": "1.05\u039e ($224)",
+      "Date": "May 20, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.05\u039e ($231)",
+      "Date": "Feb 07, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

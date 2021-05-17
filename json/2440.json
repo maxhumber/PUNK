@@ -1,0 +1,67 @@
+{
+  "id": "2440",
+  "owner": "0xdcf227c475a43c82a4ffeb133729d6ce2f348a92",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Clown Nose"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.99\u039e ($64,571)",
+      "Date": "May 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.99\u039e ($85,624)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.50\u039e ($81,877)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.99\u039e ($87,535)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0xdcf227",
+      "Amount": "25\u039e ($58,466)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdcf227",
+      "To": "",
+      "Amount": "25\u039e ($58,466)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

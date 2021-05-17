@@ -1,0 +1,236 @@
+{
+  "id": "5398",
+  "owner": "0xc330219f80328380a75dbbaca7f92f2f7976bcb8",
+  "attributes": [
+    "Female",
+    "Hot Lipstick",
+    "Half Shaved",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "Deepyr",
+      "To": "0xc33021",
+      "Amount": "",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "TokenAng\u2026",
+      "To": "Deepyr",
+      "Amount": "1.61\u039e ($612)",
+      "Date": "Aug 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deepyr",
+      "To": "",
+      "Amount": "1.61\u039e ($384)",
+      "Date": "Jul 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.50\u039e ($700)",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "MBK",
+      "To": "TokenAng\u2026",
+      "Amount": "1.25\u039e ($266)",
+      "Date": "May 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.25\u039e ($235)",
+      "Date": "Apr 25, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "1.15\u039e ($192)",
+      "Date": "Jan 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.99\u039e ($329)",
+      "Date": "Jan 20, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($258)",
+      "Date": "Jan 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.55\u039e ($271)",
+      "Date": "Jan 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($265)",
+      "Date": "Jan 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($353)",
+      "Date": "Jan 18, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "1.15\u039e ($203)",
+      "Date": "Jan 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($265)",
+      "Date": "Jan 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.65\u039e ($289)",
+      "Date": "Jan 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.99\u039e ($343)",
+      "Date": "Jan 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($278)",
+      "Date": "Jan 09, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($216)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.49\u039e ($202)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($202)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "BlackKet\u2026",
+      "To": "",
+      "Amount": "0.38\u039e ($48)",
+      "Date": "Jan 03, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "MBK",
+      "Amount": "0.50\u039e ($66)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "MBK",
+      "To": "",
+      "Amount": "0.50\u039e ($66)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.65\u039e ($93)",
+      "Date": "Dec 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.99\u039e ($173)",
+      "Date": "Sep 04, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.25\u039e ($45)",
+      "Date": "Sep 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "Pranksy",
+      "Amount": "0.25\u039e ($45)",
+      "Date": "Sep 02, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x87e225",
+      "To": "",
+      "Amount": "0.28\u039e ($64)",
+      "Date": "Jul 20, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x87e225",
+      "To": "",
+      "Amount": "0.28\u039e ($62)",
+      "Date": "Jul 19, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($306)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

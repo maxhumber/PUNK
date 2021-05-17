@@ -1,0 +1,25 @@
+{
+  "id": "1919",
+  "owner": "0x6301add4fb128de9778b8651a2a9278b86761423",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Frown"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "119.19\u039e ($178,216)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

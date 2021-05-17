@@ -1,0 +1,48 @@
+{
+  "id": "5563",
+  "owner": "0xc5faf10fe84467422a78c39e591bced4f6c71462",
+  "attributes": [
+    "Female",
+    "Vape",
+    "Hot Lipstick",
+    "Wild Blonde",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "75\u039e ($262,526)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x50cde7",
+      "To": "",
+      "Amount": "0.12\u039e ($340)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "curating\u2026",
+      "To": "0xc5faf1",
+      "Amount": "",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x50cde7",
+      "To": "",
+      "Amount": "0.12\u039e ($137)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "curating\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

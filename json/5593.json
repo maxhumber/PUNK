@@ -1,0 +1,32 @@
+{
+  "id": "5593",
+  "owner": "0x00b278dd68f9d8491795ffaf771120638bef1686",
+  "attributes": [
+    "Male",
+    "Wild Hair",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x0bf913",
+      "To": "0x00b278",
+      "Amount": "0.29\u039e ($78)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.29\u039e ($78)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x0bf913",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

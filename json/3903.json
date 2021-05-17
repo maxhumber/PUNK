@@ -1,0 +1,96 @@
+{
+  "id": "3903",
+  "owner": "0xa25803ab86a327786bb59395fc0164d826b98298",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Headband",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "Wilcox",
+      "To": "0xa25803",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "Wilcox",
+      "Amount": "",
+      "Date": "Sep 14, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($207)",
+      "Date": "Jul 12, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "juggerna\u2026",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Oct 02, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($129)",
+      "Date": "Aug 21, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "juggerna\u2026",
+      "Amount": "0.28\u039e ($77)",
+      "Date": "Aug 07, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "juggerna\u2026",
+      "To": "",
+      "Amount": "0.20\u039e ($54)",
+      "Date": "Aug 07, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.28\u039e ($77)",
+      "Date": "Aug 07, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "juggerna\u2026",
+      "To": "",
+      "Amount": "0.20\u039e ($44)",
+      "Date": "Aug 04, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($154)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($286)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

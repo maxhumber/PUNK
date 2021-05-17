@@ -1,0 +1,47 @@
+{
+  "id": "9524",
+  "owner": "0xb38071b23f0fa92cf9e1bd6feec5a5f9821f3ccc",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Regular Shades",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30.98\u039e ($133,522)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xb38071",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xd74c23",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xb38071",
+      "To": "0xd74c23",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb38071",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

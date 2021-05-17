@@ -1,0 +1,46 @@
+{
+  "id": "507",
+  "owner": "0x8c97cf28138c04921199e6d8c9e09ff3e982951d",
+  "attributes": [
+    "Female",
+    "Hot Lipstick",
+    "Dark Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0x8c97cf",
+      "Amount": "27.99\u039e ($48,154)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.99\u039e ($52,561)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.99\u039e ($76,026)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "Pranksy",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

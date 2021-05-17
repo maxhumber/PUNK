@@ -1,0 +1,32 @@
+{
+  "id": "5776",
+  "owner": "0xe0908c4bb4fb2041dff71e87e1f76ac4c4cc625f",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xa6e2e9",
+      "To": "0xe0908c",
+      "Amount": "21.96\u039e ($51,863)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.96\u039e ($56,965)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xa6e2e9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

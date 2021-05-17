@@ -1,0 +1,138 @@
+{
+  "id": "3192",
+  "owner": "0xe703f231ab056ecb99c92a1232cc1020acfc72f8",
+  "attributes": [
+    "Male",
+    "Clown Nose",
+    "Front Beard Dark",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($51,676)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xd4442b",
+      "To": "0xe703f2",
+      "Amount": "17.50\u039e ($36,235)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.50\u039e ($36,604)",
+      "Date": "Apr 07, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Deeze",
+      "To": "0xd4442b",
+      "Amount": "16\u039e ($33,467)",
+      "Date": "Apr 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd4442b",
+      "To": "",
+      "Amount": "16\u039e ($33,467)",
+      "Date": "Apr 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.99\u039e ($42,408)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "Deeze",
+      "Amount": "",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x840aad",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x568cf5",
+      "To": "0x840aad",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "renaissa\u2026",
+      "To": "0x568cf5",
+      "Amount": "5.50\u039e ($2,000)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.50\u039e ($1,967)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x231707",
+      "To": "renaissa\u2026",
+      "Amount": "4\u039e ($1,431)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($929)",
+      "Date": "Jul 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($355)",
+      "Date": "Nov 18, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($432)",
+      "Date": "Mar 22, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($245)",
+      "Date": "Mar 14, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x231707",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

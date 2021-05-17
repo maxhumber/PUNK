@@ -1,0 +1,89 @@
+{
+  "id": "2820",
+  "owner": "0x407f0caf24df420ee7880f82be76efee2720ceef",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Luxurious Beard",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "38\u039e ($142,890)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "48\u039e ($207,463)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "53\u039e ($206,356)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "50\u039e ($176,058)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "50\u039e ($170,164)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "56\u039e ($192,520)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0e9aed",
+      "To": "",
+      "Amount": "46\u039e ($158,816)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "60\u039e ($207,152)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4bc2cc",
+      "To": "0x407f0c",
+      "Amount": "",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4bc2cc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4863",
+  "owner": "0x606e83ad850a289bb588a908b4ab7782d5e79be2",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Smile",
+    "Do-rag",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "iandoz",
+      "To": "",
+      "Amount": "1\u039e ($347)",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "iandoz",
+      "To": "",
+      "Amount": "1\u039e ($345)",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x606e83",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

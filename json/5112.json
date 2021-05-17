@@ -1,0 +1,132 @@
+{
+  "id": "5112",
+  "owner": "0xfba169cc807ed66cef816144fcbd2e36b6142422",
+  "attributes": [
+    "Male",
+    "Wild Hair",
+    "Vape",
+    "Earring",
+    "Goat"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "100\u039e ($344,520)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "20\u039e ($66,956)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "200\u039e ($673,874)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "20\u039e ($67,339)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x84c920",
+      "To": "",
+      "Amount": "21\u039e ($32,677)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x84c920",
+      "To": "",
+      "Amount": "21\u039e ($28,574)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "20.50\u039e ($27,893)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x84c920",
+      "To": "",
+      "Amount": "20\u039e ($27,213)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "18\u039e ($24,492)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "24\u039e ($32,355)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "24\u039e ($32,301)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x84c920",
+      "To": "",
+      "Amount": "23\u039e ($31,036)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "22\u039e ($30,234)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaea8e3",
+      "To": "",
+      "Amount": "21\u039e ($28,721)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x07c5ea",
+      "To": "",
+      "Amount": "20\u039e ($27,325)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "15\u039e ($20,207)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xfba169",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

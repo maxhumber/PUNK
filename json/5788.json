@@ -1,0 +1,67 @@
+{
+  "id": "5788",
+  "owner": "0xdde8df9a7dc9f68bdac815f493d1d731de911b5a",
+  "attributes": [
+    "Female",
+    "Vape",
+    "Dark Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "Kenney",
+      "Amount": "0.25\u039e ($136)",
+      "Date": "Mar 23, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Kenney",
+      "To": "",
+      "Amount": "0.25\u039e ($136)",
+      "Date": "Mar 23, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($269)",
+      "Date": "Mar 18, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($3,510)",
+      "Date": "Jan 29, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($1,134)",
+      "Date": "Jan 01, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 15, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($436)",
+      "Date": "Dec 10, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

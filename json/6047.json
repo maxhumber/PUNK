@@ -1,0 +1,370 @@
+{
+  "id": "6047",
+  "owner": "0x33b17a8d3578d558731ba60b6ba8e5f38a0bfa1d",
+  "attributes": [
+    "Female",
+    "Tassle Hat",
+    "Blue Eye Shadow",
+    "Black Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.96\u039e ($134,204)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb70c1a",
+      "To": "0x33b17a",
+      "Amount": "33.33\u039e ($105,636)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33.33\u039e ($75,934)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.80\u039e ($76,754)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "38.80\u039e ($92,212)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.80\u039e ($80,666)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xff70ec",
+      "To": "0xb70c1a",
+      "Amount": "",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x65ba4f",
+      "To": "0xff70ec",
+      "Amount": "27\u039e ($45,477)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff70ec",
+      "To": "",
+      "Amount": "27\u039e ($48,034)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($53,398)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "aurelia-\u2026",
+      "To": "",
+      "Amount": "29\u039e ($51,618)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "aurelia-\u2026",
+      "To": "",
+      "Amount": "29\u039e ($51,618)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31.50\u039e ($57,550)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33.30\u039e ($61,318)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff70ec",
+      "To": "",
+      "Amount": "27\u039e ($49,253)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.70\u039e ($63,387)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "37\u039e ($66,526)",
+      "Date": "Mar 16, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "38\u039e ($67,596)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39\u039e ($59,591)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "41\u039e ($64,602)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "43\u039e ($64,451)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42\u039e ($65,448)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "MrTpunks",
+      "To": "0x65ba4f",
+      "Amount": "22\u039e ($42,525)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($42,525)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "ManOverb\u2026",
+      "To": "MrTpunks",
+      "Amount": "",
+      "Date": "Jun 13, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf0f068\u2026",
+      "To": "ManOverb\u2026",
+      "Amount": "3\u039e ($702)",
+      "Date": "Jun 12, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "ManOverb\u2026",
+      "To": "",
+      "Amount": "2.50\u039e ($585)",
+      "Date": "Jun 12, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($733)",
+      "Date": "Jun 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.25\u039e ($792)",
+      "Date": "Jun 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "ManOverb\u2026",
+      "To": "",
+      "Amount": "2.50\u039e ($609)",
+      "Date": "Jun 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.50\u039e ($828)",
+      "Date": "Jun 03, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "MrTpunks\u2026",
+      "To": "",
+      "Amount": "2.75\u039e ($651)",
+      "Date": "Jun 02, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "MrTpunks\u2026",
+      "To": "",
+      "Amount": "2.75\u039e ($665)",
+      "Date": "Jun 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.60\u039e ($798)",
+      "Date": "May 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.90\u039e ($794)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.75\u039e ($639)",
+      "Date": "Mar 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.85\u039e ($519)",
+      "Date": "Jan 31, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.88\u039e ($472)",
+      "Date": "Jan 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($357)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0xf0f068\u2026",
+      "Amount": "1.25\u039e ($160)",
+      "Date": "Dec 24, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf0f068\u2026",
+      "To": "",
+      "Amount": "1.25\u039e ($160)",
+      "Date": "Dec 24, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf0f068\u2026",
+      "To": "",
+      "Amount": "1\u039e ($128)",
+      "Date": "Dec 24, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($192)",
+      "Date": "Dec 24, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf0f068\u2026",
+      "To": "",
+      "Amount": "1\u039e ($128)",
+      "Date": "Dec 24, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.75\u039e ($317)",
+      "Date": "Oct 11, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($541)",
+      "Date": "Aug 11, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

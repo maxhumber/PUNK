@@ -1,0 +1,97 @@
+{
+  "id": "4166",
+  "owner": "0xcd2c66fe27f8c6e08a5bd42b2617a34f8854eece",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Purple Eye Shadow",
+    "Earring",
+    "Blonde Bob"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "30\u039e ($54,802)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "30\u039e ($53,136)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x231707",
+      "To": "0xcd2c66",
+      "Amount": "1\u039e ($383)",
+      "Date": "Aug 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11\u039e ($2,548)",
+      "Date": "Jul 01, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcd2c66",
+      "To": "",
+      "Amount": "1\u039e ($245)",
+      "Date": "Jun 11, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x61e7e7",
+      "To": "",
+      "Amount": "0.69\u039e ($169)",
+      "Date": "May 23, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x61e7e7",
+      "To": "",
+      "Amount": "0.69\u039e ($169)",
+      "Date": "May 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.50\u039e ($976)",
+      "Date": "Nov 18, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($1,526)",
+      "Date": "Mar 15, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($305)",
+      "Date": "Mar 15, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x231707",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

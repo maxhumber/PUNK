@@ -1,0 +1,95 @@
+{
+  "id": "8956",
+  "owner": "0x7e21cdfa60e69bd0455ae0c3083c4ef3e4b33aa4",
+  "attributes": [
+    "Male",
+    "Vape",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6ef237",
+      "To": "0x7e21cd",
+      "Amount": "21\u039e ($70,782)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($68,959)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x90b653",
+      "To": "0x6ef237",
+      "Amount": "20.21\u039e ($47,051)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.21\u039e ($51,077)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.02\u039e ($52,469)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.10\u039e ($53,241)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.20\u039e ($53,000)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.42\u039e ($52,608)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.10\u039e ($52,034)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x90b653",
+      "Amount": "0.10\u039e ($115)",
+      "Date": "Jan 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($136)",
+      "Date": "Jan 14, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

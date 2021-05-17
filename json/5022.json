@@ -1,0 +1,32 @@
+{
+  "id": "5022",
+  "owner": "0xe83c750b2708320bb134796c555b80df39a3d97b",
+  "attributes": [
+    "Male",
+    "Normal Beard",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Snowfro",
+      "Amount": "0.90\u039e ($322)",
+      "Date": "Sep 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($364)",
+      "Date": "Aug 29, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

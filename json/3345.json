@@ -1,0 +1,60 @@
+{
+  "id": "3345",
+  "owner": "0x062c5432107e3b9ad924512209a7468b5c200fcd",
+  "attributes": [
+    "Female",
+    "Gold Chain",
+    "Dark Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xa3cb30",
+      "To": "0x062c54",
+      "Amount": "",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "MrTpunks\u2026",
+      "To": "",
+      "Amount": "8\u039e ($3,031)",
+      "Date": "Oct 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "46.11\u039e ($17,202)",
+      "Date": "Oct 11, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "MrTpunks\u2026",
+      "To": "",
+      "Amount": "8\u039e ($2,982)",
+      "Date": "Oct 11, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "9772",
+  "owner": "0x3295df41a2f288da03818ae32565e1599f1b2eee",
+  "attributes": [
+    "Male",
+    "Cap",
+    "Classic Shades",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x89ba62",
+      "To": "Cyrus",
+      "Amount": "",
+      "Date": "Jun 30, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x89ba62",
+      "Amount": "0.09\u039e ($111)",
+      "Date": "Jan 28, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x89ba62",
+      "To": "",
+      "Amount": "0.09\u039e ($90)",
+      "Date": "Jan 22, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

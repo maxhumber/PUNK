@@ -1,0 +1,103 @@
+{
+  "id": "7309",
+  "owner": "0x32b1dc6a72eb673c539cea9d0c029d92a6344d7a",
+  "attributes": [
+    "Male",
+    "Wild Hair",
+    "Earring",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($3,917)",
+      "Date": "Oct 31, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pixls",
+      "To": "0x32b1dc\u2026",
+      "Amount": "1.20\u039e ($240)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x32b1dc\u2026",
+      "To": "",
+      "Amount": "0.60\u039e ($120)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.20\u039e ($238)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x1a96af",
+      "To": "Pixls",
+      "Amount": "1.13\u039e ($224)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x32b1dc\u2026",
+      "To": "",
+      "Amount": "0.60\u039e ($123)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.13\u039e ($192)",
+      "Date": "Apr 17, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe45df5",
+      "To": "0x1a96af",
+      "Amount": "",
+      "Date": "Apr 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($2,409)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.90\u039e ($531)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe45df5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "4283",
+  "owner": "0x7d4823262bd2c6e4fa78872f2587dda2a65828ed",
+  "attributes": [
+    "Male",
+    "Cap",
+    "Shadow Beard",
+    "Earring",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "nickemmo\u2026",
+      "To": "fazebank\u2026",
+      "Amount": "",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "nickemmo\u2026",
+      "Amount": "50\u039e ($78,410)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($78,410)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39\u039e ($76,199)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32\u039e ($61,217)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Zonked",
+      "To": "",
+      "Amount": "9\u039e ($14,824)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Zonked",
+      "To": "",
+      "Amount": "9\u039e ($14,748)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

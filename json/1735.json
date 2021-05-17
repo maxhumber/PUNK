@@ -1,0 +1,74 @@
+{
+  "id": "1735",
+  "owner": "0x577ebc5de943e35cdf9ecb5bbe1f7d7cb6c7c647",
+  "attributes": [
+    "Female",
+    "Earring",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.99\u039e ($79,418)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3be89b",
+      "To": "0x577ebc",
+      "Amount": "17.50\u039e ($69,526)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.50\u039e ($70,257)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($93,482)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xf5a4ba",
+      "To": "0x3be89b",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x3be89b",
+      "To": "0xf5a4ba",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0x3be89b",
+      "Amount": "",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xbfe1f8",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xbfe1f8",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

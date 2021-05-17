@@ -1,0 +1,31 @@
+{
+  "id": "7542",
+  "owner": "0x8dbbca57ea56290efa14d835bbfd34faf1d89753",
+  "attributes": [
+    "Male",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "VonMises",
+      "Amount": "10.90\u039e ($4,103)",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10.90\u039e ($4,104)",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

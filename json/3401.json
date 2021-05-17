@@ -1,0 +1,26 @@
+{
+  "id": "3401",
+  "owner": "0xc5faf10fe84467422a78c39e591bced4f6c71462",
+  "attributes": [
+    "Female",
+    "Eye Mask",
+    "Wild Blonde",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "curating\u2026",
+      "To": "0xc5faf1",
+      "Amount": "",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "curating\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

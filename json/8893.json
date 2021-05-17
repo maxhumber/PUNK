@@ -1,0 +1,61 @@
+{
+  "id": "8893",
+  "owner": "0x78f0a6385028eea69a527d8a3c4cd1092651972c",
+  "attributes": [
+    "Female",
+    "Messy Hair",
+    "Hot Lipstick",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "46.50\u039e ($177,515)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "70.25\u039e ($117,157)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x86f391",
+      "To": "",
+      "Amount": "27.80\u039e ($41,621)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x86f391",
+      "To": "",
+      "Amount": "27.80\u039e ($40,415)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32\u039e ($50,886)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "75.50\u039e ($102,729)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x78f0a6",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

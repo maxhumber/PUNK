@@ -1,0 +1,194 @@
+{
+  "id": "5238",
+  "owner": "0xcc72f778eedd8e337e6cb58ca9ec8ba2912e71dc",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Classic Shades",
+    "Smile"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "225\u039e ($465,840)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "monopoly\u2026",
+      "To": "0xcc72f7",
+      "Amount": "25\u039e ($42,760)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcc72f7",
+      "To": "",
+      "Amount": "25\u039e ($42,760)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xcc72f7",
+      "To": "",
+      "Amount": "20\u039e ($34,208)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($49,084)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcc72f7",
+      "To": "",
+      "Amount": "20\u039e ($35,433)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($55,795)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Kino",
+      "To": "monopoly\u2026",
+      "Amount": "",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($43,036)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42\u039e ($15,205)",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x61e7e7",
+      "To": "Kino",
+      "Amount": "1.39\u039e ($331)",
+      "Date": "Jun 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.39\u039e ($328)",
+      "Date": "May 31, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.49\u039e ($327)",
+      "Date": "May 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($517)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.69\u039e ($245)",
+      "Date": "Jan 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.15\u039e ($157)",
+      "Date": "Jan 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.89\u039e ($121)",
+      "Date": "Jan 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.10\u039e ($161)",
+      "Date": "Jan 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.98\u039e ($141)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.28\u039e ($174)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($133)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x581b59",
+      "To": "0x61e7e7",
+      "Amount": "",
+      "Date": "Jul 12, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x581b59",
+      "Amount": "0.50\u039e ($138)",
+      "Date": "Jul 12, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($138)",
+      "Date": "Jul 12, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "9108",
+  "owner": "0x3124dcd240b330945896b0cdfa8dd20ed400704c",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Earring",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe27e6a",
+      "To": "",
+      "Amount": "1\u039e ($1,326)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe27e6a",
+      "To": "",
+      "Amount": "1\u039e ($1,422)",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 14, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x3124dc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

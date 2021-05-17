@@ -1,0 +1,32 @@
+{
+  "id": "8976",
+  "owner": "0x00b278dd68f9d8491795ffaf771120638bef1686",
+  "attributes": [
+    "Female",
+    "Classic Shades",
+    "Dark Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x00b278",
+      "Amount": "0.45\u039e ($108)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($120)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

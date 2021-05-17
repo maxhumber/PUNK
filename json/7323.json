@@ -1,0 +1,74 @@
+{
+  "id": "7323",
+  "owner": "0x0e616785638663c88a493a82972e2f9cadaab4bc",
+  "attributes": [
+    "Male",
+    "Goat",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Theodora",
+      "To": "0x0e6167",
+      "Amount": "16.80\u039e ($33,145)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.80\u039e ($32,320)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "Theodora",
+      "Amount": "0.90\u039e ($329)",
+      "Date": "Sep 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($348)",
+      "Date": "Aug 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.99\u039e ($226)",
+      "Date": "Jul 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.79\u039e ($361)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "Pranksy",
+      "Amount": "0.90\u039e ($182)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($405)",
+      "Date": "Jul 23, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

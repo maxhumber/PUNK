@@ -1,0 +1,46 @@
+{
+  "id": "6701",
+  "owner": "0x26f744711ee9e5079cbeaf318ba8a8e938844de6",
+  "attributes": [
+    "Male",
+    "Top Hat",
+    "Medical Mask"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "0.35\u039e ($67)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "0.35\u039e ($93)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($15)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x26f744",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

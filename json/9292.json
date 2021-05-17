@@ -1,0 +1,33 @@
+{
+  "id": "9292",
+  "owner": "0x1f92fc15bcbeb4dd24eefbead8d7aee409f891dc",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Spots",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "ddaavvee",
+      "To": "0x1f92fc",
+      "Amount": "9.20\u039e ($12,605)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.20\u039e ($3,478)",
+      "Date": "Oct 15, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

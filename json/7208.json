@@ -1,0 +1,40 @@
+{
+  "id": "7208",
+  "owner": "0x530afa101bed324809d0738d45b38a669314ff54",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Big Beard",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "PB",
+      "Amount": "1.60\u039e ($335)",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.60\u039e ($274)",
+      "Date": "Jan 17, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe4d36b",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe4d36b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

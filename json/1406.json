@@ -1,0 +1,60 @@
+{
+  "id": "1406",
+  "owner": "0xaf129b8b277c5348d64001aebdd07d118bd95515",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Cap Forward"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "44\u039e ($89,461)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc272ed",
+      "To": "0xaf129b",
+      "Amount": "22.50\u039e ($41,055)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.50\u039e ($41,044)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($45,749)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($48,316)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

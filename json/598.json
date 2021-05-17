@@ -1,0 +1,89 @@
+{
+  "id": "598",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Female",
+    "Wild White Hair",
+    "Purple Eye Shadow",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "8\u039e ($11,239)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "8\u039e ($10,622)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "tlpqgz6j\u2026",
+      "To": "",
+      "Amount": "1.50\u039e ($245)",
+      "Date": "Jan 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "tlpqgz6j\u2026",
+      "To": "",
+      "Amount": "1.50\u039e ($191)",
+      "Date": "Jan 02, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1\u039e ($132)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe9d43c",
+      "To": "",
+      "Amount": "0.25\u039e ($37)",
+      "Date": "Feb 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe9d43c",
+      "To": "",
+      "Amount": "0.25\u039e ($39)",
+      "Date": "Jan 02, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.10\u039e ($28)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9be1c7",
+      "To": "",
+      "Amount": "0.10\u039e ($28)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

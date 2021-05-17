@@ -1,0 +1,61 @@
+{
+  "id": "7377",
+  "owner": "0xf40b3d16ae26262db9b19e0ec80d8a490c40bdcb",
+  "attributes": [
+    "Male",
+    "Muttonchops",
+    "Do-rag",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xf40b3d",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "redlione\u2026",
+      "To": "0xf40b3d",
+      "Amount": "2.75\u039e ($949)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "redlione\u2026",
+      "Amount": "2.19\u039e ($757)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Pranksy",
+      "Amount": "1.80\u039e ($613)",
+      "Date": "Sep 22, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x193847",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Hemba",
+      "To": "0x193847",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

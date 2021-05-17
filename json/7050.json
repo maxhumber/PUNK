@@ -1,0 +1,19 @@
+{
+  "id": "7050",
+  "owner": "0x849c1d8452126fb0b120c3abb688a1011f54d89b",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Vape",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x849c1d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

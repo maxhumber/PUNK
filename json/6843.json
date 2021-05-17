@@ -1,0 +1,82 @@
+{
+  "id": "6843",
+  "owner": "0x848fa9ec76391b94a83442170085f8ca863b1624",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Regular Shades",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.96\u039e ($95,118)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.49\u039e ($88,453)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.97\u039e ($81,150)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.97\u039e ($83,999)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.49\u039e ($84,259)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x4322aa",
+      "To": "AZonneve\u2026",
+      "Amount": "21.50\u039e ($74,689)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.50\u039e ($70,856)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x067107",
+      "To": "0x4322aa",
+      "Amount": "5.89\u039e ($8,334)",
+      "Date": "Jan 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.89\u039e ($7,061)",
+      "Date": "Jan 06, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x067107",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

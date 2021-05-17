@@ -1,0 +1,89 @@
+{
+  "id": "2528",
+  "owner": "0x5e1d178fd65534060c61283b1abfe070e87513fd",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Eye Patch",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "mikegee.\u2026",
+      "To": "",
+      "Amount": "1.20\u039e ($2,139)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "mikegee.\u2026",
+      "To": "",
+      "Amount": "1.20\u039e ($2,119)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "1\u039e ($1,604)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x5b098b",
+      "To": "blocktop\u2026",
+      "Amount": "",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "knifefig\u2026",
+      "To": "",
+      "Amount": "6\u039e ($8,167)",
+      "Date": "Jan 29, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "knifefig\u2026",
+      "To": "",
+      "Amount": "6\u039e ($7,625)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x5b098b",
+      "Amount": "0.14\u039e ($15)",
+      "Date": "Nov 26, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.26\u039e ($35)",
+      "Date": "Nov 21, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "0.14\u039e ($18)",
+      "Date": "Nov 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.49\u039e ($101)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

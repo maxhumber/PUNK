@@ -1,0 +1,60 @@
+{
+  "id": "195",
+  "owner": "0xc06dbddf5b059d4de36ed72fde4bc3793c63ce6e",
+  "attributes": [
+    "Female",
+    "Straight Hair Blonde",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xc352b5",
+      "To": "0xc06dbd",
+      "Amount": "16\u039e ($26,201)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "11\u039e ($16,037)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16\u039e ($23,326)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "11\u039e ($14,974)",
+      "Date": "Jan 29, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "MBK",
+      "To": "",
+      "Amount": "1\u039e ($133)",
+      "Date": "Jan 03, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "MBK",
+      "To": "",
+      "Amount": "1\u039e ($127)",
+      "Date": "Jan 03, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

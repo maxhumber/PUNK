@@ -1,0 +1,103 @@
+{
+  "id": "8208",
+  "owner": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+  "attributes": [
+    "Male",
+    "Clown Eyes Blue",
+    "Goat",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "(Wrap)",
+      "From": "0xd92ff6",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa6e2e9",
+      "To": "0xd92ff6",
+      "Amount": "",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.46\u039e ($39,259)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.29\u039e ($33,984)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x19f233",
+      "To": "0xa6e2e9",
+      "Amount": "22\u039e ($33,542)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($33,542)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($39,617)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.37\u039e ($37,063)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($33,646)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x19f233",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

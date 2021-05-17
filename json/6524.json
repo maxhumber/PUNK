@@ -1,0 +1,54 @@
+{
+  "id": "6524",
+  "owner": "0x00b278dd68f9d8491795ffaf771120638bef1686",
+  "attributes": [
+    "Male",
+    "Chinstrap",
+    "Nerd Glasses",
+    "Clown Hair Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x0a4eaf\u2026",
+      "To": "0x00b278",
+      "Amount": "0.38\u039e ($92)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.38\u039e ($100)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x5b098b",
+      "To": "0x0a4eaf\u2026",
+      "Amount": "",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x682c30",
+      "To": "0x5b098b",
+      "Amount": "0.25\u039e ($66)",
+      "Date": "Jul 05, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($66)",
+      "Date": "Jul 05, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x682c30",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

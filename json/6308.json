@@ -1,0 +1,88 @@
+{
+  "id": "6308",
+  "owner": "0x407f0caf24df420ee7880f82be76efee2720ceef",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Chinstrap"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($195,353)",
+      "Date": "May 15, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "48\u039e ($180,492)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "68\u039e ($264,759)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "71\u039e ($245,130)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "80\u039e ($262,922)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "88\u039e ($236,900)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "75\u039e ($183,980)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4bc2cc",
+      "To": "0x407f0c",
+      "Amount": "",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4bc2cc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

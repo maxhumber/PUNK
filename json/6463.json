@@ -1,0 +1,26 @@
+{
+  "id": "6463",
+  "owner": "0x175b49d39c059d764b4d268e66822eb420f46db9",
+  "attributes": [
+    "Male",
+    "Cap",
+    "Nerd Glasses",
+    "Smile"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xe1cd08",
+      "To": "realbudd\u2026",
+      "Amount": "",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe1cd08",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

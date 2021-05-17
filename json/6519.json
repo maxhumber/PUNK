@@ -1,0 +1,39 @@
+{
+  "id": "6519",
+  "owner": "0x94de7e2c73529ebf3206aa3459e699fbcdfcd49b",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Big Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "tonyherr\u2026",
+      "Amount": "8\u039e ($10,594)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($9,612)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

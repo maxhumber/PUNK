@@ -1,0 +1,47 @@
+{
+  "id": "4214",
+  "owner": "0x3042887f97821ec36be64d2677efd2e943a4cb0f",
+  "attributes": [
+    "Female",
+    "Pink With Hat",
+    "Earring",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0x304288",
+      "Amount": "18.50\u039e ($33,580)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x304288",
+      "To": "",
+      "Amount": "18.50\u039e ($33,580)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xfc7092",
+      "To": "",
+      "Amount": "0.10\u039e ($121)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

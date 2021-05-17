@@ -1,0 +1,46 @@
+{
+  "id": "8652",
+  "owner": "0x4b674e70f6b36801d3bca071628cd6759dd3d039",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Chinstrap"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x47b142",
+      "To": "",
+      "Amount": "0.10\u039e ($241)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x47b142",
+      "To": "",
+      "Amount": "0.10\u039e ($246)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x5462de",
+      "To": "0x4b674e",
+      "Amount": "",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5462de",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

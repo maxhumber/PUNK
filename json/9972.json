@@ -1,0 +1,124 @@
+{
+  "id": "9972",
+  "owner": "0x334560fcfdec3fabfe8bed1bcd83ffba5b91d3fb",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Frown",
+    "Big Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "MBK",
+      "To": "0x334560",
+      "Amount": "5.99\u039e ($7,439)",
+      "Date": "Jan 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.99\u039e ($6,858)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.26\u039e ($7,869)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "MBK",
+      "Amount": "",
+      "Date": "Jan 11, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x993019",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 10, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "MBK",
+      "To": "0x993019",
+      "Amount": "",
+      "Date": "Oct 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,817)",
+      "Date": "Oct 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.85\u039e ($1,995)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($2,828)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "MBK",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x993019",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "MBK",
+      "To": "0x993019",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($2,151)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "MBK",
+      "Amount": "1\u039e ($203)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($199)",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

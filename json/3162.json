@@ -1,0 +1,81 @@
+{
+  "id": "3162",
+  "owner": "0xbc20897cae77e9d8967d569fa71adc71128c3bf5",
+  "attributes": [
+    "Female",
+    "Messy Hair",
+    "Green Eye Shadow"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x334e22",
+      "To": "0xbc2089",
+      "Amount": "24.50\u039e ($39,455)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.50\u039e ($39,025)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.99\u039e ($35,546)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.92\u039e ($40,763)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "38.80\u039e ($72,972)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.90\u039e ($1,098)",
+      "Date": "Jan 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.90\u039e ($373)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x334e22",
+      "Amount": "0.12\u039e ($16)",
+      "Date": "Nov 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.12\u039e ($22)",
+      "Date": "Nov 18, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

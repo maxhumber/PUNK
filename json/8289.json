@@ -1,0 +1,97 @@
+{
+  "id": "8289",
+  "owner": "0x6853a596d6d7264d3622546da3b891b6fe17eb82",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Cigarette",
+    "Big Shades",
+    "Goat"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xfb2e9b",
+      "To": "",
+      "Amount": "0.50\u039e ($729)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xfb2e9b",
+      "To": "",
+      "Amount": "0.50\u039e ($738)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 15, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($391)",
+      "Date": "Oct 29, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($368)",
+      "Date": "Oct 20, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "1\u039e ($352)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "1\u039e ($345)",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x9217c5",
+      "To": "",
+      "Amount": "0.04\u039e ($5)",
+      "Date": "Mar 25, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "zaphodok",
+      "Amount": "0.10\u039e ($48)",
+      "Date": "Jul 18, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9217c5",
+      "To": "",
+      "Amount": "0.04\u039e ($20)",
+      "Date": "Jun 12, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($49)",
+      "Date": "Jun 12, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

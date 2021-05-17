@@ -1,0 +1,46 @@
+{
+  "id": "6432",
+  "owner": "0x577ebc5de943e35cdf9ecb5bbe1f7d7cb6c7c647",
+  "attributes": [
+    "Female",
+    "Choker",
+    "Stringy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Thing",
+      "To": "",
+      "Amount": "7\u039e ($9,296)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Thing",
+      "To": "",
+      "Amount": "7\u039e ($8,696)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "KennyB",
+      "To": "",
+      "Amount": "3.20\u039e ($3,861)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

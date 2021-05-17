@@ -1,0 +1,117 @@
+{
+  "id": "4879",
+  "owner": "0xc0f030eac8b588817f8da16b9a2cdccc6451b25c",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Frumpy Hair",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($95,840)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Tropius7\u2026",
+      "To": "Adidust",
+      "Amount": "",
+      "Date": "Feb 05, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.62\u039e ($118)",
+      "Date": "Feb 02, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "alxo",
+      "To": "Tropius7\u2026",
+      "Amount": "",
+      "Date": "Feb 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($1,363)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Goop",
+      "To": "alxo",
+      "Amount": "0.26\u039e ($40)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.26\u039e ($40)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "juggerna\u2026",
+      "To": "Goop",
+      "Amount": "0.25\u039e ($38)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($38)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($66)",
+      "Date": "Nov 10, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($54)",
+      "Date": "Oct 26, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "juggerna\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($134)",
+      "Date": "Jul 11, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

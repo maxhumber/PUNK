@@ -1,0 +1,26 @@
+{
+  "id": "1181",
+  "owner": "0x71710e1a6b5e5440f2822577698955aff74fd831",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Bandana",
+    "Muttonchops"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "936\u039e ($3.3M)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x71710e",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

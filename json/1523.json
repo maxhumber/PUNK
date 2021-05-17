@@ -1,0 +1,67 @@
+{
+  "id": "1523",
+  "owner": "0x6611fe71c233e4e7510b2795c242c9a57790b376",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Pigtails"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x023ef7",
+      "To": "",
+      "Amount": "50\u039e ($147,582)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "85\u039e ($250,890)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x023ef7",
+      "To": "",
+      "Amount": "50\u039e ($147,582)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd4442b",
+      "To": "",
+      "Amount": "45\u039e ($118,492)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd4442b",
+      "To": "",
+      "Amount": "45\u039e ($118,688)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "57.50\u039e ($122,339)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

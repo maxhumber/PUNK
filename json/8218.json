@@ -1,0 +1,47 @@
+{
+  "id": "8218",
+  "owner": "0x6301add4fb128de9778b8651a2a9278b86761423",
+  "attributes": [
+    "Female",
+    "Tassle Hat",
+    "Black Lipstick",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18\u039e ($31,312)",
+      "Date": "Feb 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14\u039e ($5,059)",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($5,288)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

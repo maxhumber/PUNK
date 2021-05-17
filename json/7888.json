@@ -1,0 +1,54 @@
+{
+  "id": "7888",
+  "owner": "0x78f0269f5b1ca914c8c58993f41181f89e212b27",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Pigtails",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "TokenAng\u2026",
+      "Amount": "18\u039e ($18,584)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "11\u039e ($11,357)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18\u039e ($18,584)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "11\u039e ($11,916)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

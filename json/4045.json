@@ -1,0 +1,46 @@
+{
+  "id": "4045",
+  "owner": "0x7174039818a41e1ae40fdcfa3e293b0f41592af2",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Fedora"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "droxey",
+      "To": "0x717403",
+      "Amount": "0.19\u039e ($88)",
+      "Date": "Jun 22, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($155)",
+      "Date": "Jun 18, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.19\u039e ($51)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6611fe",
+      "To": "",
+      "Amount": "0.19\u039e ($51)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "droxey",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "5627",
+  "owner": "0x3f8b5e08d8d0eedb36e13c3ed6bbc7350acceaa0",
+  "attributes": [
+    "Male",
+    "Wild Hair",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "111\u039e ($276,604)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x3f8b5e",
+      "Amount": "65\u039e ($149,427)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x3f8b5e",
+      "To": "",
+      "Amount": "25\u039e ($57,472)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "65\u039e ($147,037)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3f8b5e",
+      "To": "",
+      "Amount": "25\u039e ($53,421)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($56,480)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

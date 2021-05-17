@@ -1,0 +1,53 @@
+{
+  "id": "3745",
+  "owner": "0x8ca89c56aefd379baa15e0ec91c7f5ae7f5b096f",
+  "attributes": [
+    "Male",
+    "Headband",
+    "Big Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($810)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($927)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "0x8ca89c",
+      "Amount": "0.13\u039e ($90)",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.13\u039e ($90)",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($257)",
+      "Date": "Dec 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

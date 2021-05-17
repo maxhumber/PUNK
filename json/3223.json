@@ -1,0 +1,166 @@
+{
+  "id": "3223",
+  "owner": "0x8f6b1e467fbe74d7dd43d59de0558f693c736798",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Eye Mask",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x0ebd1a",
+      "To": "0x8f6b1e",
+      "Amount": "",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($150,397)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3a4930",
+      "To": "0x0ebd1a",
+      "Amount": "23\u039e ($40,876)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($8,621)",
+      "Date": "Oct 10, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x3a4930",
+      "Amount": "",
+      "Date": "Oct 10, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Lmao",
+      "To": "0x5554a0",
+      "Amount": "3.52\u039e ($1,236)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x169aa4",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Lmao",
+      "To": "0x169aa4",
+      "Amount": "",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($2,730)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($3,515)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "Lmao",
+      "Amount": "",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "plr82",
+      "To": "Lmao",
+      "Amount": "5.50\u039e ($2,001)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa267c5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "plr82",
+      "To": "0xa267c5",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "plr82",
+      "Amount": "0.60\u039e ($67)",
+      "Date": "Mar 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "plr82",
+      "To": "",
+      "Amount": "0.60\u039e ($67)",
+      "Date": "Mar 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($166)",
+      "Date": "Mar 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($216)",
+      "Date": "Aug 11, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.40\u039e ($109)",
+      "Date": "Jun 20, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($109)",
+      "Date": "Jun 20, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "8224",
+  "owner": "0x67c4438c86c00257d3bca9bbfb3f6234bc961468",
+  "attributes": [
+    "Female",
+    "Wild Hair",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xc04f55",
+      "To": "0x67c443",
+      "Amount": "17.95\u039e ($35,171)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.95\u039e ($35,156)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Dude_Nak\u2026",
+      "To": "0xc04f55",
+      "Amount": "",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.20\u039e ($244)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.20\u039e ($245)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x7f6ca7",
+      "To": "Dude_Nak\u2026",
+      "Amount": "0.25\u039e ($140)",
+      "Date": "Mar 21, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.21\u039e ($117)",
+      "Date": "Mar 19, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.21\u039e ($113)",
+      "Date": "Mar 18, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.18\u039e ($147)",
+      "Date": "Mar 06, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.18\u039e ($153)",
+      "Date": "Mar 05, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($185)",
+      "Date": "Dec 29, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbc081c",
+      "To": "0x7f6ca7",
+      "Amount": "0.15\u039e ($65)",
+      "Date": "Dec 10, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($39)",
+      "Date": "Sep 21, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "metakid",
+      "To": "0xbc081c",
+      "Amount": "",
+      "Date": "Sep 20, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "metakid",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

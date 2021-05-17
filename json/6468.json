@@ -1,0 +1,174 @@
+{
+  "id": "6468",
+  "owner": "0xe9e7b800ec5fc6015cf6b2826711254bab3c12e4",
+  "attributes": [
+    "Female",
+    "Clown Nose",
+    "Black Lipstick",
+    "Purple Eye Shadow",
+    "Straight Hair Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "TheNat",
+      "To": "0xe9e7b8",
+      "Amount": "10.75\u039e ($19,748)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10.75\u039e ($18,816)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbfa319",
+      "To": "TheNat",
+      "Amount": "6.74\u039e ($2,372)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.74\u039e ($1,588)",
+      "Date": "Jun 01, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jun 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.67\u039e ($1,265)",
+      "Date": "Feb 16, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.92\u039e ($722)",
+      "Date": "Nov 17, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "juggerna\u2026",
+      "To": "0xbfa319",
+      "Amount": "0.44\u039e ($81)",
+      "Date": "Nov 17, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.44\u039e ($82)",
+      "Date": "Nov 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($82)",
+      "Date": "Nov 03, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.60\u039e ($110)",
+      "Date": "Nov 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.70\u039e ($126)",
+      "Date": "Oct 26, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($144)",
+      "Date": "Oct 12, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($159)",
+      "Date": "Oct 05, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($176)",
+      "Date": "Oct 04, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "juggerna\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($306)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($1,074)",
+      "Date": "Jun 16, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($84)",
+      "Date": "May 07, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.10\u039e ($29)",
+      "Date": "Aug 18, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.10\u039e ($32)",
+      "Date": "Aug 12, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

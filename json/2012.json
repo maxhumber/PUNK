@@ -1,0 +1,68 @@
+{
+  "id": "2012",
+  "owner": "0x6301add4fb128de9778b8651a2a9278b86761423",
+  "attributes": [
+    "Female",
+    "Hot Lipstick",
+    "Frumpy Hair",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.12\u039e ($26,929)",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($7,523)",
+      "Date": "Dec 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($5,137)",
+      "Date": "Dec 18, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Nov 10, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa55ec4",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "ddaavvee",
+      "To": "0xa55ec4",
+      "Amount": "",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

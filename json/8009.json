@@ -1,0 +1,109 @@
+{
+  "id": "8009",
+  "owner": "0xb268f20c03c39f00425db32c424fd5272220496e",
+  "attributes": [
+    "Female",
+    "Clown Eyes Green",
+    "Wild Blonde"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.75\u039e ($3,247)",
+      "Date": "Oct 16, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x1f8add",
+      "To": "MrTpunks",
+      "Amount": "",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0x1f8add",
+      "Amount": "3.17\u039e ($641)",
+      "Date": "May 14, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x1b7646",
+      "To": "",
+      "Amount": "1.40\u039e ($238)",
+      "Date": "Jan 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.17\u039e ($531)",
+      "Date": "Jan 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x1b7646",
+      "To": "",
+      "Amount": "1.40\u039e ($247)",
+      "Date": "Jan 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.95\u039e ($656)",
+      "Date": "Jan 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.95\u039e ($807)",
+      "Date": "Jan 16, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.20\u039e ($199)",
+      "Date": "Jan 15, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.20\u039e ($196)",
+      "Date": "Jan 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x5b098b",
+      "Amount": "0.31\u039e ($64)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "0.31\u039e ($64)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

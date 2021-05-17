@@ -1,0 +1,194 @@
+{
+  "id": "1473",
+  "owner": "0x6c4aec6c0593e58992dd757df3eb8a7e78d29170",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Chinstrap",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x034b46",
+      "To": "",
+      "Amount": "14.50\u039e ($54,311)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x034b46",
+      "To": "",
+      "Amount": "14.50\u039e ($57,103)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x20f9dd",
+      "To": "0x6c4aec",
+      "Amount": "15.60\u039e ($66,516)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.60\u039e ($66,793)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.70\u039e ($81,194)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "MadMax",
+      "To": "0x20f9dd",
+      "Amount": "21.15\u039e ($37,737)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "20\u039e ($35,966)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "20\u039e ($36,076)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.15\u039e ($38,581)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.65\u039e ($39,352)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.15\u039e ($40,069)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "MadMax",
+      "Amount": "",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x692885",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 21, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x11c9a7",
+      "To": "0x692885",
+      "Amount": "",
+      "Date": "Dec 21, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Kr1pt0x",
+      "To": "",
+      "Amount": "2.02\u039e ($1,290)",
+      "Date": "Dec 17, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe4f0ac",
+      "To": "0x11c9a7",
+      "Amount": "2.80\u039e ($1,658)",
+      "Date": "Dec 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.80\u039e ($1,553)",
+      "Date": "Dec 12, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Kr1pt0x",
+      "To": "",
+      "Amount": "2.02\u039e ($1,162)",
+      "Date": "Dec 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($1,704)",
+      "Date": "Dec 09, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Party",
+      "To": "",
+      "Amount": "1\u039e ($588)",
+      "Date": "Dec 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Party",
+      "To": "",
+      "Amount": "1\u039e ($590)",
+      "Date": "Dec 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.50\u039e ($2,065)",
+      "Date": "Dec 05, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0xe4f0ac",
+      "Amount": "",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

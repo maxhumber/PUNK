@@ -1,0 +1,61 @@
+{
+  "id": "6927",
+  "owner": "0x55afb7fee3406a8d9cbda878b5415eb1af0d732f",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Big Shades",
+    "Goat"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "DjangoBi\u2026",
+      "To": "0x55afb7",
+      "Amount": "0.10\u039e ($29)",
+      "Date": "Aug 16, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($28)",
+      "Date": "Aug 15, 2018"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x9be1c7",
+      "To": "DjangoBi\u2026",
+      "Amount": "",
+      "Date": "Mar 23, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.33\u039e ($228)",
+      "Date": "Mar 13, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x515a82",
+      "To": "0x9be1c7",
+      "Amount": "0.18\u039e ($50)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.18\u039e ($50)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x515a82",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "8169",
+  "owner": "0x6611fe71c233e4e7510b2795c242c9a57790b376",
+  "attributes": [
+    "Female",
+    "Red Mohawk",
+    "Blue Eye Shadow",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc352b5",
+      "To": "",
+      "Amount": "0.15\u039e ($30)",
+      "Date": "May 14, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc352b5",
+      "To": "",
+      "Amount": "0.15\u039e ($29)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc352b5",
+      "To": "",
+      "Amount": "0.10\u039e ($19)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc352b5",
+      "To": "",
+      "Amount": "0.10\u039e ($19)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

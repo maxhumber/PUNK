@@ -1,0 +1,89 @@
+{
+  "id": "3663",
+  "owner": "0xb89c2f6bb674bd6aace2a1e274d40e6dc4775b15",
+  "attributes": [
+    "Female",
+    "Knitted Cap",
+    "Eye Mask",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Dude_Nak\u2026",
+      "To": "Tschuuul\u2026",
+      "Amount": "0.90\u039e ($242)",
+      "Date": "Feb 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($244)",
+      "Date": "Feb 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.10\u039e ($245)",
+      "Date": "Feb 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.25\u039e ($170)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.95\u039e ($128)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($141)",
+      "Date": "Nov 13, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x58164b",
+      "To": "Dude_Nak\u2026",
+      "Amount": "0.06\u039e ($45)",
+      "Date": "May 07, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.06\u039e ($37)",
+      "Date": "Apr 25, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x58164b",
+      "Amount": "0.37\u039e ($84)",
+      "Date": "Jul 20, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.37\u039e ($84)",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "5660",
+  "owner": "0x0e616785638663c88a493a82972e2f9cadaab4bc",
+  "attributes": [
+    "Female",
+    "Eye Patch",
+    "Stringy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "0x0e6167",
+      "Amount": "18\u039e ($35,512)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18\u039e ($34,510)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($46,431)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

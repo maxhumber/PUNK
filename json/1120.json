@@ -1,0 +1,32 @@
+{
+  "id": "1120",
+  "owner": "0x6301add4fb128de9778b8651a2a9278b86761423",
+  "attributes": [
+    "Female",
+    "Hot Lipstick",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "beautifu\u2026",
+      "To": "",
+      "Amount": "28\u039e ($63,466)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "beautifu\u2026",
+      "To": "",
+      "Amount": "28\u039e ($63,593)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

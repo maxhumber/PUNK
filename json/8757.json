@@ -1,0 +1,33 @@
+{
+  "id": "8757",
+  "owner": "0x8b27de7f6a7542ee70e2420e1bc67fc479d01984",
+  "attributes": [
+    "Female",
+    "Vape",
+    "Pigtails",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "daddykal\u2026",
+      "To": "",
+      "Amount": "30\u039e ($121,253)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "daddykal\u2026",
+      "To": "",
+      "Amount": "30\u039e ($117,401)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8b27de",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

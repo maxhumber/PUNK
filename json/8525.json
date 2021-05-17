@@ -1,0 +1,46 @@
+{
+  "id": "8525",
+  "owner": "0xcc7c335f3365ae3f7e4e8c9535dc92780a4add9d",
+  "attributes": [
+    "Male",
+    "Clown Nose",
+    "Police Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x18ee9c",
+      "To": "",
+      "Amount": "24\u039e ($50,055)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x18ee9c",
+      "To": "",
+      "Amount": "24\u039e ($49,898)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.25\u039e ($42)",
+      "Date": "Jan 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.25\u039e ($44)",
+      "Date": "Jan 18, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcc7c33",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

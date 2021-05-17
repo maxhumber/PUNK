@@ -1,0 +1,102 @@
+{
+  "id": "1529",
+  "owner": "0x0601d0235645a6ce6356ef11aa0b225c68605131",
+  "attributes": [
+    "Female",
+    "Red Mohawk",
+    "Pipe"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "H6A5-0x",
+      "To": "0x0601d0",
+      "Amount": "12.99\u039e ($4,801)",
+      "Date": "Oct 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12.99\u039e ($4,788)",
+      "Date": "Oct 18, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0601d0",
+      "To": "",
+      "Amount": "9\u039e ($3,317)",
+      "Date": "Oct 18, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "7\u039e ($2,577)",
+      "Date": "Oct 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.99\u039e ($6,768)",
+      "Date": "Oct 14, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0x000000",
+      "Amount": "0.00\u039e ($0.00)",
+      "Date": "Oct 14, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "H6A5-0x",
+      "Amount": "",
+      "Date": "Oct 10, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xf24a74",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 06, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "H6A5-0x",
+      "To": "0xf24a74",
+      "Amount": "",
+      "Date": "Oct 06, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x0ed6fe",
+      "To": "H6A5-0x",
+      "Amount": "",
+      "Date": "Oct 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.65\u039e ($10,035)",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x0ed6fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

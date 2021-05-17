@@ -1,0 +1,90 @@
+{
+  "id": "7981",
+  "owner": "0xdaef5bd71a343ebc6eece4ad6081081774d9d556",
+  "attributes": [
+    "Female",
+    "Clown Eyes Green",
+    "Headband",
+    "Hot Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x07c5ea",
+      "To": "0xdaef5b",
+      "Amount": "10.49\u039e ($18,724)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10.49\u039e ($18,500)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xd93033",
+      "To": "0x07c5ea",
+      "Amount": "9.26\u039e ($16,330)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x07c5ea",
+      "To": "",
+      "Amount": "9.26\u039e ($16,330)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "9.25\u039e ($16,204)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x07c5ea",
+      "To": "",
+      "Amount": "9\u039e ($15,766)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "8\u039e ($14,014)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "7\u039e ($12,263)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "7\u039e ($12,263)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13\u039e ($22,773)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xd93033",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

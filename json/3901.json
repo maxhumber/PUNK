@@ -1,0 +1,172 @@
+{
+  "id": "3901",
+  "owner": "0x023ef73d4c6de80dd3e52b8aae579b8f0e5cbeb4",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Vape"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($83,543)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.99\u039e ($86,184)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.99\u039e ($73,818)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6ef237",
+      "To": "0x023ef7",
+      "Amount": "21\u039e ($68,959)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($68,959)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "owlman.e\u2026",
+      "To": "0x6ef237",
+      "Amount": "20.49\u039e ($47,703)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.49\u039e ($53,701)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.99\u039e ($52,925)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0ec348",
+      "To": "owlman.e\u2026",
+      "Amount": "19.69\u039e ($47,540)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "owlman.e\u2026",
+      "To": "",
+      "Amount": "19.69\u039e ($47,830)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.69\u039e ($49,025)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.69\u039e ($50,514)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42.42\u039e ($101,686)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.99\u039e ($53,339)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.32\u039e ($49,487)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa9f929",
+      "To": "0x0ec348",
+      "Amount": "",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf4a775",
+      "To": "0xa9f929",
+      "Amount": "20\u039e ($33,827)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($33,946)",
+      "Date": "Mar 26, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "panch",
+      "To": "",
+      "Amount": "0.05\u039e ($23)",
+      "Date": "Dec 08, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "0xf4a775",
+      "Amount": "0.09\u039e ($41)",
+      "Date": "Dec 05, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "panch",
+      "To": "",
+      "Amount": "0.05\u039e ($23)",
+      "Date": "Dec 05, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.09\u039e ($26)",
+      "Date": "Nov 01, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

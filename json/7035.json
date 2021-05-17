@@ -1,0 +1,54 @@
+{
+  "id": "7035",
+  "owner": "0x45f9703424da8659e860f3dc32c1cbfd19c43062",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Cigarette",
+    "Goat"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xbfa319",
+      "To": "vibedog",
+      "Amount": "1.05\u039e ($200)",
+      "Date": "Feb 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.05\u039e ($214)",
+      "Date": "Oct 26, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.49\u039e ($1,064)",
+      "Date": "Nov 29, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0xbfa319",
+      "Amount": "0.10\u039e ($38)",
+      "Date": "Nov 22, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($30)",
+      "Date": "Oct 31, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

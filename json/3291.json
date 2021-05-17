@@ -1,0 +1,145 @@
+{
+  "id": "3291",
+  "owner": "0x5cda7ec9514b4f595992f0f5c4290ad6fd09b71c",
+  "attributes": [
+    "Male",
+    "Cap",
+    "Big Shades",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Deeze",
+      "To": "0x5cda7e",
+      "Amount": "35\u039e ($66,574)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5cda7e",
+      "To": "",
+      "Amount": "35\u039e ($66,574)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49.99\u039e ($89,438)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.98\u039e ($44,642)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x701f37",
+      "To": "Deeze",
+      "Amount": "18.50\u039e ($33,327)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.50\u039e ($33,327)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3e17fa",
+      "To": "0x701f37",
+      "Amount": "11\u039e ($18,921)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11\u039e ($18,921)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($21,861)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9\u039e ($5,527)",
+      "Date": "Dec 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.50\u039e ($4,012)",
+      "Date": "Nov 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($1,844)",
+      "Date": "Nov 13, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "snax",
+      "To": "0x3e17fa",
+      "Amount": "3.30\u039e ($1,141)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.30\u039e ($1,131)",
+      "Date": "Sep 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "snax",
+      "Amount": "0.11\u039e ($127)",
+      "Date": "Jan 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.11\u039e ($139)",
+      "Date": "Jan 12, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": "6621",
+  "owner": "0x5b713f9e1e51dc6dd6bd12ce7b529bf9f2df4753",
+  "attributes": [
+    "Female",
+    "Tassle Hat",
+    "Hot Lipstick",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xddfdcb",
+      "To": "0x5b713f",
+      "Amount": "27\u039e ($45,149)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b713f",
+      "To": "",
+      "Amount": "27\u039e ($46,022)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "24\u039e ($42,585)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "24\u039e ($43,092)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30.99\u039e ($55,643)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x491be7",
+      "To": "0xddfdcb",
+      "Amount": "16.66\u039e ($30,554)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.66\u039e ($30,255)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "KittyGr_\u2026",
+      "To": "0x491be7",
+      "Amount": "5.70\u039e ($2,017)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x491be7",
+      "To": "",
+      "Amount": "5.70\u039e ($2,012)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "5.50\u039e ($1,941)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "4.75\u039e ($1,677)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "parttty6",
+      "To": "",
+      "Amount": "4.60\u039e ($1,624)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "4.50\u039e ($1,588)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Carlini8",
+      "To": "",
+      "Amount": "5.50\u039e ($1,940)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Carlini8",
+      "To": "",
+      "Amount": "5.50\u039e ($1,937)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "5\u039e ($1,768)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.80\u039e ($426)",
+      "Date": "May 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.80\u039e ($397)",
+      "Date": "May 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "KittyGr_\u2026",
+      "Amount": "0.10\u039e ($60)",
+      "Date": "Jun 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($57)",
+      "Date": "May 29, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($3,151)",
+      "Date": "Jan 16, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($408)",
+      "Date": "Jan 14, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($139)",
+      "Date": "Dec 30, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

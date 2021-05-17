@@ -1,0 +1,33 @@
+{
+  "id": "6031",
+  "owner": "0x12e5e3e7a1389fed96e1be50aed32316c027b18b",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Horned Rim Glasses",
+    "Pipe"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "stazie",
+      "Amount": "0.42\u039e ($57)",
+      "Date": "Mar 21, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.42\u039e ($47)",
+      "Date": "Jan 27, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

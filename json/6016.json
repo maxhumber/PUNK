@@ -1,0 +1,188 @@
+{
+  "id": "6016",
+  "owner": "0x6f1174eba93773331f14c3f60ce7e3a69e2db627",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Peak Spike",
+    "Gold Chain",
+    "Front Beard Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "EliteCat\u2026",
+      "To": "0x6f1174",
+      "Amount": "30\u039e ($46,942)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6f1174",
+      "To": "",
+      "Amount": "30\u039e ($46,182)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33.25\u039e ($50,784)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.95\u039e ($35,281)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.49\u039e ($26,912)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.69\u039e ($16,168)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.95\u039e ($3,791)",
+      "Date": "Dec 18, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "EliteCat\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "GoWest23",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa18fd5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "0xa18fd5",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.25\u039e ($2,704)",
+      "Date": "Sep 12, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "scalynel\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($67)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "GoWest23",
+      "Amount": "0.60\u039e ($80)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "scalynel\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($65)",
+      "Date": "Jan 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.60\u039e ($109)",
+      "Date": "Sep 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($216)",
+      "Date": "Aug 11, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

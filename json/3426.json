@@ -1,0 +1,47 @@
+{
+  "id": "3426",
+  "owner": "0x1f3911f4f43671d187a882df129773a7261989e8",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Earring",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "tonyherr\u2026",
+      "To": "0x1f3911",
+      "Amount": "",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x387405",
+      "To": "tonyherr\u2026",
+      "Amount": "5.12\u039e ($8,657)",
+      "Date": "Feb 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.12\u039e ($8,714)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.19\u039e ($9,043)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x387405",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "9366",
+  "owner": "0x7d4d1f45a9fec88d1715981088a32b3e6c7cc321",
+  "attributes": [
+    "Female",
+    "Pipe",
+    "Blue Eye Shadow",
+    "Half Shaved",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb4bb41",
+      "To": "",
+      "Amount": "23\u039e ($39,204)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3dae9a",
+      "To": "0x7d4d1f",
+      "Amount": "29.99\u039e ($51,118)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb4bb41",
+      "To": "",
+      "Amount": "23\u039e ($38,779)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($50,757)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x0053f2",
+      "To": "0x3dae9a",
+      "Amount": "",
+      "Date": "Jul 22, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x0053f2",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

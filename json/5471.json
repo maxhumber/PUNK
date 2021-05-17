@@ -1,0 +1,187 @@
+{
+  "id": "5471",
+  "owner": "0x3dde27c2379440a62ac40048e56eb62c57f80977",
+  "attributes": [
+    "Female",
+    "Wild Hair",
+    "Earring",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "MBK",
+      "To": "0x3dde27",
+      "Amount": "2\u039e ($330)",
+      "Date": "Jan 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($359)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.45\u039e ($349)",
+      "Date": "Jan 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.49\u039e ($343)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3dde27",
+      "To": "",
+      "Amount": "2\u039e ($276)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.99\u039e ($542)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($539)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "jmg",
+      "To": "MBK",
+      "Amount": "1.50\u039e ($202)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($200)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.75\u039e ($231)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.60\u039e ($79)",
+      "Date": "Dec 31, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.60\u039e ($79)",
+      "Date": "Dec 30, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.95\u039e ($119)",
+      "Date": "Dec 26, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.25\u039e ($218)",
+      "Date": "Sep 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.35\u039e ($255)",
+      "Date": "Sep 14, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($397)",
+      "Date": "Jun 18, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jun 12, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.79\u039e ($196)",
+      "Date": "Jun 10, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.85\u039e ($231)",
+      "Date": "May 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.89\u039e ($217)",
+      "Date": "May 22, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.95\u039e ($248)",
+      "Date": "May 19, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.75\u039e ($307)",
+      "Date": "Apr 07, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "jmg",
+      "Amount": "0.70\u039e ($116)",
+      "Date": "Apr 06, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.70\u039e ($116)",
+      "Date": "Apr 06, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

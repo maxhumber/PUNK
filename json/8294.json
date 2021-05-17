@@ -1,0 +1,103 @@
+{
+  "id": "8294",
+  "owner": "0xb70c1a3242e363b4772b83acdc10df94e6c3fb02",
+  "attributes": [
+    "Male",
+    "Classic Shades",
+    "Knitted Cap",
+    "Pipe"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "41.14\u039e ($171,847)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49.94\u039e ($195,803)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "54.45\u039e ($209,677)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "52.50\u039e ($202,168)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "63.10\u039e ($221,828)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "68\u039e ($161,125)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xff70ec",
+      "To": "0xb70c1a",
+      "Amount": "25.04\u039e ($61,901)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb70c1a",
+      "To": "",
+      "Amount": "25.04\u039e ($62,192)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Wilcox",
+      "To": "0xff70ec",
+      "Amount": "25\u039e ($62,016)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff70ec",
+      "To": "",
+      "Amount": "25\u039e ($63,056)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "Wilcox",
+      "Amount": "",
+      "Date": "Sep 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($306)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

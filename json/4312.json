@@ -1,0 +1,201 @@
+{
+  "id": "4312",
+  "owner": "0x0e9aed5c7721c642a032812c2c4816f7d6cb87d7",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Chinstrap",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.99\u039e ($84,566)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32.99\u039e ($75,910)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.99\u039e ($58,013)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x4e23e9",
+      "To": "0x0e9aed",
+      "Amount": "15\u039e ($31,134)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($31,134)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "19\u039e ($32,498)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "19\u039e ($32,513)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.50\u039e ($40,057)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "47.50\u039e ($86,390)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xef784c",
+      "To": "0x4e23e9",
+      "Amount": "27.49\u039e ($53,064)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.49\u039e ($48,453)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8f6b1e",
+      "To": "0xef784c",
+      "Amount": "18.99\u039e ($34,865)",
+      "Date": "Mar 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.99\u039e ($34,865)",
+      "Date": "Mar 10, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xd030b1",
+      "To": "0x8f6b1e",
+      "Amount": "",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x18844b",
+      "To": "",
+      "Amount": "5.30\u039e ($9,276)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xfab9b8",
+      "To": "0xd030b1",
+      "Amount": "6.60\u039e ($11,572)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x18844b",
+      "To": "",
+      "Amount": "5.30\u039e ($9,286)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.60\u039e ($10,784)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x2db1c4",
+      "To": "0xfab9b8",
+      "Amount": "",
+      "Date": "Dec 28, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0x2db1c4",
+      "Amount": "0.50\u039e ($63)",
+      "Date": "Dec 26, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($88)",
+      "Date": "Sep 04, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.25\u039e ($45)",
+      "Date": "Sep 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "Pranksy",
+      "Amount": "0.25\u039e ($45)",
+      "Date": "Sep 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($230)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

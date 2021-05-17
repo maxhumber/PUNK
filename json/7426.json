@@ -1,0 +1,97 @@
+{
+  "id": "7426",
+  "owner": "0x449c69df8487c9faf14d0b798f142ee128cd4fc8",
+  "attributes": [
+    "Female",
+    "Pipe",
+    "Pigtails",
+    "Hot Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x034b46",
+      "To": "",
+      "Amount": "69\u039e ($148,854)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0x449c69",
+      "Amount": "74\u039e ($154,484)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x034b46",
+      "To": "",
+      "Amount": "69\u039e ($144,046)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x034b46",
+      "To": "",
+      "Amount": "66\u039e ($137,783)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x034b46",
+      "To": "",
+      "Amount": "66\u039e ($144,849)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "74\u039e ($159,736)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb70c1a",
+      "To": "",
+      "Amount": "40\u039e ($90,262)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x3b7f24",
+      "To": "",
+      "Amount": "32\u039e ($57,647)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3b7f24",
+      "To": "",
+      "Amount": "32\u039e ($58,771)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7fd64",
+      "To": "",
+      "Amount": "0.20\u039e ($68)",
+      "Date": "Sep 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

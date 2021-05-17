@@ -1,0 +1,18 @@
+{
+  "id": "3918",
+  "owner": "0x005734d7d408bccf41cff34b46244551d01f0a6b",
+  "attributes": [
+    "Female",
+    "Mohawk Thin",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x005734",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

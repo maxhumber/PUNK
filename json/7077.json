@@ -1,0 +1,54 @@
+{
+  "id": "7077",
+  "owner": "0xf3016b7608acfbec9df4ae1ead36bb5f1bad4ff4",
+  "attributes": [
+    "Female",
+    "Knitted Cap",
+    "Classic Shades",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.33\u039e ($109,951)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x06d925",
+      "To": "",
+      "Amount": "25\u039e ($61,298)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc272ed",
+      "To": "0xf3016b",
+      "Amount": "29\u039e ($71,492)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($71,556)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x06d925",
+      "To": "",
+      "Amount": "25\u039e ($61,686)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

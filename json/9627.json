@@ -1,0 +1,97 @@
+{
+  "id": "9627",
+  "owner": "0xeb381fcfe8c91ae62c98ff4acbb7fd14bf1ad2a0",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Chinstrap",
+    "Earring",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x67c79f",
+      "To": "0xeb381f",
+      "Amount": "",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0a4eaf\u2026",
+      "To": "0x67c79f",
+      "Amount": "8.45\u039e ($14,673)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.45\u039e ($12,319)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.58\u039e ($727)",
+      "Date": "Jan 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.58\u039e ($239)",
+      "Date": "Oct 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "juggerna\u2026",
+      "To": "0x0a4eaf\u2026",
+      "Amount": "0.30\u039e ($56)",
+      "Date": "Nov 07, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0a4eaf\u2026",
+      "To": "",
+      "Amount": "0.30\u039e ($56)",
+      "Date": "Nov 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($73)",
+      "Date": "Nov 03, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($91)",
+      "Date": "Oct 13, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "juggerna\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($138)",
+      "Date": "Jul 12, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "142",
+  "owner": "0xb88f61e6fbda83fbfffabe364112137480398018",
+  "attributes": [
+    "Male",
+    "Mohawk",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0xb88f61",
+      "Amount": "",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xfb9fdb",
+      "To": "",
+      "Amount": "0.12\u039e ($44)",
+      "Date": "Oct 09, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xfb9fdb",
+      "To": "",
+      "Amount": "0.12\u039e ($45)",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

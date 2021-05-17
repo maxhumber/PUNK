@@ -1,0 +1,151 @@
+{
+  "id": "2379",
+  "owner": "0x78f0269f5b1ca914c8c58993f41181f89e212b27",
+  "attributes": [
+    "Male",
+    "Frown",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x3f1724",
+      "To": "TokenAng\u2026",
+      "Amount": "23\u039e ($53,314)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($53,850)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($51,720)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd4442b",
+      "To": "",
+      "Amount": "14\u039e ($29,714)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd4442b",
+      "To": "",
+      "Amount": "14\u039e ($29,482)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16\u039e ($33,332)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17\u039e ($35,767)",
+      "Date": "Apr 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($40,324)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($43,352)",
+      "Date": "Mar 29, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($57,749)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "trislit",
+      "To": "0x3f1724",
+      "Amount": "0.35\u039e ($103)",
+      "Date": "Jun 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($103)",
+      "Date": "Jun 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($75)",
+      "Date": "Apr 05, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($79)",
+      "Date": "Oct 02, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "trislit",
+      "Amount": "0.11\u039e ($25)",
+      "Date": "Sep 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.11\u039e ($48)",
+      "Date": "Jul 31, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.26\u039e ($72)",
+      "Date": "Sep 19, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

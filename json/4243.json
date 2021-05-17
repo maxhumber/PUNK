@@ -1,0 +1,61 @@
+{
+  "id": "4243",
+  "owner": "0xa46f24d23bb97d2fd127b81a6d849b66d976b8f0",
+  "attributes": [
+    "Female",
+    "Red Mohawk",
+    "Green Eye Shadow",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "VonMises",
+      "To": "0xa46f24",
+      "Amount": "",
+      "Date": "Mar 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($63,348)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($54,298)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "VonMises",
+      "Amount": "1\u039e ($197)",
+      "Date": "Apr 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($193)",
+      "Date": "Apr 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($375)",
+      "Date": "Apr 25, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

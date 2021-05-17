@@ -1,0 +1,19 @@
+{
+  "id": "4959",
+  "owner": "0x042ebbd517908dcf1fc3276a5e35b382c246c194",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Knitted Cap",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x042ebb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

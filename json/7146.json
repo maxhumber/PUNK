@@ -1,0 +1,124 @@
+{
+  "id": "7146",
+  "owner": "0xbed058a4bcc06338bdd214f150d25ff3686e98bc",
+  "attributes": [
+    "Male",
+    "Cap",
+    "Muttonchops",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.80\u039e ($88,886)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.40\u039e ($90,791)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.40\u039e ($90,791)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($84,201)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x5ea123",
+      "To": "alphab.e\u2026",
+      "Amount": "",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "alphab.e\u2026",
+      "To": "0x5ea123",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.69\u039e ($49,717)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28\u039e ($49,985)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.50\u039e ($53,487)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($44,212)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaae8c5",
+      "To": "",
+      "Amount": "18\u039e ($26,527)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x387405",
+      "To": "alphab.e\u2026",
+      "Amount": "20.02\u039e ($29,504)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaae8c5",
+      "To": "",
+      "Amount": "18\u039e ($26,542)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.02\u039e ($29,520)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x387405",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

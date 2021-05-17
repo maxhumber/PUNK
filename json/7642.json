@@ -1,0 +1,81 @@
+{
+  "id": "7642",
+  "owner": "0x81b9a5f21efdb5df0210471b9a94e0d4ad9951ed",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "evkort",
+      "To": "valko.et\u2026",
+      "Amount": "6.25\u039e ($2,217)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.25\u039e ($2,282)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "evkort",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x69405f",
+      "To": "evkort",
+      "Amount": "5.10\u039e ($1,862)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x988860",
+      "To": "0x69405f",
+      "Amount": "4.88\u039e ($1,770)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x176333",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x988860",
+      "To": "0x176333",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0x988860",
+      "Amount": "3.70\u039e ($1,331)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.70\u039e ($1,333)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "9512",
+  "owner": "0x3e9dacf58e308310e96b68924a57174f68a3d6cc",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Headband",
+    "Pipe",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($117,623)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($114,099)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($86,251)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($85,135)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "charley",
+      "To": "0x3e9dac",
+      "Amount": "",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "charley",
+      "Amount": "",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x692885",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x11c9a7",
+      "To": "0x692885",
+      "Amount": "",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "TweetyPi\u2026",
+      "To": "0x11c9a7",
+      "Amount": "4.20\u039e ($2,487)",
+      "Date": "Dec 13, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "justinva\u2026",
+      "To": "",
+      "Amount": "3.25\u039e ($1,790)",
+      "Date": "Dec 11, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "justinva\u2026",
+      "To": "",
+      "Amount": "3.25\u039e ($1,774)",
+      "Date": "Dec 11, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Cry",
+      "To": "",
+      "Amount": "1\u039e ($549)",
+      "Date": "Dec 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.20\u039e ($2,307)",
+      "Date": "Dec 11, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x82f3d9",
+      "To": "TweetyPi\u2026",
+      "Amount": "2.50\u039e ($1,373)",
+      "Date": "Dec 11, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cry",
+      "To": "",
+      "Amount": "1\u039e ($549)",
+      "Date": "Dec 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($1,373)",
+      "Date": "Dec 11, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7c659a",
+      "To": "",
+      "Amount": "0\u039e ($2)",
+      "Date": "Oct 14, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x82f3d9",
+      "Amount": "0.25\u039e ($340)",
+      "Date": "Jan 14, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($74)",
+      "Date": "Sep 12, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd260ab",
+      "To": "",
+      "Amount": "<",
+      "Date": "Jul 22, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "9488",
+  "owner": "0xa25803ab86a327786bb59395fc0164d826b98298",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Chinstrap",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "Wilcox",
+      "To": "0xa25803",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "Wilcox",
+      "Amount": "",
+      "Date": "Sep 16, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($230)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($971)",
+      "Date": "Feb 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($139)",
+      "Date": "Jan 13, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

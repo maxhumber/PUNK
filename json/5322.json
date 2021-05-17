@@ -1,0 +1,103 @@
+{
+  "id": "5322",
+  "owner": "0x4a3e3f2ac93042a613efb31a9336a309754a0fce",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Earring",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x097761",
+      "To": "0x4a3e3f",
+      "Amount": "23\u039e ($33,688)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($34,220)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.50\u039e ($36,259)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x097761",
+      "Amount": "",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf9728b",
+      "To": "0x11c9a7",
+      "Amount": "3.33\u039e ($2,087)",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3ba9cd",
+      "To": "0xf9728b",
+      "Amount": "2.90\u039e ($1,029)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "0x3ba9cd",
+      "Amount": "2.40\u039e ($834)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "Carlini8",
+      "Amount": "1.80\u039e ($678)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x776758",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Pranksy",
+      "To": "0x776758",
+      "Amount": "",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Pranksy",
+      "Amount": "1.30\u039e ($474)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.30\u039e ($309)",
+      "Date": "Jun 13, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

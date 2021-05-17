@@ -1,0 +1,61 @@
+{
+  "id": "5435",
+  "owner": "0x84d34f4f83a87596cd3fb6887cff8f17bf5a7b83",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Chinstrap",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Wilcox",
+      "To": "0x84d34f",
+      "Amount": "21.50\u039e ($38,975)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.50\u039e ($37,319)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "Wilcox",
+      "Amount": "",
+      "Date": "Sep 17, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($138)",
+      "Date": "Jul 12, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($971)",
+      "Date": "Feb 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($139)",
+      "Date": "Jan 13, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

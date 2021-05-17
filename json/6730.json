@@ -1,0 +1,76 @@
+{
+  "id": "6730",
+  "owner": "0x074cfe8634ac0731ef7ee141ab30c2dc83132ec6",
+  "attributes": [
+    "Male",
+    "Silver Chain",
+    "Horned Rim Glasses",
+    "Shaved Head",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "na",
+      "To": "0x074cfe",
+      "Amount": "11\u039e ($20,180)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11\u039e ($2,492)",
+      "Date": "Jul 03, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.30\u039e ($468)",
+      "Date": "Jul 25, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0b30fd",
+      "To": "na",
+      "Amount": "0.29\u039e ($67)",
+      "Date": "Jul 22, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.29\u039e ($67)",
+      "Date": "Jul 22, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Hemba",
+      "To": "",
+      "Amount": "0.12\u039e ($34)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "Hemba",
+      "To": "",
+      "Amount": "0.12\u039e ($34)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x0b30fd",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

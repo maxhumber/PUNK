@@ -1,0 +1,95 @@
+{
+  "id": "2981",
+  "owner": "0xca37d80abd9799e9060e2fa64b9a9476e5bb097f",
+  "attributes": [
+    "Female",
+    "Welding Goggles",
+    "Mohawk Thin"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "scalynel\u2026",
+      "To": "0xca37d8",
+      "Amount": "47\u039e ($97,837)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xca37d8",
+      "To": "",
+      "Amount": "42\u039e ($87,428)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xca37d8",
+      "To": "",
+      "Amount": "42\u039e ($86,009)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "47\u039e ($94,791)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99\u039e ($171,716)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "PB",
+      "To": "scalynel\u2026",
+      "Amount": "22.50\u039e ($41,891)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.50\u039e ($41,891)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x470e9b",
+      "To": "PB",
+      "Amount": "5\u039e ($1,071)",
+      "Date": "May 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($972)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x470e9b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

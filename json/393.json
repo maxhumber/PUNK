@@ -1,0 +1,54 @@
+{
+  "id": "393",
+  "owner": "0xb88f61e6fbda83fbfffabe364112137480398018",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Cap Forward",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0xb88f61",
+      "Amount": "",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5a2598",
+      "To": "",
+      "Amount": "0.10\u039e ($18)",
+      "Date": "Nov 02, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5a2598",
+      "To": "",
+      "Amount": "0.10\u039e ($18)",
+      "Date": "Nov 02, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Leduc",
+      "To": "",
+      "Amount": "<",
+      "Date": "Nov 01, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xad2bf4",
+      "To": "",
+      "Amount": "<",
+      "Date": "Jun 15, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

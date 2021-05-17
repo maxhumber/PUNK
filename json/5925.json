@@ -1,0 +1,34 @@
+{
+  "id": "5925",
+  "owner": "0xc272ed09c636edb6e858fa8702c182406185f1af",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Frown",
+    "Earring",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Cryptokk\u2026",
+      "To": "",
+      "Amount": "0.07\u039e ($10)",
+      "Date": "Jan 09, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cryptokk\u2026",
+      "To": "",
+      "Amount": "0.07\u039e ($9)",
+      "Date": "Dec 28, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

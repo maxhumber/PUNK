@@ -1,0 +1,54 @@
+{
+  "id": "6038",
+  "owner": "0x1f2bcd78b9f4e6daee2ad0beacfb659046afb5a7",
+  "attributes": [
+    "Female",
+    "Purple Eye Shadow",
+    "Crazy Hair",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5d1a65",
+      "To": "",
+      "Amount": "1\u039e ($1,769)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5d1a65",
+      "To": "",
+      "Amount": "1\u039e ($1,826)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Hemba",
+      "To": "",
+      "Amount": "0.24\u039e ($68)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "Hemba",
+      "To": "",
+      "Amount": "0.24\u039e ($68)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x1f2bcd",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "5874",
+  "owner": "0x23b50b9815eedd4e2de9227aa462144b548c34cd",
+  "attributes": [
+    "Male",
+    "Purple Hair",
+    "Earring",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jukay.et\u2026",
+      "To": "",
+      "Amount": "65\u039e ($111,894)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "jukay.et\u2026",
+      "To": "",
+      "Amount": "65\u039e ($111,926)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jukay.et\u2026",
+      "To": "",
+      "Amount": "60\u039e ($103,316)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "90\u039e ($151,901)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "jukay.et\u2026",
+      "To": "",
+      "Amount": "60\u039e ($100,536)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0b88fd",
+      "To": "0x23b50b",
+      "Amount": "55\u039e ($94,119)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "63.31\u039e ($108,292)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6611fe",
+      "To": "0x0b88fd",
+      "Amount": "",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x23b50b",
+      "To": "",
+      "Amount": "55\u039e ($93,740)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "65\u039e ($115,972)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

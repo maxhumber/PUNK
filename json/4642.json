@@ -1,0 +1,90 @@
+{
+  "id": "4642",
+  "owner": "0x46d9cf4003617c62ba11e0fe1990997debebc88f",
+  "attributes": [
+    "Male",
+    "Muttonchops",
+    "Fedora",
+    "Horned Rim Glasses",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x32bb96",
+      "To": "",
+      "Amount": "<",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x32bb96",
+      "To": "",
+      "Amount": "<",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4f1075",
+      "To": "0x46d9cf",
+      "Amount": "",
+      "Date": "May 27, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xcc7c33",
+      "To": "0x4f1075",
+      "Amount": "0.49\u039e ($68)",
+      "Date": "Mar 06, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4f1075",
+      "To": "",
+      "Amount": "0.30\u039e ($35)",
+      "Date": "Jan 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4f1075",
+      "To": "",
+      "Amount": "0.30\u039e ($35)",
+      "Date": "Jan 21, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.49\u039e ($101)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.00\u039e ($0.00)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcc7c33",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

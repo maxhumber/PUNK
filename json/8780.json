@@ -1,0 +1,67 @@
+{
+  "id": "8780",
+  "owner": "0x7760e0243ca9baa630412865df7b39afba42ff0f",
+  "attributes": [
+    "Zombie",
+    "Frumpy Hair",
+    "Shadow Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x5462de",
+      "To": "0x7760e0",
+      "Amount": "1.51\u039e ($530)",
+      "Date": "Sep 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "1.51\u039e ($371)",
+      "Date": "Jul 08, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00d7c9",
+      "To": "",
+      "Amount": "1.51\u039e ($371)",
+      "Date": "Jul 08, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "1.48\u039e ($394)",
+      "Date": "Jul 05, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "Hemba",
+      "To": "",
+      "Amount": "1.48\u039e ($394)",
+      "Date": "Jul 05, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5462de",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

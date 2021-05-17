@@ -1,0 +1,20 @@
+{
+  "id": "6715",
+  "owner": "0xf1ad946ae30a285d96ea396acd3fd22c5aa75ef8",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Chinstrap",
+    "Nerd Glasses",
+    "Pipe"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xf1ad94",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

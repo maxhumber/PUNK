@@ -1,0 +1,109 @@
+{
+  "id": "3048",
+  "owner": "0x1e341aa44c293d95d13d778492d417d1be4e63d5",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Clown Eyes Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x845ddd",
+      "To": "Blockcha\u2026",
+      "Amount": "26\u039e ($59,826)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Blockcha\u2026",
+      "To": "",
+      "Amount": "20\u039e ($42,958)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Blockcha\u2026",
+      "To": "",
+      "Amount": "20\u039e ($43,114)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Blockcha\u2026",
+      "To": "",
+      "Amount": "17\u039e ($36,647)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Blockcha\u2026",
+      "To": "",
+      "Amount": "17\u039e ($36,427)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26\u039e ($52,323)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x27c79a",
+      "To": "0x845ddd",
+      "Amount": "27\u039e ($47,250)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($40,557)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Ajiyl",
+      "To": "0x27c79a",
+      "Amount": "0.50\u039e ($72)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Blockcha\u2026",
+      "To": "",
+      "Amount": "0.20\u039e ($53)",
+      "Date": "May 31, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($233)",
+      "Date": "Dec 04, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "Ajiyl",
+      "Amount": "0.09\u039e ($42)",
+      "Date": "Dec 03, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.09\u039e ($26)",
+      "Date": "Nov 01, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

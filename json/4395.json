@@ -1,0 +1,46 @@
+{
+  "id": "4395",
+  "owner": "0x1857034ef7c022c4373370ff5211be3da7ea27c1",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Mohawk Thin"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "na",
+      "To": "0x185703",
+      "Amount": "2.30\u039e ($522)",
+      "Date": "Jun 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.30\u039e ($530)",
+      "Date": "Jul 22, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "na",
+      "Amount": "0.37\u039e ($58)",
+      "Date": "Jul 16, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.37\u039e ($76)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

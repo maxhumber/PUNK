@@ -1,0 +1,102 @@
+{
+  "id": "3393",
+  "owner": "0x04ae2f0bda04f1405991d91c2e8420d6148369ea",
+  "attributes": [
+    "Zombie",
+    "Frown",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Snowfro",
+      "To": "0x04ae2f",
+      "Amount": "500\u039e ($954,650)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x04ae2f",
+      "To": "",
+      "Amount": "500\u039e ($954,650)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x04ae2f",
+      "To": "",
+      "Amount": "400\u039e ($763,720)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x04ae2f",
+      "To": "",
+      "Amount": "400\u039e ($756,084)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x04ae2f",
+      "To": "",
+      "Amount": "300\u039e ($531,777)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x04ae2f",
+      "To": "",
+      "Amount": "300\u039e ($525,306)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x04ae2f",
+      "To": "",
+      "Amount": "300\u039e ($528,765)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x04ae2f",
+      "To": "",
+      "Amount": "300\u039e ($524,382)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x5462de",
+      "To": "Snowfro",
+      "Amount": "",
+      "Date": "Apr 29, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($5,291)",
+      "Date": "Jan 09, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "1\u039e ($266)",
+      "Date": "Jul 05, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "1\u039e ($269)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5462de",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

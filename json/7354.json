@@ -1,0 +1,110 @@
+{
+  "id": "7354",
+  "owner": "0x6c3675c755c06b236cb10b5acfa0445fd8aad455",
+  "attributes": [
+    "Female",
+    "Clown Nose",
+    "Straight Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "BlackKet\u2026",
+      "To": "",
+      "Amount": "17.25\u039e ($35,682)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x052564",
+      "To": "0x6c3675",
+      "Amount": "22.50\u039e ($55,369)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.50\u039e ($54,914)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.20\u039e ($58,754)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.50\u039e ($57,988)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "BlackKet\u2026",
+      "To": "",
+      "Amount": "17.25\u039e ($39,985)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.50\u039e ($57,059)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.50\u039e ($61,974)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($61,937)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0x052564",
+      "Amount": "17\u039e ($",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x052564",
+      "To": "",
+      "Amount": "17\u039e ($32,955)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($48,463)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($67,130)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

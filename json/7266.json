@@ -1,0 +1,40 @@
+{
+  "id": "7266",
+  "owner": "0xdde8df9a7dc9f68bdac815f493d1d731de911b5a",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Stringy Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.99\u039e ($83,993)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x58164b",
+      "To": "Kenney",
+      "Amount": "0.06\u039e ($45)",
+      "Date": "May 07, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Kenney",
+      "To": "",
+      "Amount": "0.06\u039e ($41)",
+      "Date": "May 02, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x58164b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

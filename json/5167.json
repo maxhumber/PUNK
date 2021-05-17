@@ -1,0 +1,47 @@
+{
+  "id": "5167",
+  "owner": "0x062c5432107e3b9ad924512209a7468b5c200fcd",
+  "attributes": [
+    "Female",
+    "Gold Chain",
+    "Crazy Hair",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xa3cb30",
+      "To": "0x062c54",
+      "Amount": "",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x682c30",
+      "To": "0x00bd9f",
+      "Amount": "0.15\u039e ($46)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($46)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x682c30",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

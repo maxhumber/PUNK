@@ -1,0 +1,41 @@
+{
+  "id": "3801",
+  "owner": "0xcffc336e6d019c1af58257a0b10bf2146a3f42a4",
+  "attributes": [
+    "Male",
+    "Clown Nose",
+    "Earring",
+    "Big Beard",
+    "Cowboy Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xba7ccc",
+      "To": "0xcffc33",
+      "Amount": "",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xba7ccc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

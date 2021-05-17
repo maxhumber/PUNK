@@ -1,0 +1,68 @@
+{
+  "id": "4602",
+  "owner": "0xcd2c66fe27f8c6e08a5bd42b2617a34f8854eece",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Police Cap",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x22ff03",
+      "To": "0xcd2c66",
+      "Amount": "1\u039e ($389)",
+      "Date": "Aug 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcd2c66",
+      "To": "",
+      "Amount": "1\u039e ($245)",
+      "Date": "Jun 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($2,078)",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($800)",
+      "Date": "Jan 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($619)",
+      "Date": "Aug 11, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x22ff03",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "4320",
+  "owner": "0x74be0af0bf7254328ddffc09425ff71d64a1a836",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "47\u039e ($109,459)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "sbdave.e\u2026",
+      "To": "",
+      "Amount": "37\u039e ($86,678)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "TokenAng\u2026",
+      "To": "0x74be0a",
+      "Amount": "39.50\u039e ($93,607)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.50\u039e ($93,607)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "sbdave.e\u2026",
+      "To": "",
+      "Amount": "37\u039e ($84,877)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5cda7e",
+      "To": "",
+      "Amount": "30\u039e ($68,819)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "43.20\u039e ($79,047)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($89,159)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x3be394",
+      "To": "",
+      "Amount": "28.50\u039e ($51,375)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "CPyrc",
+      "To": "TokenAng\u2026",
+      "Amount": "35\u039e ($63,092)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3be394",
+      "To": "",
+      "Amount": "28.50\u039e ($50,827)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($62,419)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "38\u039e ($71,290)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0873fc",
+      "To": "CPyrc",
+      "Amount": "26\u039e ($48,777)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "73\u039e ($136,970)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "26\u039e ($48,899)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "pelvis.e\u2026",
+      "To": "",
+      "Amount": "23\u039e ($43,126)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x0873fc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

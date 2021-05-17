@@ -1,0 +1,33 @@
+{
+  "id": "8406",
+  "owner": "0x7f6ca7e7e3383db380b96badcf006a8cd8e7b120",
+  "attributes": [
+    "Female",
+    "Headband",
+    "Purple Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "0x7f6ca7",
+      "Amount": "0.10\u039e ($70)",
+      "Date": "Dec 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($66)",
+      "Date": "Dec 12, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

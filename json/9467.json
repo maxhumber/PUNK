@@ -1,0 +1,96 @@
+{
+  "id": "9467",
+  "owner": "0x8f6b1e467fbe74d7dd43d59de0558f693c736798",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Clown Eyes Blue",
+    "Clown Nose"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x75bb8e",
+      "To": "0x8f6b1e",
+      "Amount": "",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xdcf227",
+      "To": "0x75bb8e",
+      "Amount": "52.50\u039e ($80,378)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "52.50\u039e ($90,017)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x07c5ea",
+      "To": "",
+      "Amount": "8.15\u039e ($14,716)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0xdcf227",
+      "Amount": "10.50\u039e ($18,959)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x07c5ea",
+      "To": "",
+      "Amount": "8.15\u039e ($14,978)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10.50\u039e ($19,260)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.50\u039e ($94)",
+      "Date": "Feb 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.50\u039e ($84)",
+      "Date": "Jan 22, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.25\u039e ($42)",
+      "Date": "Jan 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.25\u039e ($44)",
+      "Date": "Jan 18, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

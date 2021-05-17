@@ -1,0 +1,39 @@
+{
+  "id": "9985",
+  "owner": "0xcffc336e6d019c1af58257a0b10bf2146a3f42a4",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Big Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xba7ccc",
+      "To": "0xcffc33",
+      "Amount": "",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x95",
+      "To": "",
+      "Amount": "0.10\u039e ($9)",
+      "Date": "Dec 11, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x95",
+      "To": "",
+      "Amount": "0.10\u039e ($12)",
+      "Date": "Nov 28, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xba7ccc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

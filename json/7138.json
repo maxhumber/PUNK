@@ -1,0 +1,40 @@
+{
+  "id": "7138",
+  "owner": "0x4239974d0b49c228b35ead65a25690dbe4823f45",
+  "attributes": [
+    "Female",
+    "Tiara",
+    "Purple Lipstick",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "ddaavvee",
+      "To": "",
+      "Amount": "1.50\u039e ($1,924)",
+      "Date": "Jan 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "ddaavvee",
+      "To": "",
+      "Amount": "1.50\u039e ($1,092)",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x423997",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

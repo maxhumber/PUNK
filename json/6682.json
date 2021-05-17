@@ -1,0 +1,138 @@
+{
+  "id": "6682",
+  "owner": "0x7aa335dd4b35a47e4ac23e6b9201893665c3c12d",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Frown",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Kataster\u2026",
+      "To": "wattana.\u2026",
+      "Amount": "19.98\u039e ($42,629)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.98\u039e ($42,629)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.98\u039e ($47,587)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.49\u039e ($48,685)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaa4e0d",
+      "To": "",
+      "Amount": "0.02\u039e ($3)",
+      "Date": "Jan 14, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaa4e0d",
+      "To": "",
+      "Amount": "0.02\u039e ($3)",
+      "Date": "Jan 13, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Goop",
+      "To": "Kataster\u2026",
+      "Amount": "0.37\u039e ($56)",
+      "Date": "Dec 08, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.37\u039e ($54)",
+      "Date": "Nov 25, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xfe2eee",
+      "To": "",
+      "Amount": "<",
+      "Date": "Nov 24, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.36\u039e ($55)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "Goop",
+      "Amount": "0.35\u039e ($53)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($74)",
+      "Date": "Aug 09, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.47\u039e ($104)",
+      "Date": "Jul 31, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.60\u039e ($186)",
+      "Date": "Jun 22, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

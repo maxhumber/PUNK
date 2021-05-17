@@ -1,0 +1,47 @@
+{
+  "id": "7743",
+  "owner": "0xd4fa6e82c77716fa1ef7f5defc5fd6eeefbd3bff",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Cigarette",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x67edd0",
+      "To": "",
+      "Amount": "32\u039e ($77,429)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x67edd0",
+      "To": "",
+      "Amount": "32\u039e ($77,077)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0a4eaf\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($17)",
+      "Date": "Jan 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0a4eaf\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($115)",
+      "Date": "Jan 20, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xd4fa6e",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

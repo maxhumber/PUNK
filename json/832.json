@@ -1,0 +1,46 @@
+{
+  "id": "832",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Female",
+    "Red Mohawk",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0ec629",
+      "To": "",
+      "Amount": "15\u039e ($26,736)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0ec629",
+      "To": "",
+      "Amount": "15\u039e ($26,720)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdc5556",
+      "To": "",
+      "Amount": "0.10\u039e ($181)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdc5556",
+      "To": "",
+      "Amount": "0.10\u039e ($188)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

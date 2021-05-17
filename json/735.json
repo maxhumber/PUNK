@@ -1,0 +1,83 @@
+{
+  "id": "735",
+  "owner": "0x0e9aed5c7721c642a032812c2c4816f7d6cb87d7",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Nerd Glasses",
+    "Mole",
+    "Cowboy Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "51.99\u039e ($209,626)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "63.99\u039e ($138,495)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xfeeb2d",
+      "To": "0x0e9aed",
+      "Amount": "49.90\u039e ($106,795)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49.90\u039e ($106,795)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0xfeeb2d",
+      "Amount": "",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xcd2c66",
+      "To": "",
+      "Amount": "0.70\u039e ($1,240)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcd2c66",
+      "To": "",
+      "Amount": "0.70\u039e ($170)",
+      "Date": "Jun 09, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "id": "4108",
+  "owner": "0xd6e5710c50c2413ae33ed1fc722818a032bf569a",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Earring",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "52\u039e ($184,823)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "64\u039e ($176,966)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "72\u039e ($167,682)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "248\u039e ($459,579)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "398\u039e ($680,739)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x29b1b2",
+      "To": "0xd6e571",
+      "Amount": "",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x033ee7",
+      "To": "0x29b1b2",
+      "Amount": "5.98\u039e ($10,275)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdcf227",
+      "To": "",
+      "Amount": "5.25\u039e ($8,647)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdcf227",
+      "To": "",
+      "Amount": "5.25\u039e ($7,206)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.98\u039e ($7,903)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x10b4c1",
+      "To": "",
+      "Amount": "1.50\u039e ($548)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "NeonNFT",
+      "To": "0x033ee7",
+      "Amount": "2.90\u039e ($1,031)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.90\u039e ($1,017)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "NeonNFT",
+      "Amount": "",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe4c479",
+      "To": "NeonNFT",
+      "Amount": "2.50\u039e ($877)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xd306a0",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe4c479",
+      "To": "0xd306a0",
+      "Amount": "",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x10b4c1",
+      "To": "",
+      "Amount": "1.50\u039e ($530)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($1,038)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xe4c479",
+      "Amount": "",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0xe4c479",
+      "Amount": "2.30\u039e ($779)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x193847",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Hemba",
+      "To": "0x193847",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($88)",
+      "Date": "Apr 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($88)",
+      "Date": "Apr 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.39\u039e ($44)",
+      "Date": "Jan 27, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "6239",
+  "owner": "0x577ebc5de943e35cdf9ecb5bbe1f7d7cb6c7c647",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Wild Blonde",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "59.99\u039e ($129,732)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "68.99\u039e ($123,278)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "71.99\u039e ($130,853)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "PM_disco\u2026",
+      "To": "",
+      "Amount": "2\u039e ($2,620)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "PM_disco\u2026",
+      "To": "",
+      "Amount": "2\u039e ($2,469)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

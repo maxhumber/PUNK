@@ -1,0 +1,46 @@
+{
+  "id": "2564",
+  "owner": "0x0c3195dee42772485f704d7b4e745d85250592f6",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Bandana"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.48\u039e ($597)",
+      "Date": "Jan 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.48\u039e ($199)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x0c3195\u2026",
+      "Amount": "0.26\u039e ($34)",
+      "Date": "Dec 23, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.26\u039e ($72)",
+      "Date": "Sep 19, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

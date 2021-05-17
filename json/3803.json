@@ -1,0 +1,39 @@
+{
+  "id": "3803",
+  "owner": "0xe83c750b2708320bb134796c555b80df39a3d97b",
+  "attributes": [
+    "Female",
+    "Vape",
+    "Blonde Short"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "snowfro",
+      "To": "Snowfro",
+      "Amount": "",
+      "Date": "Apr 29, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x470e9b",
+      "To": "snowfro",
+      "Amount": "1\u039e ($158)",
+      "Date": "Apr 28, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($194)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x470e9b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

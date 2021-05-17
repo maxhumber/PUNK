@@ -1,0 +1,40 @@
+{
+  "id": "1007",
+  "owner": "0xef768ef781637a7995a2b57ff77825e8abcf682d",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Earring",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($88,591)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($38,898)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xef768e",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

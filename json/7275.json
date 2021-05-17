@@ -1,0 +1,32 @@
+{
+  "id": "7275",
+  "owner": "0x7760e0243ca9baa630412865df7b39afba42ff0f",
+  "attributes": [
+    "Male",
+    "Purple Hair",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0x7760e0",
+      "Amount": "0.29\u039e ($78)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.29\u039e ($78)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

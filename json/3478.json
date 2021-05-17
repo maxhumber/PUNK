@@ -1,0 +1,130 @@
+{
+  "id": "3478",
+  "owner": "0x2e2e26ba38ed22a604d90eaac2226e42e0621b0b",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Big Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "36\u039e ($123,108)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "36\u039e ($61,948)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11\u039e ($17,113)",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.47\u039e ($653)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.47\u039e ($194)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "jmg",
+      "To": "0x2e2e26",
+      "Amount": "0.29\u039e ($34)",
+      "Date": "Dec 20, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x376822",
+      "To": "",
+      "Amount": "0.20\u039e ($25)",
+      "Date": "Nov 22, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x376822",
+      "To": "",
+      "Amount": "0.20\u039e ($25)",
+      "Date": "Nov 22, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.29\u039e ($66)",
+      "Date": "Oct 05, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.19\u039e ($212)",
+      "Date": "Jan 07, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x58164b",
+      "To": "jmg",
+      "Amount": "0.06\u039e ($67)",
+      "Date": "Jan 07, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.06\u039e ($52)",
+      "Date": "Jan 02, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x58164b",
+      "Amount": "0.37\u039e ($72)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.37\u039e ($84)",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

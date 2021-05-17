@@ -1,0 +1,152 @@
+{
+  "id": "4044",
+  "owner": "0x83506d12aca4cdb36e8d03cda7611365142a29bf",
+  "attributes": [
+    "Female",
+    "Tassle Hat",
+    "Green Eye Shadow",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69.99\u039e ($123,995)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "pelvis.e\u2026",
+      "To": "pelvis.e\u2026",
+      "Amount": "",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x84c920",
+      "To": "pelvis.e\u2026",
+      "Amount": "22.50\u039e ($41,023)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "pelvis.e\u2026",
+      "To": "",
+      "Amount": "22.50\u039e ($41,290)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($45,514)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "pelvis.e\u2026",
+      "To": "",
+      "Amount": "23\u039e ($42,151)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "pelvis.e\u2026",
+      "To": "",
+      "Amount": "23\u039e ($41,213)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x023ef7",
+      "To": "",
+      "Amount": "22\u039e ($39,349)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26\u039e ($46,503)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34\u039e ($58,274)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x76555d",
+      "To": "",
+      "Amount": "23\u039e ($38,291)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x78f0a6",
+      "To": "0x84c920",
+      "Amount": "26.98\u039e ($44,336)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x76555d",
+      "To": "",
+      "Amount": "23\u039e ($38,287)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.98\u039e ($43,196)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "37.50\u039e ($58,828)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($810)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($927)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Zieg",
+      "To": "",
+      "Amount": "0.10\u039e ($17)",
+      "Date": "Jul 15, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "Zieg",
+      "To": "",
+      "Amount": "0.10\u039e ($20)",
+      "Date": "Jul 14, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x78f0a6",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

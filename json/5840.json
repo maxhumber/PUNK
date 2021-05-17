@@ -1,0 +1,194 @@
+{
+  "id": "5840",
+  "owner": "0x0e9aed5c7721c642a032812c2c4816f7d6cb87d7",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Horned Rim Glasses",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.99\u039e ($76,428)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x4affe1",
+      "To": "0x0e9aed",
+      "Amount": "19.49\u039e ($69,103)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.49\u039e ($69,103)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "DB",
+      "To": "0x4affe1",
+      "Amount": "18\u039e ($63,216)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4affe1",
+      "To": "",
+      "Amount": "18\u039e ($64,279)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "18\u039e ($64,279)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "18\u039e ($63,165)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.99\u039e ($70,148)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.90\u039e ($77,294)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.90\u039e ($81,174)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "DB",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe754d1",
+      "To": "DB",
+      "Amount": "2.95\u039e ($1,029)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0xe754d1",
+      "Amount": "1.88\u039e ($690)",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x776758",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Pranksy",
+      "To": "0x776758",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.99\u039e ($735)",
+      "Date": "Sep 12, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "alxo",
+      "To": "Pranksy",
+      "Amount": "",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($1,362)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "juggerna\u2026",
+      "To": "alxo",
+      "Amount": "0.25\u039e ($38)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "alxo",
+      "Amount": "0.25\u039e ($38)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($64)",
+      "Date": "Nov 03, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($83)",
+      "Date": "Oct 27, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "juggerna\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($269)",
+      "Date": "Jul 11, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

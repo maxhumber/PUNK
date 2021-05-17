@@ -1,0 +1,61 @@
+{
+  "id": "8673",
+  "owner": "0x9e199d8a3a39c9892b1c3ae348a382662dcbaa12",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Earring",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0x9e199d",
+      "Amount": "0.23\u039e ($197)",
+      "Date": "Mar 02, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.23\u039e ($65)",
+      "Date": "Sep 19, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($103)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($284)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "Cyborg",
+      "Amount": "0.13\u039e ($38)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.13\u039e ($38)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

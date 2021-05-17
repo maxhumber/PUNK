@@ -1,0 +1,194 @@
+{
+  "id": "5935",
+  "owner": "0x297009f9ce6544f0ea8d7dcfb2d2ffadfd6345af",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Frown",
+    "Handlebars"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x71a31c",
+      "To": "0x297009",
+      "Amount": "20.40\u039e ($43,841)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4b1727",
+      "To": "",
+      "Amount": "19\u039e ($40,579)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4b1727",
+      "To": "",
+      "Amount": "19\u039e ($40,334)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.40\u039e ($42,307)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe2c10e",
+      "To": "0x71a31c",
+      "Amount": "14.50\u039e ($28,929)",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x71a31c",
+      "To": "",
+      "Amount": "14.50\u039e ($28,274)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.49\u039e ($29,809)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x033ee7",
+      "To": "0xe2c10e",
+      "Amount": "13.58\u039e ($26,072)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe2c10e",
+      "To": "",
+      "Amount": "13.58\u039e ($26,272)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.85\u039e ($26,496)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0713a6",
+      "To": "0x033ee7",
+      "Amount": "4.10\u039e ($1,419)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.10\u039e ($1,418)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.50\u039e ($1,217)",
+      "Date": "Sep 21, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "ross_VRO\u2026",
+      "To": "0x0713a6",
+      "Amount": "0.65\u039e ($129)",
+      "Date": "May 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.65\u039e ($69)",
+      "Date": "Mar 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.98\u039e ($157)",
+      "Date": "Jan 25, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.59\u039e ($84)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Goop",
+      "To": "ross_VRO\u2026",
+      "Amount": "0.54\u039e ($77)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.54\u039e ($77)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "Goop",
+      "Amount": "0.50\u039e ($72)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($88)",
+      "Date": "Sep 04, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.25\u039e ($45)",
+      "Date": "Sep 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "Pranksy",
+      "Amount": "0.25\u039e ($45)",
+      "Date": "Sep 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($201)",
+      "Date": "Jul 11, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

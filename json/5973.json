@@ -1,0 +1,90 @@
+{
+  "id": "5973",
+  "owner": "0xf2c16ae7887450ce0018cdbad26cfdbab183ffee",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Handlebars",
+    "Earring",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x701f37",
+      "To": "0xf2c16a",
+      "Amount": "23.50\u039e ($44,188)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.50\u039e ($38,566)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "gaus",
+      "To": "0x701f37",
+      "Amount": "",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "gaus",
+      "Amount": "",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x3f4ba6",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "charley",
+      "To": "0x3f4ba6",
+      "Amount": "",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb73b18",
+      "To": "charley",
+      "Amount": "6.75\u039e ($12,081)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.75\u039e ($11,779)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0xb73b18",
+      "Amount": "5.94\u039e ($10,306)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.94\u039e ($10,332)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

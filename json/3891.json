@@ -1,0 +1,96 @@
+{
+  "id": "3891",
+  "owner": "0x024bcbcaad82e67f721799e259ca60bc7d363419",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Hot Lipstick",
+    "Blonde Bob"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xd71c60",
+      "To": "0x024bcb",
+      "Amount": "",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.96K\u039e ($3.38M)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x024bcb",
+      "To": "0xd71c60",
+      "Amount": "",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x231707",
+      "To": "0x024bcb",
+      "Amount": "33\u039e ($63,725)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33\u039e ($12,037)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "1.25\u039e ($538)",
+      "Date": "Aug 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "1.25\u039e ($474)",
+      "Date": "Aug 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11\u039e ($2,548)",
+      "Date": "Jul 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.50\u039e ($976)",
+      "Date": "Nov 18, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($1,526)",
+      "Date": "Mar 15, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($305)",
+      "Date": "Mar 15, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x231707",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

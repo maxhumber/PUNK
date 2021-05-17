@@ -1,0 +1,81 @@
+{
+  "id": "9058",
+  "owner": "0x4ffe38115e278c6cd335f12e3c325bd5cc907de7",
+  "attributes": [
+    "Female",
+    "Pigtails",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x4ffe38",
+      "Amount": "75\u039e ($161,007)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4ffe38",
+      "To": "",
+      "Amount": "75\u039e ($161,007)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4ffe38",
+      "To": "",
+      "Amount": "72\u039e ($154,567)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4ffe38",
+      "To": "",
+      "Amount": "72\u039e ($154,824)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "79.55\u039e ($143,720)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69.55\u039e ($125,653)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x13579f",
+      "To": "",
+      "Amount": "60\u039e ($106,962)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x13579f",
+      "To": "",
+      "Amount": "60\u039e ($106,781)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

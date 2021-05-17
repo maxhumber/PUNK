@@ -1,0 +1,18 @@
+{
+  "id": "8983",
+  "owner": "0xdd9d84399a8e81602e89f5bfef4c138b7908fc55",
+  "attributes": [
+    "Female",
+    "Earring",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xdd9d84",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

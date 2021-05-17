@@ -1,0 +1,45 @@
+{
+  "id": "521",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Female",
+    "Blonde Bob"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "9\u039e ($11,853)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "9\u039e ($11,811)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "007",
+      "To": "",
+      "Amount": "0.10\u039e ($13)",
+      "Date": "Jan 02, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "007",
+      "To": "",
+      "Amount": "0.10\u039e ($12)",
+      "Date": "Dec 17, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

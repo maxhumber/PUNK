@@ -1,0 +1,195 @@
+{
+  "id": "5176",
+  "owner": "0x558e9ca02e90ce0453ad354ae0db097638737109",
+  "attributes": [
+    "Male",
+    "Frown",
+    "Big Shades",
+    "Earring",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x27d5e1",
+      "To": "0x558e9c",
+      "Amount": "23\u039e ($58,086)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "20\u039e ($49,571)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "20\u039e ($49,571)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($56,600)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($61,955)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($73,386)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($97,597)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x4f63c2",
+      "To": "0x27d5e1",
+      "Amount": "20.49\u039e ($36,733)",
+      "Date": "Mar 31, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.49\u039e ($37,971)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4c1caa",
+      "To": "",
+      "Amount": "20\u039e ($33,686)",
+      "Date": "Mar 29, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4c1caa",
+      "To": "",
+      "Amount": "20\u039e ($33,678)",
+      "Date": "Mar 29, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.50\u039e ($35,876)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.98\u039e ($39,548)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.80\u039e ($40,123)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.48\u039e ($39,380)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.98\u039e ($41,771)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.98\u039e ($45,789)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.50\u039e ($48,297)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x4f63c2",
+      "Amount": "",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "BENZ",
+      "To": "0x4f63c2",
+      "Amount": "21\u039e ($37,578)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xdad321",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "BENZ",
+      "To": "0xdad321",
+      "Amount": "",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "284\u039e ($151,079)",
+      "Date": "Nov 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "BENZ",
+      "Amount": "0.45\u039e ($98)",
+      "Date": "May 14, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($78)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

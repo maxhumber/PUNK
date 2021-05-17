@@ -1,0 +1,70 @@
+{
+  "id": "4678",
+  "owner": "0x98cfea4a7632ef7148b2f6933c5af622d16b956b",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Mustache",
+    "Earring",
+    "Horned Rim Glasses",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Party",
+      "To": "",
+      "Amount": "6.50\u039e ($4,787)",
+      "Date": "Dec 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Party",
+      "To": "",
+      "Amount": "6.50\u039e ($4,766)",
+      "Date": "Dec 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "6373D",
+      "To": "",
+      "Amount": "6\u039e ($3,661)",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "2pac",
+      "To": "",
+      "Amount": "3\u039e ($1,937)",
+      "Date": "Dec 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "2pac",
+      "To": "",
+      "Amount": "3\u039e ($1,942)",
+      "Date": "Dec 20, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Party",
+      "To": "",
+      "Amount": "3.75\u039e ($2,428)",
+      "Date": "Dec 20, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Party",
+      "To": "",
+      "Amount": "3.75\u039e ($2,437)",
+      "Date": "Dec 20, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x98cfea",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

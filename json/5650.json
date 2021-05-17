@@ -1,0 +1,19 @@
+{
+  "id": "5650",
+  "owner": "0xc46f437244770dd7a9d82d93cb3e4f5b03ff3b8e",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Normal Beard",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc46f43",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

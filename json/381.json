@@ -1,0 +1,60 @@
+{
+  "id": "381",
+  "owner": "0xab6ca2017548a170699890214bfd66583a0c1754",
+  "attributes": [
+    "Female",
+    "Knitted Cap",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x7e1de5",
+      "To": "nftguild\u2026",
+      "Amount": "24.99\u039e ($51,413)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($51,296)",
+      "Date": "Apr 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0x7e1de5",
+      "Amount": "23.99\u039e ($41,133)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.99\u039e ($45,737)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49.99\u039e ($95,037)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "Pranksy",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

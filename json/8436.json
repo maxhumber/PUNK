@@ -1,0 +1,305 @@
+{
+  "id": "8436",
+  "owner": "0xcdd84c2f941a73e1fbad6762f66344cf221746e4",
+  "attributes": [
+    "Female",
+    "Bandana",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x13816f",
+      "To": "",
+      "Amount": "12\u039e ($17,960)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Loopify",
+      "To": "0xcdd84c",
+      "Amount": "13.99\u039e ($27,803)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x13816f",
+      "To": "",
+      "Amount": "12\u039e ($24,113)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.99\u039e ($27,613)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($28,703)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.50\u039e ($32,414)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14\u039e ($25,323)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xdfce59",
+      "To": "Loopify",
+      "Amount": "8.20\u039e ($14,831)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.20\u039e ($14,835)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($14,538)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7a37a1",
+      "To": "",
+      "Amount": "3.50\u039e ($3,654)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "lazyjack",
+      "To": "0xdfce59",
+      "Amount": "4.60\u039e ($4,681)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7a37a1",
+      "To": "",
+      "Amount": "3.50\u039e ($3,634)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.60\u039e ($4,670)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "NeonNFT",
+      "To": "lazyjack",
+      "Amount": "4.25\u039e ($1,485)",
+      "Date": "Oct 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.25\u039e ($1,491)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "NeonNFT",
+      "Amount": "",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Party",
+      "To": "NeonNFT",
+      "Amount": "4.25\u039e ($1,491)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x6565ae",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Party",
+      "To": "0x6565ae",
+      "Amount": "",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.50\u039e ($1,579)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "Party",
+      "Amount": "",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Lmao",
+      "To": "Party",
+      "Amount": "3.52\u039e ($1,236)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x169aa4",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Lmao",
+      "To": "0x169aa4",
+      "Amount": "",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($2,048)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($3,515)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "Lmao",
+      "Amount": "",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "223332",
+      "To": "Lmao",
+      "Amount": "5.80\u039e ($2,110)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5e7ee9",
+      "To": "223332",
+      "Amount": "4\u039e ($1,431)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf4239e",
+      "To": "0x5e7ee9",
+      "Amount": "3.75\u039e ($1,290)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe4c479",
+      "To": "0xf4239e",
+      "Amount": "3.50\u039e ($1,210)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0xe4c479",
+      "Amount": "3.25\u039e ($1,236)",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x193847",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Hemba",
+      "To": "0x193847",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.66\u039e ($366)",
+      "Date": "May 29, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

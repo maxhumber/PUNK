@@ -1,0 +1,95 @@
+{
+  "id": "2875",
+  "owner": "0x422fac9209d91c24b3115bf7fb0ef7a3a7efbd7d",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5ed433",
+      "To": "",
+      "Amount": "0.05\u039e ($18)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe5e771",
+      "To": "0x422fac",
+      "Amount": "",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "MrNFT",
+      "To": "0xe5e771",
+      "Amount": "5.94\u039e ($2,122)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5ed433",
+      "To": "",
+      "Amount": "0.05\u039e ($18)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.94\u039e ($2,157)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "MrNFT",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "GoWest23",
+      "To": "MrNFT",
+      "Amount": "4.85\u039e ($1,761)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa18fd5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "0xa18fd5",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "GoWest23",
+      "Amount": "0.42\u039e ($73)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.42\u039e ($86)",
+      "Date": "Jul 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

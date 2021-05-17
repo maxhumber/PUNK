@@ -1,0 +1,208 @@
+{
+  "id": "8444",
+  "owner": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+  "attributes": [
+    "Male",
+    "Muttonchops",
+    "Horned Rim Glasses",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "(Wrap)",
+      "From": "0x47bab6",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "wookie.e\u2026",
+      "To": "0x47bab6",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x2978f0",
+      "To": "wookie.e\u2026",
+      "Amount": "20.59\u039e ($70,460)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.59\u039e ($68,893)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa45138",
+      "To": "0x2978f0",
+      "Amount": "20.95\u039e ($70,097)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.95\u039e ($68,119)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xa45138",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x304993",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x8f903c",
+      "To": "0x304993",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x8f903c",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x691adb",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4f63c2",
+      "To": "0x691adb",
+      "Amount": "",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x62bdc6",
+      "To": "0x4f63c2",
+      "Amount": "17.50\u039e ($31,537)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4f63c2",
+      "To": "",
+      "Amount": "17.50\u039e ($30,492)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.90\u039e ($33,776)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xaae8c5",
+      "To": "0x62bdc6",
+      "Amount": "16.99\u039e ($30,223)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "13\u039e ($23,716)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "13\u039e ($23,876)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.99\u039e ($30,977)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.49\u039e ($32,096)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xaae8c5",
+      "Amount": "",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "0x568cf5",
+      "Amount": "5.80\u039e ($2,076)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "GoWest23",
+      "To": "Carlini8",
+      "Amount": "5.55\u039e ($1,969)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa18fd5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "0xa18fd5",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe45df5",
+      "To": "GoWest23",
+      "Amount": "0.50\u039e ($67)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($140)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe45df5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

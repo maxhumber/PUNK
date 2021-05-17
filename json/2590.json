@@ -1,0 +1,55 @@
+{
+  "id": "2590",
+  "owner": "0x0cacc6104d8cd9d7b2850b4f35c65c1ecdeece03",
+  "attributes": [
+    "Male",
+    "Muttonchops",
+    "Fedora",
+    "Earring",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x374bd1",
+      "To": "0x0cacc6",
+      "Amount": "",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf9728b",
+      "To": "",
+      "Amount": "1\u039e ($540)",
+      "Date": "Nov 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf9728b",
+      "To": "",
+      "Amount": "1\u039e ($354)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x374bd1",
+      "Amount": "0.90\u039e ($221)",
+      "Date": "May 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($183)",
+      "Date": "Jul 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

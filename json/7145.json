@@ -1,0 +1,74 @@
+{
+  "id": "7145",
+  "owner": "0x8ad272ac86c6c88683d9a60eb8ed57e6c304bb0c",
+  "attributes": [
+    "Female",
+    "Tassle Hat",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "j1mmy",
+      "To": "j1mmy_va\u2026",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "j1mmy_va\u2026",
+      "To": "j1mmy",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x034b46",
+      "To": "",
+      "Amount": "35\u039e ($79,678)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x034b46",
+      "To": "",
+      "Amount": "35\u039e ($76,351)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "j1mmy",
+      "To": "j1mmy_va\u2026",
+      "Amount": "",
+      "Date": "Oct 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "sov",
+      "To": "j1mmy",
+      "Amount": "9\u039e ($3,265)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9\u039e ($3,234)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "sov",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

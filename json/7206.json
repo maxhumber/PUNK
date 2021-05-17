@@ -1,0 +1,81 @@
+{
+  "id": "7206",
+  "owner": "0x81b9a5f21efdb5df0210471b9a94e0d4ad9951ed",
+  "attributes": [
+    "Male",
+    "Spots",
+    "Fedora"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xb9d94a",
+      "To": "valko.et\u2026",
+      "Amount": "",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($183,702)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x1672db",
+      "To": "0xb9d94a",
+      "Amount": "33\u039e ($114,256)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33\u039e ($56,522)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($59,985)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "23\u039e ($40,904)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "23\u039e ($41,170)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00d29f",
+      "To": "",
+      "Amount": "20\u039e ($35,800)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39\u039e ($67,798)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x1672db",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

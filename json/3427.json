@@ -1,0 +1,40 @@
+{
+  "id": "3427",
+  "owner": "0x4084df8bf74ba73f04eb39b89df698608df7f4b5",
+  "attributes": [
+    "Female",
+    "Big Shades",
+    "Black Lipstick",
+    "Straight Hair Blonde"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x034b46",
+      "To": "",
+      "Amount": "35\u039e ($137,634)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x034b46",
+      "To": "",
+      "Amount": "35\u039e ($122,117)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x207355",
+      "To": "0x4084df",
+      "Amount": "",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x207355",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

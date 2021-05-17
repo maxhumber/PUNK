@@ -1,0 +1,54 @@
+{
+  "id": "8599",
+  "owner": "0xa25803ab86a327786bb59395fc0164d826b98298",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Crazy Hair",
+    "Pipe"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdef4ed",
+      "To": "",
+      "Amount": "24.20\u039e ($54,849)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Wilcox",
+      "To": "0xa25803",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdef4ed",
+      "To": "",
+      "Amount": "24.20\u039e ($56,343)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "Wilcox",
+      "Amount": "",
+      "Date": "Sep 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($269)",
+      "Date": "Jul 11, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

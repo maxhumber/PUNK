@@ -1,0 +1,95 @@
+{
+  "id": "1408",
+  "owner": "0x382681f262e3ab062c89298609372b6ae9d8e52a",
+  "attributes": [
+    "Male",
+    "Nerd Glasses",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdbc416",
+      "To": "",
+      "Amount": "35\u039e ($136,282)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdbc416",
+      "To": "",
+      "Amount": "35\u039e ($133,794)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.50\u039e ($46,160)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe4f0ac",
+      "To": "0x382681",
+      "Amount": "25\u039e ($39,119)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($39,119)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49\u039e ($92,201)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4de20e",
+      "To": "",
+      "Amount": "19.50\u039e ($36,618)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4de20e",
+      "To": "",
+      "Amount": "19.50\u039e ($37,537)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($48,845)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0xe4f0ac",
+      "Amount": "",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

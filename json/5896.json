@@ -1,0 +1,20 @@
+{
+  "id": "5896",
+  "owner": "0x8b27de7f6a7542ee70e2420e1bc67fc479d01984",
+  "attributes": [
+    "Female",
+    "Mohawk",
+    "Green Eye Shadow",
+    "Hot Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8b27de",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

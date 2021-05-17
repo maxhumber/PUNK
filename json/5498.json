@@ -1,0 +1,40 @@
+{
+  "id": "5498",
+  "owner": "0xc272ed09c636edb6e858fa8702c182406185f1af",
+  "attributes": [
+    "Male",
+    "Goat",
+    "Medical Mask",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x516358",
+      "To": "",
+      "Amount": "23\u039e ($75,800)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($102,314)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x516358",
+      "To": "",
+      "Amount": "23\u039e ($62,373)",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

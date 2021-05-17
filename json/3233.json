@@ -1,0 +1,75 @@
+{
+  "id": "3233",
+  "owner": "0x00b278dd68f9d8491795ffaf771120638bef1686",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Big Shades",
+    "Shadow Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xff2854",
+      "To": "",
+      "Amount": "50\u039e ($114,109)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff2854",
+      "To": "",
+      "Amount": "50\u039e ($111,249)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Mr_0x",
+      "To": "",
+      "Amount": "0.40\u039e ($732)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Mr_0x",
+      "To": "",
+      "Amount": "0.40\u039e ($55)",
+      "Date": "Feb 28, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x682c30",
+      "To": "0x00b278",
+      "Amount": "0.39\u039e ($104)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.39\u039e ($104)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.99\u039e ($263)",
+      "Date": "Jul 05, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x682c30",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

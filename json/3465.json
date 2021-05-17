@@ -1,0 +1,110 @@
+{
+  "id": "3465",
+  "owner": "0xe8723d26ad5f7ff4ea8902d235f0a8f8b8802f6d",
+  "attributes": [
+    "Female",
+    "Big Shades",
+    "Straight Hair",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "85\u039e ($176,928)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "75\u039e ($139,909)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "75\u039e ($142,988)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($67,712)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "ddaavvee",
+      "To": "jmg",
+      "Amount": "8.50\u039e ($3,107)",
+      "Date": "Oct 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "8.50\u039e ($3,211)",
+      "Date": "Oct 16, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa55ec4",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "ddaavvee",
+      "To": "0xa55ec4",
+      "Amount": "",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.04\u039e ($11)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($2,929)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

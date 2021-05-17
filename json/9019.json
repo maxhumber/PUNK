@@ -1,0 +1,76 @@
+{
+  "id": "9019",
+  "owner": "0xcc7c335f3365ae3f7e4e8c9535dc92780a4add9d",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Medical Mask",
+    "VR",
+    "Big Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x023ef7",
+      "To": "",
+      "Amount": "50\u039e ($110,279)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "80\u039e ($192,801)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x023ef7",
+      "To": "",
+      "Amount": "50\u039e ($125,000)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "95\u039e ($238,756)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "EliteCat\u2026",
+      "To": "",
+      "Amount": "17.25\u039e ($25,148)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "EliteCat\u2026",
+      "To": "",
+      "Amount": "17.25\u039e ($22,539)",
+      "Date": "Jan 29, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($15)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcc7c33",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

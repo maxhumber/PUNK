@@ -1,0 +1,33 @@
+{
+  "id": "8142",
+  "owner": "0x7d9f4a3ab2568f61c9087a8b5506dfcd5e8fea49",
+  "attributes": [
+    "Female",
+    "Green Eye Shadow",
+    "Mohawk Thin",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0x7d9f4a",
+      "Amount": "0.30\u039e ($91)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($91)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

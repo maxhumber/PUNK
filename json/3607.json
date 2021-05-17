@@ -1,0 +1,40 @@
+{
+  "id": "3607",
+  "owner": "0x4db1dd33159f5f7b9b600fb4a44e19e2976578e3",
+  "attributes": [
+    "Female",
+    "Stringy Hair",
+    "Purple Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xa3cb30",
+      "To": "0x4db1dd",
+      "Amount": "15\u039e ($27,653)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4db1dd",
+      "To": "",
+      "Amount": "15\u039e ($27,653)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

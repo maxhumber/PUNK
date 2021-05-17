@@ -1,0 +1,131 @@
+{
+  "id": "5589",
+  "owner": "0x86ab846eab1db8ed6f410cbc7c5497de0b7b4536",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Big Shades",
+    "Front Beard Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "qiwave",
+      "Amount": "1.49\u039e ($326)",
+      "Date": "Jun 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.49\u039e ($362)",
+      "Date": "Jun 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.49\u039e ($520)",
+      "Date": "May 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.99\u039e ($425)",
+      "Date": "May 20, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "davey.et\u2026",
+      "To": "Pranksy",
+      "Amount": "1\u039e ($214)",
+      "Date": "May 20, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($167)",
+      "Date": "Jan 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.66\u039e ($1,137)",
+      "Date": "Jan 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "666\u039e ($90,410)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "davey.et\u2026",
+      "Amount": "0.50\u039e ($68)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($75)",
+      "Date": "Dec 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($209)",
+      "Date": "Aug 13, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.25\u039e ($53)",
+      "Date": "Aug 12, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($53)",
+      "Date": "Aug 12, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.35\u039e ($108)",
+      "Date": "Jul 09, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($153)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.35\u039e ($107)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

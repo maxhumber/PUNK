@@ -1,0 +1,67 @@
+{
+  "id": "7192",
+  "owner": "0x3e34d5e1ba8a11515d0e84ba2d80e35a4ba283ab",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Normal Beard Black"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xf2af34",
+      "To": "0x3e34d5",
+      "Amount": "",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0b88fd",
+      "To": "0xf2af34",
+      "Amount": "23.99\u039e ($43,980)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf2af34",
+      "To": "",
+      "Amount": "23.99\u039e ($43,980)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.75\u039e ($47,207)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf2af34",
+      "To": "",
+      "Amount": "22.99\u039e ($42,002)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.27\u039e ($49,821)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6611fe",
+      "To": "0x0b88fd",
+      "Amount": "",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

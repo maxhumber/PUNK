@@ -1,0 +1,89 @@
+{
+  "id": "4961",
+  "owner": "0xc31afe50abc2fc1a3cb5b4d4a163738e595c8fee",
+  "attributes": [
+    "Female",
+    "Cap",
+    "Green Eye Shadow",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "80\u039e ($175,708)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.88\u039e ($1,223)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xf2d515",
+      "To": "0xc31afe",
+      "Amount": "",
+      "Date": "Nov 10, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.88\u039e ($337)",
+      "Date": "Nov 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.25\u039e ($1,761)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.80\u039e ($2,406)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "An111",
+      "To": "0xf2d515",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.80\u039e ($2,396)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "An111",
+      "Amount": "0.10\u039e ($104)",
+      "Date": "Jan 19, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($114)",
+      "Date": "Jan 11, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

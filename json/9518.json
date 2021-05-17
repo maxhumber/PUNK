@@ -1,0 +1,61 @@
+{
+  "id": "9518",
+  "owner": "0x20eadfcaf91bd98674ff8fc341d148e1731576a4",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Mustache",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "valko.et\u2026",
+      "To": "0x20eadf",
+      "Amount": "20\u039e ($38,621)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($38,044)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "valko.et\u2026",
+      "Amount": "5.98\u039e ($10,213)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.98\u039e ($10,213)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x682c30",
+      "To": "0x5b098b",
+      "Amount": "0.25\u039e ($67)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($69)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x682c30",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

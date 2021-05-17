@@ -1,0 +1,40 @@
+{
+  "id": "8291",
+  "owner": "0x7760e0243ca9baa630412865df7b39afba42ff0f",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Horned Rim Glasses",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xbc081c",
+      "To": "0x7760e0",
+      "Amount": "0.16\u039e ($36)",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.16\u039e ($43)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "0.16\u039e ($43)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xbc081c",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "8529",
+  "owner": "0xc182d81b3c3bb743b8660eb41fb36780a910d106",
+  "attributes": [
+    "Female",
+    "VR",
+    "Purple Lipstick",
+    "Blonde Bob"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x1f92fc",
+      "To": "",
+      "Amount": "6\u039e ($10,212)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x1f92fc",
+      "To": "",
+      "Amount": "6\u039e ($7,888)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($810)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($920)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc182d8",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "6740",
+  "owner": "0x03911fecabd6b4809c88e2e6eb856ec932b2ee3e",
+  "attributes": [
+    "Male",
+    "Clown Nose",
+    "Luxurious Beard",
+    "Clown Hair Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "67.40\u039e ($109,582)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "67.40\u039e ($119,704)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x89ba62",
+      "To": "0x03911f",
+      "Amount": "1.15\u039e ($870)",
+      "Date": "Jan 01, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.15\u039e ($283)",
+      "Date": "Jul 08, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x89ba62",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

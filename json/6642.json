@@ -1,0 +1,89 @@
+{
+  "id": "6642",
+  "owner": "0x8e662143178bb8c797620a3a61f34a71832475b0",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Big Shades",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49\u039e ($96,376)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "Dude_Nak\u2026",
+      "Amount": "",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Thing",
+      "To": "Dude_Nak\u2026",
+      "Amount": "7.85\u039e ($2,812)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x66d02c",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Thing",
+      "To": "0x66d02c",
+      "Amount": "",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "Thing",
+      "Amount": "3.61\u039e ($1,301)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.61\u039e ($1,301)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x071524",
+      "To": "0x5b098b",
+      "Amount": "0.10\u039e ($29)",
+      "Date": "Jun 27, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($29)",
+      "Date": "Jun 27, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x071524",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

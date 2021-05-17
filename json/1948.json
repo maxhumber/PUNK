@@ -1,0 +1,55 @@
+{
+  "id": "1948",
+  "owner": "0x530afa101bed324809d0738d45b38a669314ff54",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Classic Shades",
+    "Earring",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x1424d2",
+      "To": "",
+      "Amount": "20\u039e ($41,249)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x1424d2",
+      "To": "",
+      "Amount": "20\u039e ($41,249)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "PB",
+      "Amount": "0.10\u039e ($50)",
+      "Date": "Jun 17, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($52)",
+      "Date": "Jun 14, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.46\u039e ($88)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

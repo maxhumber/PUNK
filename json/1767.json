@@ -1,0 +1,130 @@
+{
+  "id": "1767",
+  "owner": "0x50664ede715e131f584d3e7eaabd7818bb20a068",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Front Beard Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xaae8c5",
+      "To": "yfimaxi.\u2026",
+      "Amount": "18.49\u039e ($33,519)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.49\u039e ($32,831)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.99\u039e ($33,780)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.49\u039e ($34,670)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xaae8c5",
+      "Amount": "",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "NeonNFT",
+      "To": "0x568cf5",
+      "Amount": "4.75\u039e ($1,636)",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x0f8722",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "NeonNFT",
+      "To": "0x0f8722",
+      "Amount": "",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.80\u039e ($1,656)",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "NeonNFT",
+      "Amount": "",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x5b47e9",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "KittyGr_\u2026",
+      "To": "0x5b47e9",
+      "Amount": "",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "KittyGr_\u2026",
+      "Amount": "0.08\u039e ($45)",
+      "Date": "Jun 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.08\u039e ($61)",
+      "Date": "May 05, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($612)",
+      "Date": "May 05, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.49\u039e ($93)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

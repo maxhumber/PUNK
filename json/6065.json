@@ -1,0 +1,33 @@
+{
+  "id": "6065",
+  "owner": "0x8b27de7f6a7542ee70e2420e1bc67fc479d01984",
+  "attributes": [
+    "Female",
+    "Classic Shades",
+    "Wild Hair",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($73)",
+      "Date": "Mar 09, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($82)",
+      "Date": "Mar 06, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8b27de",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

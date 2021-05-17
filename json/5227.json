@@ -1,0 +1,151 @@
+{
+  "id": "5227",
+  "owner": "0x5163588239afc34a1e6255fe250437cf917e32ab",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Frumpy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($73,957)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Loopify",
+      "To": "",
+      "Amount": "13\u039e ($26,863)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x229229",
+      "To": "0x516358",
+      "Amount": "13.90\u039e ($28,723)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Loopify",
+      "To": "",
+      "Amount": "13\u039e ($26,863)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.90\u039e ($28,914)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0b8f4c",
+      "To": "",
+      "Amount": "16.50\u039e ($29,507)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0b8f4c",
+      "To": "",
+      "Amount": "16.50\u039e ($27,971)",
+      "Date": "Mar 29, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "16\u039e ($27,160)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "16\u039e ($27,041)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($35,492)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x033ee7",
+      "To": "0x229229",
+      "Amount": "4.31\u039e ($5,834)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.31\u039e ($5,834)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "MrNFT",
+      "To": "0x033ee7",
+      "Amount": "2.86\u039e ($989)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.86\u039e ($989)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "MrNFT",
+      "Amount": "",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "MrNFT",
+      "Amount": "2.19\u039e ($757)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Pranksy",
+      "Amount": "1.80\u039e ($613)",
+      "Date": "Sep 22, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x193847",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Hemba",
+      "To": "0x193847",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

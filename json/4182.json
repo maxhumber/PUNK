@@ -1,0 +1,33 @@
+{
+  "id": "4182",
+  "owner": "0x32dd0756316b31d731aa6ae0f60b9b560e0ed92c",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Shadow Beard",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0x32dd07",
+      "Amount": "21.50\u039e ($41,248)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.50\u039e ($41,248)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "124",
+  "owner": "0xf25e635a9f35c97df49c52637eddcdca64259ef8",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Peak Spike",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x84c920",
+      "To": "0xf25e63",
+      "Amount": "19.90\u039e ($34,519)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.90\u039e ($34,736)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($36,602)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x51636d",
+      "To": "0x84c920",
+      "Amount": "15\u039e ($25,709)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($25,156)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x2cbee4",
+      "To": "0x51636d",
+      "Amount": "",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x35388c",
+      "To": "0x2cbee4",
+      "Amount": "",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0x35388c",
+      "Amount": "",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

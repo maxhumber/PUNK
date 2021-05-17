@@ -1,0 +1,75 @@
+{
+  "id": "1448",
+  "owner": "0x717541ecec745b1996a293a0e663f2aed2340f1a",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Pipe",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "tchen.et\u2026",
+      "To": "",
+      "Amount": "29\u039e ($52,457)",
+      "Date": "Mar 31, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x596572",
+      "To": "0x717541",
+      "Amount": "30.50\u039e ($56,283)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30.50\u039e ($56,283)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "tchen.et\u2026",
+      "To": "",
+      "Amount": "29\u039e ($53,259)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31.50\u039e ($57,113)",
+      "Date": "Mar 29, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa3cb30",
+      "To": "0x596572",
+      "Amount": "25\u039e ($42,340)",
+      "Date": "Mar 29, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x596572",
+      "To": "",
+      "Amount": "25\u039e ($41,860)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

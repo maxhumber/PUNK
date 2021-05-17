@@ -1,0 +1,47 @@
+{
+  "id": "7696",
+  "owner": "0xeb97952c39c36ace5af7b2919ab058ab9bbcad12",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Muttonchops",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xc480fb",
+      "To": "0xeb9795",
+      "Amount": "21\u039e ($38,313)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xeb9795",
+      "To": "",
+      "Amount": "19\u039e ($34,311)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xeb9795",
+      "To": "",
+      "Amount": "19\u039e ($34,240)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($35,218)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc480fb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

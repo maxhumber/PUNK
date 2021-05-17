@@ -1,0 +1,96 @@
+{
+  "id": "6414",
+  "owner": "0xb5b84e29b719125f7fcae56eb1fd936a7d9f2af6",
+  "attributes": [
+    "Male",
+    "Normal Beard",
+    "Mohawk",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x38fd1f",
+      "To": "0xb5b84e",
+      "Amount": "20\u039e ($39,185)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb5b84e",
+      "To": "",
+      "Amount": "20\u039e ($39,185)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($46,737)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($51,851)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32\u039e ($56,532)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($81,388)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0503ed",
+      "To": "0x38fd1f",
+      "Amount": "17\u039e ($30,755)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17\u039e ($29,355)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($31,832)",
+      "Date": "Feb 06, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0x0503ed",
+      "Amount": "10\u039e ($17,470)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "10\u039e ($16,440)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

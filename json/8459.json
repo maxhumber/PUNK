@@ -1,0 +1,96 @@
+{
+  "id": "8459",
+  "owner": "0x5bbb9dc847765edcffccb44b1c6411b5694f8f22",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Wild Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x1919db",
+      "To": "0x5bbb9d",
+      "Amount": "28.50\u039e ($108,622)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbff231",
+      "To": "",
+      "Amount": "19\u039e ($76,802)",
+      "Date": "May 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbff231",
+      "To": "",
+      "Amount": "19\u039e ($76,802)",
+      "Date": "May 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.50\u039e ($117,778)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0x1919db",
+      "Amount": "24.80\u039e ($101,474)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.80\u039e ($101,474)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x034b46",
+      "To": "",
+      "Amount": "28.50\u039e ($62,791)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x034b46",
+      "To": "",
+      "Amount": "28.50\u039e ($63,397)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "rockland\u2026",
+      "To": "",
+      "Amount": "2\u039e ($3,341)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "rockland\u2026",
+      "To": "",
+      "Amount": "2\u039e ($3,061)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

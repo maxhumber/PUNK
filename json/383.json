@@ -1,0 +1,53 @@
+{
+  "id": "383",
+  "owner": "0xbb1ec73938b9df4baab4f5c43af96385a862811e",
+  "attributes": [
+    "Female",
+    "Green Eye Shadow",
+    "Straight Hair Blonde"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xfeeb2d",
+      "To": "0xbb1ec7",
+      "Amount": "39.70\u039e ($105,043)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbb1ec7",
+      "To": "",
+      "Amount": "33.30\u039e ($88,109)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbb1ec7",
+      "To": "",
+      "Amount": "33.30\u039e ($75,676)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.70\u039e ($92,613)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0xfeeb2d",
+      "Amount": "",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

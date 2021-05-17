@@ -1,0 +1,74 @@
+{
+  "id": "328",
+  "owner": "0x471ccd726115991cbac31c8f724dd988fe05a3ac",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x65b1b9",
+      "To": "",
+      "Amount": "16.55\u039e ($31,656)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3f13f5",
+      "To": "0x471ccd",
+      "Amount": "21.88\u039e ($39,666)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x65b1b9",
+      "To": "",
+      "Amount": "16.55\u039e ($29,896)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.88\u039e ($36,362)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.50\u039e ($40,320)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x2cbee4",
+      "To": "0x3f13f5",
+      "Amount": "",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x35388c",
+      "To": "0x2cbee4",
+      "Amount": "",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0x35388c",
+      "Amount": "",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

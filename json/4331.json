@@ -1,0 +1,102 @@
+{
+  "id": "4331",
+  "owner": "0x068315ebcbc3067c31af9886c2df3a8c10532d57",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xb4bb41",
+      "To": "0x068315",
+      "Amount": "27.99\u039e ($49,155)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.99\u039e ($45,168)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x023b91",
+      "To": "0xb4bb41",
+      "Amount": "19.50\u039e ($28,789)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.50\u039e ($28,789)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.50\u039e ($33,218)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf2052f",
+      "To": "0x023b91",
+      "Amount": "13.80\u039e ($24,980)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.80\u039e ($24,635)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.80\u039e ($15,402)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa3cb30",
+      "To": "0xf2052f",
+      "Amount": "6.90\u039e ($12,076)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.90\u039e ($11,971)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

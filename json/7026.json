@@ -1,0 +1,61 @@
+{
+  "id": "7026",
+  "owner": "0x5b713f9e1e51dc6dd6bd12ce7b529bf9f2df4753",
+  "attributes": [
+    "Male",
+    "Mustache",
+    "Earring",
+    "Cowboy Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0x5b713f",
+      "Amount": "57.99\u039e ($124,553)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "point-gr\u2026",
+      "To": "",
+      "Amount": "42\u039e ($89,600)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "point-gr\u2026",
+      "To": "",
+      "Amount": "42\u039e ($89,287)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "57.99\u039e ($122,137)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

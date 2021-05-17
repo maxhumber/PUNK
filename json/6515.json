@@ -1,0 +1,81 @@
+{
+  "id": "6515",
+  "owner": "0x66c7a7348250f453a37cf86410a946f9668de386",
+  "attributes": [
+    "Zombie",
+    "Cigarette",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc352b5",
+      "To": "",
+      "Amount": "12\u039e ($2,418)",
+      "Date": "May 14, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc352b5",
+      "To": "",
+      "Amount": "12\u039e ($1,922)",
+      "Date": "Jan 25, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc352b5",
+      "To": "",
+      "Amount": "8\u039e ($1,281)",
+      "Date": "Jan 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc352b5",
+      "To": "",
+      "Amount": "8\u039e ($1,307)",
+      "Date": "Jan 16, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x723e66",
+      "To": "cx000.et\u2026",
+      "Amount": "",
+      "Date": "Feb 20, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7eb46d",
+      "To": "",
+      "Amount": "0.10\u039e ($69)",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7eb46d",
+      "To": "",
+      "Amount": "0.10\u039e ($70)",
+      "Date": "Dec 13, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x723e66",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

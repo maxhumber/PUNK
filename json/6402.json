@@ -1,0 +1,158 @@
+{
+  "id": "6402",
+  "owner": "0x81b9a5f21efdb5df0210471b9a94e0d4ad9951ed",
+  "attributes": [
+    "Female",
+    "Pigtails",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x4c9692",
+      "To": "valko.et\u2026",
+      "Amount": "50\u039e ($187,339)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "valko.et\u2026",
+      "To": "",
+      "Amount": "50\u039e ($187,339)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "valko.et\u2026",
+      "To": "",
+      "Amount": "45\u039e ($168,605)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "valko.et\u2026",
+      "To": "",
+      "Amount": "45\u039e ($168,605)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "54\u039e ($202,326)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "85\u039e ($355,056)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "125\u039e ($486,096)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "100\u039e ($365,366)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x062c54",
+      "To": "0x4c9692",
+      "Amount": "85\u039e ($301,600)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4c9692",
+      "To": "",
+      "Amount": "65\u039e ($230,636)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "85\u039e ($300,858)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4c9692",
+      "To": "",
+      "Amount": "65\u039e ($232,027)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "125\u039e ($365,406)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xca8fe4",
+      "To": "0x062c54",
+      "Amount": "",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "20\u039e ($36,778)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "20\u039e ($36,613)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "MadMax",
+      "To": "",
+      "Amount": "10\u039e ($10,137)",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "MadMax",
+      "To": "",
+      "Amount": "10\u039e ($10,137)",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

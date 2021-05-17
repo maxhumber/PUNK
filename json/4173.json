@@ -1,0 +1,20 @@
+{
+  "id": "4173",
+  "owner": "0xd4fa6e82c77716fa1ef7f5defc5fd6eeefbd3bff",
+  "attributes": [
+    "Male",
+    "Clown Nose",
+    "Mohawk Thin",
+    "Nerd Glasses",
+    "Medical Mask"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xd4fa6e",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

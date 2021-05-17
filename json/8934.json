@@ -1,0 +1,96 @@
+{
+  "id": "8934",
+  "owner": "0x78f0269f5b1ca914c8c58993f41181f89e212b27",
+  "attributes": [
+    "Male",
+    "Police Cap",
+    "Muttonchops",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,043)",
+      "Date": "May 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($485)",
+      "Date": "Apr 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbfa319",
+      "To": "TokenAng\u2026",
+      "Amount": "1.26\u039e ($332)",
+      "Date": "Jun 14, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "0.30\u039e ($74)",
+      "Date": "Jun 10, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Snowfro",
+      "To": "",
+      "Amount": "0.50\u039e ($67)",
+      "Date": "Mar 25, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Snowfro",
+      "To": "",
+      "Amount": "0.50\u039e ($68)",
+      "Date": "Mar 21, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.26\u039e ($256)",
+      "Date": "Oct 26, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.49\u039e ($948)",
+      "Date": "Nov 22, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0xbfa319",
+      "Amount": "0.10\u039e ($38)",
+      "Date": "Nov 22, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($37)",
+      "Date": "Nov 20, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

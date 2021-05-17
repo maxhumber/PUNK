@@ -1,0 +1,144 @@
+{
+  "id": "4026",
+  "owner": "0xd7e077576f13e54dce22da96338d56b7d9ab7c21",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Spots"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x087173",
+      "To": "0xd7e077",
+      "Amount": "25\u039e ($52,523)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($40,654)",
+      "Date": "Mar 26, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x2a6227",
+      "To": "0x087173",
+      "Amount": "4.99\u039e ($1,721)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.99\u039e ($1,727)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x2a6227",
+      "Amount": "",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x29f466",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x2a6227",
+      "To": "0x29f466",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0x2a6227",
+      "Amount": "2.80\u039e ($1,053)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.80\u039e ($1,048)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "alxo",
+      "To": "Pranksy",
+      "Amount": "",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($1,363)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "juggerna\u2026",
+      "To": "alxo",
+      "Amount": "0.25\u039e ($38)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($38)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x581b59",
+      "To": "",
+      "Amount": "0.25\u039e ($47)",
+      "Date": "Nov 13, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x581b59",
+      "To": "",
+      "Amount": "0.25\u039e ($47)",
+      "Date": "Nov 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($74)",
+      "Date": "Oct 27, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "juggerna\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($153)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

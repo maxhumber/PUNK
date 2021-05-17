@@ -1,0 +1,186 @@
+{
+  "id": "6363",
+  "owner": "0x577ebc5de943e35cdf9ecb5bbe1f7d7cb6c7c647",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x90b60b",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.49\u039e ($44,540)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Debonair\u2026",
+      "To": "0x90b60b",
+      "Amount": "16.86\u039e ($34,485)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x90b60b",
+      "To": "",
+      "Amount": "15.33\u039e ($31,347)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x90b60b",
+      "To": "",
+      "Amount": "15.33\u039e ($31,163)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.86\u039e ($35,530)",
+      "Date": "Apr 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "14\u039e ($29,452)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "14\u039e ($29,452)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Bombard",
+      "To": "",
+      "Amount": "12\u039e ($25,457)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "13\u039e ($27,579)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "13\u039e ($26,962)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.33\u039e ($32,409)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.50\u039e ($43,022)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "76.92\u039e ($113,065)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Ravachol",
+      "To": "Debonair\u2026",
+      "Amount": "",
+      "Date": "Apr 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Goop",
+      "To": "Ravachol",
+      "Amount": "0.58\u039e ($113)",
+      "Date": "Apr 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.58\u039e ($97)",
+      "Date": "Apr 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.68\u039e ($120)",
+      "Date": "Jan 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.64\u039e ($108)",
+      "Date": "Jan 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.59\u039e ($96)",
+      "Date": "Jan 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.58\u039e ($85)",
+      "Date": "Jan 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.57\u039e ($80)",
+      "Date": "Jan 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "Goop",
+      "Amount": "0.55\u039e ($78)",
+      "Date": "Jan 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.55\u039e ($108)",
+      "Date": "Jul 14, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

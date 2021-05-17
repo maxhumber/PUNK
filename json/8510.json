@@ -1,0 +1,40 @@
+{
+  "id": "8510",
+  "owner": "0xdcf227c475a43c82a4ffeb133729d6ce2f348a92",
+  "attributes": [
+    "Male",
+    "Earring",
+    "VR",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "0xdcf227",
+      "Amount": "8.50\u039e ($14,620)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.50\u039e ($14,561)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "3766",
+  "owner": "0x60c7d0a2369710a73dcf8cb5c45a0c695ac7eee4",
+  "attributes": [
+    "Male",
+    "Rosy Cheeks",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($99,537)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "beautifu\u2026",
+      "To": "",
+      "Amount": "28\u039e ($58,910)",
+      "Date": "Apr 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "beautifu\u2026",
+      "To": "",
+      "Amount": "28\u039e ($57,643)",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "beautifu\u2026",
+      "To": "",
+      "Amount": "25\u039e ($49,681)",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "beautifu\u2026",
+      "To": "",
+      "Amount": "25\u039e ($49,281)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "beautifu\u2026",
+      "To": "",
+      "Amount": "25\u039e ($42,609)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "beautifu\u2026",
+      "To": "",
+      "Amount": "25\u039e ($43,007)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x60c7d0",
+      "Amount": "",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x166149",
+      "To": "0x60c7d0",
+      "Amount": "5\u039e ($1,753)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x1bb0de",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 23, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x166149",
+      "To": "0x1bb0de",
+      "Amount": "",
+      "Date": "Sep 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($1,400)",
+      "Date": "Jul 16, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Alex3422",
+      "To": "0x166149",
+      "Amount": "1.99\u039e ($477)",
+      "Date": "Jul 09, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x166149",
+      "To": "",
+      "Amount": "1.75\u039e ($420)",
+      "Date": "Jul 09, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x166149",
+      "To": "",
+      "Amount": "1.75\u039e ($414)",
+      "Date": "Jul 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "1.50\u039e ($340)",
+      "Date": "Jul 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.99\u039e ($451)",
+      "Date": "Jul 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.49\u039e ($583)",
+      "Date": "Jun 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.75\u039e ($568)",
+      "Date": "May 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($609)",
+      "Date": "Jan 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbfa319",
+      "To": "Alex3422",
+      "Amount": "0.85\u039e ($123)",
+      "Date": "Jan 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.85\u039e ($173)",
+      "Date": "Oct 26, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0xbfa319",
+      "Amount": "0.16\u039e ($47)",
+      "Date": "Sep 01, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.16\u039e ($130)",
+      "Date": "Dec 19, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

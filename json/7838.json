@@ -1,0 +1,54 @@
+{
+  "id": "7838",
+  "owner": "0xb38071b23f0fa92cf9e1bd6feec5a5f9821f3ccc",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Front Beard Dark",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.25\u039e ($93,575)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32.62\u039e ($89,076)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49.80\u039e ($90,005)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.80\u039e ($54,298)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.80\u039e ($27,350)",
+      "Date": "Jan 29, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb38071",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

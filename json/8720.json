@@ -1,0 +1,89 @@
+{
+  "id": "8720",
+  "owner": "0x799e6b89af6dcd161c12ce1104f5bbe51b6889b6",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Classic Shades",
+    "Top Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "95\u039e ($387,825)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0x799e6b",
+      "Amount": "59.99\u039e ($149,281)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "59.99\u039e ($148,030)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "ross_VRO\u2026",
+      "To": "",
+      "Amount": "0.30\u039e ($43)",
+      "Date": "Jan 01, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "ross_VRO\u2026",
+      "To": "",
+      "Amount": "0.30\u039e ($35)",
+      "Date": "Dec 27, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.25\u039e ($116)",
+      "Date": "Nov 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.25\u039e ($56)",
+      "Date": "Jul 12, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

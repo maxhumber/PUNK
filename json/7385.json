@@ -1,0 +1,54 @@
+{
+  "id": "7385",
+  "owner": "0xa9c09f45b2bd1bbb3d7ac14506b7c9c9476a7649",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Shadow Beard",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x8133a5",
+      "To": "",
+      "Amount": "0.20\u039e ($36)",
+      "Date": "Sep 03, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0xa9c09f",
+      "Amount": "0.25\u039e ($45)",
+      "Date": "Sep 02, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x8133a5",
+      "To": "",
+      "Amount": "0.20\u039e ($34)",
+      "Date": "Sep 01, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($43)",
+      "Date": "Sep 01, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($153)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

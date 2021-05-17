@@ -1,0 +1,194 @@
+{
+  "id": "3429",
+  "owner": "0xed98464bda3ce53a95b50f897556bede4316361c",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Messy Hair",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "275\u039e ($975,604)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "700\u039e ($2.38M)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "CryptoNo\u2026",
+      "To": "sartoshi\u2026",
+      "Amount": "40\u039e ($127,665)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "sartoshi\u2026",
+      "To": "",
+      "Amount": "40\u039e ($125,704)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "sartoshi\u2026",
+      "To": "",
+      "Amount": "35\u039e ($109,991)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "sartoshi\u2026",
+      "To": "",
+      "Amount": "35\u039e ($109,457)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x97920e",
+      "To": "",
+      "Amount": "30\u039e ($93,821)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($140,731)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x97920e",
+      "To": "",
+      "Amount": "30\u039e ($93,821)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "44\u039e ($137,603)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "52.49\u039e ($134,700)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "62.49\u039e ($139,396)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "43.25\u039e ($74,451)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "47.25\u039e ($89,675)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($85,059)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99.99\u039e ($172,678)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xd07ee1",
+      "To": "CryptoNo\u2026",
+      "Amount": "",
+      "Date": "Aug 22, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0xd07ee1",
+      "Amount": "0.70\u039e ($131)",
+      "Date": "Aug 21, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.70\u039e ($153)",
+      "Date": "Jul 31, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.95\u039e ($294)",
+      "Date": "Jun 22, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($109)",
+      "Date": "Jun 20, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

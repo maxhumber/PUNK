@@ -1,0 +1,61 @@
+{
+  "id": "9427",
+  "owner": "0xfae6ff6a67f7a2e0a463ed5ed8b5fa26ebd26fe5",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Police Cap",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "boywitht\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($694)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "boywitht\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($694)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4bc2cc",
+      "To": "0xfae6ff",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x9f2942",
+      "To": "",
+      "Amount": "0.16\u039e ($19)",
+      "Date": "Dec 20, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9f2942",
+      "To": "",
+      "Amount": "0.16\u039e ($16)",
+      "Date": "Dec 18, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4bc2cc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "6350",
+  "owner": "0x96a6913b41b99e0f20b27148677ccdeebb16ea06",
+  "attributes": [
+    "Female",
+    "Straight Hair Blonde",
+    "Hot Lipstick",
+    "Earring",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "darymore\u2026",
+      "To": "0x96a691",
+      "Amount": "",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xdef4ed",
+      "To": "darymore\u2026",
+      "Amount": "41.20\u039e ($122,523)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "41.20\u039e ($121,581)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42.20\u039e ($121,471)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42.69\u039e ($117,822)",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbbd34",
+      "To": "0xdef4ed",
+      "Amount": "",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "keyboard\u2026",
+      "To": "0xcbbd34",
+      "Amount": "32.50\u039e ($81,226)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcbbd34",
+      "To": "",
+      "Amount": "32.50\u039e ($80,958)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xddfdcb",
+      "To": "",
+      "Amount": "28.50\u039e ($70,994)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34\u039e ($84,694)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xcbbd34",
+      "To": "",
+      "Amount": "31.50\u039e ($79,392)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "36\u039e ($89,562)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "36.50\u039e ($87,941)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "37\u039e ($81,811)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcbbd34",
+      "To": "",
+      "Amount": "31.50\u039e ($69,650)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "38\u039e ($84,023)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "27\u039e ($59,700)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42\u039e ($95,192)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "47\u039e ($112,632)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0b88fd",
+      "To": "keyboard\u2026",
+      "Amount": "37\u039e ($78,658)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "37\u039e ($79,047)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6611fe",
+      "To": "0x0b88fd",
+      "Amount": "",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "107\u039e ($173,324)",
+      "Date": "Mar 26, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

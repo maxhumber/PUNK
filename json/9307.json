@@ -1,0 +1,33 @@
+{
+  "id": "9307",
+  "owner": "0xae43b2e277401afabfb50082c59a3e9040e03ff2",
+  "attributes": [
+    "Female",
+    "Purple Eye Shadow",
+    "Stringy Hair",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0xae43b2",
+      "Amount": "8.99\u039e ($15,596)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.99\u039e ($15,611)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

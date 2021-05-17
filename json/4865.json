@@ -1,0 +1,32 @@
+{
+  "id": "4865",
+  "owner": "0x92ed9731d907bcbee5e792ef3960e2612b1577a5",
+  "attributes": [
+    "Male",
+    "Normal Beard",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x7efb83",
+      "To": "0x92ed97",
+      "Amount": "25\u039e ($43,579)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($43,108)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x7efb83",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

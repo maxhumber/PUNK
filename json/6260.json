@@ -1,0 +1,61 @@
+{
+  "id": "6260",
+  "owner": "0xe83c750b2708320bb134796c555b80df39a3d97b",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Pipe",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "ArtBlock\u2026",
+      "To": "Snowfro",
+      "Amount": "",
+      "Date": "Dec 18, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "ark1",
+      "To": "ArtBlock\u2026",
+      "Amount": "0.39\u039e ($48)",
+      "Date": "Dec 17, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.39\u039e ($48)",
+      "Date": "Dec 17, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "ark1",
+      "Amount": "0.25\u039e ($47)",
+      "Date": "Sep 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "ark1",
+      "Amount": "0.25\u039e ($47)",
+      "Date": "Sep 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($235)",
+      "Date": "Jul 08, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

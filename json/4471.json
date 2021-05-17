@@ -1,0 +1,74 @@
+{
+  "id": "4471",
+  "owner": "0xdf5e762e7fa87709ef6b8e004e7af938195eef91",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.99\u039e ($147,366)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($80,624)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x00d29f",
+      "To": "",
+      "Amount": "24\u039e ($42,000)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32.50\u039e ($57,566)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0xdf5e76",
+      "Amount": "26\u039e ($46,052)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00d29f",
+      "To": "",
+      "Amount": "24\u039e ($42,524)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdf5e76",
+      "To": "",
+      "Amount": "23.50\u039e ($41,638)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26\u039e ($49,038)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

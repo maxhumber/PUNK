@@ -1,0 +1,75 @@
+{
+  "id": "2248",
+  "owner": "0x2d8d75d4ba64efda74eead05ac6127df4e46efa9",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Front Beard Dark",
+    "Clown Eyes Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "84\u039e ($193,713)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "84\u039e ($193,713)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x753b20",
+      "To": "0x2d8d75",
+      "Amount": "19.95\u039e ($46,007)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.95\u039e ($45,650)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0b88fd",
+      "To": "0x753b20",
+      "Amount": "19\u039e ($43,476)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($42,790)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6611fe",
+      "To": "0x0b88fd",
+      "Amount": "",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.25\u039e ($42,967)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

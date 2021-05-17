@@ -1,0 +1,89 @@
+{
+  "id": "8139",
+  "owner": "0xe113e7b1e8ecd07973ea40978aed520241d17f27",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Earring",
+    "Goat"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32\u039e ($87,352)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x9ff4ea",
+      "To": "",
+      "Amount": "18\u039e ($47,474)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9ff4ea",
+      "To": "",
+      "Amount": "18\u039e ($46,266)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28\u039e ($43,631)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($56,252)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($48,845)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($42,562)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18\u039e ($32,756)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "niwin",
+      "Amount": "5.87\u039e ($7,399)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.87\u039e ($7,399)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

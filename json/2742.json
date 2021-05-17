@@ -1,0 +1,48 @@
+{
+  "id": "2742",
+  "owner": "0x6f35b0cfc58eb1e21eef8a439bbb0ce4c929d32a",
+  "attributes": [
+    "Female",
+    "Wild White Hair",
+    "Black Lipstick",
+    "Eye Patch",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "sov",
+      "To": "Cry",
+      "Amount": "10\u039e ($3,782)",
+      "Date": "Oct 15, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x257e2b",
+      "To": "",
+      "Amount": "10\u039e ($3,777)",
+      "Date": "Oct 14, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x257e2b",
+      "To": "",
+      "Amount": "10\u039e ($3,777)",
+      "Date": "Oct 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "Cry",
+      "Amount": "10\u039e ($3,777)",
+      "Date": "Oct 14, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "sov",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "4012",
+  "owner": "0x69021ae8769586d56791d29615959997c2012b99",
+  "attributes": [
+    "Male",
+    "Top Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "sov",
+      "To": "0x69021a",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x22160e",
+      "To": "",
+      "Amount": "0.08\u039e ($16)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x595bd0",
+      "To": "sov",
+      "Amount": "0.50\u039e ($103)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($103)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x22160e",
+      "To": "",
+      "Amount": "0.08\u039e ($18)",
+      "Date": "Jul 12, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x595bd0",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

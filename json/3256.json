@@ -1,0 +1,115 @@
+{
+  "id": "3256",
+  "owner": "0x0601d0235645a6ce6356ef11aa0b225c68605131",
+  "attributes": [
+    "Male",
+    "Cowboy Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x9ff4ea",
+      "To": "",
+      "Amount": "20\u039e ($34,235)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9ff4ea",
+      "To": "",
+      "Amount": "20\u039e ($34,439)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x4dcaf3",
+      "To": "0x0601d0",
+      "Amount": "1.75\u039e ($225)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.75\u039e ($367)",
+      "Date": "Jul 30, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xd8e806",
+      "To": "0x4dcaf3",
+      "Amount": "1.25\u039e ($257)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4dcaf3",
+      "To": "",
+      "Amount": "1.25\u039e ($257)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($672)",
+      "Date": "Jul 12, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.99\u039e ($1,202)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.25\u039e ($66)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6611fe",
+      "To": "",
+      "Amount": "0.25\u039e ($66)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 05, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($2,660)",
+      "Date": "Jul 05, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xd8e806",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

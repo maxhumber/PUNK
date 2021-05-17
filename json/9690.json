@@ -1,0 +1,137 @@
+{
+  "id": "9690",
+  "owner": "0x2ba7f9d560bfbeb91e6290c49d05550385b311e3",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Eye Mask"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x07c5ea",
+      "To": "0x2ba7f9",
+      "Amount": "8.40\u039e ($14,614)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc71f4f",
+      "To": "",
+      "Amount": "8\u039e ($14,482)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.40\u039e ($15,060)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc71f4f",
+      "To": "",
+      "Amount": "8\u039e ($14,676)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.75\u039e ($15,789)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Neuroman\u2026",
+      "To": "0x07c5ea",
+      "Amount": "7.69\u039e ($13,905)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.69\u039e ($14,078)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0553de",
+      "To": "Neuroman\u2026",
+      "Amount": "0.89\u039e ($219)",
+      "Date": "Jul 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.89\u039e ($219)",
+      "Date": "Jul 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.99\u039e ($233)",
+      "Date": "Jul 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.19\u039e ($274)",
+      "Date": "Jun 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($304)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Shrugs",
+      "To": "0x0553de",
+      "Amount": "1.25\u039e ($254)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.25\u039e ($253)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbc081c",
+      "To": "Shrugs",
+      "Amount": "0.15\u039e ($42)",
+      "Date": "Aug 15, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($39)",
+      "Date": "Sep 21, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "metakid",
+      "To": "0xbc081c",
+      "Amount": "",
+      "Date": "Sep 20, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "metakid",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

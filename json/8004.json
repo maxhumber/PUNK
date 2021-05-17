@@ -1,0 +1,60 @@
+{
+  "id": "8004",
+  "owner": "0x51cd54fb353cb29ca02876f79d5aa31cef92e264",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Chinstrap"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "ChrisR",
+      "To": "metapurs\u2026",
+      "Amount": "0.95\u039e ($354)",
+      "Date": "Sep 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.95\u039e ($318)",
+      "Date": "Jul 31, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Pranksy",
+      "To": "ChrisR",
+      "Amount": "",
+      "Date": "Jul 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.79\u039e ($378)",
+      "Date": "May 19, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "Pranksy",
+      "Amount": "0.90\u039e ($190)",
+      "Date": "May 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($405)",
+      "Date": "Jul 23, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

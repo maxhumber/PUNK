@@ -1,0 +1,47 @@
+{
+  "id": "4061",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Female",
+    "Green Eye Shadow",
+    "Wild Blonde",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb166dd",
+      "To": "",
+      "Amount": "11.50\u039e ($17,489)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb166dd",
+      "To": "",
+      "Amount": "11.50\u039e ($15,055)",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.70\u039e ($91)",
+      "Date": "Jan 02, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.70\u039e ($92)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

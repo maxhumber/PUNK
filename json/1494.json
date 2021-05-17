@@ -1,0 +1,47 @@
+{
+  "id": "1494",
+  "owner": "0x729fcb34c7c84af5fb9a4ad514bae745d30c9aab",
+  "attributes": [
+    "Female",
+    "Wild White Hair",
+    "Black Lipstick",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($825)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($927)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa452b3",
+      "To": "",
+      "Amount": "<",
+      "Date": "May 07, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa452b3",
+      "To": "",
+      "Amount": "<",
+      "Date": "Jan 20, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x729fcb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "7598",
+  "owner": "0x4bbb41f61fffc1bbe65a2aa192c65281e16ea758",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xfb60bb",
+      "To": "0x4bbb41",
+      "Amount": "",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "ChrisR",
+      "To": "0xfb60bb",
+      "Amount": "0.94\u039e ($317)",
+      "Date": "Jul 30, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jock",
+      "To": "",
+      "Amount": "0.85\u039e ($203)",
+      "Date": "Jul 20, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jock",
+      "To": "",
+      "Amount": "0.85\u039e ($203)",
+      "Date": "Jul 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.94\u039e ($213)",
+      "Date": "Jul 03, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Pranksy",
+      "To": "ChrisR",
+      "Amount": "",
+      "Date": "Jul 02, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($125)",
+      "Date": "Jun 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.79\u039e ($361)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "Pranksy",
+      "Amount": "0.90\u039e ($182)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($103)",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($405)",
+      "Date": "Jul 23, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

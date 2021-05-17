@@ -1,0 +1,40 @@
+{
+  "id": "3488",
+  "owner": "0x4084df8bf74ba73f04eb39b89df698608df7f4b5",
+  "attributes": [
+    "Female",
+    "Red Mohawk",
+    "Big Shades",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x207355",
+      "To": "0x4084df",
+      "Amount": "",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5caff0\u2026",
+      "To": "",
+      "Amount": "12\u039e ($21,054)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5caff0\u2026",
+      "To": "",
+      "Amount": "12\u039e ($22,004)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x207355",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

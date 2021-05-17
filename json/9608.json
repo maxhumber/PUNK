@@ -1,0 +1,167 @@
+{
+  "id": "9608",
+  "owner": "0xa5c80be2c4d2dca26c3cba2cd9d4a3c4cf3212ea",
+  "attributes": [
+    "Female",
+    "Straight Hair",
+    "Earring",
+    "Clown Eyes Blue",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($55,226)",
+      "Date": "Apr 07, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0dc533",
+      "To": "0xa5c80b",
+      "Amount": "5\u039e ($6,317)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa5c80b",
+      "To": "",
+      "Amount": "5\u039e ($6,693)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xce6259",
+      "To": "",
+      "Amount": "1\u039e ($1,255)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa5c80b",
+      "To": "",
+      "Amount": "4.80\u039e ($5,892)",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa5c80b",
+      "To": "",
+      "Amount": "4.80\u039e ($6,703)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($7,345)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.90\u039e ($9,569)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xb87461",
+      "To": "0x0dc533",
+      "Amount": "",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Goop",
+      "To": "0xb87461",
+      "Amount": "0.37\u039e ($56)",
+      "Date": "Dec 08, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.37\u039e ($54)",
+      "Date": "Nov 25, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.36\u039e ($55)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "ark1",
+      "To": "Goop",
+      "Amount": "0.35\u039e ($53)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Goop",
+      "To": "",
+      "Amount": "0.25\u039e ($38)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Goop",
+      "To": "",
+      "Amount": "0.25\u039e ($38)",
+      "Date": "Nov 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($62)",
+      "Date": "Nov 19, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "ark1",
+      "Amount": "0.25\u039e ($47)",
+      "Date": "Sep 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "ark1",
+      "Amount": "0.25\u039e ($47)",
+      "Date": "Sep 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($306)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($1,087)",
+      "Date": "May 27, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

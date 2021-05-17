@@ -1,0 +1,109 @@
+{
+  "id": "2392",
+  "owner": "0x252d5e92f25e329d4e931c56aa53e4b3b56c6d0a",
+  "attributes": [
+    "Male",
+    "Regular Shades",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x252d5e",
+      "To": "0x252d5e",
+      "Amount": "",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Ravachol",
+      "To": "0x252d5e",
+      "Amount": "23.32\u039e ($60,165)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x252d5e",
+      "To": "",
+      "Amount": "22.32\u039e ($57,585)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x252d5e",
+      "To": "",
+      "Amount": "22.32\u039e ($57,585)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.32\u039e ($60,493)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe96c3e",
+      "To": "Ravachol",
+      "Amount": "0.65\u039e ($127)",
+      "Date": "Apr 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.65\u039e ($145)",
+      "Date": "Mar 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($178)",
+      "Date": "Feb 07, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "el",
+      "To": "0xe96c3e",
+      "Amount": "",
+      "Date": "Oct 17, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "el",
+      "Amount": "0.11\u039e ($30)",
+      "Date": "Aug 26, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x976907",
+      "To": "",
+      "Amount": "0.04\u039e ($11)",
+      "Date": "Aug 13, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x976907",
+      "To": "",
+      "Amount": "0.04\u039e ($13)",
+      "Date": "Aug 11, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.11\u039e ($48)",
+      "Date": "Jul 31, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

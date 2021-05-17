@@ -1,0 +1,33 @@
+{
+  "id": "8330",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Female",
+    "Vape",
+    "Purple Lipstick",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x682c30",
+      "To": "0xc352b5",
+      "Amount": "0.69\u039e ($60)",
+      "Date": "Dec 13, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.69\u039e ($155)",
+      "Date": "Aug 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x682c30",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

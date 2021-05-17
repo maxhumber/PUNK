@@ -1,0 +1,41 @@
+{
+  "id": "2447",
+  "owner": "0xdde8df9a7dc9f68bdac815f493d1d731de911b5a",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Stringy Hair",
+    "Earring",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.99\u039e ($78,553)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Kenney",
+      "Amount": "0.11\u039e ($114)",
+      "Date": "Jan 19, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.11\u039e ($111)",
+      "Date": "Jan 06, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

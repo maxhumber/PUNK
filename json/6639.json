@@ -1,0 +1,33 @@
+{
+  "id": "6639",
+  "owner": "0x8449593b8e9d4410e571486232d5d42590e25893",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Spots",
+    "Muttonchops"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x844959",
+      "Amount": "0.45\u039e ($88)",
+      "Date": "May 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($78)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "1676",
+  "owner": "0xc5f59709974262c4afacc5386287820bdbc7eb3a",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x0ec5b4",
+      "To": "0xc5f597",
+      "Amount": "19.50\u039e ($68,514)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.50\u039e ($69,635)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "point-gr\u2026",
+      "To": "",
+      "Amount": "18.50\u039e ($62,443)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "point-gr\u2026",
+      "To": "",
+      "Amount": "18.50\u039e ($62,819)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.49\u039e ($68,251)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($65,484)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4862ed",
+      "To": "0x0ec5b4",
+      "Amount": "",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4862ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

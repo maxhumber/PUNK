@@ -1,0 +1,19 @@
+{
+  "id": "5085",
+  "owner": "0x6f4a2d3a4f47f9c647d86c929755593911ee91ec",
+  "attributes": [
+    "Female",
+    "Purple Lipstick",
+    "Earring",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

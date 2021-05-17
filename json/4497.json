@@ -1,0 +1,193 @@
+{
+  "id": "4497",
+  "owner": "0x51636d9efbfb79631824dd6107d54f2dcf548359",
+  "attributes": [
+    "Male",
+    "Fedora",
+    "Clown Eyes Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x0e4437",
+      "To": "0x51636d",
+      "Amount": "25\u039e ($39,392)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x51636d",
+      "To": "",
+      "Amount": "25\u039e ($38,987)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28\u039e ($41,552)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($45,094)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($51,264)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8bb4f3",
+      "To": "0x0e4437",
+      "Amount": "7\u039e ($11,964)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7\u039e ($11,645)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.50\u039e ($12,463)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Korniej",
+      "To": "0x8bb4f3",
+      "Amount": "6\u039e ($7,563)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x8bb4f3",
+      "To": "",
+      "Amount": "6\u039e ($7,563)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.50\u039e ($8,351)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "kingskin\u2026",
+      "To": "Korniej",
+      "Amount": "5.50\u039e ($7,243)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.50\u039e ($7,218)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa546cf",
+      "To": "",
+      "Amount": "5.25\u039e ($3,868)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa546cf",
+      "To": "",
+      "Amount": "5.25\u039e ($3,868)",
+      "Date": "Dec 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($2,448)",
+      "Date": "Oct 25, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "kingskin\u2026",
+      "Amount": "",
+      "Date": "Oct 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "barthazi\u2026",
+      "To": "kingskin\u2026",
+      "Amount": "2.49\u039e ($914)",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "VonMises",
+      "To": "barthazi\u2026",
+      "Amount": "2\u039e ($753)",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x0aabb5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "VonMises",
+      "To": "0x0aabb5",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "VonMises",
+      "Amount": "1.35\u039e ($327)",
+      "Date": "Jun 06, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "1.35\u039e ($328)",
+      "Date": "Jun 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($400)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

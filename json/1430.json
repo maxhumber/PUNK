@@ -1,0 +1,111 @@
+{
+  "id": "1430",
+  "owner": "0xe80eb035ddf4ee6ec8ac3be7bb5a1f1b6a0fda38",
+  "attributes": [
+    "Male",
+    "Chinstrap",
+    "Earring",
+    "Horned Rim Glasses",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.47\u039e ($88,099)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "1\u039e ($1,544)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "1\u039e ($1,015)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0xe80eb0",
+      "Amount": "0.12\u039e ($34)",
+      "Date": "Sep 24, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe80eb0",
+      "To": "",
+      "Amount": "0.12\u039e ($34)",
+      "Date": "Sep 19, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x43b89f",
+      "To": "",
+      "Amount": "0.10\u039e ($22)",
+      "Date": "Sep 14, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.19\u039e ($52)",
+      "Date": "Sep 13, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4960c4\u2026",
+      "To": "",
+      "Amount": "0.12\u039e ($39)",
+      "Date": "Aug 12, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4960c4\u2026",
+      "To": "",
+      "Amount": "0.12\u039e ($39)",
+      "Date": "Aug 11, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.28\u039e ($77)",
+      "Date": "Aug 07, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Cyborg",
+      "Amount": "0.08\u039e ($23)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.08\u039e ($23)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

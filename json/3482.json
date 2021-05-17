@@ -1,0 +1,138 @@
+{
+  "id": "3482",
+  "owner": "0xad4f67e4ce7cc8cfdb9ce1b8d66bdee9a65b9c39",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Earring",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa0efdc",
+      "To": "",
+      "Amount": "18\u039e ($29,285)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xd3e2e7",
+      "To": "0xad4f67",
+      "Amount": "23\u039e ($37,925)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0efdc",
+      "To": "",
+      "Amount": "18\u039e ($30,574)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xccc003",
+      "To": "",
+      "Amount": "17\u039e ($27,671)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($37,074)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($38,485)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x13816f",
+      "To": "0xd3e2e7",
+      "Amount": "10.88\u039e ($19,954)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd3e2e7",
+      "To": "",
+      "Amount": "9.90\u039e ($17,990)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10.88\u039e ($19,632)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x13816f",
+      "Amount": "",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3ba9cd",
+      "To": "0x13816f",
+      "Amount": "3.05\u039e ($1,078)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x11c9a7",
+      "To": "0x3ba9cd",
+      "Amount": "2.25\u039e ($782)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "0x11c9a7",
+      "Amount": "2.10\u039e ($677)",
+      "Date": "Sep 23, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xaadfe3",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Carlini8",
+      "To": "0xaadfe3",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Carlini8",
+      "Amount": "1.70\u039e ($640)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.70\u039e ($350)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

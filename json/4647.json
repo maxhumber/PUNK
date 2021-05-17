@@ -1,0 +1,41 @@
+{
+  "id": "4647",
+  "owner": "0x1010595f96ab62b31bfeac411ec5f8f60db5dc23",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Earring",
+    "Top Hat",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0x101059",
+      "Amount": "31\u039e ($53,934)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31\u039e ($56,404)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

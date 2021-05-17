@@ -1,0 +1,166 @@
+{
+  "id": "5690",
+  "owner": "0xe9e7b800ec5fc6015cf6b2826711254bab3c12e4",
+  "attributes": [
+    "Male",
+    "Beanie",
+    "Muttonchops",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "150\u039e ($322,551)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "150\u039e ($312,244)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7f3aff",
+      "To": "",
+      "Amount": "100\u039e ($196,685)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "400\u039e ($758,604)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7f3aff",
+      "To": "",
+      "Amount": "100\u039e ($190,640)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "250\u039e ($451,830)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "jmg",
+      "To": "0xe9e7b8",
+      "Amount": "37.89\u039e ($18,069)",
+      "Date": "Nov 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "37.89\u039e ($16,724)",
+      "Date": "Nov 06, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Michel_M\u2026",
+      "To": "jmg",
+      "Amount": "33\u039e ($13,765)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "37.50\u039e ($15,581)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42\u039e ($17,294)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($18,627)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "53\u039e ($20,977)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "33\u039e ($12,952)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "55\u039e ($21,588)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x4d17cf",
+      "To": "Michel_M\u2026",
+      "Amount": "4\u039e ($1,584)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "4\u039e ($1,584)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "parttty6",
+      "To": "",
+      "Amount": "2\u039e ($704)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "parttty6",
+      "To": "",
+      "Amount": "2\u039e ($704)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x6b88ac",
+      "To": "",
+      "Amount": "0.10\u039e ($21)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6b88ac",
+      "To": "",
+      "Amount": "0.10\u039e ($28)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4d17cf",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

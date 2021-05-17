@@ -1,0 +1,48 @@
+{
+  "id": "7198",
+  "owner": "0xb813c62ad216a274057cd602ad754e3ac8b914a6",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Classic Shades",
+    "Smile",
+    "Medical Mask"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "jmg",
+      "To": "0xb813c6",
+      "Amount": "",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd3a",
+      "To": "jmg",
+      "Amount": "",
+      "Date": "Dec 22, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x00bd3a",
+      "Amount": "0.30\u039e ($62)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.30\u039e ($80)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

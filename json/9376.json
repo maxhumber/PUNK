@@ -1,0 +1,61 @@
+{
+  "id": "9376",
+  "owner": "0x113d754ff2e6ca9fd6ab51932493e4f9dabdf596",
+  "attributes": [
+    "Female",
+    "Orange Side",
+    "Horned Rim Glasses",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "\ud83e\udd39\ud83c\udffb\u200d\u2642.e\u2026",
+      "Amount": "70\u039e ($174,024)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "\ud83e\udd39\ud83c\udffb\u200d\u2642.e\u2026",
+      "To": "",
+      "Amount": "70\u039e ($174,024)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "73\u039e ($181,482)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x21a555",
+      "To": "",
+      "Amount": "0.10\u039e ($179)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x21a555",
+      "To": "",
+      "Amount": "0.10\u039e ($181)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

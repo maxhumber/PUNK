@@ -1,0 +1,166 @@
+{
+  "id": "6514",
+  "owner": "0x2d8d75d4ba64efda74eead05ac6127df4e46efa9",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Do-rag",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xa876cd",
+      "To": "0x2d8d75",
+      "Amount": "12.88\u039e ($47,464)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12.88\u039e ($46,477)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12.88\u039e ($46,477)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xa876cd",
+      "Amount": "",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x3d368a",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00493a",
+      "To": "0x3d368a",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x00493a",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x840aad",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x568cf5",
+      "To": "0x840aad",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "MrNFT",
+      "To": "0x568cf5",
+      "Amount": "5.88\u039e ($2,138)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.88\u039e ($2,138)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "MrNFT",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "GoWest23",
+      "To": "MrNFT",
+      "Amount": "4.85\u039e ($1,764)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa18fd5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "0xa18fd5",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pixls",
+      "To": "",
+      "Amount": "0.25\u039e ($43)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0af8cc",
+      "To": "GoWest23",
+      "Amount": "0.30\u039e ($52)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pixls",
+      "To": "",
+      "Amount": "0.25\u039e ($41)",
+      "Date": "May 05, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($47)",
+      "Date": "Apr 26, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x0af8cc",
+      "Amount": "0.05\u039e ($30)",
+      "Date": "Jun 07, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.05\u039e ($28)",
+      "Date": "May 29, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

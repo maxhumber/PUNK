@@ -1,0 +1,102 @@
+{
+  "id": "3450",
+  "owner": "0x8abfcaa233ff45619543f4e10532c2b3292d0c6d",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x0713a6",
+      "To": "0x8abfca",
+      "Amount": "4.25\u039e ($5,791)",
+      "Date": "Jan 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x8abfca",
+      "To": "",
+      "Amount": "4.25\u039e ($5,787)",
+      "Date": "Jan 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.48\u039e ($5,957)",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.48\u039e ($6,591)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x0713a6",
+      "Amount": "1.05\u039e ($223)",
+      "Date": "May 08, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0713a6",
+      "To": "",
+      "Amount": "0.90\u039e ($191)",
+      "Date": "May 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0713a6",
+      "To": "",
+      "Amount": "0.90\u039e ($191)",
+      "Date": "May 08, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0713a6",
+      "To": "",
+      "Amount": "0.80\u039e ($170)",
+      "Date": "May 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0713a6",
+      "To": "",
+      "Amount": "0.80\u039e ($169)",
+      "Date": "May 07, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "0.60\u039e ($120)",
+      "Date": "May 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "0.60\u039e ($130)",
+      "Date": "Apr 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.05\u039e ($229)",
+      "Date": "Feb 07, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

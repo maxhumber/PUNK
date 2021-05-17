@@ -1,0 +1,69 @@
+{
+  "id": "9244",
+  "owner": "0xcffc336e6d019c1af58257a0b10bf2146a3f42a4",
+  "attributes": [
+    "Female",
+    "Clown Nose",
+    "Clown Eyes Green",
+    "Hot Lipstick",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xba7ccc",
+      "To": "0xcffc33",
+      "Amount": "",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.50\u039e ($94)",
+      "Date": "Feb 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.50\u039e ($84)",
+      "Date": "Jan 22, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.25\u039e ($42)",
+      "Date": "Jan 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.25\u039e ($44)",
+      "Date": "Jan 18, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe8161a\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($28)",
+      "Date": "Aug 15, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe8161a\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($58)",
+      "Date": "May 31, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xba7ccc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

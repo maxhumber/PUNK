@@ -1,0 +1,69 @@
+{
+  "id": "6910",
+  "owner": "0xcf8401fabc11524de68ca98e52b7459e52b0ce89",
+  "attributes": [
+    "Female",
+    "Crazy Hair",
+    "Hot Lipstick",
+    "Earring",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "24\u039e ($66,795)",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0xcf8401",
+      "Amount": "26.99\u039e ($73,676)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "24\u039e ($62,374)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.99\u039e ($71,247)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "thi",
+      "To": "",
+      "Amount": "0.90\u039e ($1,095)",
+      "Date": "Jan 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "thi",
+      "To": "",
+      "Amount": "0.90\u039e ($1,111)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1384",
+  "owner": "0x00b278dd68f9d8491795ffaf771120638bef1686",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Mohawk Thin"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x22160e",
+      "To": "0x00b278",
+      "Amount": "0.31\u039e ($69)",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00b278",
+      "To": "",
+      "Amount": "0.31\u039e ($69)",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.44\u039e ($100)",
+      "Date": "Jul 12, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x22160e",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

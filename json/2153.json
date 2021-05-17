@@ -1,0 +1,165 @@
+{
+  "id": "2153",
+  "owner": "0x584cdfdeed39622ef121ceff65f10a8875bea115",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x13816f",
+      "To": "0x584cdf",
+      "Amount": "7.25\u039e ($13,234)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.25\u039e ($13,064)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x13816f",
+      "Amount": "",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Michel_M\u2026",
+      "To": "0x13816f",
+      "Amount": "4.79\u039e ($1,686)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x88bd20",
+      "To": "Michel_M\u2026",
+      "Amount": "4.50\u039e ($1,584)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "0x88bd20",
+      "Amount": "5.99\u039e ($2,076)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "MANAmans\u2026",
+      "To": "Carlini8",
+      "Amount": "5.89\u039e ($2,046)",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xc76fe8",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "MANAmans\u2026",
+      "To": "0xc76fe8",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc69ae4",
+      "To": "MANAmans\u2026",
+      "Amount": "4.40\u039e ($1,581)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.40\u039e ($1,695)",
+      "Date": "Sep 19, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($615)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0xc69ae4",
+      "Amount": "1.10\u039e ($225)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pixls",
+      "To": "",
+      "Amount": "1\u039e ($204)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pixls",
+      "To": "",
+      "Amount": "1\u039e ($204)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.10\u039e ($229)",
+      "Date": "May 23, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($88)",
+      "Date": "Apr 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.36\u039e ($48)",
+      "Date": "Mar 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.31\u039e ($47)",
+      "Date": "Jan 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

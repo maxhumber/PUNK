@@ -1,0 +1,46 @@
+{
+  "id": "9284",
+  "owner": "0x7a39608107dc014d4bbd7a5f01d3fba5dff6d042",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x585f98",
+      "To": "0x7a3960",
+      "Amount": "5\u039e ($1,872)",
+      "Date": "Oct 12, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,748)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x96cda1",
+      "To": "",
+      "Amount": "0.10\u039e ($30)",
+      "Date": "Nov 03, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x96cda1",
+      "To": "",
+      "Amount": "0.10\u039e ($21)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x585f98",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

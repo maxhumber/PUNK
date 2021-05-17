@@ -1,0 +1,82 @@
+{
+  "id": "9778",
+  "owner": "0x70dd0782cb3130d530e6e00abc0f47c199919462",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Hoodie",
+    "Big Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x000c1c\u2026",
+      "To": "rleshner\u2026",
+      "Amount": "",
+      "Date": "Jan 25, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.50\u039e ($68)",
+      "Date": "Jan 09, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.50\u039e ($64)",
+      "Date": "Jan 02, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.50\u039e ($64)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.50\u039e ($88)",
+      "Date": "Oct 20, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x021797",
+      "To": "",
+      "Amount": "0.20\u039e ($18)",
+      "Date": "Dec 06, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x021797",
+      "To": "",
+      "Amount": "0.20\u039e ($44)",
+      "Date": "Oct 03, 2018"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x887caa",
+      "To": "0x000c1c\u2026",
+      "Amount": "",
+      "Date": "Oct 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x887caa",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

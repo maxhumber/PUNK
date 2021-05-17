@@ -1,0 +1,32 @@
+{
+  "id": "2663",
+  "owner": "0x1fafa69cfbe020063fe4376fca3ecc4ed2b6936d",
+  "attributes": [
+    "Male",
+    "Wild Hair",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x1fafa6",
+      "Amount": "0.65\u039e ($165)",
+      "Date": "Feb 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.65\u039e ($165)",
+      "Date": "Feb 12, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "618",
+  "owner": "0xf75fcd9849d3365d436d0cd889ed500150c9482a",
+  "attributes": [
+    "Female",
+    "Clown Eyes Green",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0xf75fcd",
+      "Amount": "24.99\u039e ($41,900)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($40,676)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($57,015)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "Pranksy",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "8074",
+  "owner": "0xa25803ab86a327786bb59395fc0164d826b98298",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Fedora",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "Wilcox",
+      "To": "0xa25803",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "1.10\u039e ($274)",
+      "Date": "Jun 02, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "1.10\u039e ($224)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "Wilcox",
+      "Amount": "",
+      "Date": "Sep 14, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($230)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "2534",
+  "owner": "0x4136e3aa19aadd36f5f70b86658c72c3ea50eeca",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "990\u039e ($172,894)",
+      "Date": "Oct 21, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x87e225",
+      "To": "0x4136e3",
+      "Amount": "0.39\u039e ($70)",
+      "Date": "Oct 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.39\u039e ($82)",
+      "Date": "Jul 29, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "ark1",
+      "To": "0x87e225",
+      "Amount": "0.30\u039e ($63)",
+      "Date": "Jul 29, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($63)",
+      "Date": "Jul 29, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($74)",
+      "Date": "Jul 29, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Zieg",
+      "To": "ark1",
+      "Amount": "",
+      "Date": "Jul 29, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "Zieg",
+      "Amount": "0.30\u039e ($50)",
+      "Date": "Apr 05, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Zieg",
+      "To": "",
+      "Amount": "0.30\u039e ($50)",
+      "Date": "Apr 05, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.44\u039e ($70)",
+      "Date": "Apr 04, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($82)",
+      "Date": "Apr 02, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 29, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.60\u039e ($83)",
+      "Date": "Mar 28, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.70\u039e ($98)",
+      "Date": "Mar 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($112)",
+      "Date": "Mar 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($121)",
+      "Date": "Mar 26, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($432)",
+      "Date": "Jul 31, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 09, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($585)",
+      "Date": "May 25, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.09\u039e ($67)",
+      "Date": "May 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($82)",
+      "Date": "May 05, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($66)",
+      "Date": "Apr 26, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($57)",
+      "Date": "Apr 05, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.19\u039e ($79)",
+      "Date": "Apr 03, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 23, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($157)",
+      "Date": "Dec 18, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.14\u039e ($2,061)",
+      "Date": "Dec 12, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

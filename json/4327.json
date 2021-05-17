@@ -1,0 +1,242 @@
+{
+  "id": "4327",
+  "owner": "0xe75021660e00a7fa0df1b97da13ebabe6d82e7ea",
+  "attributes": [
+    "Female",
+    "Bandana",
+    "Purple Eye Shadow"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($82,893)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6130d3",
+      "To": "0xe75021",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xae4d83",
+      "To": "0x6130d3",
+      "Amount": "13.50\u039e ($25,798)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.50\u039e ($26,263)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.33\u039e ($25,932)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.10\u039e ($50,775)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.50\u039e ($28,052)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "dereklau\u2026",
+      "To": "0xae4d83",
+      "Amount": "9\u039e ($16,282)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9\u039e ($11,183)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x517fe8",
+      "To": "dereklau\u2026",
+      "Amount": "5.50\u039e ($6,775)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "dereklau\u2026",
+      "To": "",
+      "Amount": "5.50\u039e ($6,775)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($7,337)",
+      "Date": "Jan 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf1b658",
+      "To": "0x517fe8",
+      "Amount": "4.40\u039e ($5,424)",
+      "Date": "Jan 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x517fe8",
+      "To": "",
+      "Amount": "4.40\u039e ($5,343)",
+      "Date": "Jan 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.70\u039e ($5,512)",
+      "Date": "Jan 16, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x5b331e",
+      "To": "0xf1b658",
+      "Amount": "",
+      "Date": "Jan 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.79\u039e ($5,446)",
+      "Date": "Jan 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.89\u039e ($5,948)",
+      "Date": "Jan 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.49\u039e ($6,649)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x2fdacd",
+      "To": "0x5b331e",
+      "Amount": "4.31\u039e ($5,286)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b331e",
+      "To": "",
+      "Amount": "4.31\u039e ($5,286)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaae8c5",
+      "To": "",
+      "Amount": "4.30\u039e ($5,273)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b331e",
+      "To": "",
+      "Amount": "4.21\u039e ($5,163)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaae8c5",
+      "To": "",
+      "Amount": "4.20\u039e ($5,151)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Party",
+      "To": "",
+      "Amount": "4\u039e ($4,906)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($7,343)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Party",
+      "To": "",
+      "Amount": "3.50\u039e ($3,949)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc9ab58",
+      "To": "",
+      "Amount": "3.30\u039e ($3,630)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc9ab58",
+      "To": "",
+      "Amount": "3.30\u039e ($3,649)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "AcceptMy\u2026",
+      "To": "",
+      "Amount": "2\u039e ($2,211)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf0f068\u2026",
+      "To": "",
+      "Amount": "3.50\u039e ($3,860)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf0f068\u2026",
+      "To": "",
+      "Amount": "3.50\u039e ($3,860)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x2fdacd",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

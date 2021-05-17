@@ -1,0 +1,32 @@
+{
+  "id": "5266",
+  "owner": "0x52ad8f3c506aa25b954276c5456060dad6f3fd7b",
+  "attributes": [
+    "Female",
+    "Straight Hair",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "Novo311",
+      "Amount": "10.00\u039e ($18,404)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10.00\u039e ($16,853)",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

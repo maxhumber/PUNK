@@ -1,0 +1,96 @@
+{
+  "id": "2113",
+  "owner": "0xcd2c66fe27f8c6e08a5bd42b2617a34f8854eece",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Earring",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0xcd2c66",
+      "Amount": "1.20\u039e ($281)",
+      "Date": "Jun 17, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcd2c66",
+      "To": "",
+      "Amount": "1.20\u039e ($268)",
+      "Date": "Jun 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.79\u039e ($378)",
+      "Date": "May 19, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Dude_Nak\u2026",
+      "To": "Pranksy",
+      "Amount": "0.99\u039e ($209)",
+      "Date": "May 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.99\u039e ($198)",
+      "Date": "May 15, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.69\u039e ($136)",
+      "Date": "Apr 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Fearless\u2026",
+      "To": "Dude_Nak\u2026",
+      "Amount": "0.50\u039e ($59)",
+      "Date": "Mar 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($59)",
+      "Date": "Mar 13, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Fearless\u2026",
+      "Amount": "0.37\u039e ($44)",
+      "Date": "Jan 24, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.37\u039e ($56)",
+      "Date": "Jan 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

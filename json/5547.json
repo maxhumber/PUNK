@@ -1,0 +1,83 @@
+{
+  "id": "5547",
+  "owner": "0xea6d64defc065820ba502bb4e6de1decaa7a6a5d",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Earring",
+    "Crazy Hair",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0xea6d64",
+      "Amount": "26.99\u039e ($48,738)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xea6d64",
+      "To": "",
+      "Amount": "23.99\u039e ($43,320)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.99\u039e ($48,632)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xea6d64",
+      "To": "",
+      "Amount": "23.99\u039e ($42,624)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.99\u039e ($50,876)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($53,759)",
+      "Date": "Mar 16, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x009c57",
+      "To": "",
+      "Amount": "0.06\u039e ($47)",
+      "Date": "May 07, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x009c57",
+      "To": "",
+      "Amount": "0.06\u039e ($38)",
+      "Date": "Apr 25, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "139",
+  "owner": "0xaedaf3d364f56476e7bec717c63f645eb5b2ecdd",
+  "attributes": [
+    "Male",
+    "Do-rag",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45.99\u039e ($82,539)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xd79b93",
+      "To": "0xaedaf3",
+      "Amount": "24.99\u039e ($44,945)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($41,795)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x2cbee4",
+      "To": "0xd79b93",
+      "Amount": "",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x35388c",
+      "To": "0x2cbee4",
+      "Amount": "",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0x35388c",
+      "Amount": "",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

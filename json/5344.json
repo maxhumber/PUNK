@@ -1,0 +1,46 @@
+{
+  "id": "5344",
+  "owner": "0x96b48fd894501e212588121e1e9d7c76878032a7",
+  "attributes": [
+    "Male",
+    "Buck Teeth",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($1,175)",
+      "Date": "Jan 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($546)",
+      "Date": "Dec 11, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc352b5",
+      "To": "0x96b48f",
+      "Amount": "0.23\u039e ($71)",
+      "Date": "Oct 30, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x96b48f",
+      "To": "",
+      "Amount": "0.23\u039e ($51)",
+      "Date": "Aug 04, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

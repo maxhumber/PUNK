@@ -1,0 +1,130 @@
+{
+  "id": "620",
+  "owner": "0xd17f0935b1cd9ae87073672c57a5b251c1c7566c",
+  "attributes": [
+    "Female",
+    "Horned Rim Glasses",
+    "Straight Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x9852f8",
+      "To": "0xd17f09",
+      "Amount": "",
+      "Date": "May 15, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x9852f8",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x62223c",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x9852f8",
+      "To": "0x62223c",
+      "Amount": "",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x983ace",
+      "To": "0x9852f8",
+      "Amount": "24.99\u039e ($54,103)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($53,677)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x324f6e",
+      "To": "0x983ace",
+      "Amount": "22\u039e ($46,691)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($46,761)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "laz.eth",
+      "To": "0x324f6e",
+      "Amount": "20\u039e ($41,340)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($39,855)",
+      "Date": "Apr 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.99\u039e ($46,265)",
+      "Date": "Apr 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "laz.eth",
+      "Amount": "19.99\u039e ($33,495)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.99\u039e ($33,700)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.99\u039e ($36,826)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($57,015)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "Pranksy",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

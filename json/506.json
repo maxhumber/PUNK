@@ -1,0 +1,186 @@
+{
+  "id": "506",
+  "owner": "0x8b087f09d770079bd71b14a6e475d913dcae9c79",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Big Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x052564",
+      "To": "",
+      "Amount": "28\u039e ($65,556)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6336fb",
+      "To": "0x8b087f",
+      "Amount": "31\u039e ($73,659)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31\u039e ($71,265)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x052564",
+      "To": "",
+      "Amount": "28\u039e ($63,902)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x1b5196",
+      "To": "",
+      "Amount": "26\u039e ($59,794)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x1b5196",
+      "To": "",
+      "Amount": "26\u039e ($59,826)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31.50\u039e ($67,433)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x62bdc6",
+      "To": "0x6336fb",
+      "Amount": "24.97\u039e ($53,454)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.97\u039e ($53,454)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x62bdc6",
+      "Amount": "",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "VonMises",
+      "To": "0xb88495",
+      "Amount": "7.50\u039e ($2,714)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x0aabb5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "VonMises",
+      "To": "0x0aabb5",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "VonMises",
+      "Amount": "2.50\u039e ($847)",
+      "Date": "Sep 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "2.50\u039e ($858)",
+      "Date": "Sep 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($1,028)",
+      "Date": "Sep 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($945)",
+      "Date": "Jul 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.20\u039e ($500)",
+      "Date": "Jul 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($697)",
+      "Date": "Jul 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($889)",
+      "Date": "Jun 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,047)",
+      "Date": "Apr 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($3,230)",
+      "Date": "Feb 06, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc352b5",
+      "To": "Carlini8",
+      "Amount": "2\u039e ($264)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Carlini8",
+      "To": "",
+      "Amount": "2\u039e ($264)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "1396",
+  "owner": "0x7a341c8d5f04e55f907c3b1ef5c6c74b5add01c6",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Gold Chain",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.91\u039e ($276)",
+      "Date": "Sep 28, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0x7a341c",
+      "Amount": "0.24\u039e ($66)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.24\u039e ($66)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x5b098b",
+      "Amount": "0.10\u039e ($29)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($29)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

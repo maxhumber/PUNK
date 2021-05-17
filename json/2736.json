@@ -1,0 +1,46 @@
+{
+  "id": "2736",
+  "owner": "0xb5b84e29b719125f7fcae56eb1fd936a7d9f2af6",
+  "attributes": [
+    "Female",
+    "Wild Blonde",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "curating\u2026",
+      "To": "0xb5b84e",
+      "Amount": "30\u039e ($58,580)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb5b84e",
+      "To": "",
+      "Amount": "15\u039e ($29,290)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb5b84e",
+      "To": "",
+      "Amount": "15\u039e ($29,170)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($57,595)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "curating\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

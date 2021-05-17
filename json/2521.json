@@ -1,0 +1,33 @@
+{
+  "id": "2521",
+  "owner": "0xc480fb0ebea2591470f571436926785be5ebcd22",
+  "attributes": [
+    "Female",
+    "Purple Lipstick",
+    "Earring",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($64,849)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc480fb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

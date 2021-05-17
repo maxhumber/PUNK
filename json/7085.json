@@ -1,0 +1,34 @@
+{
+  "id": "7085",
+  "owner": "0xc480fb0ebea2591470f571436926785be5ebcd22",
+  "attributes": [
+    "Female",
+    "Vape",
+    "Big Shades",
+    "Straight Hair Blonde",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Alley",
+      "To": "",
+      "Amount": "5.50\u039e ($7,828)",
+      "Date": "Jan 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Alley",
+      "To": "",
+      "Amount": "5.50\u039e ($6,890)",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc480fb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

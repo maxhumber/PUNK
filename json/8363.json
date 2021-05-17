@@ -1,0 +1,187 @@
+{
+  "id": "8363",
+  "owner": "0xc842ce7214a14fa98186a010bcb43c7e99e4caf3",
+  "attributes": [
+    "Female",
+    "Clown Eyes Green",
+    "Straight Hair",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xa6e59b",
+      "To": "0xc842ce",
+      "Amount": "",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "tonyherr\u2026",
+      "To": "0xa6e59b",
+      "Amount": "22\u039e ($54,761)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0xa6e59b",
+      "Amount": "22\u039e ($54,761)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb4bb41",
+      "To": "tonyherr\u2026",
+      "Amount": "21.99\u039e ($52,235)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.99\u039e ($47,805)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x23244e",
+      "To": "0xb4bb41",
+      "Amount": "18.90\u039e ($46,986)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.90\u039e ($46,781)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.10\u039e ($56,507)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26\u039e ($56,406)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($64,772)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69\u039e ($122,743)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x8504ea",
+      "To": "0x23244e",
+      "Amount": "",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "666\u039e ($1.25M)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xdcbf72",
+      "To": "0x8504ea",
+      "Amount": "26\u039e ($45,660)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26\u039e ($45,101)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($44,520)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x231707",
+      "To": "0xdcbf72",
+      "Amount": "24\u039e ($46,045)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($8,762)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($1,853)",
+      "Date": "Jul 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.50\u039e ($621)",
+      "Date": "Nov 18, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.50\u039e ($621)",
+      "Date": "Nov 18, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($544)",
+      "Date": "Mar 23, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($305)",
+      "Date": "Mar 15, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x231707",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

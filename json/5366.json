@@ -1,0 +1,186 @@
+{
+  "id": "5366",
+  "owner": "0x5163588239afc34a1e6255fe250437cf917e32ab",
+  "attributes": [
+    "Male",
+    "Normal Beard",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "375\u039e ($1.02M)",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Deeze",
+      "To": "0x516358",
+      "Amount": "15\u039e ($31,064)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x516358",
+      "To": "",
+      "Amount": "15\u039e ($31,064)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.99\u039e ($33,245)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "Deeze",
+      "Amount": "",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xf4fd11",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xb3cd42",
+      "To": "0xf4fd11",
+      "Amount": "",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18\u039e ($33,176)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xb3cd42",
+      "Amount": "",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x840aad",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x568cf5",
+      "To": "0x840aad",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "CPyrc",
+      "To": "0x568cf5",
+      "Amount": "5.75\u039e ($2,088)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.75\u039e ($2,088)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.95\u039e ($2,163)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "CPyrc",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x13816f",
+      "To": "CPyrc",
+      "Amount": "4.88\u039e ($1,774)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf4239e",
+      "To": "0x13816f",
+      "Amount": "3.75\u039e ($1,341)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb40dac",
+      "To": "0xf4239e",
+      "Amount": "3.39\u039e ($1,199)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5e7ee9",
+      "To": "0xb40dac",
+      "Amount": "2.70\u039e ($948)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe4c479",
+      "To": "0x5e7ee9",
+      "Amount": "2.50\u039e ($865)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x86126b",
+      "To": "0xe4c479",
+      "Amount": "2.20\u039e ($745)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x86126b",
+      "Amount": "1.80\u039e ($667)",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x193847",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Hemba",
+      "To": "0x193847",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

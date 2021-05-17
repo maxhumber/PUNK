@@ -1,0 +1,88 @@
+{
+  "id": "1378",
+  "owner": "0x8133a5dcba30387e88b8dd3b782797ae00defcc0",
+  "attributes": [
+    "Male",
+    "Chinstrap",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x7adc80",
+      "To": "0x8133a5",
+      "Amount": "",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x881ef2",
+      "To": "0x7adc80",
+      "Amount": "5.48\u039e ($9,006)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.48\u039e ($8,434)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xd3e2e7",
+      "To": "0x881ef2",
+      "Amount": "5.33\u039e ($8,203)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.33\u039e ($8,106)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.30\u039e ($8,455)",
+      "Date": "Jan 29, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe4f0ac",
+      "To": "0xd3e2e7",
+      "Amount": "5\u039e ($6,502)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($5,600)",
+      "Date": "Jan 11, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0xe4f0ac",
+      "Amount": "",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

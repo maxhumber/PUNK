@@ -1,0 +1,95 @@
+{
+  "id": "3594",
+  "owner": "0xe03559ea7be32a6b7152ba745fadb7e07a772bff",
+  "attributes": [
+    "Female",
+    "Hot Lipstick",
+    "Wild Blonde"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbb1ec7",
+      "To": "",
+      "Amount": "60\u039e ($200,756)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbb1ec7",
+      "To": "",
+      "Amount": "60\u039e ($188,555)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "135\u039e ($242,820)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x23b50b",
+      "To": "",
+      "Amount": "35.70\u039e ($57,796)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x23b50b",
+      "To": "",
+      "Amount": "35.70\u039e ($54,936)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x23b50b",
+      "To": "",
+      "Amount": "33.80\u039e ($53,084)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x36d1b7",
+      "To": "",
+      "Amount": "27.50\u039e ($42,834)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "27\u039e ($42,290)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaea8e3",
+      "To": "",
+      "Amount": "25\u039e ($39,157)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "AcceptMy\u2026",
+      "To": "",
+      "Amount": "0.75\u039e ($911)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "AcceptMy\u2026",
+      "To": "",
+      "Amount": "0.75\u039e ($927)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe03559",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

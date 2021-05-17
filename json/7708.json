@@ -1,0 +1,55 @@
+{
+  "id": "7708",
+  "owner": "0x67edd0b8f66ce4edeee9ed84a74fbc70ceacfe18",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Muttonchops",
+    "Crazy Hair",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xedc779",
+      "To": "",
+      "Amount": "20\u039e ($34,428)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xedc779",
+      "To": "",
+      "Amount": "20\u039e ($34,439)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xba19ba",
+      "To": "0x67edd0",
+      "Amount": "13.50\u039e ($24,477)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.50\u039e ($23,639)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00dab6",
+      "To": "0xba19ba",
+      "Amount": "",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00dab6",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

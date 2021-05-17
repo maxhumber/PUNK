@@ -1,0 +1,33 @@
+{
+  "id": "3137",
+  "owner": "0x6dabf8d750c2c1b8d7fcb93a93989a07afeb1f38",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Big Shades",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x6dabf8",
+      "Amount": "27\u039e ($50,314)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($49,652)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

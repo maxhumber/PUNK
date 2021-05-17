@@ -1,0 +1,26 @@
+{
+  "id": "5072",
+  "owner": "0xe34bded2b256430a9be53cbf5cba3b6d866d55f3",
+  "attributes": [
+    "Male",
+    "Horned Rim Glasses",
+    "Knitted Cap",
+    "Smile"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x5b098b",
+      "To": "0xe34bde",
+      "Amount": "",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

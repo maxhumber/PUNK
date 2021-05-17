@@ -1,0 +1,60 @@
+{
+  "id": "4979",
+  "owner": "0x062c5432107e3b9ad924512209a7468b5c200fcd",
+  "attributes": [
+    "Female",
+    "Big Shades",
+    "Dark Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xa3cb30",
+      "To": "0x062c54",
+      "Amount": "",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "2pac",
+      "To": "",
+      "Amount": "4.50\u039e ($2,805)",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "2pac",
+      "To": "",
+      "Amount": "4.50\u039e ($2,648)",
+      "Date": "Dec 15, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "2pac",
+      "To": "",
+      "Amount": "4\u039e ($2,346)",
+      "Date": "Dec 15, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "2pac",
+      "To": "",
+      "Amount": "4\u039e ($2,344)",
+      "Date": "Dec 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

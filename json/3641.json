@@ -1,0 +1,124 @@
+{
+  "id": "3641",
+  "owner": "0xebf02c6e12c3ee119abba161c40bfeead0a06b15",
+  "attributes": [
+    "Female",
+    "Tassle Hat",
+    "Black Lipstick",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "Hex",
+      "To": "Zonked",
+      "Amount": "",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x257e2b",
+      "To": "",
+      "Amount": "7\u039e ($2,389)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x257e2b",
+      "To": "",
+      "Amount": "7\u039e ($2,389)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "KittyGr_\u2026",
+      "To": "Hex",
+      "Amount": "5\u039e ($1,769)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Hex",
+      "To": "",
+      "Amount": "5\u039e ($1,765)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Carlini8",
+      "To": "",
+      "Amount": "5.50\u039e ($1,940)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Carlini8",
+      "To": "",
+      "Amount": "5.50\u039e ($1,937)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "5\u039e ($1,768)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.80\u039e ($426)",
+      "Date": "May 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.80\u039e ($397)",
+      "Date": "May 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "KittyGr_\u2026",
+      "Amount": "0.10\u039e ($60)",
+      "Date": "Jun 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($57)",
+      "Date": "May 29, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($117)",
+      "Date": "May 26, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Zieg",
+      "To": "",
+      "Amount": "0.10\u039e ($17)",
+      "Date": "Jul 15, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "Zieg",
+      "To": "",
+      "Amount": "0.10\u039e ($20)",
+      "Date": "Jul 14, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

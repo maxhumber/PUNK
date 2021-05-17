@@ -1,0 +1,33 @@
+{
+  "id": "2277",
+  "owner": "0x6f4a2d3a4f47f9c647d86c929755593911ee91ec",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Cigarette",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.77\u039e ($28,749)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

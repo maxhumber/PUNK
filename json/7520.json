@@ -1,0 +1,75 @@
+{
+  "id": "7520",
+  "owner": "0x51636d9efbfb79631824dd6107d54f2dcf548359",
+  "attributes": [
+    "Female",
+    "Green Eye Shadow",
+    "Purple Lipstick",
+    "Blonde Bob"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x0ecd8a",
+      "To": "0x51636d",
+      "Amount": "80\u039e ($145,435)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x51636d",
+      "To": "",
+      "Amount": "80\u039e ($139,515)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "94.99\u039e ($169,479)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x51636d",
+      "To": "",
+      "Amount": "48.50\u039e ($88,596)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x51636d",
+      "To": "",
+      "Amount": "48.50\u039e ($88,596)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0x0ecd8a",
+      "Amount": "44.99\u039e ($82,184)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0ecd8a",
+      "To": "",
+      "Amount": "44.99\u039e ($82,184)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

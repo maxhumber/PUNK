@@ -1,0 +1,33 @@
+{
+  "id": "5034",
+  "owner": "0xcc7c335f3365ae3f7e4e8c9535dc92780a4add9d",
+  "attributes": [
+    "Male",
+    "Cap",
+    "Shadow Beard",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($125)",
+      "Date": "Jun 02, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($106)",
+      "Date": "May 20, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcc7c33",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

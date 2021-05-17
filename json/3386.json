@@ -1,0 +1,102 @@
+{
+  "id": "3386",
+  "owner": "0xebf1db23ec6b9d13d74db415efd77f47b3b5df64",
+  "attributes": [
+    "Female",
+    "Big Shades",
+    "Frumpy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($84,424)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x407f0c",
+      "To": "0xebf1db",
+      "Amount": "25\u039e ($58,163)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xebf1db",
+      "To": "",
+      "Amount": "25\u039e ($58,163)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($69,796)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($59,564)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($84,721)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd34780",
+      "To": "",
+      "Amount": "0.30\u039e ($498)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd34780",
+      "To": "",
+      "Amount": "0.30\u039e ($471)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x751b7d",
+      "To": "",
+      "Amount": "0.25\u039e ($393)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4bc2cc",
+      "To": "0x407f0c",
+      "Amount": "",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Cryptokk\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($37)",
+      "Date": "Feb 20, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cryptokk\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($34)",
+      "Date": "Feb 17, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4bc2cc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

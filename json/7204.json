@@ -1,0 +1,33 @@
+{
+  "id": "7204",
+  "owner": "0x12e5e3e7a1389fed96e1be50aed32316c027b18b",
+  "attributes": [
+    "Female",
+    "Clown Eyes Green",
+    "Frumpy Hair",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "stazie",
+      "Amount": "0.50\u039e ($127)",
+      "Date": "May 30, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($96)",
+      "Date": "May 11, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

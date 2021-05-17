@@ -1,0 +1,48 @@
+{
+  "id": "72",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Male",
+    "Fedora",
+    "Earring",
+    "Nerd Glasses",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "\ud83d\udd95\ud83d\udd95\ud83d\udd95.e\u2026",
+      "To": "",
+      "Amount": "0.69\u039e ($430)",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "\ud83d\udd95\ud83d\udd95\ud83d\udd95.e\u2026",
+      "To": "",
+      "Amount": "0.69\u039e ($267)",
+      "Date": "Oct 13, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7fd64",
+      "To": "",
+      "Amount": "0.20\u039e ($74)",
+      "Date": "Sep 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

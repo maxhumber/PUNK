@@ -1,0 +1,153 @@
+{
+  "id": "6333",
+  "owner": "0x42129d1462b1e2875f634f9e70cefe5887f2b894",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Cap",
+    "Big Shades",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xb810d1",
+      "To": "0x42129d",
+      "Amount": "33\u039e ($50,781)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33\u039e ($48,733)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xfc078e",
+      "To": "0xb810d1",
+      "Amount": "",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xb810d1",
+      "To": "0xfc078e",
+      "Amount": "",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "55\u039e ($74,615)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "57\u039e ($83,598)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xb810d1",
+      "Amount": "",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "MBK",
+      "To": "0xb9ccfc",
+      "Amount": "6.75\u039e ($2,415)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x993019",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "MBK",
+      "To": "0x993019",
+      "Amount": "",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jun 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,194)",
+      "Date": "Jun 01, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($614)",
+      "Date": "May 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "MBK",
+      "Amount": "1\u039e ($197)",
+      "Date": "Apr 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($187)",
+      "Date": "Apr 25, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

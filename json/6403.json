@@ -1,0 +1,39 @@
+{
+  "id": "6403",
+  "owner": "0x7093f8979a945bcdc52284027929defa99977671",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Cap Forward"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "0x7093f8",
+      "Amount": "28.50\u039e ($53,701)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.50\u039e ($38,421)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "8317",
+  "owner": "0xfc11f9d668f294786e4161b727b14f6f647f53e4",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Classic Shades",
+    "Cowboy Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x68a7ac",
+      "To": "",
+      "Amount": "7\u039e ($8,903)",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "ddaavvee",
+      "To": "0xfc11f9",
+      "Amount": "12\u039e ($15,251)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x68a7ac",
+      "To": "",
+      "Amount": "7\u039e ($8,546)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12\u039e ($4,732)",
+      "Date": "Oct 12, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "1\u039e ($249)",
+      "Date": "Jun 02, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "1\u039e ($206)",
+      "Date": "May 23, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "0.60\u039e ($124)",
+      "Date": "May 23, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "AZonneve\u2026",
+      "To": "",
+      "Amount": "0.60\u039e ($128)",
+      "Date": "May 20, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "id": "3504",
+  "owner": "0xc948454951290bbb83e6d56e6fee5e9653750e7f",
+  "attributes": [
+    "Male",
+    "Chinstrap",
+    "Wild Hair",
+    "Earring",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "MT1000",
+      "To": "0xc94845",
+      "Amount": "5.50\u039e ($7,218)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd97f99",
+      "To": "",
+      "Amount": "5\u039e ($6,443)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd97f99",
+      "To": "",
+      "Amount": "5\u039e ($6,443)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.50\u039e ($7,048)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.99\u039e ($7,419)",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.95\u039e ($7,493)",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3d826e",
+      "To": "MT1000",
+      "Amount": "4.50\u039e ($5,598)",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.50\u039e ($5,598)",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x566f19",
+      "To": "",
+      "Amount": "4\u039e ($4,860)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x566f19",
+      "To": "",
+      "Amount": "4\u039e ($5,087)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Party",
+      "To": "",
+      "Amount": "3.50\u039e ($4,287)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Party",
+      "To": "",
+      "Amount": "3.50\u039e ($4,284)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Korniej",
+      "To": "",
+      "Amount": "3.50\u039e ($4,205)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Korniej",
+      "To": "",
+      "Amount": "3.50\u039e ($3,884)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Party",
+      "To": "",
+      "Amount": "3\u039e ($3,329)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4fa27c",
+      "To": "",
+      "Amount": "3\u039e ($2,203)",
+      "Date": "Jan 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4fa27c",
+      "To": "",
+      "Amount": "3\u039e ($2,209)",
+      "Date": "Jan 01, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "ManOverb\u2026",
+      "To": "",
+      "Amount": "4\u039e ($2,899)",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "ManOverb\u2026",
+      "To": "",
+      "Amount": "4\u039e ($2,866)",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "natealex",
+      "To": "",
+      "Amount": "3\u039e ($2,086)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "natealex",
+      "To": "",
+      "Amount": "3\u039e ($1,906)",
+      "Date": "Dec 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x3d826e",
+      "Amount": "0.10\u039e ($136)",
+      "Date": "Jan 14, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($126)",
+      "Date": "Jan 12, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

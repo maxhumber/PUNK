@@ -1,0 +1,55 @@
+{
+  "id": "3506",
+  "owner": "0x3fc1753c90421bd2669d963f3973c0e75d23c68e",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Earring",
+    "Headband",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7c23f1",
+      "To": "",
+      "Amount": "20\u039e ($64,953)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7c23f1",
+      "To": "",
+      "Amount": "20\u039e ($67,098)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd9d23d",
+      "To": "",
+      "Amount": "1\u039e ($1,545)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd9d23d",
+      "To": "",
+      "Amount": "1\u039e ($1,519)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x3fc175",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

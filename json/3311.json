@@ -1,0 +1,62 @@
+{
+  "id": "3311",
+  "owner": "0xe53ef2dae90d98c7b89fca164315dc81ded0182d",
+  "attributes": [
+    "Female",
+    "Tassle Hat",
+    "Spots",
+    "Purple Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x28c42d",
+      "To": "0xe53ef2",
+      "Amount": "29.50\u039e ($65,171)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe53ef2",
+      "To": "",
+      "Amount": "0.10\u039e ($244)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe53ef2",
+      "To": "",
+      "Amount": "0.10\u039e ($244)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.50\u039e ($65,207)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($825)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($927)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x28c42d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

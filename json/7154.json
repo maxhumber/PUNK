@@ -1,0 +1,55 @@
+{
+  "id": "7154",
+  "owner": "0x94c1d7488476e08d1f2e163b350e4f5e7e667aa3",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Shadow Beard",
+    "Earring",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5330be",
+      "To": "",
+      "Amount": "26\u039e ($62,710)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5330be",
+      "To": "",
+      "Amount": "26\u039e ($55,846)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xde0193",
+      "To": "0x94c1d7",
+      "Amount": "0.18\u039e ($207)",
+      "Date": "Jan 20, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x94c1d7",
+      "To": "",
+      "Amount": "0.18\u039e ($125)",
+      "Date": "Dec 16, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($274)",
+      "Date": "Dec 15, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xde0193",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

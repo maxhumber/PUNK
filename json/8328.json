@@ -1,0 +1,61 @@
+{
+  "id": "8328",
+  "owner": "0xdde8df9a7dc9f68bdac815f493d1d731de911b5a",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Hoodie",
+    "Gold Chain"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "bottles",
+      "To": "",
+      "Amount": "4\u039e ($1,401)",
+      "Date": "Oct 09, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "bottles",
+      "To": "",
+      "Amount": "4\u039e ($1,414)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "scalynel\u2026",
+      "To": "",
+      "Amount": "3.50\u039e ($824)",
+      "Date": "May 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "scalynel\u2026",
+      "To": "",
+      "Amount": "3.50\u039e ($769)",
+      "Date": "May 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Kenney",
+      "Amount": "0.15\u039e ($57)",
+      "Date": "Apr 04, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Kenney",
+      "To": "",
+      "Amount": "0.15\u039e ($62)",
+      "Date": "Apr 03, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

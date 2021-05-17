@@ -1,0 +1,75 @@
+{
+  "id": "2628",
+  "owner": "0xf8d7a71b2b3a6bed7d14a331e0f2e3a647e5d673",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Frumpy Hair",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xa3cb30",
+      "To": "0xf8d7a7",
+      "Amount": "10\u039e ($18,282)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11.25\u039e ($19,914)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf8d7a7",
+      "To": "",
+      "Amount": "10\u039e ($17,707)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.42\u039e ($522)",
+      "Date": "Jan 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12.50\u039e ($14,211)",
+      "Date": "Jan 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.42\u039e ($159)",
+      "Date": "Oct 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.50\u039e ($2,279)",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

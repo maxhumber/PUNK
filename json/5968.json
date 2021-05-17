@@ -1,0 +1,48 @@
+{
+  "id": "5968",
+  "owner": "0x9e1e409f901a7f6eb8108deef50b6d3d82208d4f",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Classic Shades",
+    "Mohawk Dark",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0x9e1e40",
+      "Amount": "0.12\u039e ($104)",
+      "Date": "Mar 04, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.12\u039e ($104)",
+      "Date": "Mar 04, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.28\u039e ($77)",
+      "Date": "Aug 07, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($284)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "8918",
+  "owner": "0xd5438faf73f8dff6da0a3c0363f6ba188280b8a9",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Earring",
+    "Nerd Glasses",
+    "Smile"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "48\u039e ($180,492)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "helpchai\u2026",
+      "Amount": "0.75\u039e ($165)",
+      "Date": "Feb 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "helpchai\u2026",
+      "To": "",
+      "Amount": "0.75\u039e ($165)",
+      "Date": "Feb 07, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.50\u039e ($107)",
+      "Date": "Feb 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.89\u039e ($186)",
+      "Date": "Feb 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.89\u039e ($186)",
+      "Date": "Feb 06, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.50\u039e ($103)",
+      "Date": "Feb 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.88\u039e ($147)",
+      "Date": "Jan 26, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

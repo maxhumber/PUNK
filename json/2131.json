@@ -1,0 +1,48 @@
+{
+  "id": "2131",
+  "owner": "0xd7e077576f13e54dce22da96338d56b7d9ab7c21",
+  "attributes": [
+    "Female",
+    "Eye Mask",
+    "Black Lipstick",
+    "Stringy Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xe03559",
+      "To": "0xd7e077",
+      "Amount": "30\u039e ($62,750)",
+      "Date": "Apr 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($47,234)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "0.32\u039e ($73)",
+      "Date": "Jul 23, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "0.32\u039e ($54)",
+      "Date": "Jul 15, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe03559",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

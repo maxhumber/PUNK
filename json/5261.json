@@ -1,0 +1,84 @@
+{
+  "id": "5261",
+  "owner": "0x66c7a7348250f453a37cf86410a946f9668de386",
+  "attributes": [
+    "Male",
+    "Gold Chain",
+    "Earring",
+    "Horned Rim Glasses",
+    "Crazy Hair",
+    "Smile"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "135\u039e ($279,477)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "135\u039e ($281,020)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x8ed4da",
+      "To": "",
+      "Amount": "18\u039e ($31,818)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x8ed4da",
+      "To": "",
+      "Amount": "18\u039e ($33,205)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf0f068\u2026",
+      "To": "",
+      "Amount": "5\u039e ($3,666)",
+      "Date": "Dec 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf0f068\u2026",
+      "To": "",
+      "Amount": "5\u039e ($3,647)",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x723e66",
+      "To": "cx000.et\u2026",
+      "Amount": "",
+      "Date": "Feb 20, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x723e66",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

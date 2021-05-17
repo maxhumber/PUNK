@@ -1,0 +1,39 @@
+{
+  "id": "8961",
+  "owner": "0x449c69df8487c9faf14d0b798f142ee128cd4fc8",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0x449c69",
+      "Amount": "25.99\u039e ($57,323)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.99\u039e ($58,380)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

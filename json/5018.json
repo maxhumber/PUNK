@@ -1,0 +1,88 @@
+{
+  "id": "5018",
+  "owner": "0x0e616785638663c88a493a82972e2f9cadaab4bc",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Goat"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x13816f",
+      "To": "0x0e6167",
+      "Amount": "14.88\u039e ($29,357)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.88\u039e ($28,466)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x13816f",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Loopify",
+      "To": "0x13816f",
+      "Amount": "3.60\u039e ($1,284)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3ba9cd",
+      "To": "Loopify",
+      "Amount": "3.15\u039e ($1,110)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "0x3ba9cd",
+      "Amount": "2\u039e ($679)",
+      "Date": "Sep 23, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xaadfe3",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Carlini8",
+      "To": "0xaadfe3",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Carlini8",
+      "Amount": "1.45\u039e ($545)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.45\u039e ($320)",
+      "Date": "May 29, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "2885",
+  "owner": "0x005734d7d408bccf41cff34b46244551d01f0a6b",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Earring",
+    "Headband",
+    "Small Shades",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1.50\u039e ($1,031)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1.50\u039e ($953)",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1.50\u039e ($916)",
+      "Date": "Dec 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1.50\u039e ($945)",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($585)",
+      "Date": "Dec 14, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($554)",
+      "Date": "Dec 12, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x005734",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

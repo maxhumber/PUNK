@@ -1,0 +1,96 @@
+{
+  "id": "3073",
+  "owner": "0x9d3f4eeb533b8e3c8f50dbbd2e351d1bf2987908",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Eye Mask",
+    "Big Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x3d826e",
+      "To": "district\u2026",
+      "Amount": "5.50\u039e ($4,050)",
+      "Date": "Jan 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "district\u2026",
+      "To": "",
+      "Amount": "5.50\u039e ($3,800)",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "natealex",
+      "To": "",
+      "Amount": "5\u039e ($3,476)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "natealex",
+      "To": "",
+      "Amount": "5\u039e ($3,177)",
+      "Date": "Dec 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "0x3d826e",
+      "Amount": "0.09\u039e ($102)",
+      "Date": "Jan 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.09\u039e ($102)",
+      "Date": "Jan 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($99)",
+      "Date": "Dec 22, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($205)",
+      "Date": "Dec 15, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($350)",
+      "Date": "Dec 13, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

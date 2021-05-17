@@ -1,0 +1,158 @@
+{
+  "id": "8472",
+  "owner": "0x50dd57f50a17d57304e7a4f262da30beb31c2e87",
+  "attributes": [
+    "Zombie",
+    "Mohawk Thin",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xb1adce",
+      "To": "0x50dd57",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.48K\u039e ($3.21M)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x50dd57",
+      "To": "0xb1adce",
+      "Amount": "",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xb1adce",
+      "To": "0x50dd57",
+      "Amount": "",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1K\u039e ($1.88M)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Snowfro",
+      "To": "0xb1adce",
+      "Amount": "130\u039e ($224,930)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0xb1adce",
+      "Amount": "130\u039e ($224,930)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "12\u039e ($2,395)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "12\u039e ($2,450)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "10\u039e ($2,042)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "10\u039e ($2,000)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "7\u039e ($1,400)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "7\u039e ($1,401)",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "5\u039e ($709)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "5\u039e ($695)",
+      "Date": "Jan 06, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x5462de",
+      "To": "Snowfro",
+      "Amount": "",
+      "Date": "Apr 29, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5462de",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

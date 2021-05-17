@@ -1,0 +1,74 @@
+{
+  "id": "3844",
+  "owner": "0x3a6cb57e87ba21f48304ff4a0f6ebf81d262a22c",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Fedora"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xe1bb6e",
+      "To": "brash.et\u2026",
+      "Amount": "28.27\u039e ($52,500)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.27\u039e ($51,698)",
+      "Date": "Mar 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33.20\u039e ($50,065)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x585755",
+      "To": "0xe1bb6e",
+      "Amount": "",
+      "Date": "Mar 03, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Ambrose",
+      "To": "0x585755",
+      "Amount": "0.60\u039e ($108)",
+      "Date": "Oct 12, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.60\u039e ($103)",
+      "Date": "Apr 22, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Ambrose",
+      "Amount": "0.46\u039e ($82)",
+      "Date": "Apr 10, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.46\u039e ($53)",
+      "Date": "Jan 25, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

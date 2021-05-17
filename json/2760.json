@@ -1,0 +1,235 @@
+{
+  "id": "2760",
+  "owner": "0x530afa101bed324809d0738d45b38a669314ff54",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Pigtails"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x1f8add",
+      "To": "PB",
+      "Amount": "6.50\u039e ($1,402)",
+      "Date": "May 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.50\u039e ($1,549)",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "PB",
+      "To": "",
+      "Amount": "6.50\u039e ($1,362)",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9\u039e ($1,811)",
+      "Date": "May 16, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "3\u039e ($576)",
+      "Date": "May 10, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Dude_Nak\u2026",
+      "To": "0x1f8add",
+      "Amount": "4.49\u039e ($861)",
+      "Date": "May 10, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "3\u039e ($576)",
+      "Date": "May 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.49\u039e ($861)",
+      "Date": "May 10, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "ark1",
+      "To": "",
+      "Amount": "1.25\u039e ($263)",
+      "Date": "May 06, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "ark1",
+      "To": "",
+      "Amount": "1.25\u039e ($260)",
+      "Date": "May 06, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.50\u039e ($1,209)",
+      "Date": "Feb 13, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "1\u039e ($125)",
+      "Date": "Dec 28, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "1\u039e ($188)",
+      "Date": "Nov 13, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Slacktid\u2026",
+      "To": "Dude_Nak\u2026",
+      "Amount": "0.70\u039e ($128)",
+      "Date": "Nov 01, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.70\u039e ($128)",
+      "Date": "Oct 31, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x976b59",
+      "To": "Slacktid\u2026",
+      "Amount": "",
+      "Date": "Oct 02, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc2ac3c",
+      "To": "0x976b59",
+      "Amount": "0.40\u039e ($90)",
+      "Date": "Oct 02, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.12\u039e ($35)",
+      "Date": "Aug 18, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.12\u039e ($38)",
+      "Date": "Aug 12, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($167)",
+      "Date": "Aug 03, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x287b15",
+      "To": "",
+      "Amount": "0.50\u039e ($519)",
+      "Date": "Jan 19, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x287b15",
+      "To": "",
+      "Amount": "0.50\u039e ($512)",
+      "Date": "Jan 17, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($13,685)",
+      "Date": "Dec 15, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xb11d6a",
+      "To": "0xc2ac3c",
+      "Amount": "",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "0xb11d6a",
+      "Amount": "0.29\u039e ($97)",
+      "Date": "Oct 16, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.29\u039e ($97)",
+      "Date": "Oct 16, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.60\u039e ($179)",
+      "Date": "Aug 10, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($1,790)",
+      "Date": "Aug 10, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

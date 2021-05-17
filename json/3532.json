@@ -1,0 +1,109 @@
+{
+  "id": "3532",
+  "owner": "0x6fcade9de3ab9a1e57eab1684cf30e2ceba234fb",
+  "attributes": [
+    "Male",
+    "Shaved Head",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.69\u039e ($49,186)",
+      "Date": "May 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.90\u039e ($55,395)",
+      "Date": "May 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x538b5d",
+      "To": "",
+      "Amount": "14\u039e ($48,900)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x538b5d",
+      "To": "",
+      "Amount": "14\u039e ($50,587)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4affe1",
+      "To": "",
+      "Amount": "15\u039e ($54,201)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.16\u039e ($58,392)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4affe1",
+      "To": "",
+      "Amount": "15\u039e ($56,856)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x11918a",
+      "To": "",
+      "Amount": "5\u039e ($18,952)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x11918a",
+      "To": "",
+      "Amount": "5\u039e ($19,195)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.60\u039e ($63,572)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "quantbik\u2026",
+      "Amount": "",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x2c51da",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x387405",
+      "To": "0x2c51da",
+      "Amount": "",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x387405",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "5447",
+  "owner": "0xd390f246fed4e7a0e04424eb4b662681ba5150b6",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Earring",
+    "Goat",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5K\u039e ($10.91M)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "500\u039e ($1.07M)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbac42c",
+      "To": "0xd390f2",
+      "Amount": "24.98\u039e ($53,378)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "point-gr\u2026",
+      "To": "",
+      "Amount": "21.10\u039e ($45,178)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.98\u039e ($53,486)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "point-gr\u2026",
+      "To": "",
+      "Amount": "21.10\u039e ($45,178)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.48\u039e ($52,415)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x05f3eb",
+      "To": "",
+      "Amount": "22\u039e ($37,117)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x05f3eb",
+      "To": "",
+      "Amount": "22\u039e ($37,209)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.75\u039e ($47,383)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.50\u039e ($53,513)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x44801d",
+      "To": "",
+      "Amount": "<",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32.50\u039e ($57,904)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34\u039e ($52,640)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x05e709",
+      "To": "0xbac42c",
+      "Amount": "4.75\u039e ($5,829)",
+      "Date": "Jan 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbac42c",
+      "To": "",
+      "Amount": "4.75\u039e ($5,660)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.93\u039e ($5,971)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x2fdacd",
+      "To": "0x05e709",
+      "Amount": "4.40\u039e ($5,329)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x05e709",
+      "To": "",
+      "Amount": "4.40\u039e ($5,329)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Hex",
+      "To": "",
+      "Amount": "4.25\u039e ($5,212)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b331e",
+      "To": "",
+      "Amount": "4\u039e ($4,906)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x12c9c4",
+      "To": "",
+      "Amount": "3.60\u039e ($4,415)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Party",
+      "To": "",
+      "Amount": "3.50\u039e ($3,949)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Hex",
+      "To": "",
+      "Amount": "4\u039e ($4,446)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Hex",
+      "To": "",
+      "Amount": "4\u039e ($4,411)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x2fdacd",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

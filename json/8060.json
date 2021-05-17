@@ -1,0 +1,69 @@
+{
+  "id": "8060",
+  "owner": "0x2a3f7e5170ea8ca967f85f091ef84591f639e031",
+  "attributes": [
+    "Female",
+    "Big Shades",
+    "Bandana",
+    "Earring",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x9c5801",
+      "To": "",
+      "Amount": "5\u039e ($7,549)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9c5801",
+      "To": "",
+      "Amount": "5\u039e ($7,841)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "droxey",
+      "To": "supahmar\u2026",
+      "Amount": "0.30\u039e ($62)",
+      "Date": "Oct 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($142)",
+      "Date": "Jun 23, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jun 23, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($259)",
+      "Date": "Jun 18, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "droxey",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

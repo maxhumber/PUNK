@@ -1,0 +1,82 @@
+{
+  "id": "84",
+  "owner": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Big Shades",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jstn.eth",
+      "To": "",
+      "Amount": "10\u039e ($18,086)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "jstn.eth",
+      "To": "",
+      "Amount": "10\u039e ($18,091)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jstn.eth",
+      "To": "",
+      "Amount": "8\u039e ($14,555)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "jstn.eth",
+      "To": "",
+      "Amount": "8\u039e ($14,606)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jstn.eth",
+      "To": "",
+      "Amount": "6\u039e ($11,022)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "jstn.eth",
+      "To": "",
+      "Amount": "6\u039e ($11,022)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xfd9065",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe34bde",
+      "To": "0xfd9065",
+      "Amount": "",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0xe34bde",
+      "Amount": "",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

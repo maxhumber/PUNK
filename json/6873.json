@@ -1,0 +1,131 @@
+{
+  "id": "6873",
+  "owner": "0x6c1ddfb81a3666188267296f10253a5a9b5bae40",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Vape",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "55.55\u039e ($197,440)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "3van.eth",
+      "To": "0x6c1ddf",
+      "Amount": "6.99\u039e ($9,531)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.99\u039e ($9,510)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.49\u039e ($9,226)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8bb4f3",
+      "To": "3van.eth",
+      "Amount": "5\u039e ($6,144)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "3van.eth",
+      "To": "",
+      "Amount": "4.50\u039e ($5,530)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "3van.eth",
+      "To": "",
+      "Amount": "4.50\u039e ($5,530)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($6,064)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "3van.eth",
+      "To": "",
+      "Amount": "4\u039e ($5,586)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "3van.eth",
+      "To": "",
+      "Amount": "4\u039e ($5,614)",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($7,111)",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($6,748)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($10,163)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8bb4f3",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

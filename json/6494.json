@@ -1,0 +1,81 @@
+{
+  "id": "6494",
+  "owner": "0xe5c4c41194901047523108bb47eb109781a1a86a",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Rosy Cheeks"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "point-gr\u2026",
+      "To": "",
+      "Amount": "18.50\u039e ($38,668)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "point-gr\u2026",
+      "To": "",
+      "Amount": "18.50\u039e ($38,668)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x7d705d",
+      "To": "Kataster\u2026",
+      "Amount": "0.99\u039e ($223)",
+      "Date": "Feb 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.99\u039e ($219)",
+      "Date": "Feb 07, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.95\u039e ($131)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x000c1c\u2026",
+      "To": "0x7d705d",
+      "Amount": "0.60\u039e ($80)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.60\u039e ($106)",
+      "Date": "Oct 20, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x887caa",
+      "To": "0x000c1c\u2026",
+      "Amount": "",
+      "Date": "Oct 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x887caa",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

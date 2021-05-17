@@ -1,0 +1,68 @@
+{
+  "id": "8092",
+  "owner": "0x561b0145d8f5221995bc6a787d8d70db0604b7b8",
+  "attributes": [
+    "Female",
+    "Eye Patch",
+    "Frumpy Hair",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "ark1",
+      "To": "0x561b01",
+      "Amount": "0.39\u039e ($58)",
+      "Date": "Dec 05, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.39\u039e ($69)",
+      "Date": "Nov 19, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "ark1",
+      "Amount": "0.25\u039e ($47)",
+      "Date": "Sep 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "ark1",
+      "Amount": "0.25\u039e ($47)",
+      "Date": "Sep 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($269)",
+      "Date": "Jul 11, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.35\u039e ($108)",
+      "Date": "Jul 09, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.35\u039e ($107)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

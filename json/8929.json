@@ -1,0 +1,98 @@
+{
+  "id": "8929",
+  "owner": "0x21c83917fe7262db9d8d44376277512ce277f692",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Big Shades",
+    "Earring",
+    "Do-rag",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x269126",
+      "To": "0x21c839",
+      "Amount": "",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xcf8401",
+      "To": "",
+      "Amount": "50\u039e ($136,178)",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcf8401",
+      "To": "",
+      "Amount": "50\u039e ($136,588)",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xd9cd5b",
+      "To": "0x269126",
+      "Amount": "",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "0xd9cd5b",
+      "Amount": "27\u039e ($46,848)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($42,902)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Hex",
+      "To": "",
+      "Amount": "6.10\u039e ($7,257)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Hex",
+      "To": "",
+      "Amount": "6.10\u039e ($6,780)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Hex",
+      "To": "",
+      "Amount": "6.25\u039e ($7,480)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Hex",
+      "To": "",
+      "Amount": "6.25\u039e ($6,297)",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

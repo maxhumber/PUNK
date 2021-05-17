@@ -1,0 +1,40 @@
+{
+  "id": "9653",
+  "owner": "0xa80d50571b82eeb4cf284d78230ce76e071cbcbc",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Classic Shades",
+    "Smile"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf4ffd6",
+      "To": "",
+      "Amount": "28\u039e ($107,663)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf4ffd6",
+      "To": "",
+      "Amount": "28\u039e ($99,426)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 14, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xa80d50",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "9323",
+  "owner": "0x005734d7d408bccf41cff34b46244551d01f0a6b",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Classic Shades",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x005734",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

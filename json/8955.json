@@ -1,0 +1,40 @@
+{
+  "id": "8955",
+  "owner": "0x407f0caf24df420ee7880f82be76efee2720ceef",
+  "attributes": [
+    "Female",
+    "Eye Mask",
+    "Black Lipstick",
+    "Half Shaved"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x967ee5",
+      "To": "",
+      "Amount": "24\u039e ($54,678)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x967ee5",
+      "To": "",
+      "Amount": "24\u039e ($53,052)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4bc2cc",
+      "To": "0x407f0c",
+      "Amount": "",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4bc2cc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

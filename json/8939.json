@@ -1,0 +1,19 @@
+{
+  "id": "8939",
+  "owner": "0x005734d7d408bccf41cff34b46244551d01f0a6b",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Purple Eye Shadow",
+    "Straight Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x005734",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

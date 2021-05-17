@@ -1,0 +1,47 @@
+{
+  "id": "6398",
+  "owner": "0xb78e3e8bd36b3228322d0a9d3271b5fbb7997fa3",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Earring",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "cpu1",
+      "Amount": "0.67\u039e ($135)",
+      "Date": "May 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.67\u039e ($174)",
+      "Date": "Feb 22, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.67\u039e ($85)",
+      "Date": "Jan 02, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

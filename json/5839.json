@@ -1,0 +1,82 @@
+{
+  "id": "5839",
+  "owner": "0xe8054719d9a9a6c35d0f14eb0ef0f650fe77da44",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Mohawk",
+    "Big Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x36d1b7",
+      "To": "",
+      "Amount": "10\u039e ($15,473)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x36d1b7",
+      "To": "",
+      "Amount": "10\u039e ($15,717)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "4\u039e ($6,356)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "4\u039e ($6,136)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x05dfd4",
+      "To": "",
+      "Amount": "3\u039e ($3,781)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x05dfd4",
+      "To": "",
+      "Amount": "3\u039e ($3,871)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Party",
+      "To": "",
+      "Amount": "4\u039e ($5,683)",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Party",
+      "To": "",
+      "Amount": "4\u039e ($4,973)",
+      "Date": "Jan 18, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x95ea04",
+      "To": "0xe80547",
+      "Amount": "",
+      "Date": "Dec 08, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x95ea04",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

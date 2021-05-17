@@ -1,0 +1,40 @@
+{
+  "id": "7360",
+  "owner": "0xf09d1acbf092ec47970a2aa9e16bc658b2ecf15e",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Muttonchops",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "moonphas\u2026",
+      "To": "0xf09d1a",
+      "Amount": "",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Punkofth\u2026",
+      "To": "moonphas\u2026",
+      "Amount": "7.00\u039e ($2,523)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.00\u039e ($2,484)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Punkofth\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "2598",
+  "owner": "0xc6a8206756fbcb770770523e2de26bcc351a8713",
+  "attributes": [
+    "Female",
+    "Messy Hair",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "Pixls",
+      "To": "punks.pi\u2026",
+      "Amount": "",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($7,295)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x313206",
+      "To": "Pixls",
+      "Amount": "1.70\u039e ($620)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.70\u039e ($382)",
+      "Date": "Jun 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x48db19",
+      "To": "0x313206",
+      "Amount": "1\u039e ($244)",
+      "Date": "Jun 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($244)",
+      "Date": "Jun 23, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

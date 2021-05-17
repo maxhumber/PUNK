@@ -1,0 +1,103 @@
+{
+  "id": "3793",
+  "owner": "0x50dd57f50a17d57304e7a4f262da30beb31c2e87",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Blonde Bob",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xb1adce",
+      "To": "0x50dd57",
+      "Amount": "",
+      "Date": "Mar 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "TokenAng\u2026",
+      "To": "0xb1adce",
+      "Amount": "8.80\u039e ($13,712)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb1adce",
+      "To": "",
+      "Amount": "8.80\u039e ($11,554)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12.50\u039e ($16,850)",
+      "Date": "Jan 10, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.50\u039e ($3,902)",
+      "Date": "Oct 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($10,777)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "GoWest23",
+      "To": "",
+      "Amount": "1.90\u039e ($698)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($3,096)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x20e386",
+      "To": "TokenAng\u2026",
+      "Amount": "4\u039e ($1,548)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "GoWest23",
+      "To": "",
+      "Amount": "1.90\u039e ($736)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($1,550)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x20e386",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

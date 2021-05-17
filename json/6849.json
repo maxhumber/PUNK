@@ -1,0 +1,68 @@
+{
+  "id": "6849",
+  "owner": "0x4a8b9e2c2940fdd39aceb384654dc59acb58c337",
+  "attributes": [
+    "Male",
+    "Nerd Glasses",
+    "Normal Beard",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xc69ae4",
+      "To": "0x4a8b9e",
+      "Amount": "3.40\u039e ($1,117)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.40\u039e ($1,309)",
+      "Date": "Sep 19, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0xc69ae4",
+      "Amount": "1.20\u039e ($246)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.20\u039e ($295)",
+      "Date": "Jul 08, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 08, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.48\u039e ($114)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.75\u039e ($1,144)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

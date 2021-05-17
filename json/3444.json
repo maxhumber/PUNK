@@ -1,0 +1,131 @@
+{
+  "id": "3444",
+  "owner": "0x8f6b1e467fbe74d7dd43d59de0558f693c736798",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Earring",
+    "Smile"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "4156.eth",
+      "To": "0x8f6b1e",
+      "Amount": "",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc68b11",
+      "To": "4156.eth",
+      "Amount": "44.44\u039e ($182,453)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xfc80c3",
+      "To": "",
+      "Amount": "25\u039e ($83,648)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xfc80c3",
+      "To": "",
+      "Amount": "25\u039e ($45,688)",
+      "Date": "Mar 29, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf197ab",
+      "To": "",
+      "Amount": "24.44\u039e ($41,473)",
+      "Date": "Mar 29, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 15, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "YOTTABYT\u2026",
+      "To": "",
+      "Amount": "3.33\u039e ($1,979)",
+      "Date": "Nov 23, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "YOTTABYT\u2026",
+      "To": "",
+      "Amount": "3.33\u039e ($1,957)",
+      "Date": "Nov 23, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xde7002",
+      "To": "",
+      "Amount": "0.04\u039e ($30)",
+      "Date": "Jan 01, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "44.44\u039e ($30,409)",
+      "Date": "Dec 15, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "0xc68b11",
+      "Amount": "0.10\u039e ($68)",
+      "Date": "Dec 15, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($68)",
+      "Date": "Dec 15, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xde7002",
+      "To": "",
+      "Amount": "0.04\u039e ($27)",
+      "Date": "Dec 15, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.12\u039e ($82)",
+      "Date": "Dec 15, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.10\u039e ($763)",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($71)",
+      "Date": "Sep 24, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

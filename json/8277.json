@@ -1,0 +1,40 @@
+{
+  "id": "8277",
+  "owner": "0x175b49d39c059d764b4d268e66822eb420f46db9",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Small Shades",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xe1cd08",
+      "To": "realbudd\u2026",
+      "Amount": "",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb23fb4",
+      "To": "",
+      "Amount": "0.05\u039e ($88)",
+      "Date": "Mar 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb23fb4",
+      "To": "",
+      "Amount": "0.05\u039e ($95)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe1cd08",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

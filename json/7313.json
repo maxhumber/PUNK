@@ -1,0 +1,81 @@
+{
+  "id": "7313",
+  "owner": "0x4bbb41f61fffc1bbe65a2aa192c65281e16ea758",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Muttonchops"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xfb60bb",
+      "To": "0x4bbb41",
+      "Amount": "",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "ChrisR",
+      "To": "0xfb60bb",
+      "Amount": "0.89\u039e ($287)",
+      "Date": "Jul 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.89\u039e ($245)",
+      "Date": "Jul 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.95\u039e ($219)",
+      "Date": "Jul 04, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Pranksy",
+      "To": "ChrisR",
+      "Amount": "",
+      "Date": "Jul 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.99\u039e ($226)",
+      "Date": "Jul 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.79\u039e ($361)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "Pranksy",
+      "Amount": "0.90\u039e ($182)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($405)",
+      "Date": "Jul 23, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

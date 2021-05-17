@@ -1,0 +1,117 @@
+{
+  "id": "3339",
+  "owner": "0x20eadfcaf91bd98674ff8fc341d148e1731576a4",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Shadow Beard",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x65ba4f",
+      "To": "0x20eadf",
+      "Amount": "22.40\u039e ($41,555)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.40\u039e ($42,975)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "aviexkak\u2026",
+      "To": "0x65ba4f",
+      "Amount": "5.89\u039e ($10,413)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.89\u039e ($10,460)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "aviexkak\u2026",
+      "Amount": "",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xac12a8",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 13, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "gaus",
+      "To": "0xac12a8",
+      "Amount": "",
+      "Date": "Dec 13, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "gaus",
+      "To": "0x4d64ab",
+      "Amount": "0.00\u039e ($0.00)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0x4d64ab",
+      "Amount": "0.00\u039e ($0.00)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "gaus",
+      "Amount": "",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "gaus",
+      "Amount": "2.75\u039e ($949)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Pranksy",
+      "Amount": "2.30\u039e ($796)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x193847",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Hemba",
+      "To": "0x193847",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

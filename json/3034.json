@@ -1,0 +1,89 @@
+{
+  "id": "3034",
+  "owner": "0x792b37c2244ecc0bc18ad193498f17b27efae7d9",
+  "attributes": [
+    "Female",
+    "Bandana",
+    "Green Eye Shadow",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "NFTinTin",
+      "To": "",
+      "Amount": "3.60\u039e ($1,310)",
+      "Date": "Oct 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "150\u039e ($54,668)",
+      "Date": "Oct 09, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x45ea36",
+      "To": "simontay\u2026",
+      "Amount": "4.25\u039e ($1,549)",
+      "Date": "Oct 09, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "NFTinTin",
+      "To": "",
+      "Amount": "3.60\u039e ($1,264)",
+      "Date": "Oct 09, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "3.50\u039e ($1,229)",
+      "Date": "Oct 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.25\u039e ($1,493)",
+      "Date": "Oct 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.75\u039e ($1,955)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x334e22",
+      "To": "0x45ea36",
+      "Amount": "",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x334e22",
+      "Amount": "0.12\u039e ($16)",
+      "Date": "Nov 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.12\u039e ($22)",
+      "Date": "Nov 18, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "9596",
+  "owner": "0x0da0df4be467140e74c76257d002f52e954be4d3",
+  "attributes": [
+    "Male",
+    "Classic Shades",
+    "Normal Beard",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "metakid",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

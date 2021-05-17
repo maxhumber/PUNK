@@ -1,0 +1,59 @@
+{
+  "id": "1315",
+  "owner": "0x50664ede715e131f584d3e7eaabd7818bb20a068",
+  "attributes": [
+    "Female",
+    "Stringy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x0b88fd",
+      "To": "yfimaxi.\u2026",
+      "Amount": "35\u039e ($57,216)",
+      "Date": "Mar 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($59,506)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "38\u039e ($64,771)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6611fe",
+      "To": "0x0b88fd",
+      "Amount": "",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xcbd482",
+      "To": "0x6611fe",
+      "Amount": "0.20\u039e ($49)",
+      "Date": "Jul 08, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6611fe",
+      "To": "",
+      "Amount": "0.20\u039e ($53)",
+      "Date": "Jul 05, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

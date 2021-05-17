@@ -1,0 +1,47 @@
+{
+  "id": "4221",
+  "owner": "0x3be89b64e1437bb18da2d26bcbe9bd3daaadfc26",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Vape",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "point-gr\u2026",
+      "To": "",
+      "Amount": "17.75\u039e ($74,023)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "point-gr\u2026",
+      "To": "",
+      "Amount": "17.75\u039e ($71,930)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x54b174",
+      "To": "",
+      "Amount": "17\u039e ($68,890)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0x3be89b",
+      "Amount": "",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

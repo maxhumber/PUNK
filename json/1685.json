@@ -1,0 +1,39 @@
+{
+  "id": "1685",
+  "owner": "0x51306877c61df89ad7b165d6206eb636276d1083",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb14aac",
+      "To": "",
+      "Amount": "0.10\u039e ($231)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb14aac",
+      "To": "",
+      "Amount": "0.10\u039e ($174)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x513068",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

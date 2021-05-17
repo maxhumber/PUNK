@@ -1,0 +1,89 @@
+{
+  "id": "4071",
+  "owner": "0x36ca4898d224ae146cac312f4502568544157953",
+  "attributes": [
+    "Male",
+    "Chinstrap",
+    "Earring",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x9b4575",
+      "To": "",
+      "Amount": "20.50\u039e ($35,136)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc272ed",
+      "To": "0x36ca48",
+      "Amount": "22\u039e ($36,896)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9b4575",
+      "To": "",
+      "Amount": "20.50\u039e ($34,001)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x9b4575",
+      "To": "",
+      "Amount": "20\u039e ($33,171)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($36,397)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9b4575",
+      "To": "",
+      "Amount": "20\u039e ($33,088)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26\u039e ($40,514)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28\u039e ($40,175)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32\u039e ($59,412)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28\u039e ($54,707)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

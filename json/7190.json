@@ -1,0 +1,90 @@
+{
+  "id": "7190",
+  "owner": "0xcfd9ccafc35b86299fc5617f66e89c0782bacfe0",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Smile",
+    "Eye Patch",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x097761",
+      "To": "0xcfd9cc",
+      "Amount": "19\u039e ($34,330)",
+      "Date": "Mar 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($34,895)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($38,437)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x097761",
+      "Amount": "",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xc609a3",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x097761",
+      "To": "0xc609a3",
+      "Amount": "",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "16\u039e ($29,172)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x097761",
+      "Amount": "18.50\u039e ($33,730)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "16\u039e ($29,172)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.50\u039e ($33,730)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

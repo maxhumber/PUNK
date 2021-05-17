@@ -1,0 +1,19 @@
+{
+  "id": "6343",
+  "owner": "0xbbaf6df069adfcab1a13af21d12064e4f5ea41af",
+  "attributes": [
+    "Female",
+    "Green Eye Shadow",
+    "Wild Hair",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xbbaf6d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

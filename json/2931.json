@@ -1,0 +1,67 @@
+{
+  "id": "2931",
+  "owner": "0x4ceb8dc70813ffbb2d8d6dc0755086698f977613",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Shadow Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xec9dcf",
+      "To": "ssteiger\u2026",
+      "Amount": "25\u039e ($103,233)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($37,752)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "rleshner\u2026",
+      "To": "0xec9dcf",
+      "Amount": "",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x000c1c\u2026",
+      "To": "rleshner\u2026",
+      "Amount": "",
+      "Date": "Jan 25, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($201)",
+      "Date": "May 26, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x887caa",
+      "To": "0x000c1c\u2026",
+      "Amount": "",
+      "Date": "Oct 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x887caa",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

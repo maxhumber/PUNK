@@ -1,0 +1,68 @@
+{
+  "id": "8462",
+  "owner": "0x6f4a2d3a4f47f9c647d86c929755593911ee91ec",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Pipe",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xceb63c",
+      "To": "",
+      "Amount": "28\u039e ($59,512)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xceb63c",
+      "To": "",
+      "Amount": "28\u039e ($60,281)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xceb63c",
+      "To": "",
+      "Amount": "26\u039e ($55,665)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xceb63c",
+      "To": "",
+      "Amount": "26\u039e ($56,454)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xceb63c",
+      "To": "",
+      "Amount": "24\u039e ($49,826)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x07c5ea",
+      "To": "",
+      "Amount": "6.50\u039e ($11,737)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x07c5ea",
+      "To": "",
+      "Amount": "6.50\u039e ($11,946)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

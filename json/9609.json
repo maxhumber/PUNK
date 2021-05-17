@@ -1,0 +1,69 @@
+{
+  "id": "9609",
+  "owner": "0x54d7f921785ebe46010d83c73712e80dfaff1e81",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Classic Shades",
+    "Earring",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28\u039e ($111,639)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($104,833)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "36\u039e ($79,575)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0x54d7f9",
+      "Amount": "25.90\u039e ($57,507)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.90\u039e ($55,255)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x54b174",
+      "To": "",
+      "Amount": "20.50\u039e ($44,062)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x54b174",
+      "To": "",
+      "Amount": "20.50\u039e ($43,889)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "5138",
+  "owner": "0x7d9f4a3ab2568f61c9087a8b5506dfcd5e8fea49",
+  "attributes": [
+    "Male",
+    "Earring",
+    "VR",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "1\u039e ($1,544)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "1\u039e ($1,015)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Loopify",
+      "To": "",
+      "Amount": "0.75\u039e ($275)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Loopify",
+      "To": "",
+      "Amount": "0.75\u039e ($278)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xded2cb",
+      "To": "0x7d9f4a",
+      "Amount": "0.50\u039e ($152)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($152)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xded2cb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

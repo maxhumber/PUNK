@@ -1,0 +1,25 @@
+{
+  "id": "3868",
+  "owner": "0xf1ad946ae30a285d96ea396acd3fd22c5aa75ef8",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($78,957)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xf1ad94",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

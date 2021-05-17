@@ -1,0 +1,39 @@
+{
+  "id": "3274",
+  "owner": "0xe83c750b2708320bb134796c555b80df39a3d97b",
+  "attributes": [
+    "Male",
+    "Clown Eyes Blue",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "snowfro",
+      "To": "Snowfro",
+      "Amount": "",
+      "Date": "Apr 29, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "snowfro",
+      "Amount": "0.15\u039e ($15)",
+      "Date": "Dec 05, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($31)",
+      "Date": "Oct 28, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

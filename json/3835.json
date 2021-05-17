@@ -1,0 +1,25 @@
+{
+  "id": "3835",
+  "owner": "0x067107af3512a78eabb735d8bf011dac2e6e096a",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "444\u039e ($154,361)",
+      "Date": "Aug 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x067107",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

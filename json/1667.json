@@ -1,0 +1,214 @@
+{
+  "id": "1667",
+  "owner": "0x83506d12aca4cdb36e8d03cda7611365142a29bf",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Luxurious Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.99\u039e ($73,247)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "pelvis.e\u2026",
+      "To": "pelvis.e\u2026",
+      "Amount": "",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99.99\u039e ($174,550)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.99\u039e ($71,277)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31.99\u039e ($58,001)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99.99\u039e ($151,080)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49.99\u039e ($100,266)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($50,123)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99.99\u039e ($192,021)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x161f7c",
+      "To": "pelvis.e\u2026",
+      "Amount": "12.10\u039e ($21,188)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "pelvis.e\u2026",
+      "To": "",
+      "Amount": "12.10\u039e ($21,188)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($92,634)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($43,159)",
+      "Date": "Feb 10, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "renaissa\u2026",
+      "To": "",
+      "Amount": "5.90\u039e ($10,510)",
+      "Date": "Feb 10, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x13816f",
+      "To": "0x161f7c",
+      "Amount": "7.80\u039e ($14,194)",
+      "Date": "Feb 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "renaissa\u2026",
+      "To": "",
+      "Amount": "5.90\u039e ($10,351)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.80\u039e ($10,402)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x13816f",
+      "Amount": "",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3a4930",
+      "To": "0x13816f",
+      "Amount": "4.49\u039e ($1,673)",
+      "Date": "Oct 11, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x10d6d9",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 06, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "evkort",
+      "To": "0x10d6d9",
+      "Amount": "",
+      "Date": "Oct 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.35\u039e ($1,883)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "evkort",
+      "Amount": "",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Michel_M\u2026",
+      "To": "evkort",
+      "Amount": "4.85\u039e ($1,707)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xf24a74",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "H6A5-0x",
+      "To": "0xf24a74",
+      "Amount": "",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x0ed6fe",
+      "To": "H6A5-0x",
+      "Amount": "",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x0ed6fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

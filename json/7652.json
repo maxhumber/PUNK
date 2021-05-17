@@ -1,0 +1,60 @@
+{
+  "id": "7652",
+  "owner": "0x8adbff0b3a45059c0578a05e00c7bf38c4f349a9",
+  "attributes": [
+    "Female",
+    "Big Shades",
+    "Straight Hair Blonde"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb3b35b",
+      "To": "",
+      "Amount": "2\u039e ($4,808)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb3b35b",
+      "To": "",
+      "Amount": "2\u039e ($4,538)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x8adbff",
+      "Amount": "0.15\u039e ($105)",
+      "Date": "Dec 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($98)",
+      "Date": "Dec 12, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.46\u039e ($152)",
+      "Date": "Aug 25, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe4d36b",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe4d36b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

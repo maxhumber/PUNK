@@ -1,0 +1,137 @@
+{
+  "id": "3458",
+  "owner": "0xa04ba11f4ae6d3f456f4600c3ea09dc6388b8a1b",
+  "attributes": [
+    "Male",
+    "Classic Shades",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Gmugr",
+      "To": "",
+      "Amount": "19\u039e ($47,327)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xd3e2e7",
+      "To": "0xa04ba1",
+      "Amount": "21.67\u039e ($54,484)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Gmugr",
+      "To": "",
+      "Amount": "19\u039e ($47,389)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.67\u039e ($54,039)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($49,351)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.00\u039e ($51,816)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.67\u039e ($52,505)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.22\u039e ($52,138)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.67\u039e ($52,761)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaf7757",
+      "To": "",
+      "Amount": "21\u039e ($43,468)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaf7757",
+      "To": "",
+      "Amount": "21\u039e ($43,521)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.67\u039e ($47,404)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0xd3e2e7",
+      "Amount": "14.75\u039e ($29,685)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.75\u039e ($29,748)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.75\u039e ($32,851)",
+      "Date": "Mar 31, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

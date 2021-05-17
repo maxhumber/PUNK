@@ -1,0 +1,68 @@
+{
+  "id": "5249",
+  "owner": "0xfe0d9af0225f0722305f97e42d4f7f5d700bf8d4",
+  "attributes": [
+    "Male",
+    "Classic Shades",
+    "Earring",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xf4a775",
+      "To": "0xfe0d9a",
+      "Amount": "",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0b30fd",
+      "To": "0xf4a775",
+      "Amount": "0.13\u039e ($59)",
+      "Date": "Dec 05, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.13\u039e ($39)",
+      "Date": "Oct 12, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 19, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.87\u039e ($231)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($106)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x0b30fd",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

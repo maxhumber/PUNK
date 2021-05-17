@@ -1,0 +1,110 @@
+{
+  "id": "6784",
+  "owner": "0x8659044ea27ad1b91502bfe360075267148928ca",
+  "attributes": [
+    "Zombie",
+    "Cigarette",
+    "Bandana",
+    "Frown"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x50dd57",
+      "To": "0x865904",
+      "Amount": "",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xb1adce",
+      "To": "0x50dd57",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x905f48",
+      "To": "",
+      "Amount": "350\u039e ($971,726)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x905f48",
+      "To": "",
+      "Amount": "350\u039e ($971,726)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.48K\u039e ($3.21M)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x50dd57",
+      "To": "0xb1adce",
+      "Amount": "",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xb1adce",
+      "To": "0x50dd57",
+      "Amount": "",
+      "Date": "Mar 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Snowfro",
+      "To": "0xb1adce",
+      "Amount": "130\u039e ($224,930)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0xb1adce",
+      "Amount": "130\u039e ($224,930)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "130\u039e ($221,083)",
+      "Date": "Feb 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x5462de",
+      "To": "Snowfro",
+      "Amount": "",
+      "Date": "Apr 29, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5462de",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

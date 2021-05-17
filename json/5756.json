@@ -1,0 +1,53 @@
+{
+  "id": "5756",
+  "owner": "0x904c300929fe06666c51c335bbe38d57da7a04bc",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "70\u039e ($144,928)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "vanarman\u2026",
+      "To": "",
+      "Amount": "24\u039e ($40,284)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "vanarman\u2026",
+      "To": "",
+      "Amount": "24\u039e ($40,744)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($74,678)",
+      "Date": "Mar 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x904c30",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

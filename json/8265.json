@@ -1,0 +1,76 @@
+{
+  "id": "8265",
+  "owner": "0x175b49d39c059d764b4d268e66822eb420f46db9",
+  "attributes": [
+    "Female",
+    "Big Shades",
+    "Pigtails",
+    "Purple Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xe1cd08",
+      "To": "realbudd\u2026",
+      "Amount": "",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x3b7f24",
+      "To": "",
+      "Amount": "30\u039e ($52,242)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3b7f24",
+      "To": "",
+      "Amount": "30\u039e ($51,592)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "15\u039e ($27,424)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "15\u039e ($24,502)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7a5d59",
+      "To": "",
+      "Amount": "10\u039e ($16,449)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "7.50\u039e ($12,244)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe1cd08",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

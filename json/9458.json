@@ -1,0 +1,194 @@
+{
+  "id": "9458",
+  "owner": "0x60cd04af655806bcde85964a78543def2d40aaaf",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Muttonchops",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0e6b6c",
+      "To": "",
+      "Amount": "13\u039e ($48,883)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Kornelij\u2026",
+      "To": "0x60cd04",
+      "Amount": "13.99\u039e ($52,606)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0e6b6c",
+      "To": "",
+      "Amount": "13\u039e ($48,708)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x39e638",
+      "To": "",
+      "Amount": "11\u039e ($42,050)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x39e638",
+      "To": "",
+      "Amount": "11\u039e ($42,831)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc5b066",
+      "To": "",
+      "Amount": "10\u039e ($38,938)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.99\u039e ($54,474)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($85,276)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Goop",
+      "To": "Kornelij\u2026",
+      "Amount": "0.37\u039e ($49)",
+      "Date": "Dec 16, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.37\u039e ($54)",
+      "Date": "Dec 10, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "renaissa\u2026",
+      "To": "Goop",
+      "Amount": "0.35\u039e ($51)",
+      "Date": "Dec 10, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($51)",
+      "Date": "Dec 10, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 10, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.36\u039e ($53)",
+      "Date": "Dec 10, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.04\u039e ($5)",
+      "Date": "Dec 10, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.38\u039e ($56)",
+      "Date": "Nov 26, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($125)",
+      "Date": "Jun 07, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 30, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.37\u039e ($64)",
+      "Date": "Apr 22, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 22, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($79)",
+      "Date": "Apr 18, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "renaissa\u2026",
+      "Amount": "0.35\u039e ($61)",
+      "Date": "Apr 18, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "0.28\u039e ($49)",
+      "Date": "Apr 10, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "0.28\u039e ($48)",
+      "Date": "Apr 09, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($157)",
+      "Date": "Jul 23, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

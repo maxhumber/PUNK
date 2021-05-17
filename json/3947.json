@@ -1,0 +1,19 @@
+{
+  "id": "3947",
+  "owner": "0xc480fb0ebea2591470f571436926785be5ebcd22",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Mohawk",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc480fb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

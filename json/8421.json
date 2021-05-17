@@ -1,0 +1,33 @@
+{
+  "id": "8421",
+  "owner": "0x005612ffb145f39be77e8b80251981043c472930",
+  "attributes": [
+    "Female",
+    "Regular Shades",
+    "Wild Hair",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x967ee5",
+      "To": "",
+      "Amount": "1.50\u039e ($2,207)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x967ee5",
+      "To": "",
+      "Amount": "1.50\u039e ($2,052)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x005612",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

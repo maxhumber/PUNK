@@ -1,0 +1,82 @@
+{
+  "id": "9102",
+  "owner": "0xb70c1a3242e363b4772b83acdc10df94e6c3fb02",
+  "attributes": [
+    "Female",
+    "Clown Eyes Green",
+    "Clown Hair Green",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "124\u039e ($435,922)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xceb63c",
+      "To": "",
+      "Amount": "33\u039e ($69,726)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0xb70c1a",
+      "Amount": "37.75\u039e ($79,857)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "37.75\u039e ($79,857)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xceb63c",
+      "To": "",
+      "Amount": "33\u039e ($72,705)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "28\u039e ($52,259)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "28\u039e ($52,613)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x682c30",
+      "To": "0x6611fe",
+      "Amount": "0.49\u039e ($132)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.49\u039e ($135)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x682c30",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

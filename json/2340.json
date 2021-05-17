@@ -1,0 +1,95 @@
+{
+  "id": "2340",
+  "owner": "0x7b89cec7b0d77c9140eb28368930f77ffc0c0a3a",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x251900",
+      "To": "0x7b89ce",
+      "Amount": "20.50\u039e ($35,989)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.50\u039e ($36,472)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.50\u039e ($40,374)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($41,313)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "ArtBlock\u2026",
+      "To": "0x251900",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x1a96af",
+      "To": "ArtBlock\u2026",
+      "Amount": "0.62\u039e ($123)",
+      "Date": "May 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.62\u039e ($105)",
+      "Date": "Apr 17, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe45df5",
+      "To": "0x1a96af",
+      "Amount": "",
+      "Date": "Apr 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.19\u039e ($332)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe45df5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

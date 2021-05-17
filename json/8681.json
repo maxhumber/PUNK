@@ -1,0 +1,152 @@
+{
+  "id": "8681",
+  "owner": "0x89447f2ca722481d1399ae08b4d7e9471883f6c8",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Big Shades",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($70,156)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "ArtBlock\u2026",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xf60614",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "ArtBlock\u2026",
+      "To": "0xf60614",
+      "Amount": "",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xce7a9f",
+      "To": "",
+      "Amount": "2.79\u039e ($2,041)",
+      "Date": "Jan 02, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xce7a9f",
+      "To": "",
+      "Amount": "2.79\u039e ($2,059)",
+      "Date": "Jan 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($2,253)",
+      "Date": "Oct 15, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "ArtBlock\u2026",
+      "Amount": "",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xf60614",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 10, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "ArtBlock\u2026",
+      "To": "0xf60614",
+      "Amount": "",
+      "Date": "Sep 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($707)",
+      "Date": "Sep 09, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "cryptosa\u2026",
+      "To": "ArtBlock\u2026",
+      "Amount": "1\u039e ($246)",
+      "Date": "Jun 10, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "ArtBlock\u2026",
+      "To": "",
+      "Amount": "1\u039e ($245)",
+      "Date": "Jun 09, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x470e9b",
+      "To": "cryptosa\u2026",
+      "Amount": "1\u039e ($203)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "0.60\u039e ($131)",
+      "Date": "Apr 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "0.60\u039e ($130)",
+      "Date": "Apr 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($203)",
+      "Date": "Jul 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x470e9b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "3025",
+  "owner": "0xe03a5189dac8182085e4adf66281f679fff2291d",
+  "attributes": [
+    "Female",
+    "Knitted Cap",
+    "Hot Lipstick",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xde6c0f",
+      "To": "dandecol\u2026",
+      "Amount": "",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5f5df4",
+      "To": "0xde6c0f",
+      "Amount": "23.99\u039e ($36,571)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.99\u039e ($36,220)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0b8785",
+      "To": "",
+      "Amount": "21\u039e ($31,955)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0b8785",
+      "To": "",
+      "Amount": "21\u039e ($31,940)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($48,965)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa3cb30",
+      "To": "0x5f5df4",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

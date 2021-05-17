@@ -1,0 +1,62 @@
+{
+  "id": "5133",
+  "owner": "0xbfe8270d85cae24420af050ff74c735c0f218a29",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Earring",
+    "Normal Beard",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "j1mmy",
+      "To": "lemondro\u2026",
+      "Amount": "5.95\u039e ($2,092)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.95\u039e ($2,109)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Avastars",
+      "To": "j1mmy",
+      "Amount": "",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "j1mmy",
+      "To": "Avastars",
+      "Amount": "",
+      "Date": "May 24, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "j1mmy",
+      "Amount": "0.45\u039e ($76)",
+      "Date": "May 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($78)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "9588",
+  "owner": "0xb4d8b83b41dd65a719a47a77014315f01f34fa77",
+  "attributes": [
+    "Male",
+    "Clown Hair Green",
+    "Clown Eyes Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x5ac996",
+      "To": "0xb4d8b8",
+      "Amount": "",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Deeze",
+      "To": "0x5ac996",
+      "Amount": "34.10\u039e ($52,869)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0x5ac996",
+      "Amount": "34.10\u039e ($52,869)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "GoWest23",
+      "To": "",
+      "Amount": "40\u039e ($61,490)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "GoWest23",
+      "To": "",
+      "Amount": "40\u039e ($61,490)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "Deeze",
+      "Amount": "33.99\u039e ($52,251)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33.99\u039e ($52,251)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

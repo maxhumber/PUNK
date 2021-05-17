@@ -1,0 +1,152 @@
+{
+  "id": "2769",
+  "owner": "0x180669310d089fafcbee40479ee719752d680d4e",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Shadow Beard",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Sylveste\u2026",
+      "To": "",
+      "Amount": "3.65\u039e ($1,365)",
+      "Date": "Oct 19, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0601d0",
+      "To": "0x180669",
+      "Amount": "4.25\u039e ($1,598)",
+      "Date": "Oct 18, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Sylveste\u2026",
+      "To": "",
+      "Amount": "3.65\u039e ($1,370)",
+      "Date": "Oct 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.25\u039e ($1,595)",
+      "Date": "Oct 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.50\u039e ($1,652)",
+      "Date": "Oct 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.75\u039e ($1,752)",
+      "Date": "Oct 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,901)",
+      "Date": "Oct 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.25\u039e ($1,980)",
+      "Date": "Oct 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($2,303)",
+      "Date": "Oct 12, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7\u039e ($2,606)",
+      "Date": "Oct 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($2,875)",
+      "Date": "Oct 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9\u039e ($3,071)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($3,521)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11\u039e ($3,825)",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x7e5280",
+      "To": "0x0601d0",
+      "Amount": "",
+      "Date": "Jun 05, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xd27e3f",
+      "To": "0x7e5280",
+      "Amount": "",
+      "Date": "Oct 04, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xff8414",
+      "To": "0xd27e3f",
+      "Amount": "",
+      "Date": "Jul 16, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc00c2b",
+      "To": "0xff8414",
+      "Amount": "0.20\u039e ($57)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($57)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc00c2b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

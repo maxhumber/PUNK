@@ -1,0 +1,111 @@
+{
+  "id": "8343",
+  "owner": "0x289d953cf25d51abbc825faac3c260c10eda72cf",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Messy Hair",
+    "Muttonchops",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x4aa6a3",
+      "To": "Zieg",
+      "Amount": "",
+      "Date": "Oct 20, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x4aa6a3",
+      "Amount": "",
+      "Date": "Oct 20, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Zieg",
+      "To": "0x4aa6a3",
+      "Amount": "5\u039e ($1,881)",
+      "Date": "Oct 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "cryptoke\u2026",
+      "To": "Zieg",
+      "Amount": "4.85\u039e ($1,857)",
+      "Date": "Oct 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "CPyrc",
+      "To": "cryptoke\u2026",
+      "Amount": "5.85\u039e ($2,085)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "GoWest23",
+      "To": "CPyrc",
+      "Amount": "5.45\u039e ($1,933)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa18fd5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "0xa18fd5",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbcdb2b\u2026",
+      "To": "GoWest23",
+      "Amount": "0.50\u039e ($67)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($109)",
+      "Date": "Sep 20, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0xbcdb2b\u2026",
+      "Amount": "0.25\u039e ($54)",
+      "Date": "Jul 22, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbcdb2b\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($57)",
+      "Date": "Jul 14, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($138)",
+      "Date": "Jul 12, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

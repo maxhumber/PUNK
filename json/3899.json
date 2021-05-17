@@ -1,0 +1,67 @@
+{
+  "id": "3899",
+  "owner": "0x295ce385a162582f54f01525da8176ee59a96db8",
+  "attributes": [
+    "Female",
+    "Knitted Cap",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xf4a775",
+      "To": "0x295ce3",
+      "Amount": "17\u039e ($30,910)",
+      "Date": "Mar 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x295ce3",
+      "To": "",
+      "Amount": "17\u039e ($30,549)",
+      "Date": "Mar 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($36,379)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.25\u039e ($14,175)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "0xf4a775",
+      "Amount": "0.09\u039e ($42)",
+      "Date": "Dec 03, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.09\u039e ($26)",
+      "Date": "Nov 01, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

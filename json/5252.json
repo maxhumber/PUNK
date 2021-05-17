@@ -1,0 +1,75 @@
+{
+  "id": "5252",
+  "owner": "0x268169a19bca3435451207f70be15436ed142f42",
+  "attributes": [
+    "Male",
+    "Clown Eyes Blue",
+    "Front Beard Dark",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "300\u039e ($597,606)",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xdfce59",
+      "To": "0x268169",
+      "Amount": "5.88\u039e ($7,535)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.88\u039e ($4,388)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x48db19",
+      "To": "0xdfce59",
+      "Amount": "4\u039e ($1,668)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "renaissa\u2026",
+      "To": "",
+      "Amount": "3.50\u039e ($1,390)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "renaissa\u2026",
+      "To": "",
+      "Amount": "3.50\u039e ($1,385)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "NeonNFT",
+      "To": "",
+      "Amount": "3\u039e ($1,195)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($1,584)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

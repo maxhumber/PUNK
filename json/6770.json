@@ -1,0 +1,40 @@
+{
+  "id": "6770",
+  "owner": "0x7760e0243ca9baa630412865df7b39afba42ff0f",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Straight Hair",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x19f233",
+      "To": "0x7760e0",
+      "Amount": "0.21\u039e ($57)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.21\u039e ($57)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "0.21\u039e ($57)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x19f233",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "1830",
+  "owner": "0xa37ed0864991e305648858b4294ce8f5497155dc",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Earring",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x491be7",
+      "To": "0xa37ed0",
+      "Amount": "18.50\u039e ($36,146)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.50\u039e ($33,949)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x491be7",
+      "Amount": "",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x5b47e9",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "KittyGr_\u2026",
+      "To": "0x5b47e9",
+      "Amount": "",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "KittyGr_\u2026",
+      "Amount": "0.08\u039e ($45)",
+      "Date": "Jun 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.08\u039e ($61)",
+      "Date": "May 05, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.44\u039e ($84)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "6311",
+  "owner": "0x577ebc5de943e35cdf9ecb5bbe1f7d7cb6c7c647",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "moxarra",
+      "To": "",
+      "Amount": "0.15\u039e ($35)",
+      "Date": "May 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "moxarra",
+      "To": "",
+      "Amount": "0.15\u039e ($30)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6e4a22",
+      "To": "",
+      "Amount": "0.13\u039e ($15)",
+      "Date": "Nov 30, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x6e4a22",
+      "To": "",
+      "Amount": "0.08\u039e ($9)",
+      "Date": "Nov 30, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6e4a22",
+      "To": "",
+      "Amount": "0.08\u039e ($9)",
+      "Date": "Nov 30, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6e4a22",
+      "To": "",
+      "Amount": "0.05\u039e ($6)",
+      "Date": "Nov 29, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

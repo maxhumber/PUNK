@@ -1,0 +1,40 @@
+{
+  "id": "4308",
+  "owner": "0x975fcac1b4030ef5b5c319f972634ea6fe757998",
+  "attributes": [
+    "Male",
+    "Wild Hair",
+    "Classic Shades",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "2\u039e ($3,337)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "2\u039e ($3,337)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "\u2728\ud83d\ude80\ud83c\udf19.et\u2026",
+      "To": "0x975fca",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "\u2728\ud83d\ude80\ud83c\udf19.et\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

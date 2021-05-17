@@ -1,0 +1,250 @@
+{
+  "id": "6397",
+  "owner": "0x05eac3c33721f4643ea192bb89459d58ca1aa960",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Cap",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.95\u039e ($92,019)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.95\u039e ($68,319)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($65,736)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa4290d",
+      "To": "tentacle\u2026",
+      "Amount": "",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.49\u039e ($59,241)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x62bdc6",
+      "To": "0xa4290d",
+      "Amount": "24.97\u039e ($53,811)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.97\u039e ($53,811)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x62bdc6",
+      "Amount": "",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xac12a8",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "gaus",
+      "To": "0xac12a8",
+      "Amount": "",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "gaus",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x36adad",
+      "To": "gaus",
+      "Amount": "2.50\u039e ($873)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe7be0f",
+      "To": "0x36adad",
+      "Amount": "2.30\u039e ($796)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Michel_M\u2026",
+      "To": "0xe7be0f",
+      "Amount": "2.06\u039e ($694)",
+      "Date": "Sep 23, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x11c9a7",
+      "To": "Michel_M\u2026",
+      "Amount": "1.92\u039e ($653)",
+      "Date": "Sep 23, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Loopify",
+      "To": "0x11c9a7",
+      "Amount": "1.90\u039e ($706)",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "MrNFT",
+      "To": "Loopify",
+      "Amount": "1.79\u039e ($675)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x3a12cd",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "MrNFT",
+      "To": "0x3a12cd",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "natealex",
+      "To": "MrNFT",
+      "Amount": "1.61\u039e ($605)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.61\u039e ($331)",
+      "Date": "May 28, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.49\u039e ($303)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.29\u039e ($263)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Goop",
+      "To": "natealex",
+      "Amount": "0.68\u039e ($136)",
+      "Date": "May 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.68\u039e ($120)",
+      "Date": "Jan 19, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf0f068\u2026",
+      "To": "Goop",
+      "Amount": "0.66\u039e ($116)",
+      "Date": "Jan 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.66\u039e ($90)",
+      "Date": "Jan 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.66\u039e ($90)",
+      "Date": "Jan 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.68\u039e ($99)",
+      "Date": "Jan 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0xf0f068\u2026",
+      "Amount": "0.55\u039e ($80)",
+      "Date": "Jan 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.55\u039e ($108)",
+      "Date": "Jul 14, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

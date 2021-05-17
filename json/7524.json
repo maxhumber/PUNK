@@ -1,0 +1,96 @@
+{
+  "id": "7524",
+  "owner": "0xad4f67e4ce7cc8cfdb9ce1b8d66bdee9a65b9c39",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Wild Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xa02d92",
+      "To": "0xad4f67",
+      "Amount": "25\u039e ($41,223)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($43,363)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x459c13",
+      "To": "0xa02d92",
+      "Amount": "",
+      "Date": "Jan 02, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($86)",
+      "Date": "Jan 02, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($128)",
+      "Date": "Dec 11, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($593)",
+      "Date": "Aug 13, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0x459c13",
+      "Amount": "0.25\u039e ($74)",
+      "Date": "Aug 08, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($56)",
+      "Date": "Aug 03, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($95)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($95)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($67)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "6556",
+  "owner": "0x06bf2b4da028b66fb08a75dd872acb9a483e5639",
+  "attributes": [
+    "Female",
+    "Hot Lipstick",
+    "Blonde Bob",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0x983ace",
+      "Amount": "300\u039e ($642,285)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x00d7c9",
+      "To": "",
+      "Amount": "0.40\u039e ($97)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00d7c9",
+      "To": "",
+      "Amount": "0.40\u039e ($97)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x06bf2b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

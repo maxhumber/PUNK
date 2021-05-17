@@ -1,0 +1,95 @@
+{
+  "id": "7928",
+  "owner": "0x69021ae8769586d56791d29615959997c2012b99",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Tiara"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "sov",
+      "To": "0x69021a",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "sov",
+      "Amount": "",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x2d91aa",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 18, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "sov",
+      "To": "0x2d91aa",
+      "Amount": "",
+      "Date": "Sep 18, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "5\u039e ($1,070)",
+      "Date": "May 18, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "5\u039e ($1,034)",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "sov",
+      "Amount": "0.20\u039e ($95)",
+      "Date": "Nov 27, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "sov",
+      "To": "",
+      "Amount": "0.20\u039e ($95)",
+      "Date": "Nov 27, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.30\u039e ($1,267)",
+      "Date": "Aug 30, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7\u039e ($1,334)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x45055c",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x45055c",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "8603",
+  "owner": "0x34805e6a3796fb04e82183667a78c2f7bff29170",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Normal Beard Black",
+    "Big Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($176,779)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "180\u039e ($383,202)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb9fddb",
+      "To": "0x34805e",
+      "Amount": "30\u039e ($63,670)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($60,547)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($57,212)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x365e35",
+      "To": "0xb9fddb",
+      "Amount": "30\u039e ($49,039)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($49,063)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($49,063)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x365e35",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "8850",
+  "owner": "0x215fedd5780c39fbdadb4bc3700de61a8ffdd74a",
+  "attributes": [
+    "Female",
+    "Blonde Short",
+    "Purple Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x122b08",
+      "To": "0x215fed",
+      "Amount": "",
+      "Date": "Jun 06, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x215fed",
+      "To": "0x122b08",
+      "Amount": "",
+      "Date": "Jun 06, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x215fed",
+      "Amount": "0.10\u039e ($51)",
+      "Date": "May 28, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($59)",
+      "Date": "May 26, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

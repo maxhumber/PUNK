@@ -1,0 +1,76 @@
+{
+  "id": "8171",
+  "owner": "0xddfdcb21c935e8432a559cf689c83695b27a4177",
+  "attributes": [
+    "Male",
+    "Eye Mask",
+    "Frown",
+    "Earring",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33.99\u039e ($132,340)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x67edd0",
+      "To": "0xddfdcb",
+      "Amount": "25.25\u039e ($66,810)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xddfdcb",
+      "To": "",
+      "Amount": "25.25\u039e ($66,810)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0e9aed",
+      "To": "0x67edd0",
+      "Amount": "24.99\u039e ($65,910)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($65,910)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0b88fd",
+      "To": "0x0e9aed",
+      "Amount": "20.50\u039e ($46,248)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.50\u039e ($46,248)",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6611fe",
+      "To": "0x0b88fd",
+      "Amount": "",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

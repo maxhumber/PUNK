@@ -1,0 +1,306 @@
+{
+  "id": "4915",
+  "owner": "0x1488c8fe2a9a54e56ed6c5905bf7ae4a2629aede",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Eye Mask",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x1488c8",
+      "Amount": "",
+      "Date": "May 17, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x018447",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "SenecaEt\u2026",
+      "To": "0x018447",
+      "Amount": "",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4affe1",
+      "To": "",
+      "Amount": "16\u039e ($66,012)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4affe1",
+      "To": "",
+      "Amount": "16\u039e ($65,742)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18\u039e ($73,959)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd311db",
+      "To": "",
+      "Amount": "17\u039e ($65,789)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd311db",
+      "To": "",
+      "Amount": "17\u039e ($62,459)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.50\u039e ($72,400)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.95\u039e ($78,016)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "tonyherr\u2026",
+      "To": "SenecaEt\u2026",
+      "Amount": "",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "CryptoPa\u2026",
+      "To": "tonyherr\u2026",
+      "Amount": "",
+      "Date": "Jan 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xd97f99",
+      "To": "CryptoPa\u2026",
+      "Amount": "4.60\u039e ($6,108)",
+      "Date": "Jan 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.60\u039e ($5,550)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaae8c5",
+      "To": "",
+      "Amount": "4.50\u039e ($5,519)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaae8c5",
+      "To": "",
+      "Amount": "4.50\u039e ($5,507)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.10\u039e ($6,241)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.85\u039e ($6,181)",
+      "Date": "Jan 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "6373D",
+      "To": "0xd97f99",
+      "Amount": "3.10\u039e ($2,006)",
+      "Date": "Dec 18, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdf4c62",
+      "To": "",
+      "Amount": "2.75\u039e ($1,609)",
+      "Date": "Dec 14, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdf4c62",
+      "To": "",
+      "Amount": "2.75\u039e ($1,629)",
+      "Date": "Dec 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.10\u039e ($1,833)",
+      "Date": "Dec 06, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x4322d6",
+      "To": "6373D",
+      "Amount": "2.25\u039e ($1,330)",
+      "Date": "Dec 06, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "6373D",
+      "To": "",
+      "Amount": "2.25\u039e ($1,331)",
+      "Date": "Dec 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($1,792)",
+      "Date": "Dec 06, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($2,074)",
+      "Date": "Nov 26, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Nov 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.69\u039e ($1,279)",
+      "Date": "Nov 18, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Nov 18, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "SenecaEt\u2026",
+      "To": "",
+      "Amount": "2\u039e ($929)",
+      "Date": "Nov 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "SenecaEt\u2026",
+      "To": "",
+      "Amount": "2\u039e ($894)",
+      "Date": "Nov 15, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x087173",
+      "To": "",
+      "Amount": "1.80\u039e ($805)",
+      "Date": "Nov 15, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x087173",
+      "To": "",
+      "Amount": "1.80\u039e ($833)",
+      "Date": "Nov 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($1,389)",
+      "Date": "Nov 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0x4322d6",
+      "Amount": "0.20\u039e ($19)",
+      "Date": "Dec 07, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($44)",
+      "Date": "Oct 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($136)",
+      "Date": "Mar 23, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($76)",
+      "Date": "Jan 01, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($67)",
+      "Date": "Aug 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

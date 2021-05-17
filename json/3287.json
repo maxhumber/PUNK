@@ -1,0 +1,178 @@
+{
+  "id": "3287",
+  "owner": "0x8dbbca57ea56290efa14d835bbfd34faf1d89753",
+  "attributes": [
+    "Female",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xa7eba7",
+      "To": "VonMises",
+      "Amount": "15.43\u039e ($5,500)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "14.20\u039e ($5,061)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "14.20\u039e ($5,061)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "13\u039e ($4,633)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.43\u039e ($5,459)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "13\u039e ($4,599)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16\u039e ($5,660)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.50\u039e ($5,817)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "15\u039e ($5,429)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17\u039e ($6,153)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "15\u039e ($5,429)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.50\u039e ($6,334)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "13\u039e ($4,705)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18\u039e ($6,515)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.80\u039e ($6,827)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($6,937)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($8,135)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($8,456)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($8,849)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.70\u039e ($9,668)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($9,957)",
+      "Date": "Sep 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39\u039e ($14,341)",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49\u039e ($12,187)",
+      "Date": "Jul 08, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xa7eba7",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

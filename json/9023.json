@@ -1,0 +1,60 @@
+{
+  "id": "9023",
+  "owner": "0xf3d10d2e58caa4220f52551bac7b14523d5fbd1f",
+  "attributes": [
+    "Female",
+    "Purple Eye Shadow",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($93,515)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb5e6ac",
+      "To": "",
+      "Amount": "14\u039e ($53,587)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x78f0a6",
+      "To": "0xf3d10d",
+      "Amount": "18.18\u039e ($70,634)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb5e6ac",
+      "To": "",
+      "Amount": "14\u039e ($52,098)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.18\u039e ($69,497)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 17, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x78f0a6",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

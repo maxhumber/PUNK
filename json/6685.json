@@ -1,0 +1,151 @@
+{
+  "id": "6685",
+  "owner": "0xfb571ed0910b03fdf643347e5846f2a5df63b743",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.99\u039e ($62,401)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($46,882)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($3,385)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "DA",
+      "Amount": "",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x10d6d9",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 06, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "evkort",
+      "To": "0x10d6d9",
+      "Amount": "",
+      "Date": "Oct 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.50\u039e ($1,936)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "evkort",
+      "Amount": "",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "evkort",
+      "Amount": "4.99\u039e ($1,756)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x776758",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Pranksy",
+      "To": "0x776758",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($2,116)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "KittyGr_\u2026",
+      "To": "Pranksy",
+      "Amount": "4.10\u039e ($1,446)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "4.10\u039e ($1,450)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "NeonNFT",
+      "To": "",
+      "Amount": "4\u039e ($1,414)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "KittyGr_\u2026",
+      "Amount": "0.05\u039e ($30)",
+      "Date": "Jun 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.05\u039e ($28)",
+      "Date": "May 29, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

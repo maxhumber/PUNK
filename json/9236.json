@@ -1,0 +1,46 @@
+{
+  "id": "9236",
+  "owner": "0xb38071b23f0fa92cf9e1bd6feec5a5f9821f3ccc",
+  "attributes": [
+    "Male",
+    "Classic Shades",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.30\u039e ($121,971)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "79.60\u039e ($150,554)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.80\u039e ($72,519)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.60\u039e ($27,073)",
+      "Date": "Jan 29, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb38071",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

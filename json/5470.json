@@ -1,0 +1,18 @@
+{
+  "id": "5470",
+  "owner": "0x7797cf5b68bb6a62b7d37d628fd72ec216111cb1",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x7797cf",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

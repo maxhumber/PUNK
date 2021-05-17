@@ -1,0 +1,40 @@
+{
+  "id": "1322",
+  "owner": "0x7a39608107dc014d4bbd7a5f01d3fba5dff6d042",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Shaved Head",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xa3cb30",
+      "To": "0x7a3960",
+      "Amount": "6.21\u039e ($2,182)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.21\u039e ($2,213)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

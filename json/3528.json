@@ -1,0 +1,67 @@
+{
+  "id": "3528",
+  "owner": "0x5e4bfb9b304811615b50bb6d711feac57cfb0560",
+  "attributes": [
+    "Female",
+    "Hot Lipstick",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "100\u039e ($208,473)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa3cb30",
+      "To": "0x5e4bfb",
+      "Amount": "9.97\u039e ($13,293)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5e4bfb",
+      "To": "",
+      "Amount": "9.97\u039e ($13,266)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "7\u039e ($9,251)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13\u039e ($17,181)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf8d7a7",
+      "To": "",
+      "Amount": "5\u039e ($6,610)",
+      "Date": "Jan 29, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

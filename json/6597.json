@@ -1,0 +1,89 @@
+{
+  "id": "6597",
+  "owner": "0xcf88fa6ee6d111b04be9b06ef6fad6bd6691b88c",
+  "attributes": [
+    "Male",
+    "Cap",
+    "Handlebars",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Theodora",
+      "To": "jordanly\u2026",
+      "Amount": "25.22\u039e ($39,698)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.22\u039e ($39,698)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x13816f",
+      "To": "",
+      "Amount": "11.50\u039e ($22,239)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x13816f",
+      "To": "",
+      "Amount": "11.50\u039e ($21,161)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Theodora",
+      "Amount": "0.95\u039e ($330)",
+      "Date": "Sep 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.95\u039e ($371)",
+      "Date": "Aug 28, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($109)",
+      "Date": "Jun 20, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($109)",
+      "Date": "Jun 20, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.69\u039e ($131)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

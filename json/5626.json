@@ -1,0 +1,124 @@
+{
+  "id": "5626",
+  "owner": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Wild Hair",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "(Wrap)",
+      "From": "0x6500c0",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "beautifu\u2026",
+      "To": "0x6500c0",
+      "Amount": "",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xce3ecc",
+      "To": "beautifu\u2026",
+      "Amount": "42\u039e ($70,252)",
+      "Date": "Mar 26, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "beautifu\u2026",
+      "To": "",
+      "Amount": "32.75\u039e ($51,572)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "beautifu\u2026",
+      "To": "",
+      "Amount": "32.75\u039e ($52,459)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42\u039e ($70,151)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x701f37",
+      "To": "0xce3ecc",
+      "Amount": "",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42\u039e ($62,042)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa3cb30",
+      "To": "0x701f37",
+      "Amount": "14.99\u039e ($25,544)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.99\u039e ($27,486)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb54c55",
+      "To": "",
+      "Amount": "0.02\u039e ($3)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb54c55",
+      "To": "",
+      "Amount": "0.02\u039e ($3)",
+      "Date": "May 23, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Kircheis",
+      "To": "",
+      "Amount": "0\u039e ($2)",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "afronoma\u2026",
+      "To": "",
+      "Amount": "<",
+      "Date": "May 03, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

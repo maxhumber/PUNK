@@ -1,0 +1,82 @@
+{
+  "id": "1714",
+  "owner": "0xcffc336e6d019c1af58257a0b10bf2146a3f42a4",
+  "attributes": [
+    "Female",
+    "Choker",
+    "Straight Hair Blonde",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xba7ccc",
+      "To": "0xcffc33",
+      "Amount": "",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($1,175)",
+      "Date": "Jan 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($546)",
+      "Date": "Dec 11, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x22160e",
+      "To": "",
+      "Amount": "1\u039e ($194)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x22160e",
+      "To": "",
+      "Amount": "1\u039e ($194)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x22160e",
+      "To": "",
+      "Amount": "0.60\u039e ($117)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x22160e",
+      "To": "",
+      "Amount": "0.60\u039e ($117)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x22160e",
+      "To": "",
+      "Amount": "0.40\u039e ($91)",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x22160e",
+      "To": "",
+      "Amount": "0.40\u039e ($76)",
+      "Date": "Jul 17, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xba7ccc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

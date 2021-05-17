@@ -1,0 +1,193 @@
+{
+  "id": "4940",
+  "owner": "0x85d14b5b709573c275b1ca9c1686cc120e9e715f",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xaea8e3",
+      "To": "0x85d14b",
+      "Amount": "69.99\u039e ($148,813)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x51636d",
+      "To": "",
+      "Amount": "63.50\u039e ($114,193)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x51636d",
+      "To": "",
+      "Amount": "63.50\u039e ($115,997)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0ecd8a",
+      "To": "",
+      "Amount": "60\u039e ($106,956)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0ecd8a",
+      "To": "",
+      "Amount": "60\u039e ($106,309)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x741c49",
+      "To": "",
+      "Amount": "48.50\u039e ($74,205)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x741c49",
+      "To": "",
+      "Amount": "48.50\u039e ($74,205)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x741c49",
+      "To": "",
+      "Amount": "47.10\u039e ($74,898)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x741c49",
+      "To": "",
+      "Amount": "47.10\u039e ($74,294)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0a6417",
+      "To": "",
+      "Amount": "47\u039e ($74,136)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0a6417",
+      "To": "",
+      "Amount": "47\u039e ($73,305)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0a6417",
+      "To": "",
+      "Amount": "45\u039e ($70,186)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69.99\u039e ($109,163)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0a6417",
+      "To": "",
+      "Amount": "45\u039e ($70,186)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "79.99\u039e ($118,704)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe03559",
+      "To": "0xaea8e3",
+      "Amount": "40\u039e ($62,304)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "60\u039e ($93,456)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaea8e3",
+      "To": "",
+      "Amount": "40\u039e ($62,652)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "37\u039e ($57,953)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe281b9",
+      "To": "",
+      "Amount": "35\u039e ($54,820)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaea8e3",
+      "To": "",
+      "Amount": "30\u039e ($46,989)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe281b9",
+      "To": "",
+      "Amount": "25\u039e ($39,157)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "CryptoCo\u2026",
+      "To": "",
+      "Amount": "0.35\u039e ($59)",
+      "Date": "Jan 15, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "CryptoCo\u2026",
+      "To": "",
+      "Amount": "0.35\u039e ($50)",
+      "Date": "Jan 10, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Mr_0x",
+      "To": "",
+      "Amount": "0.15\u039e ($18)",
+      "Date": "Feb 11, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe03559",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

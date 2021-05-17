@@ -1,0 +1,49 @@
+{
+  "id": "1493",
+  "owner": "0x577ebc5de943e35cdf9ecb5bbe1f7d7cb6c7c647",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Hot Lipstick",
+    "Regular Shades",
+    "Blonde Bob",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "5\u039e ($7,116)",
+      "Date": "Jan 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "5\u039e ($6,173)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x48db19",
+      "To": "",
+      "Amount": "3\u039e ($3,521)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

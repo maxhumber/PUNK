@@ -1,0 +1,89 @@
+{
+  "id": "5560",
+  "owner": "0x3e17fac953de2cd729b0ace7f6d4353387717e9e",
+  "attributes": [
+    "Female",
+    "Knitted Cap",
+    "Black Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($27,730)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($7,092)",
+      "Date": "Dec 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($3,704)",
+      "Date": "Nov 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($1,844)",
+      "Date": "Nov 13, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x1da533",
+      "To": "0x3e17fa",
+      "Amount": "3.90\u039e ($1,379)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.90\u039e ($1,264)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "DANNY",
+      "To": "0x1da533",
+      "Amount": "",
+      "Date": "Jun 02, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "DANNY",
+      "Amount": "1.30\u039e ($262)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.30\u039e ($213)",
+      "Date": "Jan 26, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

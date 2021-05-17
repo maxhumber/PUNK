@@ -1,0 +1,39 @@
+{
+  "id": "4165",
+  "owner": "0x809a31ce595288ef3ee7f4ef5a717fc463dcdc0d",
+  "attributes": [
+    "Male",
+    "Purple Hair",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xeb1fcd",
+      "To": "",
+      "Amount": "0.05\u039e ($90)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xeb1fcd",
+      "To": "",
+      "Amount": "0.05\u039e ($94)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x809a31",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "660",
+  "owner": "0x03009898ffd3361bb6b02b77d655f196ec82865e",
+  "attributes": [
+    "Female",
+    "Purple Eye Shadow",
+    "Wild Hair",
+    "Purple Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0x030098",
+      "Amount": "26.69\u039e ($41,914)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x030098",
+      "To": "",
+      "Amount": "26.69\u039e ($41,855)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($57,015)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "Pranksy",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

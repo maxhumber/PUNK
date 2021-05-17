@@ -1,0 +1,201 @@
+{
+  "id": "9189",
+  "owner": "0x4649941b72d28fc534cec775a6f35ea1fa4cdc63",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Fedora",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x0b7ab9",
+      "To": "0x464994",
+      "Amount": "22\u039e ($54,642)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($54,642)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.50\u039e ($56,723)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($59,806)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdef4ed",
+      "To": "",
+      "Amount": "20.50\u039e ($50,044)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdef4ed",
+      "To": "",
+      "Amount": "20.50\u039e ($50,737)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "renaissa\u2026",
+      "To": "",
+      "Amount": "21\u039e ($51,697)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.50\u039e ($55,468)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "renaissa\u2026",
+      "To": "",
+      "Amount": "21\u039e ($50,215)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($54,998)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.99\u039e ($56,118)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($56,387)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8b51c1",
+      "To": "0x0b7ab9",
+      "Amount": "20.20\u039e ($47,459)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.20\u039e ($47,459)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x54b174",
+      "To": "",
+      "Amount": "20.50\u039e ($43,794)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x54b174",
+      "To": "",
+      "Amount": "20.50\u039e ($43,788)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x13816f",
+      "To": "",
+      "Amount": "11\u039e ($16,450)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x13816f",
+      "To": "",
+      "Amount": "11\u039e ($21,903)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x35d3a2",
+      "To": "",
+      "Amount": "7\u039e ($13,938)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x7c00c9\u2026",
+      "To": "0x8b51c1",
+      "Amount": "13.37\u039e ($26,571)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x35d3a2",
+      "To": "",
+      "Amount": "7\u039e ($14,051)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.37\u039e ($26,227)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16\u039e ($29,530)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.49\u039e ($25,752)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x7c00c9\u2026",
+      "Amount": "0.18\u039e ($17)",
+      "Date": "Dec 07, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.18\u039e ($146)",
+      "Date": "Dec 19, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

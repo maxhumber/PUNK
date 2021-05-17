@@ -1,0 +1,103 @@
+{
+  "id": "5722",
+  "owner": "0xac13adfd264df6151891d261a3cae43e1fd0a8f2",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Shadow Beard",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35.96\u039e ($67,091)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x13816f",
+      "To": "0xac13ad",
+      "Amount": "14.69\u039e ($28,678)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.88\u039e ($30,695)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xac13ad",
+      "To": "",
+      "Amount": "14.69\u039e ($29,464)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.88\u039e ($32,109)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x13816f",
+      "Amount": "",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Slider92",
+      "To": "0x13816f",
+      "Amount": "5.80\u039e ($2,063)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Zieg",
+      "To": "Slider92",
+      "Amount": "3.35\u039e ($1,168)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "SharkWha\u2026",
+      "To": "Zieg",
+      "Amount": "3.43\u039e ($1,168)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "SharkWha\u2026",
+      "Amount": "2.50\u039e ($865)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x193847",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Hemba",
+      "To": "0x193847",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "613",
+  "owner": "0x0b4338671b26d40e1177a8a0f64d75f253f15e05",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Chinstrap"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xc352b5",
+      "To": "0x0b4338",
+      "Amount": "6.50\u039e ($8,545)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0b4338",
+      "To": "",
+      "Amount": "6.50\u039e ($8,545)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

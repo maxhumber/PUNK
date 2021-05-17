@@ -1,0 +1,88 @@
+{
+  "id": "8575",
+  "owner": "0x8f6b1e467fbe74d7dd43d59de0558f693c736798",
+  "attributes": [
+    "Male",
+    "Purple Hair",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5fd36a",
+      "To": "",
+      "Amount": "40\u039e ($67,411)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5fd36a",
+      "To": "",
+      "Amount": "40\u039e ($72,105)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5fd36a",
+      "To": "",
+      "Amount": "30\u039e ($53,172)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5fd36a",
+      "To": "",
+      "Amount": "30\u039e ($56,336)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xf1d2d8",
+      "To": "0x8f6b1e",
+      "Amount": "",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "MadMax",
+      "To": "0xf1d2d8",
+      "Amount": "15.75\u039e ($27,324)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.75\u039e ($28,486)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "MadMax",
+      "Amount": "9.50\u039e ($17,264)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "MadMax",
+      "Amount": "9.50\u039e ($17,264)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

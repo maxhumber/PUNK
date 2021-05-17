@@ -1,0 +1,104 @@
+{
+  "id": "4998",
+  "owner": "0x0722692deb9c7b0b910c75e7d07c25a0ce920fe2",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Messy Hair",
+    "Frown",
+    "Chinstrap"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "stoic",
+      "To": "edenau.e\u2026",
+      "Amount": "4.69\u039e ($5,743)",
+      "Date": "Jan 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.69\u039e ($5,883)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "stoic",
+      "Amount": "",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x619117",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "stoic",
+      "To": "0x619117",
+      "Amount": "",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.69\u039e ($2,335)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "stoic",
+      "Amount": "0.30\u039e ($81)",
+      "Date": "Jul 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($138)",
+      "Date": "Jul 12, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jun 11, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "stoic",
+      "To": "",
+      "Amount": "0.30\u039e ($76)",
+      "Date": "May 20, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($78)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

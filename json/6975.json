@@ -1,0 +1,391 @@
+{
+  "id": "6975",
+  "owner": "0xb79157bca1635f4731df5828f2a28a0cbfc799ce",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Big Shades",
+    "Goat",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x33b17a",
+      "To": "0xb79157",
+      "Amount": "26\u039e ($44,972)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26\u039e ($44,186)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.50\u039e ($45,166)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.80\u039e ($45,681)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.50\u039e ($48,018)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.80\u039e ($51,314)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.35\u039e ($52,698)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.85\u039e ($53,230)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31\u039e ($55,722)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32.20\u039e ($58,195)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3d0107",
+      "To": "0x33b17a",
+      "Amount": "25.80\u039e ($44,780)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.80\u039e ($44,680)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "chifoomi",
+      "To": "0x3d0107",
+      "Amount": "5.80\u039e ($9,913)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3d0107",
+      "To": "",
+      "Amount": "5.80\u039e ($9,388)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x257e2b",
+      "To": "chifoomi",
+      "Amount": "5.20\u039e ($1,966)",
+      "Date": "Oct 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.20\u039e ($1,942)",
+      "Date": "Oct 15, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.49\u039e ($2,463)",
+      "Date": "Oct 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.49\u039e ($2,077)",
+      "Date": "Oct 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.49\u039e ($2,448)",
+      "Date": "Oct 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.49\u039e ($2,058)",
+      "Date": "Oct 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.49\u039e ($2,230)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.99\u039e ($2,031)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xb41f56",
+      "To": "0x257e2b",
+      "Amount": "",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.99\u039e ($2,052)",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.99\u039e ($2,202)",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.99\u039e ($2,502)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($3,537)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "FunBum69",
+      "To": "0xb41f56",
+      "Amount": "4.99\u039e ($1,765)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.99\u039e ($1,750)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($2,846)",
+      "Date": "Jul 25, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "BumFun69",
+      "To": "FunBum69",
+      "Amount": "",
+      "Date": "Jun 01, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xca105c",
+      "To": "BumFun69",
+      "Amount": "2.75\u039e ($656)",
+      "Date": "Jun 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.75\u039e ($451)",
+      "Date": "Jan 16, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf0f068\u2026",
+      "To": "0xca105c",
+      "Amount": "0.84\u039e ($138)",
+      "Date": "Jan 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.84\u039e ($138)",
+      "Date": "Jan 16, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc00c2b",
+      "To": "0xf0f068\u2026",
+      "Amount": "0.75\u039e ($123)",
+      "Date": "Jan 16, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($66)",
+      "Date": "Jun 14, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($62)",
+      "Date": "Jun 10, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($204)",
+      "Date": "May 27, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Sylveste\u2026",
+      "To": "",
+      "Amount": "0.36\u039e ($59)",
+      "Date": "May 05, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Sylveste\u2026",
+      "To": "",
+      "Amount": "0.36\u039e ($59)",
+      "Date": "May 04, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($131)",
+      "Date": "May 04, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($598)",
+      "Date": "Aug 14, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($230)",
+      "Date": "Jul 22, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7a341c",
+      "To": "",
+      "Amount": "0.03\u039e ($7)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7a341c",
+      "To": "",
+      "Amount": "0.03\u039e ($10)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc00c2b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

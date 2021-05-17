@@ -1,0 +1,32 @@
+{
+  "id": "4490",
+  "owner": "0x7db5255041e2058bc40d0b07c8e36da0de37baff",
+  "attributes": [
+    "Male",
+    "Mohawk",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x7db525",
+      "Amount": "1.45\u039e ($342)",
+      "Date": "Jun 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.45\u039e ($321)",
+      "Date": "May 29, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "9657",
+  "owner": "0x69021ae8769586d56791d29615959997c2012b99",
+  "attributes": [
+    "Male",
+    "Gold Chain",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "sov",
+      "To": "0x69021a",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Nalesnik\u2026",
+      "To": "",
+      "Amount": "0.05\u039e ($20)",
+      "Date": "Aug 04, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Nalesnik\u2026",
+      "To": "",
+      "Amount": "0.05\u039e ($28)",
+      "Date": "Mar 20, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "sov",
+      "Amount": "0.04\u039e ($17)",
+      "Date": "Dec 10, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "sov",
+      "To": "",
+      "Amount": "0.04\u039e ($12)",
+      "Date": "Sep 30, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "8567",
+  "owner": "0x45c7811c459a43d0c17ef18f33a2c8921ac4ecf8",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Frown",
+    "Earring",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "misu.eth",
+      "Amount": "19.99\u039e ($41,257)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "misu.eth",
+      "To": "",
+      "Amount": "19\u039e ($39,214)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "misu.eth",
+      "To": "",
+      "Amount": "19\u039e ($39,214)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.99\u039e ($40,500)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "14\u039e ($23,440)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "14\u039e ($23,736)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "charley",
+      "To": "",
+      "Amount": "5.10\u039e ($7,981)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "charley",
+      "To": "",
+      "Amount": "5.10\u039e ($8,347)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

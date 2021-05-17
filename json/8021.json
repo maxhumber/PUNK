@@ -1,0 +1,186 @@
+{
+  "id": "8021",
+  "owner": "0x68a7ac13477aad590982293feeeb786a00276cf2",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Gold Chain"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "2pac",
+      "To": "0x68a7ac",
+      "Amount": "4.92\u039e ($3,194)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x68a7ac",
+      "To": "",
+      "Amount": "4.92\u039e ($3,163)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($3,701)",
+      "Date": "Dec 25, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.40\u039e ($3,313)",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x4960c4\u2026",
+      "To": "2pac",
+      "Amount": "4.92\u039e ($3,190)",
+      "Date": "Dec 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.92\u039e ($2,869)",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($3,082)",
+      "Date": "Nov 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7\u039e ($3,566)",
+      "Date": "Nov 20, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($3,788)",
+      "Date": "Nov 20, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9\u039e ($4,046)",
+      "Date": "Nov 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10.50\u039e ($4,352)",
+      "Date": "Oct 23, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.68\u039e ($280)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12\u039e ($4,058)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12.50\u039e ($4,227)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "0x4960c4\u2026",
+      "Amount": "0.10\u039e ($38)",
+      "Date": "Apr 02, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4960c4\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($38)",
+      "Date": "Apr 02, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.14\u039e ($53)",
+      "Date": "Apr 01, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($76)",
+      "Date": "Apr 01, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($81)",
+      "Date": "Mar 18, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($1,359)",
+      "Date": "Jan 14, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 23, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($139)",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($350)",
+      "Date": "Dec 13, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

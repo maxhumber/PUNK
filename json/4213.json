@@ -1,0 +1,18 @@
+{
+  "id": "4213",
+  "owner": "0x36a5bc205df1ed65c86301022cfc343a6ce546ff",
+  "attributes": [
+    "Female",
+    "Bandana",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x36a5bc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

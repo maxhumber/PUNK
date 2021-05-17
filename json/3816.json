@@ -1,0 +1,89 @@
+{
+  "id": "3816",
+  "owner": "0xff70ec37a5d631f587df503efe862a6b9a274305",
+  "attributes": [
+    "Female",
+    "Orange Side",
+    "Green Eye Shadow",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0xff70ec",
+      "Amount": "95\u039e ($196,748)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xff70ec",
+      "To": "",
+      "Amount": "80\u039e ($165,682)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "95\u039e ($197,743)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff70ec",
+      "To": "",
+      "Amount": "80\u039e ($166,086)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "simona.e\u2026",
+      "To": "",
+      "Amount": "5\u039e ($8,404)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "simona.e\u2026",
+      "To": "",
+      "Amount": "5\u039e ($7,653)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "25\u039e ($45,129)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "25\u039e ($45,946)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

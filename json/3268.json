@@ -1,0 +1,83 @@
+{
+  "id": "3268",
+  "owner": "0x1e36a5979c613f52f8cb956638b07602c7e7e1f7",
+  "attributes": [
+    "Male",
+    "Clown Eyes Blue",
+    "Earring",
+    "Goat",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Dude_Nak\u2026",
+      "To": "7478",
+      "Amount": "0.60\u039e ($131)",
+      "Date": "Feb 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.60\u039e ($128)",
+      "Date": "Feb 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.69\u039e ($126)",
+      "Date": "Jan 31, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 27, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 25, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.44\u039e ($58)",
+      "Date": "Dec 25, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.36\u039e ($51)",
+      "Date": "Dec 24, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Dude_Nak\u2026",
+      "Amount": "0.13\u039e ($26)",
+      "Date": "Oct 28, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.13\u039e ($26)",
+      "Date": "Oct 28, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

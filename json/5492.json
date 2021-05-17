@@ -1,0 +1,39 @@
+{
+  "id": "5492",
+  "owner": "0xaf0aff633f0571f2b90ac66685f35ae7b507b4ae",
+  "attributes": [
+    "Female",
+    "Frumpy Hair",
+    "Rosy Cheeks"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0xaf0aff",
+      "Amount": "31\u039e ($68,374)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaf0aff",
+      "To": "",
+      "Amount": "31\u039e ($68,374)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

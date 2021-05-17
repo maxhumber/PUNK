@@ -1,0 +1,60 @@
+{
+  "id": "5029",
+  "owner": "0x96b48fd894501e212588121e1e9d7c76878032a7",
+  "attributes": [
+    "Male",
+    "Headband",
+    "Clown Eyes Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xc00c2b",
+      "To": "0x96b48f",
+      "Amount": "0.19\u039e ($59)",
+      "Date": "Aug 12, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.19\u039e ($59)",
+      "Date": "Aug 12, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($89)",
+      "Date": "Aug 09, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($74)",
+      "Date": "Aug 09, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.38\u039e ($83)",
+      "Date": "Aug 02, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.42\u039e ($87)",
+      "Date": "Jul 29, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc00c2b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

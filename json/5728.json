@@ -1,0 +1,124 @@
+{
+  "id": "5728",
+  "owner": "0x9fdaafd74a0d6e880bdf8c79b678ba64c200a7f7",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Frumpy Hair",
+    "Rosy Cheeks"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Slider92",
+      "To": "",
+      "Amount": "3.25\u039e ($2,372)",
+      "Date": "Dec 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Slider92",
+      "To": "",
+      "Amount": "3.25\u039e ($2,386)",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "NFTinTin",
+      "To": "0x9fdaaf",
+      "Amount": "0.83\u039e ($151)",
+      "Date": "Oct 25, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9fdaaf",
+      "To": "",
+      "Amount": "0.83\u039e ($150)",
+      "Date": "Oct 11, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.99\u039e ($273)",
+      "Date": "Jul 12, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.99\u039e ($630)",
+      "Date": "Jun 25, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.37\u039e ($378)",
+      "Date": "Jan 27, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc2ac3c",
+      "To": "NFTinTin",
+      "Amount": "0.37\u039e ($56)",
+      "Date": "Jan 09, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.37\u039e ($52)",
+      "Date": "Dec 28, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($188)",
+      "Date": "Aug 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($547)",
+      "Date": "Dec 15, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xb11d6a",
+      "To": "0xc2ac3c",
+      "Amount": "",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "0xb11d6a",
+      "Amount": "0.27\u039e ($71)",
+      "Date": "Sep 22, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.27\u039e ($71)",
+      "Date": "Sep 22, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

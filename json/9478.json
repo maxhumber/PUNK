@@ -1,0 +1,47 @@
+{
+  "id": "9478",
+  "owner": "0x4136e3aa19aadd36f5f70b86658c72c3ea50eeca",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Cap Forward",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0x4136e3",
+      "Amount": "0.45\u039e ($82)",
+      "Date": "Oct 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($87)",
+      "Date": "Oct 09, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc00c2b",
+      "To": "",
+      "Amount": "0.20\u039e ($44)",
+      "Date": "Aug 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc00c2b",
+      "To": "",
+      "Amount": "0.20\u039e ($44)",
+      "Date": "Aug 04, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

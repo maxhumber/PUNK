@@ -1,0 +1,209 @@
+{
+  "id": "2097",
+  "owner": "0x67edd0b8f66ce4edeee9ed84a74fbc70ceacfe18",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Smile",
+    "Do-rag",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "80\u039e ($199,121)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Cryptgo",
+      "To": "0x67edd0",
+      "Amount": "32\u039e ($78,462)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x67edd0",
+      "To": "",
+      "Amount": "30.50\u039e ($74,784)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32\u039e ($78,462)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x67edd0",
+      "To": "",
+      "Amount": "30.50\u039e ($75,084)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x596572",
+      "To": "",
+      "Amount": "30\u039e ($72,702)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "arad.eth",
+      "To": "",
+      "Amount": "28.50\u039e ($69,184)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x67edd0",
+      "To": "",
+      "Amount": "27\u039e ($62,585)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($75,158)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.99\u039e ($84,868)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49.99\u039e ($90,033)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99.99\u039e ($181,597)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69\u039e ($109,397)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "999\u039e ($1.78M)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "199\u039e ($388,810)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xfb077c",
+      "To": "Cryptgo",
+      "Amount": "0.75\u039e ($172)",
+      "Date": "Aug 06, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Cryptgo",
+      "To": "",
+      "Amount": "0.10\u039e ($23)",
+      "Date": "Aug 06, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cryptgo",
+      "To": "",
+      "Amount": "0.10\u039e ($21)",
+      "Date": "Jul 30, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($204)",
+      "Date": "Jun 20, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($759)",
+      "Date": "Aug 05, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.25\u039e ($57)",
+      "Date": "Jul 23, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.25\u039e ($58)",
+      "Date": "Jul 22, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.60\u039e ($138)",
+      "Date": "Jul 22, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 21, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.60\u039e ($130)",
+      "Date": "Jul 21, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,523)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xfb077c",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "7403",
+  "owner": "0x7760e0243ca9baa630412865df7b39afba42ff0f",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Vape",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xedb7f3",
+      "To": "",
+      "Amount": "1\u039e ($1,401)",
+      "Date": "Jan 29, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xedb7f3",
+      "To": "",
+      "Amount": "1\u039e ($1,118)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "0.75\u039e ($160)",
+      "Date": "May 03, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "0.75\u039e ($157)",
+      "Date": "Apr 29, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Mr_0x",
+      "To": "",
+      "Amount": "0.40\u039e ($55)",
+      "Date": "Feb 28, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "trislit",
+      "To": "",
+      "Amount": "0.12\u039e ($28)",
+      "Date": "Oct 01, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "trislit",
+      "To": "",
+      "Amount": "0.12\u039e ($27)",
+      "Date": "Sep 20, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "dafky200\u2026",
+      "To": "",
+      "Amount": "0.09\u039e ($60)",
+      "Date": "May 01, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "dafky200\u2026",
+      "To": "",
+      "Amount": "0.09\u039e ($60)",
+      "Date": "Apr 30, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "dafky200\u2026",
+      "To": "",
+      "Amount": "0.07\u039e ($47)",
+      "Date": "Apr 30, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "dafky200\u2026",
+      "To": "",
+      "Amount": "0.07\u039e ($29)",
+      "Date": "Apr 10, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd2dca8",
+      "To": "",
+      "Amount": "0.06\u039e ($26)",
+      "Date": "Apr 08, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Nalesnik\u2026",
+      "To": "",
+      "Amount": "0.06\u039e ($33)",
+      "Date": "Mar 20, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x585f98",
+      "To": "0x7760e0",
+      "Amount": "0.05\u039e ($65)",
+      "Date": "Jan 15, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x585f98",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

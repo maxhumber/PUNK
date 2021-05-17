@@ -1,0 +1,97 @@
+{
+  "id": "8671",
+  "owner": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Muttonchops",
+    "Earring",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "(Wrap)",
+      "From": "0xcb7624",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc08be1",
+      "To": "0xcb7624",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xc08be1",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "NeonNFT",
+      "To": "0x491be7",
+      "Amount": "5.09\u039e ($1,792)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x0f8722",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "NeonNFT",
+      "To": "0x0f8722",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "NeonNFT",
+      "Amount": "5\u039e ($1,742)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "NeonNFT",
+      "To": "",
+      "Amount": "5\u039e ($1,730)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.25\u039e ($1,821)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.59\u039e ($1,948)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($3,406)",
+      "Date": "Jun 20, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "7361",
+  "owner": "0x6301add4fb128de9778b8651a2a9278b86761423",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Mustache",
+    "Pipe"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

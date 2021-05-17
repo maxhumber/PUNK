@@ -1,0 +1,166 @@
+{
+  "id": "6764",
+  "owner": "0xcffc60228e1a8aa7c631101eb82fa94981621cbf",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Tiara",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "145\u039e ($604,693)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "162.50\u039e ($561,426)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "184.85\u039e ($328,589)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "178.87\u039e ($317,603)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "pelvis.e\u2026",
+      "To": "",
+      "Amount": "33\u039e ($60,621)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "pelvis.e\u2026",
+      "To": "",
+      "Amount": "33\u039e ($59,510)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "20\u039e ($26,432)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "20\u039e ($26,600)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4d17cf",
+      "To": "jesterbo\u2026",
+      "Amount": "",
+      "Date": "Oct 31, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 26, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Party",
+      "To": "",
+      "Amount": "7.50\u039e ($3,100)",
+      "Date": "Oct 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($18,603)",
+      "Date": "Oct 24, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Party",
+      "To": "",
+      "Amount": "7.50\u039e ($3,097)",
+      "Date": "Oct 24, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0601d0",
+      "To": "",
+      "Amount": "8\u039e ($3,325)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0601d0",
+      "To": "",
+      "Amount": "8\u039e ($3,167)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xef764b\u2026",
+      "To": "",
+      "Amount": "7\u039e ($2,771)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "ddaavvee",
+      "To": "",
+      "Amount": "3\u039e ($1,188)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcd2c66",
+      "To": "",
+      "Amount": "0.70\u039e ($170)",
+      "Date": "Jun 09, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x22160e",
+      "To": "",
+      "Amount": "0.15\u039e ($31)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x22160e",
+      "To": "",
+      "Amount": "0.15\u039e ($34)",
+      "Date": "Jul 12, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4d17cf",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

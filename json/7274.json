@@ -1,0 +1,47 @@
+{
+  "id": "7274",
+  "owner": "0x51688cd36c18891167e8036bde2a8fb10ec80c43",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Earring",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x637532",
+      "To": "0x51688c",
+      "Amount": "",
+      "Date": "Jun 01, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x58164b",
+      "To": "0x637532",
+      "Amount": "",
+      "Date": "May 10, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbc081c",
+      "To": "0x58164b",
+      "Amount": "0.30\u039e ($58)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($58)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xbc081c",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

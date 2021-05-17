@@ -1,0 +1,90 @@
+{
+  "id": "5550",
+  "owner": "0x3e17fac953de2cd729b0ace7f6d4353387717e9e",
+  "attributes": [
+    "Female",
+    "Messy Hair",
+    "Choker",
+    "Hot Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x167e00",
+      "To": "0x3e17fa",
+      "Amount": "60\u039e ($118,375)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "60\u039e ($116,737)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($42,059)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x2fdacd",
+      "To": "0x167e00",
+      "Amount": "5\u039e ($5,368)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x167e00",
+      "To": "",
+      "Amount": "5\u039e ($6,336)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "coinduph\u2026",
+      "To": "",
+      "Amount": "0.32\u039e ($52)",
+      "Date": "Apr 12, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "coinduph\u2026",
+      "To": "",
+      "Amount": "0.32\u039e ($56)",
+      "Date": "Apr 10, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.27\u039e ($72)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "0.27\u039e ($72)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x2fdacd",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

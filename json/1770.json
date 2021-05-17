@@ -1,0 +1,96 @@
+{
+  "id": "1770",
+  "owner": "0x2b9324f66b7733202261777726d8f9720285cb8a",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Smile",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x13816f",
+      "To": "0x2b9324",
+      "Amount": "24.88\u039e ($39,119)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.88\u039e ($48,301)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.88\u039e ($32,541)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x13816f",
+      "Amount": "",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "CPyrc",
+      "To": "0x13816f",
+      "Amount": "4.70\u039e ($1,827)",
+      "Date": "Oct 12, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x5b47e9",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "KittyGr_\u2026",
+      "To": "0x5b47e9",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "KittyGr_\u2026",
+      "Amount": "0.08\u039e ($45)",
+      "Date": "Jun 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.08\u039e ($61)",
+      "Date": "May 05, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($612)",
+      "Date": "May 05, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.44\u039e ($84)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

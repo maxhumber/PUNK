@@ -1,0 +1,82 @@
+{
+  "id": "7316",
+  "owner": "0x1a1824e3c1092cad9bf205124122fd660a0f1471",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Earring",
+    "Big Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.50\u039e ($58,982)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d29f",
+      "To": "0x1a1824",
+      "Amount": "30\u039e ($53,155)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x1a1824",
+      "To": "",
+      "Amount": "30\u039e ($53,155)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32.50\u039e ($58,018)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33.25\u039e ($64,182)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34\u039e ($59,106)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x1672db",
+      "To": "0x00d29f",
+      "Amount": "27.50\u039e ($47,807)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.50\u039e ($47,807)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x1672db",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

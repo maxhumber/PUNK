@@ -1,0 +1,48 @@
+{
+  "id": "9440",
+  "owner": "0xc10b17d37d8eb29e8b8b9f8e912bf88ea10e78e9",
+  "attributes": [
+    "Female",
+    "Clown Eyes Green",
+    "Hot Lipstick",
+    "Stringy Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xc272ed",
+      "To": "0xc10b17",
+      "Amount": "20\u039e ($40,032)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($40,145)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Cryptokk\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($14)",
+      "Date": "Jan 09, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cryptokk\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($12)",
+      "Date": "Dec 28, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

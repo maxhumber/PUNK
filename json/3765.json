@@ -1,0 +1,54 @@
+{
+  "id": "3765",
+  "owner": "0x062c5432107e3b9ad924512209a7468b5c200fcd",
+  "attributes": [
+    "Female",
+    "Red Mohawk",
+    "Vape",
+    "Purple Eye Shadow"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xa3cb30",
+      "To": "0x062c54",
+      "Amount": "",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "MadMax",
+      "To": "",
+      "Amount": "5.75\u039e ($2,161)",
+      "Date": "Oct 14, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "MadMax",
+      "To": "",
+      "Amount": "5.75\u039e ($2,160)",
+      "Date": "Oct 14, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

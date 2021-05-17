@@ -1,0 +1,103 @@
+{
+  "id": "5062",
+  "owner": "0x88a679ddf5ed7d071ad35c9c924c666dc3a07d73",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Crazy Hair",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "TokenAng\u2026",
+      "To": "0x88a679",
+      "Amount": "21\u039e ($39,777)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x88a679",
+      "To": "",
+      "Amount": "21\u039e ($39,777)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($42,179)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x07c5ea",
+      "To": "",
+      "Amount": "15\u039e ($28,759)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x07c5ea",
+      "To": "",
+      "Amount": "15\u039e ($28,759)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "kriptoga\u2026",
+      "To": "TokenAng\u2026",
+      "Amount": "17\u039e ($32,593)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17\u039e ($32,593)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($463)",
+      "Date": "Nov 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($456)",
+      "Date": "Nov 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.11K\u039e ($225,944)",
+      "Date": "Oct 26, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x2bcbbd",
+      "To": "kriptoga\u2026",
+      "Amount": "0.50\u039e ($102)",
+      "Date": "Oct 26, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($152)",
+      "Date": "Nov 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x2bcbbd",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "6668",
+  "owner": "0x6e5b3f763b2dd5582493c7123cfdc323259a7a00",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Horned Rim Glasses",
+    "Dark Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6e5b3f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

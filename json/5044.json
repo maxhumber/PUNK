@@ -1,0 +1,26 @@
+{
+  "id": "5044",
+  "owner": "0x8b7a5b22175614ee194e9e02e9fe0a1b5414c75e",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Eye Patch",
+    "Frumpy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42\u039e ($76,278)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "zaphod",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

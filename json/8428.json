@@ -1,0 +1,103 @@
+{
+  "id": "8428",
+  "owner": "0xcdd84c2f941a73e1fbad6762f66344cf221746e4",
+  "attributes": [
+    "Female",
+    "Blonde Short",
+    "Earring",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "52.50\u039e ($93,586)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xeb725f",
+      "To": "0xcdd84c",
+      "Amount": "20.90\u039e ($41,615)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20.90\u039e ($40,631)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "niwin",
+      "To": "0xeb725f",
+      "Amount": "17.90\u039e ($33,948)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.90\u039e ($32,455)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($34,641)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17\u039e ($29,980)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18\u039e ($33,128)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "niwin",
+      "Amount": "12.00\u039e ($21,968)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "MadMax",
+      "To": "",
+      "Amount": "9\u039e ($15,471)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "MadMax",
+      "To": "",
+      "Amount": "9\u039e ($15,543)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12.00\u039e ($19,590)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

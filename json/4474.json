@@ -1,0 +1,67 @@
+{
+  "id": "4474",
+  "owner": "0xf5c1d55e94726962b4b517c949120c42d646e455",
+  "attributes": [
+    "Male",
+    "Cap",
+    "Chinstrap"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.74\u039e ($87,543)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x02fdf5",
+      "To": "0xf5c1d5",
+      "Amount": "22\u039e ($76,682)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf5c1d5",
+      "To": "",
+      "Amount": "22\u039e ($77,096)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.96\u039e ($82,854)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcd9dc7",
+      "To": "0x02fdf5",
+      "Amount": "",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0xcd9dc7",
+      "Amount": "9.40\u039e ($16,950)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.40\u039e ($16,792)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

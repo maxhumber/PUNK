@@ -1,0 +1,62 @@
+{
+  "id": "8157",
+  "owner": "0xf5f26a6041f27377d9488406f60a26daed4d4c20",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Classic Shades",
+    "Earring",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "DANNY",
+      "To": "0xf5f26a",
+      "Amount": "0.99\u039e ($353)",
+      "Date": "Sep 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.99\u039e ($329)",
+      "Date": "Jul 31, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 31, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($633)",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "DANNY",
+      "Amount": "0.89\u039e ($195)",
+      "Date": "May 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.89\u039e ($214)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

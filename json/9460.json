@@ -1,0 +1,124 @@
+{
+  "id": "9460",
+  "owner": "0xc40df87e16339f21fbb2e59fb38bf2a957a16ffd",
+  "attributes": [
+    "Female",
+    "Pigtails",
+    "Hot Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x287b15",
+      "To": "0xc40df8",
+      "Amount": "",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xff70ec",
+      "To": "",
+      "Amount": "40\u039e ($101,324)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff70ec",
+      "To": "",
+      "Amount": "40\u039e ($93,978)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x052564",
+      "To": "",
+      "Amount": "25\u039e ($51,597)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x052564",
+      "To": "",
+      "Amount": "25\u039e ($45,958)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x3fa864",
+      "To": "",
+      "Amount": "21\u039e ($35,902)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3fa864",
+      "To": "",
+      "Amount": "21\u039e ($35,931)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "20\u039e ($34,113)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "19.10\u039e ($32,578)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "19\u039e ($32,408)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "0x287b15",
+      "Amount": "0.48\u039e ($552)",
+      "Date": "Jan 20, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x287b15",
+      "To": "",
+      "Amount": "0.48\u039e ($552)",
+      "Date": "Jan 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($1,150)",
+      "Date": "Jan 20, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 16, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($6,565)",
+      "Date": "Dec 12, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

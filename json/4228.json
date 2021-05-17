@@ -1,0 +1,117 @@
+{
+  "id": "4228",
+  "owner": "0xcc47fcbfdd6e558fb39cf5ef4d92e59890476b86",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Classic Shades",
+    "Big Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x1fd146",
+      "To": "",
+      "Amount": "37\u039e ($62,621)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x1fd146",
+      "To": "",
+      "Amount": "37\u039e ($65,870)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Deeze",
+      "To": "0xcc47fc",
+      "Amount": "35\u039e ($54,289)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0xcc47fc",
+      "Amount": "35\u039e ($54,289)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x023b91",
+      "To": "Deeze",
+      "Amount": "32.50\u039e ($47,982)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32.50\u039e ($47,982)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "10\u039e ($19,476)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "250\u039e ($484,087)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x7a8266",
+      "To": "0x023b91",
+      "Amount": "20\u039e ($36,401)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "10\u039e ($17,502)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "8\u039e ($14,002)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($35,037)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "csteam",
+      "To": "",
+      "Amount": "1\u039e ($348)",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x7a8266",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

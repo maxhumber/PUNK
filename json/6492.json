@@ -1,0 +1,95 @@
+{
+  "id": "6492",
+  "owner": "0xb78e3e8bd36b3228322d0a9d3271b5fbb7997fa3",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Clown Eyes Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x6e17e4",
+      "To": "cpu1",
+      "Amount": "",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "cpu1",
+      "To": "0x6e17e4",
+      "Amount": "",
+      "Date": "May 13, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Goop",
+      "To": "cpu1",
+      "Amount": "0.68\u039e ($129)",
+      "Date": "May 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.68\u039e ($120)",
+      "Date": "Jan 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.64\u039e ($108)",
+      "Date": "Jan 17, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.35\u039e ($51)",
+      "Date": "Jan 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.58\u039e ($85)",
+      "Date": "Jan 11, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.35\u039e ($51)",
+      "Date": "Jan 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.57\u039e ($80)",
+      "Date": "Jan 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "Goop",
+      "Amount": "0.55\u039e ($78)",
+      "Date": "Jan 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.55\u039e ($133)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

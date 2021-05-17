@@ -1,0 +1,54 @@
+{
+  "id": "5424",
+  "owner": "0x9ca9b5e9f5917116f9b19aadb51a0ea75acf1883",
+  "attributes": [
+    "Male",
+    "Purple Hair",
+    "Goat",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf6721b",
+      "To": "",
+      "Amount": "0.05\u039e ($86)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf6721b",
+      "To": "",
+      "Amount": "0.05\u039e ($87)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x9ca9b5",
+      "Amount": "0.14\u039e ($111)",
+      "Date": "Dec 21, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.14\u039e ($114)",
+      "Date": "Dec 19, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

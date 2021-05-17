@@ -1,0 +1,131 @@
+{
+  "id": "2094",
+  "owner": "0x3731a53e630a502be37532c0b87b0dc4c1a0463b",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Mustache",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "renaissa\u2026",
+      "To": "0x3731a5",
+      "Amount": "13\u039e ($23,921)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13\u039e ($23,661)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11.50\u039e ($21,164)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "panch",
+      "To": "renaissa\u2026",
+      "Amount": "8\u039e ($14,723)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($1,678)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbc081c",
+      "To": "panch",
+      "Amount": "0.15\u039e ($63)",
+      "Date": "Dec 06, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($39)",
+      "Date": "Sep 21, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 21, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.29\u039e ($65)",
+      "Date": "Aug 03, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Aug 03, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd8e806",
+      "To": "",
+      "Amount": "0.21\u039e ($45)",
+      "Date": "Jul 21, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd8e806",
+      "To": "",
+      "Amount": "0.21\u039e ($48)",
+      "Date": "Jul 20, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($68)",
+      "Date": "Jul 20, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 20, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.60\u039e ($123)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xbc081c",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

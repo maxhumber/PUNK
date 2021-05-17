@@ -1,0 +1,243 @@
+{
+  "id": "4240",
+  "owner": "0x1da5331994e781ab0e2af9f85bfce2037a514170",
+  "attributes": [
+    "Male",
+    "Buck Teeth",
+    "Earring",
+    "Goat"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "75\u039e ($144,959)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "DANNY",
+      "To": "0x1da533",
+      "Amount": "",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "VonMises",
+      "To": "DANNY",
+      "Amount": "12\u039e ($4,370)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12\u039e ($4,370)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($3,498)",
+      "Date": "Jul 17, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x4c1bd9\u2026",
+      "To": "VonMises",
+      "Amount": "5\u039e ($1,197)",
+      "Date": "Jul 15, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "5\u039e ($1,197)",
+      "Date": "Jul 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($1,440)",
+      "Date": "Jul 15, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "5.55\u039e ($1,324)",
+      "Date": "Jul 13, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "5.55\u039e ($1,324)",
+      "Date": "Jul 13, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "5.49\u039e ($1,310)",
+      "Date": "Jul 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.50\u039e ($1,551)",
+      "Date": "Jul 13, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "5.49\u039e ($1,337)",
+      "Date": "Jul 13, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "5.25\u039e ($1,279)",
+      "Date": "Jul 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.99\u039e ($1,670)",
+      "Date": "Jul 12, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "5.25\u039e ($1,256)",
+      "Date": "Jul 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.99\u039e ($1,910)",
+      "Date": "Jul 10, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "5\u039e ($1,198)",
+      "Date": "Jul 09, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "5\u039e ($1,233)",
+      "Date": "Jul 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.99\u039e ($2,217)",
+      "Date": "Jul 09, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 03, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "5\u039e ($1,168)",
+      "Date": "Jun 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.99\u039e ($2,333)",
+      "Date": "Jun 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "5\u039e ($1,168)",
+      "Date": "Jun 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13\u039e ($3,048)",
+      "Date": "Jun 24, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "2.50\u039e ($579)",
+      "Date": "Jun 18, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jun 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($4,500)",
+      "Date": "Jun 02, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "2.50\u039e ($589)",
+      "Date": "Jun 02, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "0x4c1bd9\u2026",
+      "Amount": "1\u039e ($250)",
+      "Date": "May 24, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($249)",
+      "Date": "May 15, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

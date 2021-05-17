@@ -1,0 +1,53 @@
+{
+  "id": "4113",
+  "owner": "0xeb9191c71a1e7970b9b0c74460ed2cc6f05450e0",
+  "attributes": [
+    "Male",
+    "Clown Hair Green",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x4c1bd9\u2026",
+      "To": "0xeb9191",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "2\u039e ($465)",
+      "Date": "Jul 18, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "2\u039e ($468)",
+      "Date": "Jul 16, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "0x4c1bd9\u2026",
+      "Amount": "2\u039e ($425)",
+      "Date": "May 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($373)",
+      "Date": "Apr 25, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

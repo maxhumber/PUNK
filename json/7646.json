@@ -1,0 +1,194 @@
+{
+  "id": "7646",
+  "owner": "0x161f7c6f76ce2b07c1433e52e2695d3a5c59202e",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Front Beard",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($82,051)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($89,230)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($93,063)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($97,219)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "renaissa\u2026",
+      "To": "0x161f7c",
+      "Amount": "12\u039e ($21,012)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12\u039e ($4,344)",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "CPyrc",
+      "To": "renaissa\u2026",
+      "Amount": "5.25\u039e ($1,881)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.25\u039e ($1,881)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "CPyrc",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x067034",
+      "To": "CPyrc",
+      "Amount": "4.40\u039e ($1,577)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "0x067034",
+      "Amount": "5\u039e ($1,828)",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xaadfe3",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Carlini8",
+      "To": "0xaadfe3",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x27c79a",
+      "To": "Carlini8",
+      "Amount": "2.95\u039e ($1,109)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.95\u039e ($651)",
+      "Date": "May 29, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($175)",
+      "Date": "May 16, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Kataster\u2026",
+      "To": "",
+      "Amount": "0.58\u039e ($120)",
+      "Date": "Apr 29, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Kataster\u2026",
+      "To": "",
+      "Amount": "0.58\u039e ($114)",
+      "Date": "Apr 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($146)",
+      "Date": "Apr 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0af8cc",
+      "To": "0x27c79a",
+      "Amount": "0.55\u039e ($107)",
+      "Date": "Apr 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.55\u039e ($108)",
+      "Date": "Apr 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x0af8cc",
+      "Amount": "0.05\u039e ($25)",
+      "Date": "Jun 12, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.05\u039e ($25)",
+      "Date": "Jun 12, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($1,037)",
+      "Date": "Jan 19, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

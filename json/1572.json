@@ -1,0 +1,33 @@
+{
+  "id": "1572",
+  "owner": "0x51ec89f1fcfed8c69a1b0865a7550ece0677cf5f",
+  "attributes": [
+    "Male",
+    "Muttonchops",
+    "Crazy Hair",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "1\u039e ($1,544)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "1\u039e ($1,015)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x51ec89",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

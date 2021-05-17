@@ -1,0 +1,47 @@
+{
+  "id": "8290",
+  "owner": "0xfaf9f63baf57b19ca4e9490aaab1ede8b66cc2b5",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Wild White Hair",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbff231",
+      "To": "",
+      "Amount": "33\u039e ($115,023)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbff231",
+      "To": "",
+      "Amount": "33\u039e ($115,023)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.20\u039e ($55)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.20\u039e ($52)",
+      "Date": "Jul 01, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xfaf9f6",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

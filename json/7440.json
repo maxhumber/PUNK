@@ -1,0 +1,110 @@
+{
+  "id": "7440",
+  "owner": "0x8dbbca57ea56290efa14d835bbfd34faf1d89753",
+  "attributes": [
+    "Male",
+    "Frown",
+    "Shadow Beard",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($106,595)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($63,204)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xaf5e63",
+      "To": "VonMises",
+      "Amount": "",
+      "Date": "Aug 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x2e519b",
+      "To": "0xaf5e63",
+      "Amount": "0.95\u039e ($379)",
+      "Date": "Aug 29, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "0.95\u039e ($364)",
+      "Date": "Aug 26, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "0.85\u039e ($335)",
+      "Date": "Aug 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "0.85\u039e ($337)",
+      "Date": "Aug 06, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "VonMises",
+      "To": "",
+      "Amount": "0.75\u039e ($295)",
+      "Date": "Aug 06, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "NFTinTin",
+      "To": "",
+      "Amount": "0.59\u039e ($235)",
+      "Date": "Aug 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.23\u039e ($491)",
+      "Date": "Aug 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x2e519b",
+      "Amount": "0.23\u039e ($44)",
+      "Date": "Aug 22, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x2e519b",
+      "To": "",
+      "Amount": "0.23\u039e ($43)",
+      "Date": "Aug 14, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($153)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

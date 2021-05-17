@@ -1,0 +1,34 @@
+{
+  "id": "9050",
+  "owner": "0x3be89b64e1437bb18da2d26bcbe9bd3daaadfc26",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Classic Shades",
+    "Stringy Hair",
+    "Rosy Cheeks"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($138,492)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0x3be89b",
+      "Amount": "",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

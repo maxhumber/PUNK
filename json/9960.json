@@ -1,0 +1,70 @@
+{
+  "id": "9960",
+  "owner": "0xc24f574d6853f6f6a31c19d468a8c1b3f31c0e54",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Half Shaved",
+    "Purple Lipstick",
+    "Rosy Cheeks",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "500\u039e ($953,250)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x1f8add",
+      "To": "",
+      "Amount": "1.50\u039e ($282)",
+      "Date": "May 11, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x1f8add",
+      "To": "",
+      "Amount": "1.50\u039e ($280)",
+      "Date": "May 10, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "antunes_\u2026",
+      "To": "",
+      "Amount": "1\u039e ($219)",
+      "Date": "Apr 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "antunes_\u2026",
+      "To": "",
+      "Amount": "1\u039e ($194)",
+      "Date": "Apr 25, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

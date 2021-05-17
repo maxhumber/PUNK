@@ -1,0 +1,40 @@
+{
+  "id": "2412",
+  "owner": "0x8adbff0b3a45059c0578a05e00c7bf38c4f349a9",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Cap Forward",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "0x8adbff",
+      "Amount": "0.13\u039e ($91)",
+      "Date": "Dec 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.13\u039e ($91)",
+      "Date": "Dec 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($328)",
+      "Date": "Dec 12, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

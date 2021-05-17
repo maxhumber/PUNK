@@ -1,0 +1,88 @@
+{
+  "id": "6410",
+  "owner": "0xc40df87e16339f21fbb2e59fb38bf2a957a16ffd",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Buck Teeth"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x89fa22",
+      "To": "0xc40df8",
+      "Amount": "48\u039e ($112,486)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc40df8",
+      "To": "",
+      "Amount": "45\u039e ($105,456)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "48\u039e ($112,486)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc40df8",
+      "To": "",
+      "Amount": "45\u039e ($105,456)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49.99\u039e ($115,397)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "55\u039e ($123,102)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x08ba5f",
+      "To": "0x89fa22",
+      "Amount": "",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0b88fd",
+      "To": "0x08ba5f",
+      "Amount": "39.50\u039e ($90,488)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.50\u039e ($90,488)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6f4a2d",
+      "To": "0x0b88fd",
+      "Amount": "",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "5617",
+  "owner": "0x713282ece7b1e34bcb88c8f1922561a4ee369772",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Knitted Cap",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x713282",
+      "Amount": "43.33\u039e ($62,022)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x713282",
+      "To": "",
+      "Amount": "40\u039e ($57,255)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x713282",
+      "To": "",
+      "Amount": "40\u039e ($57,255)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x23b50b",
+      "To": "",
+      "Amount": "37.50\u039e ($54,146)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x65ba4f",
+      "To": "",
+      "Amount": "35\u039e ($50,219)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "43.33\u039e ($62,939)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

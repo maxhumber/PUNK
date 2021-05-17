@@ -1,0 +1,145 @@
+{
+  "id": "3152",
+  "owner": "0x6f0e052d42fa22a865f4547ab953e3c8f22c98c4",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Frown",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31\u039e ($64,289)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "MrNFT",
+      "To": "0x6f0e05",
+      "Amount": "4.93\u039e ($1,788)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "GoWest23",
+      "To": "MrNFT",
+      "Amount": "4.75\u039e ($1,699)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.93\u039e ($1,764)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "MrNFT",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa18fd5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "0xa18fd5",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pixls",
+      "To": "GoWest23",
+      "Amount": "0.44\u039e ($76)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.44\u039e ($72)",
+      "Date": "Apr 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.39\u039e ($46)",
+      "Date": "Jan 24, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.36\u039e ($43)",
+      "Date": "Jan 20, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($38)",
+      "Date": "Jan 11, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x87e225",
+      "To": "",
+      "Amount": "0.26\u039e ($40)",
+      "Date": "Jan 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.28\u039e ($44)",
+      "Date": "Jan 04, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x87e225",
+      "To": "",
+      "Amount": "0.26\u039e ($41)",
+      "Date": "Jan 04, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($42)",
+      "Date": "Dec 30, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Pixls",
+      "Amount": "0.26\u039e ($36)",
+      "Date": "Dec 30, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.26\u039e ($72)",
+      "Date": "Sep 19, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

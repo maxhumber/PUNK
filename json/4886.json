@@ -1,0 +1,47 @@
+{
+  "id": "4886",
+  "owner": "0x577ebc5de943e35cdf9ecb5bbe1f7d7cb6c7c647",
+  "attributes": [
+    "Female",
+    "Choker",
+    "Hot Lipstick",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf1b658",
+      "To": "",
+      "Amount": "5.10\u039e ($6,535)",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf1b658",
+      "To": "",
+      "Amount": "5.10\u039e ($6,335)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "DANNY",
+      "To": "",
+      "Amount": "5\u039e ($6,033)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

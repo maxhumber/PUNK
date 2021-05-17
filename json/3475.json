@@ -1,0 +1,46 @@
+{
+  "id": "3475",
+  "owner": "0x4084df8bf74ba73f04eb39b89df698608df7f4b5",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Big Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x207355",
+      "To": "0x4084df",
+      "Amount": "",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "CryptoNo\u2026",
+      "To": "",
+      "Amount": "5\u039e ($17,771)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "CryptoNo\u2026",
+      "To": "",
+      "Amount": "5\u039e ($15,847)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x207355",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

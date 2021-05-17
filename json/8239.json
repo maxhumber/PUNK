@@ -1,0 +1,55 @@
+{
+  "id": "8239",
+  "owner": "0x13d72a0dc32901e19460527a20890f24be8cda25",
+  "attributes": [
+    "Female",
+    "Pipe",
+    "Eye Mask",
+    "Black Lipstick",
+    "Bandana"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($4,195)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbc081c",
+      "To": "panch",
+      "Amount": "0.15\u039e ($68)",
+      "Date": "Dec 08, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($39)",
+      "Date": "Sep 21, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "metakid",
+      "To": "0xbc081c",
+      "Amount": "",
+      "Date": "Sep 20, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "metakid",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

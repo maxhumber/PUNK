@@ -1,0 +1,77 @@
+{
+  "id": "2096",
+  "owner": "0xd5b171571df3bc207baf2edb175b6ff3820f53a4",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Earring",
+    "Pipe",
+    "Do-rag",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Hex",
+      "To": "",
+      "Amount": "6\u039e ($7,358)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Hex",
+      "To": "",
+      "Amount": "6\u039e ($7,138)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x8851dc",
+      "To": "0xd5b171",
+      "Amount": "",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($825)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($927)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "0.35\u039e ($428)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "0.35\u039e ($258)",
+      "Date": "Dec 28, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 17, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8851dc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2665",
+  "owner": "0x008c84421da5527f462886cec43d2717b686a7e4",
+  "attributes": [
+    "Male",
+    "Purple Hair",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xc272ed",
+      "To": "notmycir\u2026",
+      "Amount": "30\u039e ($61,916)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($61,916)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

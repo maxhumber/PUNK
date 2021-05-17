@@ -1,0 +1,83 @@
+{
+  "id": "8971",
+  "owner": "0x968e01e5a6e1ae8a103ad578b73e9328e90b8ba8",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Mohawk Thin",
+    "Classic Shades",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x701f37",
+      "To": "0x968e01",
+      "Amount": "",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xddb92a",
+      "To": "",
+      "Amount": "13.88\u039e ($26,829)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa3d1ae",
+      "To": "0x701f37",
+      "Amount": "22.40\u039e ($42,946)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xddb92a",
+      "To": "",
+      "Amount": "13.88\u039e ($26,611)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.40\u039e ($42,883)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xde0193",
+      "To": "0xa3d1ae",
+      "Amount": "0.40\u039e ($89)",
+      "Date": "Oct 04, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($263)",
+      "Date": "Dec 12, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.28\u039e ($184)",
+      "Date": "Dec 12, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xde0193",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

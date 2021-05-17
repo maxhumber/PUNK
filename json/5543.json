@@ -1,0 +1,131 @@
+{
+  "id": "5543",
+  "owner": "0xf296178d553c8ec21a2fbd2c5dda8ca9ac905a00",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Shadow Beard",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x457c6b",
+      "To": "",
+      "Amount": "8.50\u039e ($15,687)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x457c6b",
+      "To": "",
+      "Amount": "8.50\u039e ($15,687)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xdae48d",
+      "To": "0xf29617",
+      "Amount": "8.12\u039e ($14,756)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.12\u039e ($14,434)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11\u039e ($16,728)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "4.25\u039e ($6,120)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "4.25\u039e ($5,789)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($28,921)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "2\u039e ($2,707)",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "2\u039e ($2,741)",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "2\u039e ($2,735)",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "2\u039e ($2,697)",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7f3560",
+      "To": "",
+      "Amount": "1.50\u039e ($2,022)",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "MantaXR",
+      "To": "",
+      "Amount": "1.20\u039e ($1,616)",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Davicio",
+      "To": "",
+      "Amount": "1\u039e ($1,344)",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xdae48d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

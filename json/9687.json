@@ -1,0 +1,47 @@
+{
+  "id": "9687",
+  "owner": "0x6f1174eba93773331f14c3f60ce7e3a69e2db627",
+  "attributes": [
+    "Male",
+    "Cap",
+    "Horned Rim Glasses",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "alphab.e\u2026",
+      "To": "",
+      "Amount": "22\u039e ($33,569)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x78f0a6",
+      "To": "0x6f1174",
+      "Amount": "23.95\u039e ($36,544)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "alphab.e\u2026",
+      "To": "",
+      "Amount": "22\u039e ($33,569)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.95\u039e ($36,544)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x78f0a6",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

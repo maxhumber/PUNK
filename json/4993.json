@@ -1,0 +1,48 @@
+{
+  "id": "4993",
+  "owner": "0x4d8e16a70f38414f33e8578913eef6a0e4a633b5",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Cigarette",
+    "Normal Beard Black",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x5b098b",
+      "To": "0x4d8e16",
+      "Amount": "",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x5b098b",
+      "Amount": "0.14\u039e ($15)",
+      "Date": "Dec 04, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "0.14\u039e ($15)",
+      "Date": "Nov 26, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.43\u039e ($82)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "8767",
+  "owner": "0x9d3f4eeb533b8e3c8f50dbbd2e351d1bf2987908",
+  "attributes": [
+    "Female",
+    "Wild White Hair",
+    "Horned Rim Glasses",
+    "Hot Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "natealex",
+      "To": "",
+      "Amount": "7\u039e ($7,485)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "district\u2026",
+      "Amount": "8.50\u039e ($8,776)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.50\u039e ($8,776)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "natealex",
+      "To": "",
+      "Amount": "7\u039e ($7,096)",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

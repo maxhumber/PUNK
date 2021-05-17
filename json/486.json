@@ -1,0 +1,144 @@
+{
+  "id": "486",
+  "owner": "0x338fd148fa51c6d1e2060bd9ce3c739c920420d0",
+  "attributes": [
+    "Female",
+    "Straight Hair Blonde",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "75\u039e ($154,790)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb9fddb",
+      "To": "0x338fd1",
+      "Amount": "40\u039e ($82,555)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($80,730)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "90\u039e ($134,591)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x48af2b",
+      "To": "0xb9fddb",
+      "Amount": "39\u039e ($65,232)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39\u039e ($76,943)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32\u039e ($57,164)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x09d408",
+      "To": "0x48af2b",
+      "Amount": "15\u039e ($27,279)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($24,389)",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($31,849)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16\u039e ($26,144)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Korniej",
+      "To": "",
+      "Amount": "12\u039e ($15,670)",
+      "Date": "Jan 29, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc352b5",
+      "To": "0x09d408",
+      "Amount": "13\u039e ($16,986)",
+      "Date": "Jan 29, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13\u039e ($16,986)",
+      "Date": "Jan 29, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Korniej",
+      "To": "",
+      "Amount": "12\u039e ($16,147)",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "6\u039e ($2,137)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "6\u039e ($2,141)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

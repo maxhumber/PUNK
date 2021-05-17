@@ -1,0 +1,48 @@
+{
+  "id": "3821",
+  "owner": "0x03911fecabd6b4809c88e2e6eb856ec932b2ee3e",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Eye Patch",
+    "Dark Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x03911f",
+      "Amount": "0.14\u039e ($58)",
+      "Date": "Apr 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.22\u039e ($92)",
+      "Date": "Apr 03, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x03911f",
+      "To": "",
+      "Amount": "0.14\u039e ($54)",
+      "Date": "Apr 02, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.64\u039e ($123)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

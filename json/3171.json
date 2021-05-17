@@ -1,0 +1,53 @@
+{
+  "id": "3171",
+  "owner": "0x9e1e409f901a7f6eb8108deef50b6d3d82208d4f",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "0x9e1e40",
+      "Amount": "0.09\u039e ($72)",
+      "Date": "Feb 22, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.09\u039e ($76)",
+      "Date": "Feb 21, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($680)",
+      "Date": "Jan 14, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.11\u039e ($87)",
+      "Date": "Dec 21, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($197)",
+      "Date": "Dec 12, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

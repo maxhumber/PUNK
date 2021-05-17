@@ -1,0 +1,194 @@
+{
+  "id": "9741",
+  "owner": "0x052564eb0fd8b340803df55def89c25c432f43f4",
+  "attributes": [
+    "Female",
+    "Hot Lipstick",
+    "Wild Hair",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "150\u039e ($324,650)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x06d925",
+      "To": "",
+      "Amount": "37.50\u039e ($80,544)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0x052564",
+      "Amount": "44.80\u039e ($94,356)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "44.80\u039e ($95,576)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x06d925",
+      "To": "",
+      "Amount": "37.50\u039e ($80,601)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x06d925",
+      "To": "",
+      "Amount": "35\u039e ($75,227)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x06d925",
+      "To": "",
+      "Amount": "35\u039e ($75,001)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3fa864",
+      "To": "",
+      "Amount": "29\u039e ($61,937)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5cda7e",
+      "To": "",
+      "Amount": "19\u039e ($40,579)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "MBK",
+      "To": "",
+      "Amount": "10\u039e ($18,172)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "MBK",
+      "To": "",
+      "Amount": "10\u039e ($18,101)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x967ee5",
+      "To": "",
+      "Amount": "12\u039e ($20,902)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x967ee5",
+      "To": "",
+      "Amount": "12\u039e ($21,865)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "7\u039e ($11,958)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "7\u039e ($12,000)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x1f92fc",
+      "To": "",
+      "Amount": "4\u039e ($6,564)",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x1f92fc",
+      "To": "",
+      "Amount": "4\u039e ($5,233)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "2.50\u039e ($516)",
+      "Date": "May 28, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "2.50\u039e ($514)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.25\u039e ($207)",
+      "Date": "Jan 15, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.25\u039e ($204)",
+      "Date": "Jan 14, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.40\u039e ($54)",
+      "Date": "Mar 26, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.40\u039e ($43)",
+      "Date": "Feb 03, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

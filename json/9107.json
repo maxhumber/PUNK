@@ -1,0 +1,54 @@
+{
+  "id": "9107",
+  "owner": "0x41dd2c43724609fadea8e05e46f8d7b1856ccc34",
+  "attributes": [
+    "Female",
+    "Clown Nose",
+    "Black Lipstick",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "7478",
+      "To": "0x41dd2c",
+      "Amount": "",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "7478",
+      "Amount": "1\u039e ($211)",
+      "Date": "May 19, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.60\u039e ($129)",
+      "Date": "May 03, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.60\u039e ($118)",
+      "Date": "Apr 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($188)",
+      "Date": "Apr 25, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

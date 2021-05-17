@@ -1,0 +1,40 @@
+{
+  "id": "5048",
+  "owner": "0x6611fe71c233e4e7510b2795c242c9a57790b376",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Handlebars",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb699f0",
+      "To": "",
+      "Amount": "0.03\u039e ($49)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb699f0",
+      "To": "",
+      "Amount": "0.03\u039e ($47)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Ravachol",
+      "To": "",
+      "Amount": "0.03\u039e ($6)",
+      "Date": "Apr 28, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

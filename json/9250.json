@@ -1,0 +1,111 @@
+{
+  "id": "9250",
+  "owner": "0x997bd6938948e10b5648c871298fd019ef4e984e",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Handlebars",
+    "Classic Shades",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x5e7ab9",
+      "To": "0x997bd6",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x624394",
+      "To": "0x5e7ab9",
+      "Amount": "5.99\u039e ($2,143)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.99\u039e ($2,119)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x624394",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "GoWest23",
+      "To": "0x624394",
+      "Amount": "5.77\u039e ($2,041)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa18fd5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "0xa18fd5",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pixls",
+      "To": "GoWest23",
+      "Amount": "0.48\u039e ($83)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.48\u039e ($64)",
+      "Date": "Feb 24, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.36\u039e ($33)",
+      "Date": "Dec 08, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x470e9b",
+      "To": "Pixls",
+      "Amount": "0.23\u039e ($21)",
+      "Date": "Dec 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.23\u039e ($59)",
+      "Date": "Sep 21, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($101)",
+      "Date": "Jul 27, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x470e9b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

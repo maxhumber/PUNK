@@ -1,0 +1,130 @@
+{
+  "id": "5308",
+  "owner": "0x10a0b6e6b28e6e35121f3699511de3612f711d46",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Vape"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x8004d1",
+      "To": "0x10a0b6",
+      "Amount": "",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4ad368",
+      "To": "",
+      "Amount": "10.50\u039e ($14,157)",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "ross_VRO\u2026",
+      "To": "0x8004d1",
+      "Amount": "13\u039e ($17,135)",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4ad368",
+      "To": "",
+      "Amount": "10.50\u039e ($13,354)",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4ad368",
+      "To": "",
+      "Amount": "9\u039e ($11,446)",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4ad368",
+      "To": "",
+      "Amount": "9\u039e ($11,391)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13\u039e ($14,335)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.99\u039e ($3,698)",
+      "Date": "Sep 12, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.99\u039e ($1,769)",
+      "Date": "Sep 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.98\u039e ($1,545)",
+      "Date": "Aug 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12\u039e ($2,453)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "trislit",
+      "To": "ross_VRO\u2026",
+      "Amount": "2.50\u039e ($508)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($434)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "trislit",
+      "Amount": "0.70\u039e ($115)",
+      "Date": "Apr 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.70\u039e ($115)",
+      "Date": "Apr 13, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

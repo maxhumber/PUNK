@@ -1,0 +1,19 @@
+{
+  "id": "5940",
+  "owner": "0xa6e2e910515e6cf485462eeb6e454df33c60cb0e",
+  "attributes": [
+    "Female",
+    "Bandana",
+    "Hot Lipstick",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xa6e2e9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

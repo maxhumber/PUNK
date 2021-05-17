@@ -1,0 +1,74 @@
+{
+  "id": "6080",
+  "owner": "0x00084121aec4309cb20db622a28c717720e888e0",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42\u039e ($118,991)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x469ece",
+      "To": "",
+      "Amount": "34\u039e ($65,262)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "52\u039e ($88,637)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0b88fd",
+      "To": "tchen.et\u2026",
+      "Amount": "37.31\u039e ($66,339)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x469ece",
+      "To": "",
+      "Amount": "34\u039e ($60,406)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "37.31\u039e ($66,565)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.50\u039e ($72,165)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6611fe",
+      "To": "0x0b88fd",
+      "Amount": "",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

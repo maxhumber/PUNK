@@ -1,0 +1,68 @@
+{
+  "id": "9312",
+  "owner": "0xee45124d3c2a3d9f24fddfc10cd9979b52567cfb",
+  "attributes": [
+    "Female",
+    "Messy Hair",
+    "Clown Eyes Green",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "0xee4512",
+      "Amount": "13.99\u039e ($25,820)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xee4512",
+      "To": "",
+      "Amount": "13\u039e ($23,993)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xee4512",
+      "To": "",
+      "Amount": "13\u039e ($23,856)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.99\u039e ($25,302)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12.99\u039e ($23,907)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.20\u039e ($15,221)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

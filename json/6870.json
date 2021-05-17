@@ -1,0 +1,74 @@
+{
+  "id": "6870",
+  "owner": "0x577ebc5de943e35cdf9ecb5bbe1f7d7cb6c7c647",
+  "attributes": [
+    "Female",
+    "Gold Chain",
+    "Dark Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7a37a1",
+      "To": "",
+      "Amount": "28\u039e ($47,514)",
+      "Date": "Mar 29, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7a37a1",
+      "To": "",
+      "Amount": "28\u039e ($48,431)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4c9692",
+      "To": "",
+      "Amount": "16\u039e ($29,239)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4c9692",
+      "To": "",
+      "Amount": "16\u039e ($29,239)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf1b658",
+      "To": "",
+      "Amount": "6\u039e ($8,016)",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf1b658",
+      "To": "",
+      "Amount": "6\u039e ($7,406)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "BitcoinG\u2026",
+      "To": "",
+      "Amount": "5\u039e ($6,033)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

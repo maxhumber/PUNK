@@ -1,0 +1,96 @@
+{
+  "id": "5330",
+  "owner": "0x0601d0235645a6ce6356ef11aa0b225c68605131",
+  "attributes": [
+    "Female",
+    "Horned Rim Glasses",
+    "Crazy Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x7e5280",
+      "To": "0x0601d0",
+      "Amount": "",
+      "Date": "Jun 05, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xd27e3f",
+      "To": "0x7e5280",
+      "Amount": "",
+      "Date": "Oct 04, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xff8414",
+      "To": "0xd27e3f",
+      "Amount": "",
+      "Date": "Jul 16, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0xff8414",
+      "Amount": "0.18\u039e ($54)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.18\u039e ($58)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.17\u039e ($55)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.17\u039e ($55)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.16\u039e ($49)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.16\u039e ($49)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.15\u039e ($47)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.15\u039e ($47)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

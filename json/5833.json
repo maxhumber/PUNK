@@ -1,0 +1,54 @@
+{
+  "id": "5833",
+  "owner": "0xc72f3a0fedd9df54af271912f283cc0024c14197",
+  "attributes": [
+    "Female",
+    "Green Eye Shadow",
+    "Hot Lipstick",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x0b30fd",
+      "To": "0xc72f3a",
+      "Amount": "1.10\u039e ($152)",
+      "Date": "Mar 06, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.10\u039e ($292)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.20\u039e ($54)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.20\u039e ($54)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6611fe",
+      "To": "",
+      "Amount": "0.20\u039e ($54)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x0b30fd",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

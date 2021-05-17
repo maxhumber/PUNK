@@ -1,0 +1,33 @@
+{
+  "id": "8734",
+  "owner": "0xc272ed09c636edb6e858fa8702c182406185f1af",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Eye Mask",
+    "Normal Beard Black"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdcf227",
+      "To": "",
+      "Amount": "14.75\u039e ($28,561)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdcf227",
+      "To": "",
+      "Amount": "14.75\u039e ($28,217)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

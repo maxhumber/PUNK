@@ -1,0 +1,41 @@
+{
+  "id": "3249",
+  "owner": "0x8fc011ad86cc2c5b8f54a743cd2f5ebf7aa480ad",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Nerd Glasses",
+    "Goat",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xa3cb30",
+      "To": "0x8fc011",
+      "Amount": "7.50\u039e ($13,046)",
+      "Date": "Feb 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.50\u039e ($2,539)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

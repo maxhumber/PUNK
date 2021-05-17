@@ -1,0 +1,159 @@
+{
+  "id": "1750",
+  "owner": "0x671f71bb73453e63a51a90bd3dca23d07349ceb6",
+  "attributes": [
+    "Female",
+    "Eye Mask",
+    "Wild Blonde",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "100K\u039e ($168.15M)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8K\u039e ($14.52M)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.5K\u039e ($6.37M)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3K\u039e ($4.96M)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.5K\u039e ($2.32M)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "MadMax",
+      "To": "0x671f71",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "jmg",
+      "To": "MadMax",
+      "Amount": "38.99\u039e ($76,179)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "38.99\u039e ($75,756)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($50,455)",
+      "Date": "Feb 06, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.99\u039e ($5,241)",
+      "Date": "Oct 11, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa3cb30",
+      "To": "jmg",
+      "Amount": "9.50\u039e ($3,563)",
+      "Date": "Oct 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.50\u039e ($3,563)",
+      "Date": "Oct 10, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "8\u039e ($2,906)",
+      "Date": "Oct 09, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Carlini8",
+      "To": "",
+      "Amount": "4\u039e ($1,387)",
+      "Date": "Oct 06, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Carlini8",
+      "To": "",
+      "Amount": "4\u039e ($1,412)",
+      "Date": "Oct 06, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

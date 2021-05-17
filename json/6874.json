@@ -1,0 +1,103 @@
+{
+  "id": "6874",
+  "owner": "0xcffc336e6d019c1af58257a0b10bf2146a3f42a4",
+  "attributes": [
+    "Male",
+    "Eye Mask",
+    "Hoodie",
+    "Shadow Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "runhot99\u2026",
+      "To": "",
+      "Amount": "67.50\u039e ($269,993)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "runhot99\u2026",
+      "To": "",
+      "Amount": "67.50\u039e ($233,705)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "runhot99\u2026",
+      "To": "",
+      "Amount": "64.50\u039e ($223,318)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "runhot99\u2026",
+      "To": "",
+      "Amount": "64.50\u039e ($212,692)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "62\u039e ($207,126)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "62\u039e ($207,126)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xba7ccc",
+      "To": "0xcffc33",
+      "Amount": "",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x742117",
+      "To": "",
+      "Amount": "12\u039e ($21,331)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x742117",
+      "To": "",
+      "Amount": "12\u039e ($21,351)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf8b77f",
+      "To": "",
+      "Amount": "11\u039e ($19,557)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "capital_\u2026",
+      "To": "",
+      "Amount": "10\u039e ($14,646)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xad9f11",
+      "To": "",
+      "Amount": "4\u039e ($5,858)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xba7ccc",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

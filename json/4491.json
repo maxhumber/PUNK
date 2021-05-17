@@ -1,0 +1,89 @@
+{
+  "id": "4491",
+  "owner": "0xda202a4e570e21b163afb039746fce5ae0587f39",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Mohawk",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Cryptokk\u2026",
+      "To": "0xda202a",
+      "Amount": "22\u039e ($42,521)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($42,521)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "1.09\u039e ($1,515)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "1.09\u039e ($449)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($2,855)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14\u039e ($3,770)",
+      "Date": "Jun 02, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Cryptokk\u2026",
+      "Amount": "0.40\u039e ($54)",
+      "Date": "Mar 02, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cryptokk\u2026",
+      "To": "",
+      "Amount": "0.40\u039e ($54)",
+      "Date": "Mar 02, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

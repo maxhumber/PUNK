@@ -1,0 +1,46 @@
+{
+  "id": "4070",
+  "owner": "0x7760e0243ca9baa630412865df7b39afba42ff0f",
+  "attributes": [
+    "Male",
+    "Horned Rim Glasses",
+    "Cowboy Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Sylveste\u2026",
+      "To": "",
+      "Amount": "0.34\u039e ($59)",
+      "Date": "May 10, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Sylveste\u2026",
+      "To": "",
+      "Amount": "0.34\u039e ($58)",
+      "Date": "May 09, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x7760e0",
+      "Amount": "0.05\u039e ($28)",
+      "Date": "May 30, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

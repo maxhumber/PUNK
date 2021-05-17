@@ -1,0 +1,216 @@
+{
+  "id": "2142",
+  "owner": "0x052564eb0fd8b340803df55def89c25c432f43f4",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Vape",
+    "Hot Lipstick",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($117,577)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($118,459)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($116,979)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($69,315)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.42\u039e ($522)",
+      "Date": "Jan 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.42\u039e ($159)",
+      "Date": "Oct 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($3,628)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($2,768)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7\u039e ($2,515)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,069)",
+      "Date": "May 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($1,650)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xd8e806",
+      "To": "0x052564",
+      "Amount": "",
+      "Date": "Jun 17, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "An111",
+      "To": "",
+      "Amount": "0.15\u039e ($141)",
+      "Date": "Feb 16, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "An111",
+      "To": "",
+      "Amount": "0.15\u039e ($122)",
+      "Date": "Feb 11, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "An111",
+      "To": "",
+      "Amount": "0.10\u039e ($81)",
+      "Date": "Feb 11, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "An111",
+      "To": "",
+      "Amount": "0.10\u039e ($102)",
+      "Date": "Jan 17, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.22\u039e ($190)",
+      "Date": "Jan 02, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($61)",
+      "Date": "Oct 31, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($72)",
+      "Date": "Sep 23, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.65\u039e ($123)",
+      "Date": "Jul 17, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($191)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0xd8e806",
+      "Amount": "0.47\u039e ($90)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.47\u039e ($90)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

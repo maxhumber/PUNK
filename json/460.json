@@ -1,0 +1,77 @@
+{
+  "id": "460",
+  "owner": "0xe83c750b2708320bb134796c555b80df39a3d97b",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Choker",
+    "Classic Shades",
+    "Earring",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdc5556",
+      "To": "",
+      "Amount": "25\u039e ($33,562)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdc5556",
+      "To": "",
+      "Amount": "25\u039e ($34,015)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "parttty6",
+      "To": "",
+      "Amount": "7.50\u039e ($2,639)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "parttty6",
+      "To": "",
+      "Amount": "7.50\u039e ($2,639)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc352b5",
+      "To": "Snowfro",
+      "Amount": "2.50\u039e ($351)",
+      "Date": "Mar 27, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Snowfro",
+      "To": "",
+      "Amount": "2.50\u039e ($351)",
+      "Date": "Mar 27, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Snowfro",
+      "To": "",
+      "Amount": "2\u039e ($280)",
+      "Date": "Mar 27, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Snowfro",
+      "To": "",
+      "Amount": "2\u039e ($269)",
+      "Date": "Mar 26, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

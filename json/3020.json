@@ -1,0 +1,75 @@
+{
+  "id": "3020",
+  "owner": "0xc96de7ba760c8f46cf38b706ed96785c80fc08da",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Luxurious Beard",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x5e3a91",
+      "To": "0xc96de7",
+      "Amount": "24.20\u039e ($38,213)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.20\u039e ($37,039)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc272ed",
+      "To": "0x5e3a91",
+      "Amount": "23\u039e ($33,001)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5e3a91",
+      "To": "",
+      "Amount": "20\u039e ($28,696)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($33,001)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5e3a91",
+      "To": "",
+      "Amount": "20\u039e ($28,696)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($35,870)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($56,620)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3942",
+  "owner": "0x38f18a1d84e720b042900cb99187798acba4b045",
+  "attributes": [
+    "Male",
+    "Chinstrap",
+    "Purple Hair",
+    "Earring",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x38f18a",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "4592",
+  "owner": "0x5bc79d9084b79ab6f522423d4184c1ec3a625376",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Mohawk Thin",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x67edd0",
+      "To": "0x5bc79d",
+      "Amount": "20\u039e ($36,809)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($35,273)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($38,800)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3e17fa",
+      "To": "0x67edd0",
+      "Amount": "8.50\u039e ($15,289)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.50\u039e ($14,532)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($20,625)",
+      "Date": "Jan 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.50\u039e ($5,835)",
+      "Date": "Dec 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.50\u039e ($4,047)",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.90\u039e ($2,888)",
+      "Date": "Nov 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.70\u039e ($1,706)",
+      "Date": "Nov 13, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x624394",
+      "To": "0x3e17fa",
+      "Amount": "3.40\u039e ($1,196)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.40\u039e ($1,197)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x624394",
+      "Amount": "0.14\u039e ($18)",
+      "Date": "Nov 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.14\u039e ($31)",
+      "Date": "Nov 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

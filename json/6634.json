@@ -1,0 +1,216 @@
+{
+  "id": "6634",
+  "owner": "0xba19ba5233b49794c33f01654e99a60e579e6f29",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Hoodie",
+    "Earring",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xc480fb",
+      "To": "0xba19ba",
+      "Amount": "150\u039e ($355,423)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "130\u039e ($323,951)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "130\u039e ($323,951)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "150\u039e ($373,789)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb0dafc",
+      "To": "",
+      "Amount": "120\u039e ($294,827)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb0dafc",
+      "To": "",
+      "Amount": "120\u039e ($291,300)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb0dafc",
+      "To": "",
+      "Amount": "113.13\u039e ($274,623)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb0dafc",
+      "To": "",
+      "Amount": "113.13\u039e ($243,125)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x983ace",
+      "To": "",
+      "Amount": "112.69\u039e ($242,180)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb0dafc",
+      "To": "",
+      "Amount": "112\u039e ($240,697)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x983ace",
+      "To": "",
+      "Amount": "111.42\u039e ($239,451)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb0dafc",
+      "To": "",
+      "Amount": "111.11\u039e ($238,648)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x983ace",
+      "To": "",
+      "Amount": "111\u039e ($238,409)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb0dafc",
+      "To": "",
+      "Amount": "110\u039e ($236,261)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x983ace",
+      "To": "",
+      "Amount": "100\u039e ($214,044)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xceb63c",
+      "To": "",
+      "Amount": "75\u039e ($160,001)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "180\u039e ($384,001)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xceb63c",
+      "To": "",
+      "Amount": "75\u039e ($161,057)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "50\u039e ($88,558)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0503ed",
+      "To": "",
+      "Amount": "50\u039e ($88,937)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7f3aff",
+      "To": "",
+      "Amount": "45\u039e ($88,508)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7f3aff",
+      "To": "",
+      "Amount": "45\u039e ($85,124)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x880407",
+      "To": "",
+      "Amount": "25\u039e ($43,776)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x880407",
+      "To": "",
+      "Amount": "25\u039e ($44,782)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "4.20\u039e ($6,050)",
+      "Date": "Jan 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "4.20\u039e ($5,538)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "5.50\u039e ($6,887)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "5.50\u039e ($6,865)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc480fb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

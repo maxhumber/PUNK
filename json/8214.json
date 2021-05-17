@@ -1,0 +1,74 @@
+{
+  "id": "8214",
+  "owner": "0xb89c2f6bb674bd6aace2a1e274d40e6dc4775b15",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "350\u039e ($607,079)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "112\u039e ($141,173)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbc081c",
+      "To": "Tschuuul\u2026",
+      "Amount": "0.29\u039e ($46)",
+      "Date": "Apr 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.29\u039e ($46)",
+      "Date": "Apr 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($844)",
+      "Date": "Feb 16, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 15, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($39)",
+      "Date": "Sep 21, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "metakid",
+      "To": "0xbc081c",
+      "Amount": "",
+      "Date": "Sep 20, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "metakid",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

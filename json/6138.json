@@ -1,0 +1,27 @@
+{
+  "id": "6138",
+  "owner": "0x41497f8b5f70771a471ab9dbe0136d8b8f8518f7",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Purple Hair",
+    "Earring",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xc8e0e1",
+      "To": "0x41497f",
+      "Amount": "",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc8e0e1",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "3305",
+  "owner": "0x8ca89c56aefd379baa15e0ec91c7f5ae7f5b096f",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Messy Hair",
+    "Frown"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0x8ca89c",
+      "Amount": "0.15\u039e ($104)",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x54fc26",
+      "To": "",
+      "Amount": "0.10\u039e ($44)",
+      "Date": "Dec 10, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x54fc26",
+      "To": "",
+      "Amount": "0.10\u039e ($45)",
+      "Date": "Dec 08, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($45)",
+      "Date": "Oct 20, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8ba3e2",
+      "To": "Cyborg",
+      "Amount": "0.09\u039e ($28)",
+      "Date": "Oct 19, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.09\u039e ($28)",
+      "Date": "Oct 19, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($31)",
+      "Date": "Oct 18, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.11\u039e ($35)",
+      "Date": "Oct 17, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.12\u039e ($40)",
+      "Date": "Oct 16, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.13\u039e ($44)",
+      "Date": "Oct 15, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc0f5dd",
+      "To": "0x8ba3e2",
+      "Amount": "",
+      "Date": "Sep 21, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.33\u039e ($98)",
+      "Date": "Sep 18, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x8ba3e2",
+      "To": "",
+      "Amount": "0\u039e ($4)",
+      "Date": "Sep 01, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc0f5dd",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

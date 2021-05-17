@@ -1,0 +1,124 @@
+{
+  "id": "8869",
+  "owner": "0x32b0d0a7ffde73093c361907558bac25135fe9fc",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Muttonchops",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "0x32b0d0",
+      "Amount": "21.98\u039e ($56,405)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd9c61c",
+      "To": "",
+      "Amount": "16.50\u039e ($36,582)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd9c61c",
+      "To": "",
+      "Amount": "16.50\u039e ($39,390)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe53ef2",
+      "To": "",
+      "Amount": "15\u039e ($34,898)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe53ef2",
+      "To": "",
+      "Amount": "15\u039e ($36,653)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.98\u039e ($51,190)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($42,470)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33\u039e ($57,879)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "60\u039e ($114,068)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd3e2e7",
+      "To": "",
+      "Amount": "4.50\u039e ($6,023)",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($19,251)",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd3e2e7",
+      "To": "",
+      "Amount": "4.50\u039e ($6,014)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.95\u039e ($4,400)",
+      "Date": "Dec 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.15\u039e ($2,539)",
+      "Date": "Dec 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($3,406)",
+      "Date": "Jun 20, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

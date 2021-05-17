@@ -1,0 +1,47 @@
+{
+  "id": "8002",
+  "owner": "0x9e199d8a3a39c9892b1c3ae348a382662dcbaa12",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Wild Hair",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0719c4",
+      "To": "",
+      "Amount": "0.10\u039e ($237)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0719c4",
+      "To": "",
+      "Amount": "0.10\u039e ($199)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x9e199d",
+      "Amount": "0.05\u039e ($30)",
+      "Date": "Jun 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.05\u039e ($28)",
+      "Date": "May 29, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

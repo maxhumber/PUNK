@@ -1,0 +1,69 @@
+{
+  "id": "9168",
+  "owner": "0xf3cad40f7f7b43ae2a4226a8c53420569458710c",
+  "attributes": [
+    "Male",
+    "Muttonchops",
+    "Knitted Cap",
+    "Smile",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x701f37",
+      "To": "0xf3cad4",
+      "Amount": "",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x458655",
+      "To": "0x701f37",
+      "Amount": "",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5f5df4",
+      "To": "0x458655",
+      "Amount": "35.50\u039e ($52,682)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35.50\u039e ($53,598)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "72.50\u039e ($112,519)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xca8fe4",
+      "To": "0x5f5df4",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

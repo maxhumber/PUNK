@@ -1,0 +1,54 @@
+{
+  "id": "492",
+  "owner": "0xb88f61e6fbda83fbfffabe364112137480398018",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Classic Shades",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x170374",
+      "To": "",
+      "Amount": "28\u039e ($83,059)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x170374",
+      "To": "",
+      "Amount": "28\u039e ($82,304)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0xb88f61",
+      "Amount": "",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "CryptoSm\u2026",
+      "To": "",
+      "Amount": "0.40\u039e ($67)",
+      "Date": "Jan 19, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "CryptoSm\u2026",
+      "To": "",
+      "Amount": "0.40\u039e ($57)",
+      "Date": "Jan 10, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

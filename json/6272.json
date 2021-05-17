@@ -1,0 +1,95 @@
+{
+  "id": "6272",
+  "owner": "0x024bcbcaad82e67f721799e259ca60bc7d363419",
+  "attributes": [
+    "Female",
+    "Clown Eyes Green",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($74,252)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc155f9",
+      "To": "0x024bcb",
+      "Amount": "18\u039e ($36,103)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "opal.eth",
+      "To": "",
+      "Amount": "11.50\u039e ($22,619)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18\u039e ($35,403)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "opal.eth",
+      "To": "",
+      "Amount": "11.50\u039e ($22,619)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x338fd1",
+      "To": "",
+      "Amount": "7\u039e ($13,768)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00ce50",
+      "To": "0xc155f9",
+      "Amount": "12\u039e ($23,602)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12\u039e ($23,602)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x338fd1",
+      "To": "",
+      "Amount": "7\u039e ($13,768)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($29,184)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($47,962)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00ce50",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

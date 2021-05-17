@@ -1,0 +1,68 @@
+{
+  "id": "8842",
+  "owner": "0x6f4a2d3a4f47f9c647d86c929755593911ee91ec",
+  "attributes": [
+    "Female",
+    "Tiara",
+    "Classic Shades",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "170\u039e ($397,729)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x449c69",
+      "To": "",
+      "Amount": "68\u039e ($152,242)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x449c69",
+      "To": "",
+      "Amount": "68\u039e ($146,196)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "daddykal\u2026",
+      "To": "",
+      "Amount": "67\u039e ($144,046)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x449c69",
+      "To": "",
+      "Amount": "50\u039e ($107,497)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x1d3db4",
+      "To": "",
+      "Amount": "0.40\u039e ($716)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6611fe",
+      "To": "",
+      "Amount": "0.30\u039e ($83)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

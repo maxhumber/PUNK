@@ -1,0 +1,55 @@
+{
+  "id": "5526",
+  "owner": "0xb5696e4057b9ba76616cecb5a537eaca7b3cdf54",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Cap Forward",
+    "Gold Chain",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 31, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15K\u039e ($27.72M)",
+      "Date": "Mar 31, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0xb5696e",
+      "Amount": "29\u039e ($53,312)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb5696e",
+      "To": "",
+      "Amount": "29\u039e ($53,287)",
+      "Date": "Mar 30, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6417",
+  "owner": "0xf13a47ea0ef4de1cc06ba1f9b23e53dcb004d155",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Peak Spike",
+    "Eye Patch",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0xf13a47",
+      "Amount": "0.10\u039e ($83)",
+      "Date": "Feb 04, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($126)",
+      "Date": "Jan 12, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.12\u039e ($89)",
+      "Date": "Dec 29, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

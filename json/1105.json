@@ -1,0 +1,61 @@
+{
+  "id": "1105",
+  "owner": "0xaaaac066a6965cc9737b39314675ad9a33c746a3",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Gold Chain",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xa33808",
+      "To": "0xaaaac0",
+      "Amount": "",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xcc7c33",
+      "To": "0xa33808",
+      "Amount": "30\u039e ($62,373)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa33808",
+      "To": "",
+      "Amount": "30\u039e ($60,376)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "pelvis.e\u2026",
+      "To": "",
+      "Amount": "11\u039e ($19,138)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "pelvis.e\u2026",
+      "To": "",
+      "Amount": "11\u039e ($19,442)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcc7c33",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

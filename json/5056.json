@@ -1,0 +1,181 @@
+{
+  "id": "5056",
+  "owner": "0x062c5432107e3b9ad924512209a7468b5c200fcd",
+  "attributes": [
+    "Male",
+    "Beanie",
+    "Luxurious Beard",
+    "Earring",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "175\u039e ($362,285)",
+      "Date": "Apr 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "175\u039e ($364,285)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.2K\u039e ($7.69M)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.5K\u039e ($4.73M)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xca8fe4",
+      "To": "0x062c54",
+      "Amount": "",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6db61f",
+      "To": "",
+      "Amount": "0.25\u039e ($392)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf1b658",
+      "To": "",
+      "Amount": "40\u039e ($63,689)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf1b658",
+      "To": "",
+      "Amount": "40\u039e ($64,075)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "30\u039e ($33,560)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "30\u039e ($33,345)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x3dee68",
+      "To": "",
+      "Amount": "27\u039e ($26,734)",
+      "Date": "Jan 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3dee68",
+      "To": "",
+      "Amount": "27\u039e ($27,370)",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "26\u039e ($26,356)",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "25\u039e ($25,342)",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "21\u039e ($21,159)",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "SpacedPa\u2026",
+      "To": "",
+      "Amount": "0.80\u039e ($296)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "SpacedPa\u2026",
+      "To": "",
+      "Amount": "0.80\u039e ($268)",
+      "Date": "Sep 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.65\u039e ($160)",
+      "Date": "Jul 08, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "Hemba",
+      "To": "",
+      "Amount": "0.65\u039e ($160)",
+      "Date": "Jul 08, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc352b5",
+      "To": "0x00bd9f",
+      "Amount": "0.10\u039e ($33)",
+      "Date": "Jun 23, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($33)",
+      "Date": "Jun 23, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

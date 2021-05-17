@@ -1,0 +1,26 @@
+{
+  "id": "4876",
+  "owner": "0x045f165732d0f4e6ea2fb019bab6ccedb98927e4",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Front Beard",
+    "Police Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x94f67d",
+      "To": "0x045f16",
+      "Amount": "",
+      "Date": "May 15, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x94f67d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

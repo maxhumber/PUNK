@@ -1,0 +1,95 @@
+{
+  "id": "7241",
+  "owner": "0xc659284cd530f1df076b38a469c4207d731a2710",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xa73edd",
+      "To": "0xc65928",
+      "Amount": "4.21\u039e ($5,421)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc65928",
+      "To": "",
+      "Amount": "4.21\u039e ($5,315)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.15\u039e ($6,994)",
+      "Date": "Jan 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($9,977)",
+      "Date": "Jan 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8234be",
+      "To": "0xa73edd",
+      "Amount": "0.12\u039e ($45)",
+      "Date": "Apr 04, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.12\u039e ($50)",
+      "Date": "Apr 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($128)",
+      "Date": "Feb 28, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($1,170)",
+      "Date": "Jan 29, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($378)",
+      "Date": "Jan 01, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($140)",
+      "Date": "Dec 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($516)",
+      "Date": "Sep 21, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8234be",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

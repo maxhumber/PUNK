@@ -1,0 +1,46 @@
+{
+  "id": "5724",
+  "owner": "0xabf107de3e01c7c257e64e0a18d60a733aad395d",
+  "attributes": [
+    "Female",
+    "Eye Patch",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0xabf107",
+      "Amount": "26.30\u039e ($56,234)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.30\u039e ($56,234)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0601d0",
+      "To": "",
+      "Amount": "1\u039e ($164)",
+      "Date": "Jan 14, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0601d0",
+      "To": "",
+      "Amount": "1\u039e ($168)",
+      "Date": "Jan 14, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

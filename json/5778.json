@@ -1,0 +1,123 @@
+{
+  "id": "5778",
+  "owner": "0x0e9aed5c7721c642a032812c2c4816f7d6cb87d7",
+  "attributes": [
+    "Female",
+    "Blonde Short",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "37.99\u039e ($91,724)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.99\u039e ($88,105)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x609630",
+      "To": "0x0e9aed",
+      "Amount": "31\u039e ($74,311)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31\u039e ($74,311)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($96,476)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "41\u039e ($85,347)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "51\u039e ($107,766)",
+      "Date": "Apr 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xda6bb8",
+      "To": "0x609630",
+      "Amount": "",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "16\u039e ($32,850)",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xcc7c33",
+      "To": "0xda6bb8",
+      "Amount": "21\u039e ($43,115)",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "16\u039e ($32,850)",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($43,115)",
+      "Date": "Apr 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7f3560",
+      "To": "",
+      "Amount": "<",
+      "Date": "Apr 24, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7f3560",
+      "To": "",
+      "Amount": "<",
+      "Date": "Oct 05, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x282415",
+      "To": "",
+      "Amount": "<",
+      "Date": "Apr 09, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcc7c33",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

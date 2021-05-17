@@ -1,0 +1,74 @@
+{
+  "id": "4198",
+  "owner": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+  "attributes": [
+    "Female",
+    "Clown Eyes Green",
+    "Straight Hair Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "(Wrap)",
+      "From": "0x5d033c",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa37ed0",
+      "To": "0x5d033c",
+      "Amount": "",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xeb4bd5",
+      "To": "0xa37ed0",
+      "Amount": "21\u039e ($73,591)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($69,249)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.75\u039e ($78,103)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x9e9778",
+      "To": "0xeb4bd5",
+      "Amount": "",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0x9e9778",
+      "Amount": "8.49\u039e ($15,425)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.49\u039e ($15,522)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

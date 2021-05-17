@@ -1,0 +1,48 @@
+{
+  "id": "7141",
+  "owner": "0x0da0df4be467140e74c76257d002f52e954be4d3",
+  "attributes": [
+    "Female",
+    "Half Shaved",
+    "Earring",
+    "Cigarette",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12\u039e ($4,295)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.12\u039e ($86)",
+      "Date": "Mar 11, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.12\u039e ($87)",
+      "Date": "Mar 09, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "metakid",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

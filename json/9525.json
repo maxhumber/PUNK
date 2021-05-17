@@ -1,0 +1,62 @@
+{
+  "id": "9525",
+  "owner": "0xbd12b97baffa8e2b23bc78e2bf6fab311f9dc536",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Shadow Beard",
+    "Earring",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xe27e6a",
+      "To": "0xbd12b9",
+      "Amount": "",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "0xe27e6a",
+      "Amount": "29.99\u039e ($47,098)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe27e6a",
+      "To": "",
+      "Amount": "28\u039e ($43,973)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($47,098)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe27e6a",
+      "To": "",
+      "Amount": "28\u039e ($43,973)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

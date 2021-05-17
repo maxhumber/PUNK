@@ -1,0 +1,123 @@
+{
+  "id": "6575",
+  "owner": "0xe83c750b2708320bb134796c555b80df39a3d97b",
+  "attributes": [
+    "Male",
+    "Buck Teeth",
+    "Clown Hair Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Zieg",
+      "To": "Snowfro",
+      "Amount": "2\u039e ($268)",
+      "Date": "Mar 25, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Snowfro",
+      "To": "",
+      "Amount": "1.50\u039e ($201)",
+      "Date": "Mar 25, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($268)",
+      "Date": "Mar 25, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Snowfro",
+      "To": "",
+      "Amount": "1.50\u039e ($201)",
+      "Date": "Mar 25, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x976b59",
+      "To": "",
+      "Amount": "0.20\u039e ($45)",
+      "Date": "Oct 02, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x976b59",
+      "To": "",
+      "Amount": "0.20\u039e ($45)",
+      "Date": "Oct 02, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 22, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "BigF4581\u2026",
+      "To": "",
+      "Amount": "0.09\u039e ($113)",
+      "Date": "Jan 12, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "BigF4581\u2026",
+      "To": "",
+      "Amount": "0.09\u039e ($113)",
+      "Date": "Jan 12, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.69\u039e ($203)",
+      "Date": "Sep 12, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.95\u039e ($282)",
+      "Date": "Aug 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($331)",
+      "Date": "Aug 04, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Spilliae\u2026",
+      "To": "Zieg",
+      "Amount": "",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Spilliae\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

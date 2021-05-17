@@ -1,0 +1,39 @@
+{
+  "id": "1443",
+  "owner": "0xe9bde03638bc8d83a75cddc3c9f98cde34125e31",
+  "attributes": [
+    "Male",
+    "Cap",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xe4f0ac",
+      "To": "0xe9bde0",
+      "Amount": "3.50\u039e ($2,071)",
+      "Date": "Dec 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.50\u039e ($2,065)",
+      "Date": "Dec 05, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0xe4f0ac",
+      "Amount": "",
+      "Date": "Oct 01, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

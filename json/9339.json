@@ -1,0 +1,110 @@
+{
+  "id": "9339",
+  "owner": "0xb4bb4156e5e6ca5d81041f616c27dffb253b7845",
+  "attributes": [
+    "Female",
+    "Tiara",
+    "Clown Eyes Green",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "122\u039e ($289,798)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "119.99\u039e ($248,696)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99.99\u039e ($201,727)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "110\u039e ($187,020)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "120\u039e ($204,022)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3dae9a",
+      "To": "0xb4bb41",
+      "Amount": "75\u039e ($126,941)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "199.99\u039e ($338,477)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb4bb41",
+      "To": "",
+      "Amount": "75\u039e ($126,935)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "119.99\u039e ($203,079)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x0053f2",
+      "To": "0x3dae9a",
+      "Amount": "",
+      "Date": "Jul 22, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x22160e",
+      "To": "",
+      "Amount": "0.10\u039e ($21)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x22160e",
+      "To": "",
+      "Amount": "0.10\u039e ($19)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x0053f2",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

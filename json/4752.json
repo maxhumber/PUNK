@@ -1,0 +1,40 @@
+{
+  "id": "4752",
+  "owner": "0x94de7e2c73529ebf3206aa3459e699fbcdfcd49b",
+  "attributes": [
+    "Female",
+    "Tiara",
+    "Horned Rim Glasses",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "150\u039e ($525,250)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "natealex",
+      "To": "",
+      "Amount": "10\u039e ($10,943)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "natealex",
+      "To": "",
+      "Amount": "10\u039e ($10,566)",
+      "Date": "Jan 11, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "tonyherr\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

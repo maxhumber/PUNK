@@ -1,0 +1,61 @@
+{
+  "id": "9392",
+  "owner": "0x69021ae8769586d56791d29615959997c2012b99",
+  "attributes": [
+    "Female",
+    "Tiara",
+    "Hot Lipstick",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "sov",
+      "To": "0x69021a",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "sov",
+      "Amount": "",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x2d91aa",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 18, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "sov",
+      "To": "0x2d91aa",
+      "Amount": "",
+      "Date": "Sep 18, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "5\u039e ($1,082)",
+      "Date": "May 18, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "5\u039e ($1,034)",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "sov",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "8024",
+  "owner": "0x0da0df4be467140e74c76257d002f52e954be4d3",
+  "attributes": [
+    "Female",
+    "Tassle Hat",
+    "Pipe"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x023ef7",
+      "To": "",
+      "Amount": "25\u039e ($58,468)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x023ef7",
+      "To": "",
+      "Amount": "25\u039e ($57,696)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "metakid",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "4802",
+  "owner": "0xbd4aae63bd1bc9f93e3d7f48e8b29d7411567740",
+  "attributes": [
+    "Female",
+    "Silver Chain",
+    "Hot Lipstick",
+    "Straight Hair Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "beautifu\u2026",
+      "To": "0xbd4aae",
+      "Amount": "",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x54d7f9",
+      "To": "beautifu\u2026",
+      "Amount": "45\u039e ($61,049)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "beautifu\u2026",
+      "To": "",
+      "Amount": "45\u039e ($61,049)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "70\u039e ($109,262)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x382681",
+      "To": "",
+      "Amount": "22\u039e ($39,658)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb24086",
+      "To": "0x54d7f9",
+      "Amount": "35\u039e ($63,092)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x382681",
+      "To": "",
+      "Amount": "22\u039e ($42,208)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($68,840)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x5c7432",
+      "To": "0xb24086",
+      "Amount": "",
+      "Date": "Nov 28, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "0x5c7432",
+      "Amount": "0.25\u039e ($84)",
+      "Date": "Oct 16, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5c7432",
+      "To": "",
+      "Amount": "0.25\u039e ($51)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "4077",
+  "owner": "0xa567b9c0e040b3c1c294c36f2ebeaeb44dc4aa8b",
+  "attributes": [
+    "Male",
+    "Wild Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "EliteCat\u2026",
+      "To": "0xa567b9",
+      "Amount": "21.89\u039e ($34,706)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.89\u039e ($33,077)",
+      "Date": "Mar 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "EliteCat\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "GoWest23",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa18fd5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "0xa18fd5",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "GoWest23",
+      "Amount": "0.46\u039e ($79)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.28\u039e ($39)",
+      "Date": "Mar 27, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.28\u039e ($31)",
+      "Date": "Jan 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.46\u039e ($51)",
+      "Date": "Jan 27, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "gigimaur\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($29)",
+      "Date": "Jan 26, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "gigimaur\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($30)",
+      "Date": "Jan 20, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x8133a5",
+      "To": "",
+      "Amount": "0.22\u039e ($28)",
+      "Date": "Jan 12, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.20\u039e ($25)",
+      "Date": "Jan 12, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "4496",
+  "owner": "0xf40b3d16ae26262db9b19e0ec80d8a490c40bdcb",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Mohawk Thin",
+    "Hot Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xf40b3d",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "0xf40b3d",
+      "Amount": "2.50\u039e ($859)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xaadfe3",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Carlini8",
+      "To": "0xaadfe3",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "CPyrc",
+      "To": "Carlini8",
+      "Amount": "1.89\u039e ($712)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.89\u039e ($717)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x20e386",
+      "To": "CPyrc",
+      "Amount": "1.20\u039e ($465)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.20\u039e ($465)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x20e386",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

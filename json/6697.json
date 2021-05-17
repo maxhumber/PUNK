@@ -1,0 +1,104 @@
+{
+  "id": "6697",
+  "owner": "0x502ba21ce0018a52e91a31483a445d4ec3aa02b9",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Front Beard",
+    "Messy Hair",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "nftwar.e\u2026",
+      "To": "0x502ba2",
+      "Amount": "18.40\u039e ($37,292)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "14\u039e ($28,179)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "14\u039e ($29,407)",
+      "Date": "Apr 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18.40\u039e ($36,284)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.90\u039e ($38,223)",
+      "Date": "Mar 31, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($38,866)",
+      "Date": "Mar 31, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "jesterbo\u2026",
+      "To": "nftwar.e\u2026",
+      "Amount": "16.95\u039e ($32,906)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.95\u039e ($34,023)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x4d17cf",
+      "To": "jesterbo\u2026",
+      "Amount": "",
+      "Date": "Oct 31, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pixls",
+      "To": "",
+      "Amount": "0.40\u039e ($106)",
+      "Date": "Jun 14, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pixls",
+      "To": "",
+      "Amount": "0.40\u039e ($99)",
+      "Date": "May 15, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa7c983",
+      "To": "",
+      "Amount": "0.20\u039e ($39)",
+      "Date": "May 13, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x4d17cf",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

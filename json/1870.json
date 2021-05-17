@@ -1,0 +1,221 @@
+{
+  "id": "1870",
+  "owner": "0x113d754ff2e6ca9fd6ab51932493e4f9dabdf596",
+  "attributes": [
+    "Female",
+    "Knitted Cap",
+    "Medical Mask"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($115,752)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26\u039e ($89,294)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($95,229)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30.75\u039e ($97,459)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x558e9c",
+      "To": "",
+      "Amount": "20\u039e ($46,384)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x558e9c",
+      "To": "",
+      "Amount": "20\u039e ($45,644)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32\u039e ($51,770)",
+      "Date": "Mar 26, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "renaissa\u2026",
+      "To": "\ud83e\udd39\ud83c\udffb\u200d\u2642.e\u2026",
+      "Amount": "8.75\u039e ($11,029)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "\ud83e\udd39\ud83c\udffb\u200d\u2642.e\u2026",
+      "To": "",
+      "Amount": "8.75\u039e ($11,379)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11.95\u039e ($7,698)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Sylveste\u2026",
+      "To": "",
+      "Amount": "5.50\u039e ($3,423)",
+      "Date": "Dec 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Sylveste\u2026",
+      "To": "",
+      "Amount": "5.50\u039e ($3,416)",
+      "Date": "Dec 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($4,969)",
+      "Date": "Dec 25, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.95\u039e ($4,611)",
+      "Date": "Nov 07, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Nov 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11.75\u039e ($4,580)",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Oct 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.25\u039e ($4,718)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "MadMax",
+      "To": "renaissa\u2026",
+      "Amount": "6.75\u039e ($2,558)",
+      "Date": "Sep 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.75\u039e ($2,450)",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "mikedema\u2026",
+      "To": "MadMax",
+      "Amount": "1\u039e ($388)",
+      "Date": "Aug 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($388)",
+      "Date": "Aug 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($1,251)",
+      "Date": "Aug 21, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x91d6e2",
+      "To": "mikedema\u2026",
+      "Amount": "",
+      "Date": "May 18, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x91d6e2",
+      "Amount": "0.70\u039e ($164)",
+      "Date": "May 18, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.70\u039e ($118)",
+      "Date": "May 03, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

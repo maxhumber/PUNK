@@ -1,0 +1,47 @@
+{
+  "id": "5223",
+  "owner": "0x77d550883410f4d1d88c2bf79132f375cfed31ef",
+  "attributes": [
+    "Male",
+    "Classic Shades",
+    "Headband",
+    "Big Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x034812",
+      "To": "0x77d550",
+      "Amount": "",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "ddaavvee",
+      "To": "",
+      "Amount": "1.50\u039e ($1,105)",
+      "Date": "Dec 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "ddaavvee",
+      "To": "",
+      "Amount": "1.50\u039e ($1,092)",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x034812",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

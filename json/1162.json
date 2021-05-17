@@ -1,0 +1,90 @@
+{
+  "id": "1162",
+  "owner": "0xb4bb4156e5e6ca5d81041f616c27dffb253b7845",
+  "attributes": [
+    "Female",
+    "Spots",
+    "Welding Goggles",
+    "Straight Hair Blonde",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "119.99\u039e ($213,190)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99.99\u039e ($142,918)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "199.99\u039e ($342,637)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x414201",
+      "To": "0xb4bb41",
+      "Amount": "47\u039e ($92,727)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4960c4\u2026",
+      "To": "",
+      "Amount": "25\u039e ($47,931)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4960c4\u2026",
+      "To": "",
+      "Amount": "25\u039e ($48,685)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "47\u039e ($16,034)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.21\u039e ($98)",
+      "Date": "Nov 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.21\u039e ($66)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9be1c7",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x414201",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

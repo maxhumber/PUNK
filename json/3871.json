@@ -1,0 +1,35 @@
+{
+  "id": "3871",
+  "owner": "0xf1ad946ae30a285d96ea396acd3fd22c5aa75ef8",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Clown Nose",
+    "Front Beard Dark",
+    "Smile",
+    "Medical Mask"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "40\u039e ($142,978)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "40\u039e ($142,978)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xf1ad94",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

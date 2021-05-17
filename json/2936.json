@@ -1,0 +1,33 @@
+{
+  "id": "2936",
+  "owner": "0x70c4bcc07a2bfc0cff3c7099b4a9e0ebca181c02",
+  "attributes": [
+    "Male",
+    "Horned Rim Glasses",
+    "Goat",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "7hats",
+      "Amount": "0.35\u039e ($39)",
+      "Date": "Jan 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($41)",
+      "Date": "Jan 24, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

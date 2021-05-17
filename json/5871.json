@@ -1,0 +1,60 @@
+{
+  "id": "5871",
+  "owner": "0x28784d9a5052ba0b559d457bfdf05c24d7598ed7",
+  "attributes": [
+    "Male",
+    "Muttonchops",
+    "Top Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "redlione\u2026",
+      "To": "",
+      "Amount": "5\u039e ($9,017)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "redlione\u2026",
+      "To": "",
+      "Amount": "5\u039e ($9,076)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x28784d",
+      "Amount": "0.15\u039e ($173)",
+      "Date": "Jan 20, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x28784d",
+      "To": "",
+      "Amount": "0.15\u039e ($208)",
+      "Date": "Jan 13, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.18\u039e ($205)",
+      "Date": "Jan 11, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.38\u039e ($264)",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

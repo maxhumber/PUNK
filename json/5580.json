@@ -1,0 +1,33 @@
+{
+  "id": "5580",
+  "owner": "0x530afa101bed324809d0738d45b38a669314ff54",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Mohawk",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "PB",
+      "Amount": "0.45\u039e ($111)",
+      "Date": "May 23, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.45\u039e ($78)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

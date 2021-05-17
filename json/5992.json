@@ -1,0 +1,75 @@
+{
+  "id": "5992",
+  "owner": "0xc8c4ab6e1e7dcc4e2957244baba86ed937dc0ee8",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Frumpy Hair",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "LeandroC\u2026",
+      "Amount": "0.60\u039e ($63)",
+      "Date": "Mar 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "LeandroC\u2026",
+      "To": "",
+      "Amount": "0.60\u039e ($66)",
+      "Date": "Mar 16, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "LeandroC\u2026",
+      "To": "",
+      "Amount": "0.42\u039e ($46)",
+      "Date": "Mar 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "LeandroC\u2026",
+      "To": "",
+      "Amount": "0.42\u039e ($46)",
+      "Date": "Mar 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($166)",
+      "Date": "Mar 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($216)",
+      "Date": "Aug 11, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

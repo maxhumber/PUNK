@@ -1,0 +1,32 @@
+{
+  "id": "9664",
+  "owner": "0x03911fecabd6b4809c88e2e6eb856ec932b2ee3e",
+  "attributes": [
+    "Male",
+    "Vampire Hair",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x03911f",
+      "Amount": "0.08\u039e ($65)",
+      "Date": "May 05, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x03911f",
+      "To": "",
+      "Amount": "0.08\u039e ($31)",
+      "Date": "Apr 02, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

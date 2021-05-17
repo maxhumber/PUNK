@@ -1,0 +1,193 @@
+{
+  "id": "4238",
+  "owner": "0x0b88fd87884080bd6d93d341fcca0eea76b03e75",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.95\u039e ($85,761)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.95\u039e ($89,736)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.85\u039e ($90,896)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xcd2c66",
+      "To": "0x0b88fd",
+      "Amount": "22.95\u039e ($67,460)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd8f23d",
+      "To": "",
+      "Amount": "0.20\u039e ($553)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd8f23d",
+      "To": "",
+      "Amount": "0.20\u039e ($541)",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe53ef2",
+      "To": "",
+      "Amount": "0.10\u039e ($243)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe53ef2",
+      "To": "",
+      "Amount": "0.10\u039e ($244)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.95\u039e ($55,128)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xee8405",
+      "To": "",
+      "Amount": "20\u039e ($41,452)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xee8405",
+      "To": "",
+      "Amount": "20\u039e ($41,277)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.95\u039e ($42,229)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.95\u039e ($50,471)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.95\u039e ($53,048)",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3a4930",
+      "To": "0xcd2c66",
+      "Amount": "1\u039e ($238)",
+      "Date": "Jul 14, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcd2c66",
+      "To": "",
+      "Amount": "1\u039e ($224)",
+      "Date": "Jun 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.39\u039e ($351)",
+      "Date": "Jun 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.99\u039e ($410)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x6e5e91",
+      "To": "",
+      "Amount": "0.60\u039e ($123)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.30\u039e ($469)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,032)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.45\u039e ($297)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "0x3a4930",
+      "Amount": "1\u039e ($207)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6e5e91",
+      "To": "",
+      "Amount": "0.60\u039e ($125)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($194)",
+      "Date": "Apr 26, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

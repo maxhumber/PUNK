@@ -1,0 +1,47 @@
+{
+  "id": "5038",
+  "owner": "0xcfc50541c3deaf725ce738ef87ace2ad778ba0c5",
+  "attributes": [
+    "Female",
+    "Purple Eye Shadow",
+    "Mohawk Dark",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0xcfc505",
+      "Amount": "20\u039e ($44,869)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($44,869)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "griffin",
+      "To": "",
+      "Amount": "1\u039e ($352)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "griffin",
+      "To": "",
+      "Amount": "1\u039e ($352)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

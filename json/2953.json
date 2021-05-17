@@ -1,0 +1,146 @@
+{
+  "id": "2953",
+  "owner": "0xd26a3f686d43f2a62ba9eae2ff77e9f516d945b9",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Wild Hair",
+    "Vape",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x257e2b",
+      "To": "vengist",
+      "Amount": "6.99\u039e ($2,460)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.99\u039e ($2,401)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.99\u039e ($2,031)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x624394",
+      "To": "0x257e2b",
+      "Amount": "4.90\u039e ($1,669)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x257e2b",
+      "To": "",
+      "Amount": "4.90\u039e ($1,669)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.50\u039e ($1,870)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x2117c3",
+      "To": "",
+      "Amount": "3\u039e ($1,058)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "GoWest23",
+      "To": "0x624394",
+      "Amount": "3.99\u039e ($1,386)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.99\u039e ($1,378)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x2117c3",
+      "To": "",
+      "Amount": "3\u039e ($1,023)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9ce03d",
+      "To": "",
+      "Amount": "2\u039e ($690)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.75\u039e ($1,647)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.50\u039e ($3,126)",
+      "Date": "Sep 10, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.50\u039e ($1,296)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "GoWest23",
+      "Amount": "1\u039e ($169)",
+      "Date": "May 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($1,279)",
+      "Date": "Jan 15, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

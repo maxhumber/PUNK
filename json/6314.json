@@ -1,0 +1,54 @@
+{
+  "id": "6314",
+  "owner": "0xaa8ff8318e0740fc9c0a1b899a702bdb4ed11efc",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Shadow Beard",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x7c0f4b",
+      "To": "0xaa8ff8",
+      "Amount": "",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0e9aed",
+      "To": "0x7c0f4b",
+      "Amount": "24.99\u039e ($53,497)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($53,037)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0x0e9aed",
+      "Amount": "22.20\u039e ($47,414)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.20\u039e ($47,414)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "3297",
+  "owner": "0x0da0df4be467140e74c76257d002f52e954be4d3",
+  "attributes": [
+    "Male",
+    "Mustache",
+    "Mohawk",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "metakid",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

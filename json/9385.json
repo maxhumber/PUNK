@@ -1,0 +1,35 @@
+{
+  "id": "9385",
+  "owner": "0x2f7f6f678f18d97c0573c1056080e2bd527f872a",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Frown",
+    "Muttonchops",
+    "Vape",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x2f7f6f",
+      "Amount": "1\u039e ($206)",
+      "Date": "Aug 10, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($306)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

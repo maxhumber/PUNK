@@ -1,0 +1,102 @@
+{
+  "id": "2443",
+  "owner": "0x3792b43868b491ae27d873b7cc987bdf496b2d61",
+  "attributes": [
+    "Male",
+    "Purple Hair",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xf86a58",
+      "To": "0x3792b4",
+      "Amount": "16.90\u039e ($33,344)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.90\u039e ($34,202)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.50\u039e ($32,327)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.98\u039e ($35,169)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($36,477)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x148940",
+      "To": "0xf86a58",
+      "Amount": "12.50\u039e ($21,829)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12.50\u039e ($22,246)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x148940",
+      "Amount": "0.12\u039e ($90)",
+      "Date": "Dec 17, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x148940",
+      "To": "",
+      "Amount": "0.05\u039e ($36)",
+      "Date": "Dec 17, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x148940",
+      "To": "",
+      "Amount": "0.05\u039e ($35)",
+      "Date": "Dec 16, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.12\u039e ($82)",
+      "Date": "Dec 12, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "1013",
+  "owner": "0x577ebc5de943e35cdf9ecb5bbe1f7d7cb6c7c647",
+  "attributes": [
+    "Male",
+    "Fedora",
+    "Clown Eyes Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($118,682)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "niwin",
+      "To": "",
+      "Amount": "0.40\u039e ($509)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "niwin",
+      "To": "",
+      "Amount": "0.40\u039e ($488)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x302b9d",
+      "To": "",
+      "Amount": "0\u039e ($12)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x302b9d",
+      "To": "",
+      "Amount": "0\u039e ($12)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

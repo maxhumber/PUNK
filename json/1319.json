@@ -1,0 +1,39 @@
+{
+  "id": "1319",
+  "owner": "0x5c79d3d994b54f98cedb0c5d9be4842f26e2fe10",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Peak Spike"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "1\u039e ($1,544)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "1\u039e ($1,015)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 16, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5c79d3",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

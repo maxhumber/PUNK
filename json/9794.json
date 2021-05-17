@@ -1,0 +1,54 @@
+{
+  "id": "9794",
+  "owner": "0x191458d229eafe1e246e4c28d346fcb10acb12a3",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Shadow Beard",
+    "Fedora"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "Mr_0x",
+      "To": "0x191458",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Mr_0x",
+      "Amount": "0.50\u039e ($82)",
+      "Date": "Apr 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($82)",
+      "Date": "Apr 13, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0bf913",
+      "To": "",
+      "Amount": "0.22\u039e ($44)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0bf913",
+      "To": "",
+      "Amount": "0.22\u039e ($44)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

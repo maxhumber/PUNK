@@ -1,0 +1,53 @@
+{
+  "id": "5012",
+  "owner": "0x68a7ac13477aad590982293feeeb786a00276cf2",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x292d76",
+      "To": "0x68a7ac",
+      "Amount": "",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x2fdacd",
+      "To": "0x292d76",
+      "Amount": "5\u039e ($5,501)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x292d76",
+      "To": "",
+      "Amount": "5\u039e ($5,528)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "4.60\u039e ($5,073)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "redlione\u2026",
+      "To": "",
+      "Amount": "3\u039e ($3,308)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x2fdacd",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

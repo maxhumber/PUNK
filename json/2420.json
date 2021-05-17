@@ -1,0 +1,103 @@
+{
+  "id": "2420",
+  "owner": "0x8dbbca57ea56290efa14d835bbfd34faf1d89753",
+  "attributes": [
+    "Male",
+    "Police Cap",
+    "Shadow Beard",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "VonMises",
+      "Amount": "1\u039e ($188)",
+      "Date": "May 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($216)",
+      "Date": "Aug 11, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.40\u039e ($109)",
+      "Date": "Jun 20, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($109)",
+      "Date": "Jun 20, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jun 06, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x844959",
+      "To": "",
+      "Amount": "0.28\u039e ($73)",
+      "Date": "May 19, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x844959",
+      "To": "",
+      "Amount": "0.28\u039e ($55)",
+      "Date": "May 13, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Jeff7",
+      "To": "",
+      "Amount": "0.30\u039e ($56)",
+      "Date": "May 12, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Jeff7",
+      "To": "",
+      "Amount": "0.30\u039e ($56)",
+      "Date": "May 12, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($87)",
+      "Date": "Apr 19, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($1,279)",
+      "Date": "Jan 15, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($126)",
+      "Date": "Jan 12, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

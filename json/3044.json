@@ -1,0 +1,200 @@
+{
+  "id": "3044",
+  "owner": "0x68a7ac13477aad590982293feeeb786a00276cf2",
+  "attributes": [
+    "Female",
+    "Classic Shades",
+    "Straight Hair Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "MrTpunks",
+      "To": "0x68a7ac",
+      "Amount": "18\u039e ($35,269)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "18\u039e ($34,741)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xfb3ca8",
+      "To": "MrTpunks",
+      "Amount": "6\u039e ($2,146)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($2,148)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Ambrose",
+      "To": "0xfb3ca8",
+      "Amount": "0.80\u039e ($312)",
+      "Date": "Aug 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xfb3ca8",
+      "To": "",
+      "Amount": "0.80\u039e ($331)",
+      "Date": "Aug 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($439)",
+      "Date": "Aug 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.15\u039e ($502)",
+      "Date": "Aug 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.55\u039e ($619)",
+      "Date": "Aug 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.65\u039e ($566)",
+      "Date": "Jul 31, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.95\u039e ($442)",
+      "Date": "Jul 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.10\u039e ($491)",
+      "Date": "Jun 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.55\u039e ($619)",
+      "Date": "Jun 06, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x1a96af",
+      "To": "Ambrose",
+      "Amount": "1.55\u039e ($375)",
+      "Date": "Jun 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.55\u039e ($375)",
+      "Date": "Jun 06, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.50\u039e ($310)",
+      "Date": "May 28, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.50\u039e ($309)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.20\u039e ($244)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.20\u039e ($245)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.55\u039e ($98)",
+      "Date": "Apr 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.85\u039e ($314)",
+      "Date": "Apr 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.98\u039e ($167)",
+      "Date": "Apr 17, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.55\u039e ($94)",
+      "Date": "Apr 17, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe45df5",
+      "To": "0x1a96af",
+      "Amount": "",
+      "Date": "Apr 17, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.04\u039e ($11)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.70\u039e ($498)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe45df5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "6126",
+  "owner": "0x7a39608107dc014d4bbd7a5f01d3fba5dff6d042",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Shadow Beard",
+    "Earring",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xd9c7c3",
+      "To": "0x7a3960",
+      "Amount": "6.40\u039e ($2,248)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.40\u039e ($2,264)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.90\u039e ($2,509)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0xd9c7c3",
+      "Amount": "0.23\u039e ($49)",
+      "Date": "Aug 12, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd9c7c3",
+      "To": "",
+      "Amount": "0.23\u039e ($49)",
+      "Date": "Aug 12, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($138)",
+      "Date": "Jul 12, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($1,074)",
+      "Date": "Jun 16, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($86)",
+      "Date": "May 08, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

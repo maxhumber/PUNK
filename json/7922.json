@@ -1,0 +1,208 @@
+{
+  "id": "7922",
+  "owner": "0xef9725ce43853f2be4fc8ea7a61269719b97ba69",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Mohawk",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($92,445)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42.07\u039e ($99,879)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0xef9725",
+      "Amount": "18\u039e ($30,039)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xef9725",
+      "To": "",
+      "Amount": "18\u039e ($30,388)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff70ec",
+      "To": "",
+      "Amount": "15\u039e ($25,317)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.99\u039e ($33,700)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($42,830)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31.99\u039e ($61,118)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "36.69\u039e ($60,365)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99.99\u039e ($163,238)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b331e",
+      "To": "Pranksy",
+      "Amount": "9.50\u039e ($15,509)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.50\u039e ($14,678)",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "scalynel\u2026",
+      "To": "0x5b331e",
+      "Amount": "7.50\u039e ($11,588)",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b331e",
+      "To": "",
+      "Amount": "7.50\u039e ($11,588)",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5b331e",
+      "To": "",
+      "Amount": "6\u039e ($9,270)",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b331e",
+      "To": "",
+      "Amount": "6\u039e ($9,756)",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9\u039e ($15,168)",
+      "Date": "Feb 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "scalynel\u2026",
+      "To": "scalynel\u2026",
+      "Amount": "",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x4960c4\u2026",
+      "To": "scalynel\u2026",
+      "Amount": "2.35\u039e ($477)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.35\u039e ($474)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.50\u039e ($315)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 23, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.50\u039e ($315)",
+      "Date": "May 23, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "CryptoIn\u2026",
+      "To": "",
+      "Amount": "1.10\u039e ($223)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.95\u039e ($416)",
+      "Date": "May 20, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x4960c4\u2026",
+      "Amount": "0.10\u039e ($29)",
+      "Date": "Oct 28, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($30)",
+      "Date": "Oct 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

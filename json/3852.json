@@ -1,0 +1,49 @@
+{
+  "id": "3852",
+  "owner": "0xe5c4c41194901047523108bb47eb109781a1a86a",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Frown",
+    "Handlebars",
+    "Earring",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "capital_\u2026",
+      "To": "",
+      "Amount": "0.90\u039e ($401)",
+      "Date": "Sep 01, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Kataster\u2026",
+      "Amount": "0.95\u039e ($367)",
+      "Date": "Aug 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "capital_\u2026",
+      "To": "",
+      "Amount": "0.90\u039e ($348)",
+      "Date": "Aug 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.95\u039e ($363)",
+      "Date": "Aug 26, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

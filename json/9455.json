@@ -1,0 +1,74 @@
+{
+  "id": "9455",
+  "owner": "0xd7eae9fe9152317ee0542558836cb45fc5af2d39",
+  "attributes": [
+    "Female",
+    "Big Shades",
+    "Clown Hair Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x4e0030",
+      "To": "0xd7eae9",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "TweetyPi\u2026",
+      "To": "0x4e0030",
+      "Amount": "14\u039e ($22,896)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14\u039e ($22,913)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xca8fe4",
+      "To": "TweetyPi\u2026",
+      "Amount": "10\u039e ($16,366)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($16,366)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "8\u039e ($13,129)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "8\u039e ($13,432)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xca8fe4",
+      "Amount": "",
+      "Date": "Mar 08, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

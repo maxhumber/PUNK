@@ -1,0 +1,54 @@
+{
+  "id": "9755",
+  "owner": "0x36c217c052260dff33e3f9690580a0bb7709815c",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Messy Hair",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.26\u039e ($36)",
+      "Date": "Mar 27, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "kris.sma\u2026",
+      "To": "0x36c217",
+      "Amount": "",
+      "Date": "Feb 02, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "kris.sma\u2026",
+      "Amount": "0.31\u039e ($34)",
+      "Date": "Jan 30, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.26\u039e ($29)",
+      "Date": "Jan 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.31\u039e ($40)",
+      "Date": "Jan 10, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

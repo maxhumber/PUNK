@@ -1,0 +1,68 @@
+{
+  "id": "9893",
+  "owner": "0xd79b937791724e47f193f67162b92cdfbf7abdfd",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Hoodie",
+    "Vape"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "70\u039e ($230,644)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "70\u039e ($237,074)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x034b46",
+      "To": "",
+      "Amount": "67\u039e ($226,967)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x133524",
+      "To": "0xd79b93",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb2e5e0",
+      "To": "",
+      "Amount": "0.25\u039e ($416)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb2e5e0",
+      "To": "",
+      "Amount": "0.25\u039e ($416)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x133524",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

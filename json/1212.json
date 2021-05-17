@@ -1,0 +1,109 @@
+{
+  "id": "1212",
+  "owner": "0x14b96ecc9f91bc34cc94087398224368edd3761a",
+  "attributes": [
+    "Female",
+    "Green Eye Shadow",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xb4bb41",
+      "To": "0x14b96e",
+      "Amount": "23\u039e ($46,402)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x14b96e",
+      "To": "",
+      "Amount": "23\u039e ($46,402)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.99\u039e ($42,405)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbc2089",
+      "To": "",
+      "Amount": "21\u039e ($33,764)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.99\u039e ($41,669)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbc2089",
+      "To": "",
+      "Amount": "21\u039e ($30,860)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.99\u039e ($49,668)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb166dd",
+      "To": "0xb4bb41",
+      "Amount": "17.78\u039e ($35,078)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.78\u039e ($34,453)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0xb166dd",
+      "Amount": "10.50\u039e ($19,162)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10.50\u039e ($17,818)",
+      "Date": "Feb 06, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x89ba62",
+      "To": "0x5b098b",
+      "Amount": "0.29\u039e ($71)",
+      "Date": "Jul 08, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.29\u039e ($71)",
+      "Date": "Jul 08, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x89ba62",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

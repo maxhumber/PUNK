@@ -1,0 +1,67 @@
+{
+  "id": "5618",
+  "owner": "0xf4ffd6faa686152dec6024dd2f2edcca7fc5e906",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x44a3cc",
+      "To": "",
+      "Amount": "23.50\u039e ($94,067)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x94f67d",
+      "To": "0xf4ffd6",
+      "Amount": "29\u039e ($116,083)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x44a3cc",
+      "To": "",
+      "Amount": "23.50\u039e ($93,394)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x8e7644",
+      "To": "",
+      "Amount": "23\u039e ($89,622)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x641fb9",
+      "To": "",
+      "Amount": "22\u039e ($85,726)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x97db27",
+      "To": "",
+      "Amount": "18\u039e ($70,139)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($112,242)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x94f67d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

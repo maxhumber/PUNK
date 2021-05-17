@@ -1,0 +1,173 @@
+{
+  "id": "2374",
+  "owner": "0xf4493a8f3c990fdb79cd0816e534707fa4c40c50",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Horned Rim Glasses",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x087173",
+      "To": "",
+      "Amount": "4.10\u039e ($5,550)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x033ee7",
+      "To": "0xf4493a",
+      "Amount": "4.63\u039e ($6,105)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x087173",
+      "To": "",
+      "Amount": "4.10\u039e ($5,400)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.63\u039e ($5,985)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "7478",
+      "To": "0x033ee7",
+      "Amount": "3\u039e ($1,037)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($981)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.49\u039e ($894)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.95\u039e ($748)",
+      "Date": "Aug 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.49\u039e ($515)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($214)",
+      "Date": "May 02, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($234)",
+      "Date": "Mar 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.85\u039e ($230)",
+      "Date": "Feb 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($204)",
+      "Date": "Feb 05, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x88fab2",
+      "To": "",
+      "Amount": "0.55\u039e ($112)",
+      "Date": "Feb 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x88fab2",
+      "To": "",
+      "Amount": "0.55\u039e ($112)",
+      "Date": "Feb 05, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.63\u039e ($121)",
+      "Date": "Feb 02, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "HEDBIG",
+      "To": "7478",
+      "Amount": "0.50\u039e ($96)",
+      "Date": "Feb 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($96)",
+      "Date": "Feb 02, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "HEDBIG",
+      "Amount": "0.10\u039e ($28)",
+      "Date": "Aug 15, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($43)",
+      "Date": "Jul 31, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

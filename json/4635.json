@@ -1,0 +1,76 @@
+{
+  "id": "4635",
+  "owner": "0x8bf6efbf66d881c23a584140e70c5c5d428c58d1",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Earring",
+    "Normal Beard",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "73.77\u039e ($135,879)",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc155f9",
+      "To": "0x8bf6ef",
+      "Amount": "14.88\u039e ($28,148)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.88\u039e ($26,850)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0xc155f9",
+      "Amount": "5.45\u039e ($3,459)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x13816f",
+      "To": "",
+      "Amount": "4.80\u039e ($3,041)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x13816f",
+      "To": "",
+      "Amount": "4.80\u039e ($3,116)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.45\u039e ($3,212)",
+      "Date": "Dec 24, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

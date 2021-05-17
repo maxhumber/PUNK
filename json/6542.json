@@ -1,0 +1,40 @@
+{
+  "id": "6542",
+  "owner": "0x8b27de7f6a7542ee70e2420e1bc67fc479d01984",
+  "attributes": [
+    "Male",
+    "Fedora",
+    "Normal Beard",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbff231",
+      "To": "",
+      "Amount": "27.50\u039e ($108,636)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbff231",
+      "To": "",
+      "Amount": "27.50\u039e ($107,617)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8b27de",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

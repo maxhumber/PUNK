@@ -1,0 +1,138 @@
+{
+  "id": "2106",
+  "owner": "0x592234c63ac3c816b0485761bc00fc1b932d18fd",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Mohawk Thin",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.97K\u039e ($12.83M)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x592234",
+      "Amount": "",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x840aad",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x568cf5",
+      "To": "0x840aad",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "MadMax",
+      "To": "0x568cf5",
+      "Amount": "5.75\u039e ($2,091)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.75\u039e ($2,091)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "MadMax",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6fb180",
+      "To": "MadMax",
+      "Amount": "5.10\u039e ($1,854)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "0x6fb180",
+      "Amount": "2\u039e ($731)",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xaadfe3",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Carlini8",
+      "To": "0xaadfe3",
+      "Amount": "",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Shrugs",
+      "To": "Carlini8",
+      "Amount": "1.50\u039e ($564)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($331)",
+      "Date": "May 29, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe39e5d",
+      "To": "Shrugs",
+      "Amount": "",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Shrugs",
+      "To": "0xe39e5d",
+      "Amount": "",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Shrugs",
+      "Amount": "0.10\u039e ($136)",
+      "Date": "Jan 14, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($126)",
+      "Date": "Jan 12, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

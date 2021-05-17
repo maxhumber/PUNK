@@ -1,0 +1,96 @@
+{
+  "id": "1621",
+  "owner": "0xe281b9d3de7a5b178961f38a4a31f1a6447304d8",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Clown Hair Green",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($70,172)",
+      "Date": "Mar 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x13579f",
+      "To": "",
+      "Amount": "26\u039e ($48,855)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0xe281b9",
+      "Amount": "26.49\u039e ($50,406)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x13579f",
+      "To": "",
+      "Amount": "26\u039e ($49,474)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x13579f",
+      "To": "",
+      "Amount": "25\u039e ($47,571)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.49\u039e ($50,406)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x13579f",
+      "To": "",
+      "Amount": "25\u039e ($47,278)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.99\u039e ($54,313)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "thi",
+      "To": "",
+      "Amount": "1\u039e ($1,348)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "thi",
+      "To": "",
+      "Amount": "1\u039e ($1,235)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

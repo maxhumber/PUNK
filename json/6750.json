@@ -1,0 +1,61 @@
+{
+  "id": "6750",
+  "owner": "0x0e616785638663c88a493a82972e2f9cadaab4bc",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Front Beard",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x1f36fe",
+      "To": "0x0e6167",
+      "Amount": "15.99\u039e ($31,547)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15.99\u039e ($30,957)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x387405",
+      "To": "0x1f36fe",
+      "Amount": "4\u039e ($5,089)",
+      "Date": "Jan 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.61\u039e ($5,570)",
+      "Date": "Jan 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x1f36fe",
+      "To": "",
+      "Amount": "4\u039e ($4,906)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.94\u039e ($5,877)",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x387405",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

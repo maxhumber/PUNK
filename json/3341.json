@@ -1,0 +1,82 @@
+{
+  "id": "3341",
+  "owner": "0x2ae82657ec1ec17b25f564cc500dac2a55c5c623",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Messy Hair",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "Thing",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xad4f9e",
+      "To": "Thing",
+      "Amount": "5.99\u039e ($2,215)",
+      "Date": "Oct 16, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Dude_Nak\u2026",
+      "To": "0xad4f9e",
+      "Amount": "5.79\u039e ($2,157)",
+      "Date": "Oct 11, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa29d7b",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Dude_Nak\u2026",
+      "To": "0xa29d7b",
+      "Amount": "",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Dude_Nak\u2026",
+      "Amount": "1.20\u039e ($242)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.20\u039e ($196)",
+      "Date": "Jan 26, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0a4eaf\u2026",
+      "To": "",
+      "Amount": "0.20\u039e ($33)",
+      "Date": "Jan 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0a4eaf\u2026",
+      "To": "",
+      "Amount": "0.20\u039e ($29)",
+      "Date": "Feb 19, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

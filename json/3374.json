@@ -1,0 +1,61 @@
+{
+  "id": "3374",
+  "owner": "0x9e199d8a3a39c9892b1c3ae348a382662dcbaa12",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Normal Beard Black",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.17\u039e ($33)",
+      "Date": "Oct 12, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x9e199d",
+      "Amount": "0.28\u039e ($54)",
+      "Date": "Oct 12, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.17\u039e ($33)",
+      "Date": "Oct 12, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.17\u039e ($139)",
+      "Date": "Mar 06, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.17\u039e ($139)",
+      "Date": "Mar 06, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.28\u039e ($78)",
+      "Date": "Sep 19, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

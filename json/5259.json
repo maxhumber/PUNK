@@ -1,0 +1,19 @@
+{
+  "id": "5259",
+  "owner": "0x3fc1753c90421bd2669d963f3973c0e75d23c68e",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Earring",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x3fc175",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

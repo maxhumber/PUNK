@@ -1,0 +1,40 @@
+{
+  "id": "9343",
+  "owner": "0xcd2c66fe27f8c6e08a5bd42b2617a34f8854eece",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Earring",
+    "Mohawk"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0xcd2c66",
+      "Amount": "1\u039e ($400)",
+      "Date": "Aug 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcd2c66",
+      "To": "",
+      "Amount": "1\u039e ($224)",
+      "Date": "Jun 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.45\u039e ($321)",
+      "Date": "May 29, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

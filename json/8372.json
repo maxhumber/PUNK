@@ -1,0 +1,117 @@
+{
+  "id": "8372",
+  "owner": "0x1d12d09793daf5eb834c8d29eb6a039c32b73813",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Big Shades",
+    "Chinstrap"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.60\u039e ($77,967)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc2b3cb",
+      "To": "itsfine",
+      "Amount": "23.75\u039e ($75,273)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.75\u039e ($75,356)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x97db27",
+      "To": "0xc2b3cb",
+      "Amount": "23.50\u039e ($74,563)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.50\u039e ($67,139)",
+      "Date": "May 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xceb63c",
+      "To": "0x97db27",
+      "Amount": "21.98\u039e ($60,777)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.98\u039e ($60,777)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.49\u039e ($60,833)",
+      "Date": "Apr 29, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.98\u039e ($62,742)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.25\u039e ($63,446)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.49\u039e ($53,518)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0b88fd",
+      "To": "0xceb63c",
+      "Amount": "21.25\u039e ($49,327)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.25\u039e ($49,327)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6611fe",
+      "To": "0x0b88fd",
+      "Amount": "",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

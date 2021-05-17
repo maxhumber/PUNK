@@ -1,0 +1,110 @@
+{
+  "id": "3018",
+  "owner": "0x42f7c5275ac4372156027d939843c9c42523df2e",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Wild Hair",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "brazy.et\u2026",
+      "To": "",
+      "Amount": "24.50\u039e ($42,421)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xddfdcb",
+      "To": "0x42f7c5",
+      "Amount": "25.99\u039e ($44,549)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "brazy.et\u2026",
+      "To": "",
+      "Amount": "24.50\u039e ($41,221)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "brazy.et\u2026",
+      "To": "",
+      "Amount": "24\u039e ($40,243)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "brazy.et\u2026",
+      "To": "",
+      "Amount": "24\u039e ($39,828)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.99\u039e ($44,169)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.99\u039e ($61,990)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49.99\u039e ($92,051)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "59.99\u039e ($106,440)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0xddfdcb",
+      "Amount": "21.90\u039e ($42,789)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.90\u039e ($42,789)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "5.50\u039e ($7,005)",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "5.50\u039e ($6,896)",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

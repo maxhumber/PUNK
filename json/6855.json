@@ -1,0 +1,46 @@
+{
+  "id": "6855",
+  "owner": "0x4649941b72d28fc534cec775a6f35ea1fa4cdc63",
+  "attributes": [
+    "Female",
+    "Blonde Short",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf3016b",
+      "To": "",
+      "Amount": "21.50\u039e ($52,287)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x464994",
+      "Amount": "27.50\u039e ($68,302)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf3016b",
+      "To": "",
+      "Amount": "21.50\u039e ($52,102)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.50\u039e ($67,117)",
+      "Date": "Apr 16, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

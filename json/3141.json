@@ -1,0 +1,47 @@
+{
+  "id": "3141",
+  "owner": "0x9ae8912ea6562957043c8d048641aa9b450c397f",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Mohawk Thin",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31.41\u039e ($10,859)",
+      "Date": "Sep 21, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "straybit\u2026",
+      "To": "snax",
+      "Amount": "3.14\u039e ($1,086)",
+      "Date": "Sep 21, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.14\u039e ($836)",
+      "Date": "Jul 05, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "straybit\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "4359",
+  "owner": "0x39ba319c2e57a31807ad1eb7c4b0b8e68ace7c0a",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "VR",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x8b27de",
+      "To": "0x39ba31",
+      "Amount": "22\u039e ($78,557)",
+      "Date": "May 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26\u039e ($87,369)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x39ba31",
+      "To": "",
+      "Amount": "22\u039e ($81,323)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8b27de",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

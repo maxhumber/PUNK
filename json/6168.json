@@ -1,0 +1,33 @@
+{
+  "id": "6168",
+  "owner": "0x6611fe71c233e4e7510b2795c242c9a57790b376",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Nerd Glasses",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xba0c68",
+      "To": "0x6611fe",
+      "Amount": "25\u039e ($44,630)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($45,611)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xba0c68",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

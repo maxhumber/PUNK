@@ -1,0 +1,46 @@
+{
+  "id": "7726",
+  "owner": "0x3bc2f1f07d95d5abe0d6ca2fbca4db0e25228a99",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x00d29f",
+      "To": "",
+      "Amount": "40\u039e ($137,528)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00d29f",
+      "To": "",
+      "Amount": "40\u039e ($131,542)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69\u039e ($220,222)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "metakid",
+      "To": "0x3bc2f1",
+      "Amount": "",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "metakid",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

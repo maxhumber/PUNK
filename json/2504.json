@@ -1,0 +1,103 @@
+{
+  "id": "2504",
+  "owner": "0x80be646c17ae7a4a2a40cf08642e0d1020653eb9",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Earring",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xdd1e6f",
+      "To": "0x80be64",
+      "Amount": "",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "ryanduff\u2026",
+      "To": "0xdd1e6f",
+      "Amount": "5\u039e ($8,989)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdd1e6f",
+      "To": "",
+      "Amount": "5\u039e ($8,772)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Carlini8",
+      "To": "",
+      "Amount": "4.70\u039e ($8,246)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Carlini8",
+      "To": "",
+      "Amount": "4.70\u039e ($8,246)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($13,100)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.10\u039e ($8,347)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($32,701)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "ryanduff\u2026",
+      "Amount": "0.15\u039e ($60)",
+      "Date": "Apr 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($104)",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

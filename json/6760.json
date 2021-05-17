@@ -1,0 +1,76 @@
+{
+  "id": "6760",
+  "owner": "0xe8723d26ad5f7ff4ea8902d235f0a8f8b8802f6d",
+  "attributes": [
+    "Male",
+    "Mustache",
+    "Earring",
+    "Crazy Hair",
+    "Medical Mask"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa3ba43",
+      "To": "",
+      "Amount": "0.25\u039e ($403)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa3ba43",
+      "To": "",
+      "Amount": "0.25\u039e ($399)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc5ab9b",
+      "To": "",
+      "Amount": "0.10\u039e ($164)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd3a",
+      "To": "jmg",
+      "Amount": "",
+      "Date": "Dec 22, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xcbd482",
+      "To": "0x00bd3a",
+      "Amount": "0.20\u039e ($57)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.20\u039e ($52)",
+      "Date": "Jul 01, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($15)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

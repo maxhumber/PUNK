@@ -1,0 +1,81 @@
+{
+  "id": "6366",
+  "owner": "0xcec3dc9edb111dc77e1c79f7f15b648f6efb9819",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Mustache"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x3a6372",
+      "To": "0xcec3dc",
+      "Amount": "",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb264a8",
+      "To": "0x3a6372",
+      "Amount": "20\u039e ($46,168)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "18\u039e ($39,587)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "18\u039e ($39,262)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($43,625)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf72360",
+      "To": "",
+      "Amount": "0.90\u039e ($1,629)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf72360",
+      "To": "",
+      "Amount": "0.90\u039e ($1,629)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0xb264a8",
+      "Amount": "9.50\u039e ($17,196)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.50\u039e ($17,299)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

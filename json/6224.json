@@ -1,0 +1,48 @@
+{
+  "id": "6224",
+  "owner": "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+  "attributes": [
+    "Female",
+    "Clown Eyes Green",
+    "Medical Mask",
+    "Straight Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "(Wrap)",
+      "From": "0x6c9d5e",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Mar 09, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x7eac94",
+      "To": "0x6c9d5e",
+      "Amount": "",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x7eac94",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

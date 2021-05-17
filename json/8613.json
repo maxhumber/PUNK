@@ -1,0 +1,89 @@
+{
+  "id": "8613",
+  "owner": "0x070c171bc2fbe3cc70ecbca472b87d0b93937f14",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Big Shades",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xb9fddb",
+      "To": "0x070c17",
+      "Amount": "25\u039e ($51,943)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($50,456)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x289a0e",
+      "To": "",
+      "Amount": "25\u039e ($44,564)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x289a0e",
+      "To": "",
+      "Amount": "25\u039e ($45,657)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "renaissa\u2026",
+      "To": "",
+      "Amount": "23\u039e ($37,597)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($47,405)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "renaissa\u2026",
+      "To": "",
+      "Amount": "23\u039e ($37,597)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb4bb41",
+      "To": "",
+      "Amount": "22.50\u039e ($36,779)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x365e35",
+      "To": "0xb9fddb",
+      "Amount": "25\u039e ($40,866)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($40,886)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x365e35",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

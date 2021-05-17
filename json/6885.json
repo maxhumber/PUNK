@@ -1,0 +1,53 @@
+{
+  "id": "6885",
+  "owner": "0x577ebc5de943e35cdf9ecb5bbe1f7d7cb6c7c647",
+  "attributes": [
+    "Female",
+    "Red Mohawk",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5caff0\u2026",
+      "To": "",
+      "Amount": "9.50\u039e ($17,277)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5caff0\u2026",
+      "To": "",
+      "Amount": "9.50\u039e ($17,469)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "PM_disco\u2026",
+      "To": "",
+      "Amount": "1.35\u039e ($1,795)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "PM_disco\u2026",
+      "To": "",
+      "Amount": "1.35\u039e ($1,666)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

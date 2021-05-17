@@ -1,0 +1,116 @@
+{
+  "id": "8474",
+  "owner": "0x27073cd0d709d89c391af9767595d91c78ed43a7",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($137,530)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe3bf86",
+      "To": "runhot99\u2026",
+      "Amount": "31.50\u039e ($70,070)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "runhot99\u2026",
+      "To": "",
+      "Amount": "31.50\u039e ($70,070)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "runhot99\u2026",
+      "To": "",
+      "Amount": "31\u039e ($68,958)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32.50\u039e ($72,278)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "runhot99\u2026",
+      "To": "",
+      "Amount": "31\u039e ($68,942)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.50\u039e ($83,011)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "34.50\u039e ($83,011)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "36\u039e ($88,832)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "37\u039e ($84,441)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc272ed",
+      "To": "0xe3bf86",
+      "Amount": "30\u039e ($68,992)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($68,992)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "OnlyToas\u2026",
+      "To": "",
+      "Amount": "14.75\u039e ($28,396)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "OnlyToas\u2026",
+      "To": "",
+      "Amount": "14.75\u039e ($28,396)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

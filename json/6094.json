@@ -1,0 +1,354 @@
+{
+  "id": "6094",
+  "owner": "0x8f6b1e467fbe74d7dd43d59de0558f693c736798",
+  "attributes": [
+    "Male",
+    "Gold Chain",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbe0c0d",
+      "To": "",
+      "Amount": "19\u039e ($62,444)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbe0c0d",
+      "To": "",
+      "Amount": "19\u039e ($62,444)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x48af2b",
+      "To": "0x8f6b1e",
+      "Amount": "12\u039e ($21,706)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12\u039e ($21,211)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Novo311",
+      "To": "0x48af2b",
+      "Amount": "6.98\u039e ($9,228)",
+      "Date": "Jan 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.98\u039e ($8,394)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.98\u039e ($7,210)",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "2pac",
+      "To": "Novo311",
+      "Amount": "5.31\u039e ($3,424)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "5.31\u039e ($3,424)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "4.75\u039e ($3,060)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.59\u039e ($3,601)",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($3,701)",
+      "Date": "Dec 25, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Sylveste\u2026",
+      "To": "",
+      "Amount": "4\u039e ($2,469)",
+      "Date": "Dec 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Sylveste\u2026",
+      "To": "",
+      "Amount": "4\u039e ($2,319)",
+      "Date": "Dec 24, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.50\u039e ($3,374)",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "2pac",
+      "Amount": "",
+      "Date": "Dec 18, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "2pac",
+      "To": "",
+      "Amount": "5\u039e ($3,181)",
+      "Date": "Dec 18, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "alxx",
+      "To": "2pac",
+      "Amount": "5.30\u039e ($3,372)",
+      "Date": "Dec 18, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "2pac",
+      "To": "",
+      "Amount": "5\u039e ($3,242)",
+      "Date": "Dec 18, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x54bf76",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "alxx",
+      "To": "0x54bf76",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11\u039e ($3,936)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5aaeb9",
+      "To": "alxx",
+      "Amount": "5.50\u039e ($1,968)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.50\u039e ($1,945)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($2,121)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "0x5aaeb9",
+      "Amount": "5\u039e ($1,768)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x5aaeb9",
+      "Amount": "",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x61e7e7",
+      "To": "Carlini8",
+      "Amount": "3.95\u039e ($1,391)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x9b7ad5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 23, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x61e7e7",
+      "To": "0x9b7ad5",
+      "Amount": "",
+      "Date": "Sep 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.44\u039e ($1,522)",
+      "Date": "Sep 22, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x61e7e7",
+      "Amount": "",
+      "Date": "Sep 22, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x9b7ad5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 12, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x61e7e7",
+      "To": "0x9b7ad5",
+      "Amount": "",
+      "Date": "Sep 12, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,188)",
+      "Date": "Jun 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.95\u039e ($714)",
+      "Date": "Jun 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.45\u039e ($842)",
+      "Date": "Jun 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.95\u039e ($959)",
+      "Date": "Jun 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5\u039e ($1,173)",
+      "Date": "Jun 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($1,255)",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.50\u039e ($735)",
+      "Date": "May 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.95\u039e ($835)",
+      "Date": "Jul 04, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x581b59",
+      "To": "0x61e7e7",
+      "Amount": "",
+      "Date": "Jun 22, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "0x581b59",
+      "Amount": "0.75\u039e ($232)",
+      "Date": "Jun 22, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($232)",
+      "Date": "Jun 22, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Pranksy",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.40\u039e ($118)",
+      "Date": "Jun 21, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

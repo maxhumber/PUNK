@@ -1,0 +1,159 @@
+{
+  "id": "5592",
+  "owner": "0xb268f20c03c39f00425db32c424fd5272220496e",
+  "attributes": [
+    "Female",
+    "Red Mohawk",
+    "Black Lipstick",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x1f8add",
+      "To": "MrTpunks",
+      "Amount": "",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Alex3422",
+      "To": "0x1f8add",
+      "Amount": "2\u039e ($419)",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x1f8add",
+      "To": "",
+      "Amount": "1.50\u039e ($314)",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x1f8add",
+      "To": "",
+      "Amount": "1.50\u039e ($319)",
+      "Date": "May 19, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "CryptoIn\u2026",
+      "To": "",
+      "Amount": "0.90\u039e ($190)",
+      "Date": "May 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($410)",
+      "Date": "May 07, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "TweetyPi\u2026",
+      "To": "Alex3422",
+      "Amount": "0.80\u039e ($114)",
+      "Date": "Jan 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($114)",
+      "Date": "Jan 11, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.45\u039e ($206)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "scalynel\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($67)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.10\u039e ($147)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($108)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "TweetyPi\u2026",
+      "Amount": "0.55\u039e ($73)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "scalynel\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($67)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.55\u039e ($90)",
+      "Date": "Apr 13, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.48\u039e ($182)",
+      "Date": "Aug 30, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe4d36b",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe4d36b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

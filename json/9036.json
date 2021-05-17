@@ -1,0 +1,28 @@
+{
+  "id": "9036",
+  "owner": "0xfaf9f63baf57b19ca4e9490aaab1ede8b66cc2b5",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "Frown",
+    "Shadow Beard",
+    "Earring",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid",
+      "From": "0xe5499a",
+      "To": "",
+      "Amount": "<",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xfaf9f6",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "4400",
+  "owner": "0x85e27739b8d3114fa3bd98bd14bea7aacb566fb0",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "67.60\u039e ($147,273)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "cryptopu\u2026",
+      "To": "0x85e277",
+      "Amount": "",
+      "Date": "Mar 03, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x585755",
+      "To": "cryptopu\u2026",
+      "Amount": "0.59\u039e ($111)",
+      "Date": "Nov 13, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "cryptopu\u2026",
+      "To": "",
+      "Amount": "0.59\u039e ($111)",
+      "Date": "Nov 13, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "jmg",
+      "To": "0x585755",
+      "Amount": "0.19\u039e ($95)",
+      "Date": "Jul 17, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x6761b6",
+      "To": "",
+      "Amount": "0.10\u039e ($48)",
+      "Date": "Jun 13, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6761b6",
+      "To": "",
+      "Amount": "0.10\u039e ($48)",
+      "Date": "Jun 13, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.19\u039e ($126)",
+      "Date": "Apr 26, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x58164b",
+      "To": "jmg",
+      "Amount": "0.06\u039e ($32)",
+      "Date": "Apr 18, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.06\u039e ($61)",
+      "Date": "Jan 17, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x58164b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

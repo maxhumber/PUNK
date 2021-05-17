@@ -1,0 +1,32 @@
+{
+  "id": "5745",
+  "owner": "0x6f4a2d3a4f47f9c647d86c929755593911ee91ec",
+  "attributes": [
+    "Female",
+    "Spots",
+    "Blonde Short"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x53d7ef",
+      "To": "",
+      "Amount": "0.10\u039e ($160)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x53d7ef",
+      "To": "",
+      "Amount": "0.10\u039e ($183)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

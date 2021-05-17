@@ -1,0 +1,19 @@
+{
+  "id": "4825",
+  "owner": "0x78f0a6385028eea69a527d8a3c4cd1092651972c",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "Handlebars",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x78f0a6",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

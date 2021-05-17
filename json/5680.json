@@ -1,0 +1,75 @@
+{
+  "id": "5680",
+  "owner": "0xe8723d26ad5f7ff4ea8902d235f0a8f8b8802f6d",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Crazy Hair",
+    "Medical Mask"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "May 01, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.50\u039e ($662)",
+      "Date": "Apr 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.99\u039e ($650)",
+      "Date": "Mar 23, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd3a",
+      "To": "jmg",
+      "Amount": "",
+      "Date": "Dec 22, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0x00bd3a",
+      "Amount": "0.40\u039e ($92)",
+      "Date": "Jul 22, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.40\u039e ($91)",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($15)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

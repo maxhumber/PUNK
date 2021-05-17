@@ -1,0 +1,110 @@
+{
+  "id": "6932",
+  "owner": "0xf3cad40f7f7b43ae2a4226a8c53420569458710c",
+  "attributes": [
+    "Female",
+    "Tiara",
+    "Earring",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x701f37",
+      "To": "0xf3cad4",
+      "Amount": "",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "140\u039e ($249,432)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x458655",
+      "To": "0x701f37",
+      "Amount": "",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x425d33",
+      "To": "0x458655",
+      "Amount": "",
+      "Date": "Feb 06, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "parttty6",
+      "To": "",
+      "Amount": "0.02\u039e ($7)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "gaus",
+      "To": "0x425d33",
+      "Amount": "",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "parttty6",
+      "To": "",
+      "Amount": "0.02\u039e ($7)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "17MILE",
+      "To": "",
+      "Amount": "0\u039e ($3)",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "\ud83c\udf0d\ud83d\udc68\u200d\ud83d\ude80?\u2026",
+      "To": "gaus",
+      "Amount": "40\u039e ($14,604)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($13,817)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($13,817)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "\ud83c\udf0d\ud83d\udc68\u200d\ud83d\ude80?\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

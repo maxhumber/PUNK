@@ -1,0 +1,53 @@
+{
+  "id": "5859",
+  "owner": "0x0c54a765c77a88d9cda0bd7ad9b10422848d92ef",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Fedora"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x8b27de",
+      "To": "0x0c54a7",
+      "Amount": "20\u039e ($65,532)",
+      "Date": "May 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($78,557)",
+      "Date": "May 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0c54a7",
+      "To": "",
+      "Amount": "20\u039e ($69,857)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa876cd",
+      "To": "",
+      "Amount": "22\u039e ($89,017)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa876cd",
+      "To": "",
+      "Amount": "22\u039e ($86,094)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8b27de",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

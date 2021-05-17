@@ -1,0 +1,67 @@
+{
+  "id": "8113",
+  "owner": "0x1dc301854bfecb4ba03eb417579585c2b8ea12c1",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Eye Mask"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xef784c",
+      "To": "0x1dc301",
+      "Amount": "29.99\u039e ($67,601)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($64,492)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.99\u039e ($54,960)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "33.50\u039e ($60,233)",
+      "Date": "Mar 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "zaphod",
+      "To": "0xef784c",
+      "Amount": "24\u039e ($43,514)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($41,655)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "zaphod",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

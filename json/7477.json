@@ -1,0 +1,47 @@
+{
+  "id": "7477",
+  "owner": "0x5ac996f059bdbf958e8215635f6b8541f0df0e50",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Knitted Cap",
+    "Smile"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x28a908",
+      "To": "0x5ac996",
+      "Amount": "",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0x28a908",
+      "Amount": "10\u039e ($17,489)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x28a908",
+      "To": "",
+      "Amount": "10\u039e ($17,489)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

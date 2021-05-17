@@ -1,0 +1,40 @@
+{
+  "id": "1475",
+  "owner": "0xba3fc4bde8fd35a85606b2d9d210bb647d10e606",
+  "attributes": [
+    "Female",
+    "Mohawk",
+    "VR",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0xba3fc4",
+      "Amount": "29\u039e ($51,467)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xba3fc4",
+      "To": "",
+      "Amount": "29\u039e ($53,105)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

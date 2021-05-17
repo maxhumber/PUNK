@@ -1,0 +1,26 @@
+{
+  "id": "9542",
+  "owner": "0xd5b171571df3bc207baf2edb175b6ff3820f53a4",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Shaved Head",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x45c74a",
+      "To": "0xd5b171",
+      "Amount": "",
+      "Date": "Jan 14, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x45c74a",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

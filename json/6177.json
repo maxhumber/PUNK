@@ -1,0 +1,215 @@
+{
+  "id": "6177",
+  "owner": "0x27073cd0d709d89c391af9767595d91c78ed43a7",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Wild Hair",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x64d49a",
+      "To": "runhot99\u2026",
+      "Amount": "33.50\u039e ($83,726)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "runhot99\u2026",
+      "To": "",
+      "Amount": "33.50\u039e ($83,726)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "runhot99\u2026",
+      "To": "",
+      "Amount": "32.50\u039e ($81,226)",
+      "Date": "Apr 26, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "37\u039e ($89,076)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "runhot99\u2026",
+      "To": "",
+      "Amount": "32.50\u039e ($72,294)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "runhot99\u2026",
+      "To": "",
+      "Amount": "31.50\u039e ($70,070)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "runhot99\u2026",
+      "To": "",
+      "Amount": "31.50\u039e ($67,698)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "42\u039e ($89,127)",
+      "Date": "Apr 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x9c6b51",
+      "To": "0x64d49a",
+      "Amount": "28.50\u039e ($51,153)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.50\u039e ($51,012)",
+      "Date": "Mar 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($54,788)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Kataster\u2026",
+      "To": "0x9c6b51",
+      "Amount": "22\u039e ($40,178)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9c6b51",
+      "To": "",
+      "Amount": "22\u039e ($39,818)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x9cd85c",
+      "To": "Kataster\u2026",
+      "Amount": "0.57\u039e ($82)",
+      "Date": "Jan 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.57\u039e ($82)",
+      "Date": "Jan 10, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 10, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.65\u039e ($90)",
+      "Date": "Jan 09, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.65\u039e ($93)",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.20\u039e ($166)",
+      "Date": "Jan 06, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Zieg",
+      "To": "0x9cd85c",
+      "Amount": "0.55\u039e ($74)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.55\u039e ($100)",
+      "Date": "Nov 03, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.65\u039e ($122)",
+      "Date": "Oct 14, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Spilliae\u2026",
+      "To": "Zieg",
+      "Amount": "",
+      "Date": "Sep 17, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "Spilliae\u2026",
+      "Amount": "",
+      "Date": "Sep 16, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "ark1",
+      "Amount": "0.25\u039e ($47)",
+      "Date": "Sep 15, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($275)",
+      "Date": "Jul 12, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

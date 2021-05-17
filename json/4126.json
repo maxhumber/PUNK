@@ -1,0 +1,61 @@
+{
+  "id": "4126",
+  "owner": "0x9ef55a3cb657fe780cf78e1a07aa1b3cbf28c314",
+  "attributes": [
+    "Male",
+    "Pipe",
+    "Mohawk",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x870a9d",
+      "To": "0x9ef55a",
+      "Amount": "",
+      "Date": "May 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($96,761)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x677b43",
+      "To": "0x870a9d",
+      "Amount": "0.33\u039e ($89)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.33\u039e ($91)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x515a82",
+      "To": "0x677b43",
+      "Amount": "0.18\u039e ($50)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.18\u039e ($50)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x515a82",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

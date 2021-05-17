@@ -1,0 +1,25 @@
+{
+  "id": "8769",
+  "owner": "0x363ef108036c3910bfa83116e2cd21928cf39e03",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xb68304",
+      "To": "0x363ef1",
+      "Amount": "",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb68304",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

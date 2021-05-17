@@ -1,0 +1,82 @@
+{
+  "id": "690",
+  "owner": "0xcfd9ccafc35b86299fc5617f66e89c0782bacfe0",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Shadow Beard",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "seanfine\u2026",
+      "To": "",
+      "Amount": "1\u039e ($3,284)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "seanfine\u2026",
+      "To": "",
+      "Amount": "1\u039e ($3,316)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x26737c",
+      "To": "",
+      "Amount": "0.80\u039e ($1,410)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x2cbee4",
+      "To": "0xcfd9cc",
+      "Amount": "",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x35388c",
+      "To": "0x2cbee4",
+      "Amount": "",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x710295",
+      "To": "",
+      "Amount": "0.20\u039e ($321)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5f2bdf",
+      "To": "",
+      "Amount": "0.15\u039e ($242)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x710295",
+      "To": "",
+      "Amount": "0.10\u039e ($189)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0x35388c",
+      "Amount": "",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "9008",
+  "owner": "0xc10b17d37d8eb29e8b8b9f8e912bf88ea10e78e9",
+  "attributes": [
+    "Male",
+    "Frown",
+    "Mohawk Thin",
+    "Goat",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "flowbot4\u2026",
+      "To": "0xc10b17",
+      "Amount": "16\u039e ($31,853)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16\u039e ($30,344)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "flowbot4\u2026",
+      "Amount": "0.65\u039e ($139)",
+      "Date": "Mar 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.65\u039e ($170)",
+      "Date": "Feb 22, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

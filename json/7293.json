@@ -1,0 +1,61 @@
+{
+  "id": "7293",
+  "owner": "0xee45124d3c2a3d9f24fddfc10cd9979b52567cfb",
+  "attributes": [
+    "Male",
+    "Fedora",
+    "Classic Shades",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x5e49d0",
+      "To": "0xee4512",
+      "Amount": "9\u039e ($16,367)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0x5e49d0",
+      "Amount": "10\u039e ($18,186)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xee4512",
+      "To": "",
+      "Amount": "9\u039e ($16,367)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xee4512",
+      "To": "",
+      "Amount": "7.50\u039e ($13,639)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xee4512",
+      "To": "",
+      "Amount": "7.50\u039e ($13,565)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($18,370)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

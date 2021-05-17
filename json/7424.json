@@ -1,0 +1,19 @@
+{
+  "id": "7424",
+  "owner": "0x747be18e99a6c2b9f2aa4369f5e238534e5dacae",
+  "attributes": [
+    "Male",
+    "Frown",
+    "Do-rag",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x747be1",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

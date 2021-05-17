@@ -1,0 +1,33 @@
+{
+  "id": "9978",
+  "owner": "0x01ec738293d4fa32d99374a4519b450f4db2ba54",
+  "attributes": [
+    "Male",
+    "Fedora",
+    "Earring",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "11\u039e ($21,175)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa7eba7",
+      "To": "",
+      "Amount": "11\u039e ($21,903)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "\u2728\ud83d\ude80\ud83c\udf19.et\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

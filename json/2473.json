@@ -1,0 +1,81 @@
+{
+  "id": "2473",
+  "owner": "0x2d90331b87246af3a99dfe2672ebd114d887be71",
+  "attributes": [
+    "Male",
+    "Luxurious Beard",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($393)",
+      "Date": "Oct 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($368)",
+      "Date": "Oct 20, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Tschuuul\u2026",
+      "To": "",
+      "Amount": "0.35\u039e ($48)",
+      "Date": "Feb 28, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Tschuuul\u2026",
+      "To": "",
+      "Amount": "0.35\u039e ($48)",
+      "Date": "Feb 26, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "msaf3",
+      "Amount": "0.31\u039e ($41)",
+      "Date": "Feb 24, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "gigimaur\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($29)",
+      "Date": "Jan 26, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "BobbYaka",
+      "To": "",
+      "Amount": "0.05\u039e ($4)",
+      "Date": "Dec 15, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "BobbYaka",
+      "To": "",
+      "Amount": "0.05\u039e ($11)",
+      "Date": "Oct 06, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.31\u039e ($119)",
+      "Date": "Aug 30, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

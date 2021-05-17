@@ -1,0 +1,60 @@
+{
+  "id": "6331",
+  "owner": "0x2a538000a53f38d89f37fa43a301cee2c0f9e331",
+  "attributes": [
+    "Female",
+    "Purple Eye Shadow",
+    "Mohawk Thin"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "j1mmy",
+      "To": "0x_NFT",
+      "Amount": "5.90\u039e ($2,140)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.90\u039e ($2,140)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "j1mmy",
+      "Amount": "1.60\u039e ($584)",
+      "Date": "Sep 14, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Sylveste\u2026",
+      "To": "",
+      "Amount": "1.40\u039e ($500)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Sylveste\u2026",
+      "To": "",
+      "Amount": "1.40\u039e ($531)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.60\u039e ($599)",
+      "Date": "Sep 11, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

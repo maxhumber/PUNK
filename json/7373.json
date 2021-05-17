@@ -1,0 +1,32 @@
+{
+  "id": "7373",
+  "owner": "0x838ca689c7035777872e9ef926fec853b8eddacb",
+  "attributes": [
+    "Female",
+    "Crazy Hair",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd5fb85",
+      "To": "",
+      "Amount": "0.30\u039e ($69)",
+      "Date": "Jun 20, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd5fb85",
+      "To": "",
+      "Amount": "0.30\u039e ($70)",
+      "Date": "Jun 17, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x838ca6",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

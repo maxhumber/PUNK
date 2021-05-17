@@ -1,0 +1,54 @@
+{
+  "id": "3370",
+  "owner": "0x598f44b2d38662ba6a65140eb8dd1cbb2e366bae",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Purple Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "snax",
+      "To": "0x598f44",
+      "Amount": "27\u039e ($41,756)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($41,583)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "snax",
+      "Amount": "0.14\u039e ($161)",
+      "Date": "Jan 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.14\u039e ($110)",
+      "Date": "Dec 18, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.44\u039e ($172)",
+      "Date": "Aug 31, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

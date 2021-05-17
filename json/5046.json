@@ -1,0 +1,74 @@
+{
+  "id": "5046",
+  "owner": "0x9649e370ee6facc62e1849eab6f4be7a2b5f4a13",
+  "attributes": [
+    "Male",
+    "Small Shades",
+    "Mole"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "TokenAng\u2026",
+      "To": "0x9649e3",
+      "Amount": "23\u039e ($71,929)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "point-gr\u2026",
+      "To": "",
+      "Amount": "21\u039e ($61,971)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "point-gr\u2026",
+      "To": "",
+      "Amount": "21\u039e ($61,971)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "stazie",
+      "To": "",
+      "Amount": "20\u039e ($59,020)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23\u039e ($63,657)",
+      "Date": "Apr 30, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($72,164)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "TokenAng\u2026",
+      "Amount": "0.55\u039e ($120)",
+      "Date": "Aug 03, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.55\u039e ($113)",
+      "Date": "Jul 10, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

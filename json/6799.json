@@ -1,0 +1,19 @@
+{
+  "id": "6799",
+  "owner": "0x0da0df4be467140e74c76257d002f52e954be4d3",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Goat",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "metakid",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

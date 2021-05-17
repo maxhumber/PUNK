@@ -1,0 +1,53 @@
+{
+  "id": "8833",
+  "owner": "0x1fca36eccfdf8482492fabfd98266956a97e854d",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Big Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xc272ed",
+      "To": "0x1fca36",
+      "Amount": "28\u039e ($41,822)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28\u039e ($41,797)",
+      "Date": "Feb 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x1fca36",
+      "To": "",
+      "Amount": "25\u039e ($39,665)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "ddaavvee",
+      "To": "",
+      "Amount": "12\u039e ($23,540)",
+      "Date": "Feb 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "ddaavvee",
+      "To": "",
+      "Amount": "12\u039e ($22,956)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

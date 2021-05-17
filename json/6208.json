@@ -1,0 +1,67 @@
+{
+  "id": "6208",
+  "owner": "0x7a341c8d5f04e55f907c3b1ef5c6c74b5add01c6",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf6721b",
+      "To": "",
+      "Amount": "0.10\u039e ($171)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf6721b",
+      "To": "",
+      "Amount": "0.10\u039e ($168)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00bd3a",
+      "To": "0x7a341c",
+      "Amount": "0.19\u039e ($50)",
+      "Date": "Jul 01, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.04\u039e ($11)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.19\u039e ($56)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0x00bd3a",
+      "Amount": "0.06\u039e ($20)",
+      "Date": "Jun 23, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.06\u039e ($20)",
+      "Date": "Jun 23, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

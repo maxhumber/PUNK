@@ -1,0 +1,39 @@
+{
+  "id": "4527",
+  "owner": "0x41497f8b5f70771a471ab9dbe0136d8b8f8518f7",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xc8e0e1",
+      "To": "0x41497f",
+      "Amount": "",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($810)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($927)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc8e0e1",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

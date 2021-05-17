@@ -1,0 +1,53 @@
+{
+  "id": "2827",
+  "owner": "0xce41429cc8d2eb6a1e59da8a28fbbd2ac72599b6",
+  "attributes": [
+    "Male",
+    "Fedora",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x8133a5",
+      "To": "0xce4142",
+      "Amount": "",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x07f537",
+      "To": "0x8133a5",
+      "Amount": "",
+      "Date": "Dec 11, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x07f537",
+      "Amount": "0.12\u039e ($52)",
+      "Date": "Jul 31, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x07f537",
+      "To": "",
+      "Amount": "0.12\u039e ($56)",
+      "Date": "Jul 29, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($122)",
+      "Date": "Dec 19, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

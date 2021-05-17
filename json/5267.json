@@ -1,0 +1,33 @@
+{
+  "id": "5267",
+  "owner": "0xcfd9ccafc35b86299fc5617f66e89c0782bacfe0",
+  "attributes": [
+    "Female",
+    "Vape",
+    "Straight Hair Blonde",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0xcfd9cc",
+      "Amount": "30\u039e ($48,292)",
+      "Date": "Mar 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($45,294)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

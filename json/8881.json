@@ -1,0 +1,82 @@
+{
+  "id": "8881",
+  "owner": "0x577ebc5de943e35cdf9ecb5bbe1f7d7cb6c7c647",
+  "attributes": [
+    "Male",
+    "Top Hat",
+    "Medical Mask",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "barthazi\u2026",
+      "To": "",
+      "Amount": "5.10\u039e ($6,897)",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "barthazi\u2026",
+      "To": "",
+      "Amount": "5.10\u039e ($6,222)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdbc416",
+      "To": "",
+      "Amount": "5\u039e ($6,100)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "barthazi\u2026",
+      "To": "",
+      "Amount": "4\u039e ($4,880)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "GoWest23",
+      "To": "",
+      "Amount": "2.50\u039e ($470)",
+      "Date": "Apr 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "GoWest23",
+      "To": "",
+      "Amount": "2.50\u039e ($466)",
+      "Date": "Apr 25, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($15)",
+      "Date": "Jun 29, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

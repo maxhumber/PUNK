@@ -1,0 +1,75 @@
+{
+  "id": "4423",
+  "owner": "0xc5ec9640b56c4c5e3bed67f5ac64d6567b369a11",
+  "attributes": [
+    "Female",
+    "Cap",
+    "Hot Lipstick",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($82,182)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x6f0e05",
+      "To": "0xc5ec96",
+      "Amount": "",
+      "Date": "Sep 12, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x6f0e05",
+      "Amount": "1\u039e ($390)",
+      "Date": "Aug 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($430)",
+      "Date": "Aug 16, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.75\u039e ($357)",
+      "Date": "May 25, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.35\u039e ($237)",
+      "Date": "Jan 19, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.07\u039e ($14)",
+      "Date": "Oct 28, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "Dude_Nak\u2026",
+      "To": "",
+      "Amount": "0.07\u039e ($16)",
+      "Date": "Sep 15, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

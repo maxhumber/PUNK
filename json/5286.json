@@ -1,0 +1,76 @@
+{
+  "id": "5286",
+  "owner": "0xf5663d0eee3620c4a88e28e392aac72d077a8c4d",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Earring",
+    "Shaved Head",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xc155f9",
+      "To": "0xf5663d",
+      "Amount": "14.25\u039e ($26,846)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.25\u039e ($25,713)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0xc155f9",
+      "Amount": "",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Carlini8",
+      "To": "kyloren",
+      "Amount": "5.20\u039e ($1,840)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6fb180",
+      "To": "Carlini8",
+      "Amount": "5.10\u039e ($1,852)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x6fb180",
+      "Amount": "2.50\u039e ($910)",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x193847",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Hemba",
+      "To": "0x193847",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

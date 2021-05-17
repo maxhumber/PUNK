@@ -1,0 +1,130 @@
+{
+  "id": "5534",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Female",
+    "Wild Blonde",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x05dfd4",
+      "To": "",
+      "Amount": "20\u039e ($36,913)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x05dfd4",
+      "To": "",
+      "Amount": "20\u039e ($36,913)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x05dfd4",
+      "To": "",
+      "Amount": "12.50\u039e ($21,420)",
+      "Date": "Feb 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x05dfd4",
+      "To": "",
+      "Amount": "12.50\u039e ($21,547)",
+      "Date": "Feb 10, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Party",
+      "To": "",
+      "Amount": "11.90\u039e ($21,589)",
+      "Date": "Feb 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Party",
+      "To": "",
+      "Amount": "11.90\u039e ($20,827)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x4c9692",
+      "To": "",
+      "Amount": "9\u039e ($12,672)",
+      "Date": "Jan 29, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4c9692",
+      "To": "",
+      "Amount": "9\u039e ($12,110)",
+      "Date": "Jan 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.25\u039e ($170)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.25\u039e ($165)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf5099e",
+      "To": "0xc352b5",
+      "Amount": "0.40\u039e ($117)",
+      "Date": "Aug 19, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc352b5",
+      "To": "",
+      "Amount": "0.40\u039e ($82)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa0a59c",
+      "To": "0xf5099e",
+      "Amount": "",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($783)",
+      "Date": "Jul 01, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0xa0a59c",
+      "Amount": "0.20\u039e ($56)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.20\u039e ($56)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

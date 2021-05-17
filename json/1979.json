@@ -1,0 +1,102 @@
+{
+  "id": "1979",
+  "owner": "0x54d7f921785ebe46010d83c73712e80dfaff1e81",
+  "attributes": [
+    "Female",
+    "Red Mohawk",
+    "Gold Chain"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "70\u039e ($279,097)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xe03559",
+      "To": "0x54d7f9",
+      "Amount": "60\u039e ($129,028)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7a37a1",
+      "To": "",
+      "Amount": "30\u039e ($48,054)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7a37a1",
+      "To": "",
+      "Amount": "30\u039e ($51,890)",
+      "Date": "Mar 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "60\u039e ($109,374)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xef768e",
+      "To": "",
+      "Amount": "40\u039e ($62,379)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xef768e",
+      "To": "",
+      "Amount": "40\u039e ($62,821)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x23b50b",
+      "To": "",
+      "Amount": "33.50\u039e ($52,612)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaea8e3",
+      "To": "",
+      "Amount": "30\u039e ($47,234)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "MrTpunks\u2026",
+      "To": "",
+      "Amount": "28\u039e ($43,856)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "27\u039e ($42,290)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaea8e3",
+      "To": "",
+      "Amount": "25\u039e ($39,157)",
+      "Date": "Mar 02, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe03559",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

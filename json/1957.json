@@ -1,0 +1,46 @@
+{
+  "id": "1957",
+  "owner": "0x6f35b0cfc58eb1e21eef8a439bbb0ce4c929d32a",
+  "attributes": [
+    "Male",
+    "3D Glasses",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd3e2e7",
+      "To": "",
+      "Amount": "9\u039e ($11,782)",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd3e2e7",
+      "To": "",
+      "Amount": "9\u039e ($12,430)",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xde0193",
+      "To": "Cry",
+      "Amount": "4\u039e ($2,931)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cry",
+      "To": "",
+      "Amount": "4\u039e ($2,939)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xde0193",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

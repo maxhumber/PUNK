@@ -1,0 +1,34 @@
+{
+  "id": "8173",
+  "owner": "0xfaf95953a36ed1e8f8426ab5b7eb53da246e3476",
+  "attributes": [
+    "Female",
+    "Purple Eye Shadow",
+    "Hot Lipstick",
+    "Stringy Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0xfaf959\u2026",
+      "Amount": "22.95\u039e ($35,747)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.95\u039e ($36,024)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

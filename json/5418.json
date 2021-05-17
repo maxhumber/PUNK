@@ -1,0 +1,55 @@
+{
+  "id": "5418",
+  "owner": "0xe9137b23a470b03c6691d129b5fe2776bd1046ac",
+  "attributes": [
+    "Male",
+    "Mustache",
+    "Earring",
+    "Nerd Glasses",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x3be89b",
+      "To": "0xe9137b",
+      "Amount": "18\u039e ($72,752)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe9137b",
+      "To": "",
+      "Amount": "18\u039e ($72,752)",
+      "Date": "May 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24.50\u039e ($86,457)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($103,032)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x48db19",
+      "To": "0x3be89b",
+      "Amount": "",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

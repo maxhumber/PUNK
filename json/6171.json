@@ -1,0 +1,89 @@
+{
+  "id": "6171",
+  "owner": "0x0e6b6cb14eeb4d4e1a57f2a7c03a252c62b3756d",
+  "attributes": [
+    "Male",
+    "Chinstrap",
+    "Mohawk",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x05e709",
+      "To": "0x0e6b6c",
+      "Amount": "13.69\u039e ($",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0e6b6c",
+      "To": "",
+      "Amount": "13\u039e ($",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "13.69\u039e ($",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0e6b6c",
+      "To": "",
+      "Amount": "13\u039e ($48,883)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbff799",
+      "To": "",
+      "Amount": "8\u039e ($30,582)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbff799",
+      "To": "",
+      "Amount": "8\u039e ($31,554)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.80\u039e ($61,174)",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x05e709",
+      "Amount": "",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x2c51da",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x387405",
+      "To": "0x2c51da",
+      "Amount": "",
+      "Date": "May 12, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x387405",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

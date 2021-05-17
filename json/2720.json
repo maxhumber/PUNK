@@ -1,0 +1,96 @@
+{
+  "id": "2720",
+  "owner": "0x9e199d8a3a39c9892b1c3ae348a382662dcbaa12",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Eye Mask",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Pixls",
+      "To": "0x9e199d",
+      "Amount": "0.24\u039e ($20)",
+      "Date": "Dec 16, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.24\u039e ($22)",
+      "Date": "Dec 08, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "Pixls",
+      "Amount": "0.20\u039e ($18)",
+      "Date": "Dec 08, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($44)",
+      "Date": "Oct 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($44)",
+      "Date": "Oct 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($486)",
+      "Date": "Mar 26, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xbc081c",
+      "To": "Cyborg",
+      "Amount": "0.30\u039e ($68)",
+      "Date": "Jul 24, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd8e806",
+      "To": "",
+      "Amount": "0.21\u039e ($45)",
+      "Date": "Jul 21, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($68)",
+      "Date": "Jul 20, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd8e806",
+      "To": "",
+      "Amount": "0.21\u039e ($48)",
+      "Date": "Jul 20, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.14\u039e ($611)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xbc081c",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

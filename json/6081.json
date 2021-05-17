@@ -1,0 +1,157 @@
+{
+  "id": "6081",
+  "owner": "0x6ef2376fa6e12dabb3a3ed0fb44e4ff29847af68",
+  "attributes": [
+    "Male",
+    "Smile"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x9a42d7",
+      "To": "0x6ef237",
+      "Amount": "",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "VonMises",
+      "To": "0x9a42d7",
+      "Amount": "19\u039e ($23,927)",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x9a42d7",
+      "To": "",
+      "Amount": "17\u039e ($21,408)",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($23,133)",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9a42d7",
+      "To": "",
+      "Amount": "17\u039e ($21,224)",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x9a42d7",
+      "To": "",
+      "Amount": "15\u039e ($18,727)",
+      "Date": "Jan 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21\u039e ($25,806)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9a42d7",
+      "To": "",
+      "Amount": "15\u039e ($17,558)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25\u039e ($27,267)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "parttty6",
+      "To": "",
+      "Amount": "6\u039e ($2,024)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "parttty6",
+      "To": "",
+      "Amount": "6\u039e ($2,021)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "VonMises",
+      "Amount": "3.25\u039e ($628)",
+      "Date": "Apr 27, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd8e806",
+      "To": "",
+      "Amount": "1.50\u039e ($341)",
+      "Date": "Jul 18, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd8e806",
+      "To": "",
+      "Amount": "1.50\u039e ($308)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.25\u039e ($668)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.50\u039e ($719)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x22ff03",
+      "To": "0x6611fe",
+      "Amount": "0.61\u039e ($116)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6611fe",
+      "To": "",
+      "Amount": "0.61\u039e ($150)",
+      "Date": "Jul 08, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "straybit\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($120)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "straybit\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($135)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x22ff03",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

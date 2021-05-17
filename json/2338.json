@@ -1,0 +1,94 @@
+{
+  "id": "2338",
+  "owner": "0xfab9b89d9a0317f0f2a0e6643a1c956c66550ed4",
+  "attributes": [
+    "Zombie",
+    "Mohawk Thin"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Existenc\u2026",
+      "To": "",
+      "Amount": "5\u039e ($2,310)",
+      "Date": "Nov 12, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Existenc\u2026",
+      "To": "",
+      "Amount": "5\u039e ($2,238)",
+      "Date": "Nov 10, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.50\u039e ($200)",
+      "Date": "Dec 29, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.50\u039e ($193)",
+      "Date": "Dec 29, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x2db1c4",
+      "To": "0xfab9b8",
+      "Amount": "",
+      "Date": "Dec 28, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x4dcaf3",
+      "To": "0x2db1c4",
+      "Amount": "3.50\u039e ($458)",
+      "Date": "Nov 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.50\u039e ($719)",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00bd3a",
+      "To": "0x4dcaf3",
+      "Amount": "2.49\u039e ($600)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.49\u039e ($600)",
+      "Date": "Jul 07, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5462de",
+      "To": "0x00bd3a",
+      "Amount": "2.50\u039e ($673)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($673)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5462de",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

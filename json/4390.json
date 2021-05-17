@@ -1,0 +1,34 @@
+{
+  "id": "4390",
+  "owner": "0x3ff68ef5a732573d41c03beffd446eaa14255910",
+  "attributes": [
+    "Male",
+    "Clown Nose",
+    "Front Beard Dark",
+    "Earring",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "shilpixe\u2026",
+      "To": "0x3ff68e",
+      "Amount": "22\u039e ($42,984)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22\u039e ($42,179)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "shilpixe\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

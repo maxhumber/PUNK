@@ -1,0 +1,60 @@
+{
+  "id": "604",
+  "owner": "0xe16df6503acd3c79b6e032f62c61752bec16eef2",
+  "attributes": [
+    "Female",
+    "Wild Hair",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Deeze",
+      "To": "0xe16df6",
+      "Amount": "8\u039e ($10,167)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0xe16df6",
+      "Amount": "8\u039e ($10,103)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe16df6",
+      "To": "",
+      "Amount": "6\u039e ($7,709)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc352b5",
+      "To": "Deeze",
+      "Amount": "8\u039e ($10,499)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($10,499)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe16df6",
+      "To": "",
+      "Amount": "6\u039e ($8,022)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

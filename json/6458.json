@@ -1,0 +1,52 @@
+{
+  "id": "6458",
+  "owner": "0x1da5331994e781ab0e2af9f85bfce2037a514170",
+  "attributes": [
+    "Female",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "DANNY",
+      "To": "0x1da533",
+      "Amount": "",
+      "Date": "Nov 17, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "snowfro",
+      "To": "",
+      "Amount": "7.50\u039e ($3,494)",
+      "Date": "Nov 17, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "curating\u2026",
+      "To": "DANNY",
+      "Amount": "9\u039e ($4,193)",
+      "Date": "Nov 17, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "snowfro",
+      "To": "",
+      "Amount": "7.50\u039e ($3,494)",
+      "Date": "Nov 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9\u039e ($4,193)",
+      "Date": "Nov 17, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "curating\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "7091",
+  "owner": "0x038666d86f8c758842269915e2df6fa4ac39ec92",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Vape",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($83,609)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x038666",
+      "Amount": "25\u039e ($45,392)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x038666",
+      "To": "",
+      "Amount": "25\u039e ($45,749)",
+      "Date": "Mar 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "38\u039e ($55,193)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

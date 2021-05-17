@@ -1,0 +1,48 @@
+{
+  "id": "5296",
+  "owner": "0xb125272e8b5f4b13006fbd3f746616fdc9190691",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Earring",
+    "Goat",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.50\u039e ($77,748)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.75\u039e ($77,900)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x387405",
+      "To": "0xb12527",
+      "Amount": "19.50\u039e ($74,542)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.50\u039e ($74,542)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x387405",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

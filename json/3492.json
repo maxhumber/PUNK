@@ -1,0 +1,74 @@
+{
+  "id": "3492",
+  "owner": "0xdfc05563f947718ca9ebd9e685022a200a5075c8",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x045436",
+      "To": "0xdfc055",
+      "Amount": "",
+      "Date": "Jan 02, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xdfc055",
+      "To": "0x045436",
+      "Amount": "",
+      "Date": "Jan 02, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x045436",
+      "To": "0xdfc055",
+      "Amount": "",
+      "Date": "Jan 02, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x045436",
+      "Amount": "",
+      "Date": "Nov 13, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xd9cfee",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 21, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x045436",
+      "To": "0xd9cfee",
+      "Amount": "",
+      "Date": "Sep 21, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x20e386",
+      "To": "0x045436",
+      "Amount": "1.20\u039e ($465)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.20\u039e ($465)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x20e386",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

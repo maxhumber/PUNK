@@ -1,0 +1,81 @@
+{
+  "id": "1061",
+  "owner": "0x7760e0243ca9baa630412865df7b39afba42ff0f",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.21\u039e ($57)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.21\u039e ($57)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xcbd482",
+      "To": "0x7760e0",
+      "Amount": "0.18\u039e ($50)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.18\u039e ($51)",
+      "Date": "Jul 02, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.18\u039e ($47)",
+      "Date": "Jul 01, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.15\u039e ($39)",
+      "Date": "Jul 01, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.15\u039e ($39)",
+      "Date": "Jul 01, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.13\u039e ($34)",
+      "Date": "Jul 01, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xff8414",
+      "To": "",
+      "Amount": "0.13\u039e ($34)",
+      "Date": "Jul 01, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

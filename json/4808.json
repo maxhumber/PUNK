@@ -1,0 +1,187 @@
+{
+  "id": "4808",
+  "owner": "0x7a39608107dc014d4bbd7a5f01d3fba5dff6d042",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Shaved Head",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "ross_VRO\u2026",
+      "To": "0x7a3960",
+      "Amount": "4.60\u039e ($1,686)",
+      "Date": "Oct 17, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7a3960",
+      "To": "",
+      "Amount": "4.60\u039e ($1,759)",
+      "Date": "Oct 14, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.99\u039e ($1,894)",
+      "Date": "Oct 13, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "ross_VRO\u2026",
+      "Amount": "",
+      "Date": "Oct 13, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Slider92",
+      "To": "ross_VRO\u2026",
+      "Amount": "6.20\u039e ($2,201)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x2aa720",
+      "To": "Slider92",
+      "Amount": "5.99\u039e ($2,131)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Sylveste\u2026",
+      "To": "0x2aa720",
+      "Amount": "5.95\u039e ($2,128)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x2b779f",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Sylveste\u2026",
+      "To": "0x2b779f",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.20\u039e ($2,205)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.50\u039e ($3,348)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "Sylveste\u2026",
+      "Amount": "",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x11c9a7",
+      "To": "Sylveste\u2026",
+      "Amount": "3.19\u039e ($1,122)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x692885",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x11c9a7",
+      "To": "0x692885",
+      "Amount": "",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5aaeb9",
+      "To": "0x11c9a7",
+      "Amount": "3\u039e ($1,062)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3\u039e ($1,065)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "0x5aaeb9",
+      "Amount": "",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x694a69",
+      "To": "0x5aaeb9",
+      "Amount": "3\u039e ($1,065)",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5aaeb9",
+      "To": "0x694a69",
+      "Amount": "2.90\u039e ($1,016)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5e7ee9",
+      "To": "0x5aaeb9",
+      "Amount": "2.70\u039e ($948)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x5e7ee9",
+      "Amount": "2.50\u039e ($865)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x193847",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Hemba",
+      "To": "0x193847",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

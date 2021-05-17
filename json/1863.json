@@ -1,0 +1,20 @@
+{
+  "id": "1863",
+  "owner": "0x005734d7d408bccf41cff34b46244551d01f0a6b",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Earring",
+    "Shaved Head",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x005734",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

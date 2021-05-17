@@ -1,0 +1,32 @@
+{
+  "id": "7916",
+  "owner": "0xb89c2f6bb674bd6aace2a1e274d40e6dc4775b15",
+  "attributes": [
+    "Female",
+    "Messy Hair",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Tschuuul\u2026",
+      "Amount": "0.47\u039e ($63)",
+      "Date": "Mar 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.47\u039e ($63)",
+      "Date": "Mar 02, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

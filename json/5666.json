@@ -1,0 +1,40 @@
+{
+  "id": "5666",
+  "owner": "0xd79b937791724e47f193f67162b92cdfbf7abdfd",
+  "attributes": [
+    "Female",
+    "Tassle Hat",
+    "Black Lipstick",
+    "Clown Eyes Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "27\u039e ($92,882)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x415424",
+      "To": "",
+      "Amount": "27\u039e ($87,686)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x133524",
+      "To": "0xd79b93",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x133524",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

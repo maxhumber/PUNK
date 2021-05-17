@@ -1,0 +1,60 @@
+{
+  "id": "8546",
+  "owner": "0x48af2bd40905f8d48d187ecb3c6bbc19ec21c795",
+  "attributes": [
+    "Male",
+    "Frown",
+    "Top Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "125\u039e ($264,999)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0x48af2b",
+      "Amount": "49.99\u039e ($89,241)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "49.99\u039e ($88,617)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf1b658",
+      "To": "",
+      "Amount": "2\u039e ($2,504)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf1b658",
+      "To": "",
+      "Amount": "2\u039e ($2,469)",
+      "Date": "Jan 17, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

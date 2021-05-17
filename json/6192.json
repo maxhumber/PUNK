@@ -1,0 +1,130 @@
+{
+  "id": "6192",
+  "owner": "0xb09861246e4149afa18581449c0bb6d4f56bfee3",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Handlebars"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x8f6b1e",
+      "To": "bobeglz.\u2026",
+      "Amount": "21.85\u039e ($41,031)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.85\u039e ($41,031)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xd84e80",
+      "To": "0x8f6b1e",
+      "Amount": "",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "charley",
+      "To": "0xd84e80",
+      "Amount": "6.30\u039e ($11,275)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.30\u039e ($11,038)",
+      "Date": "Feb 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.49\u039e ($11,087)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "charley",
+      "Amount": "",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xac12a8",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "gaus",
+      "To": "0xac12a8",
+      "Amount": "",
+      "Date": "Dec 29, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "gaus",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb40dac",
+      "To": "gaus",
+      "Amount": "3.50\u039e ($1,252)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "redlione\u2026",
+      "To": "0xb40dac",
+      "Amount": "3.15\u039e ($1,124)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "redlione\u2026",
+      "Amount": "2.89\u039e ($1,026)",
+      "Date": "Sep 25, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Pranksy",
+      "Amount": "2.30\u039e ($796)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x193847",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Hemba",
+      "To": "0x193847",
+      "Amount": "",
+      "Date": "Sep 16, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

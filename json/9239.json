@@ -1,0 +1,75 @@
+{
+  "id": "9239",
+  "owner": "0x00a1b46319be9163b8ae30dbe506235608a563dc",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Big Shades",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($88,928)",
+      "Date": "May 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28\u039e ($109,768)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "38.80\u039e ($70,474)",
+      "Date": "Mar 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "41\u039e ($72,750)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "pleyuh.e\u2026",
+      "To": "0x00a1b4",
+      "Amount": "24\u039e ($41,768)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($40,086)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x99b884",
+      "To": "pleyuh.e\u2026",
+      "Amount": "8.50\u039e ($14,571)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.50\u039e ($13,889)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x99b884",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

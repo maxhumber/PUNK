@@ -1,0 +1,34 @@
+{
+  "id": "3352",
+  "owner": "0x1857034ef7c022c4373370ff5211be3da7ea27c1",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Earring",
+    "Regular Shades",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x185703",
+      "Amount": "0.90\u039e ($362)",
+      "Date": "Aug 29, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($362)",
+      "Date": "Aug 29, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

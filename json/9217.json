@@ -1,0 +1,54 @@
+{
+  "id": "9217",
+  "owner": "0x7a39608107dc014d4bbd7a5f01d3fba5dff6d042",
+  "attributes": [
+    "Female",
+    "Purple Eye Shadow",
+    "Mohawk Thin",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x196a3d",
+      "To": "0x7a3960",
+      "Amount": "4.75\u039e ($1,778)",
+      "Date": "Oct 12, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.75\u039e ($1,765)",
+      "Date": "Oct 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.40\u039e ($2,248)",
+      "Date": "Oct 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x20e386",
+      "To": "0x196a3d",
+      "Amount": "1.20\u039e ($465)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.20\u039e ($465)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x20e386",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

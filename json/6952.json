@@ -1,0 +1,151 @@
+{
+  "id": "6952",
+  "owner": "0x0a690b298f84d12414f5c8db7de1ece5a4605877",
+  "attributes": [
+    "Male",
+    "Goat",
+    "Top Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69\u039e ($129,276)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "redlione\u2026",
+      "Amount": "8\u039e ($8,401)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "redlione\u2026",
+      "To": "",
+      "Amount": "8\u039e ($8,331)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "7.50\u039e ($7,810)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdbc416",
+      "To": "",
+      "Amount": "7\u039e ($7,290)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.99\u039e ($10,403)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12\u039e ($15,917)",
+      "Date": "Jan 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "16.99\u039e ($17,223)",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe4c63b",
+      "To": "Pranksy",
+      "Amount": "",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "2pac",
+      "To": "0xe4c63b",
+      "Amount": "",
+      "Date": "Jan 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf249bf",
+      "To": "",
+      "Amount": "9\u039e ($7,495)",
+      "Date": "Jan 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf249bf",
+      "To": "",
+      "Amount": "9\u039e ($7,400)",
+      "Date": "Jan 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.51\u039e ($15,696)",
+      "Date": "Jan 03, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "pinkiepi\u2026",
+      "To": "2pac",
+      "Amount": "",
+      "Date": "Jan 02, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "2pac",
+      "To": "pinkiepi\u2026",
+      "Amount": "",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xde0193",
+      "To": "2pac",
+      "Amount": "4\u039e ($2,939)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($2,939)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 17, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xde0193",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

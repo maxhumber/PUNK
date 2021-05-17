@@ -1,0 +1,200 @@
+{
+  "id": "6014",
+  "owner": "0xabf107de3e01c7c257e64e0a18d60a733aad395d",
+  "attributes": [
+    "Male",
+    "Buck Teeth",
+    "Police Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x0b88fd",
+      "To": "0xabf107",
+      "Amount": "40\u039e ($84,858)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xabf107",
+      "To": "",
+      "Amount": "32\u039e ($65,519)",
+      "Date": "Apr 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xabf107",
+      "To": "",
+      "Amount": "32\u039e ($65,956)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40\u039e ($80,502)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xabf107",
+      "To": "",
+      "Amount": "35\u039e ($70,439)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xabf107",
+      "To": "",
+      "Amount": "35\u039e ($70,589)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "45\u039e ($90,757)",
+      "Date": "Apr 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "cryptoni\u2026",
+      "To": "",
+      "Amount": "45\u039e ($77,445)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "cryptoni\u2026",
+      "To": "",
+      "Amount": "45\u039e ($75,951)",
+      "Date": "Mar 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xabf107",
+      "To": "",
+      "Amount": "42\u039e ($71,837)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xabf107",
+      "To": "",
+      "Amount": "42\u039e ($71,242)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb4bb41",
+      "To": "",
+      "Amount": "40\u039e ($68,174)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xabf107",
+      "To": "",
+      "Amount": "37\u039e ($63,066)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xabf107",
+      "To": "",
+      "Amount": "33\u039e ($55,852)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xabf107",
+      "To": "",
+      "Amount": "33\u039e ($55,490)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($84,075)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "54\u039e ($96,549)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc480fb",
+      "To": "0x0b88fd",
+      "Amount": "",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5d1226",
+      "To": "",
+      "Amount": "8.15\u039e ($10,076)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5d1226",
+      "To": "",
+      "Amount": "8.15\u039e ($10,205)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cry",
+      "To": "",
+      "Amount": "8.15\u039e ($10,205)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5d1226",
+      "To": "",
+      "Amount": "8\u039e ($10,017)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Cry",
+      "To": "",
+      "Amount": "8\u039e ($9,986)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5d1226",
+      "To": "",
+      "Amount": "7.50\u039e ($9,362)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc480fb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

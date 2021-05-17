@@ -1,0 +1,82 @@
+{
+  "id": "7207",
+  "owner": "0x7bbee53f62e90b5da311975119dacaae88f9e3c5",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Chinstrap",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xed2d12",
+      "To": "0x7bbee5",
+      "Amount": "",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5ccaec",
+      "To": "",
+      "Amount": "13.35\u039e ($35,662)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x48db19",
+      "To": "0xed2d12",
+      "Amount": "22.50\u039e ($57,154)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5ccaec",
+      "To": "",
+      "Amount": "13.35\u039e ($29,760)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe53ef2",
+      "To": "",
+      "Amount": "0.10\u039e ($244)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe53ef2",
+      "To": "",
+      "Amount": "0.10\u039e ($244)",
+      "Date": "Apr 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.50\u039e ($49,792)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdf4c62",
+      "To": "",
+      "Amount": "2.50\u039e ($1,481)",
+      "Date": "Dec 13, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdf4c62",
+      "To": "",
+      "Amount": "2.50\u039e ($1,438)",
+      "Date": "Dec 13, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9259",
+  "owner": "0x4bbb41f61fffc1bbe65a2aa192c65281e16ea758",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Frown"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x98c488",
+      "To": "0x4bbb41",
+      "Amount": "",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x98c488",
+      "Amount": "0.70\u039e ($141)",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.70\u039e ($178)",
+      "Date": "Feb 12, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

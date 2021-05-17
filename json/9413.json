@@ -1,0 +1,49 @@
+{
+  "id": "9413",
+  "owner": "0x69021ae8769586d56791d29615959997c2012b99",
+  "attributes": [
+    "Female",
+    "Vape",
+    "Wild White Hair",
+    "Hot Lipstick",
+    "Earring",
+    "Nerd Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "sov",
+      "To": "0x69021a",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Snowfro",
+      "To": "",
+      "Amount": "1\u039e ($134)",
+      "Date": "Mar 25, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Snowfro",
+      "To": "",
+      "Amount": "1\u039e ($136)",
+      "Date": "Mar 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.05\u039e ($16)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "sov",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

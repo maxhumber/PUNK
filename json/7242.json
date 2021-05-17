@@ -1,0 +1,54 @@
+{
+  "id": "7242",
+  "owner": "0xb08be767cdc33913f8e2fa44193f4e2eb5725876",
+  "attributes": [
+    "Male",
+    "Frown",
+    "Nerd Glasses",
+    "Do-rag"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x067107",
+      "To": "0xb08be7",
+      "Amount": "29.89\u039e ($105,796)",
+      "Date": "May 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29.89\u039e ($57,343)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.99\u039e ($23,534)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.91\u039e ($7,085)",
+      "Date": "Jan 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "111\u039e ($41,331)",
+      "Date": "Aug 29, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x067107",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

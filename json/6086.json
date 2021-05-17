@@ -1,0 +1,104 @@
+{
+  "id": "6086",
+  "owner": "0x5154dceeadd948111678616de0394a4544e3abe4",
+  "attributes": [
+    "Female",
+    "Pipe",
+    "Hot Lipstick",
+    "Frumpy Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x3b7f24",
+      "To": "",
+      "Amount": "29\u039e ($97,008)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3b7f24",
+      "To": "",
+      "Amount": "29\u039e ($95,629)",
+      "Date": "May 05, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xdae48d",
+      "To": "Korniej",
+      "Amount": "6\u039e ($8,114)",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Korniej",
+      "To": "",
+      "Amount": "6\u039e ($8,063)",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "MantaXR",
+      "To": "",
+      "Amount": "5.20\u039e ($6,988)",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Korniej",
+      "To": "",
+      "Amount": "5\u039e ($6,734)",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "MantaXR",
+      "To": "",
+      "Amount": "3.70\u039e ($4,983)",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x67e095",
+      "To": "",
+      "Amount": "3.50\u039e ($4,702)",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "AcceptMy\u2026",
+      "To": "",
+      "Amount": "2.50\u039e ($3,359)",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Novo311",
+      "To": "",
+      "Amount": "1\u039e ($1,344)",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($825)",
+      "Date": "Jan 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa6bb24",
+      "To": "",
+      "Amount": "0.75\u039e ($927)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xdae48d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

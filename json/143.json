@@ -1,0 +1,158 @@
+{
+  "id": "143",
+  "owner": "0x09d4083ffd20d21acb9118465ad7c52ac8b548f7",
+  "attributes": [
+    "Male",
+    "Beanie",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "249.99\u039e ($941,182)",
+      "Date": "May 16, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x99b253",
+      "To": "",
+      "Amount": "200\u039e ($633,880)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x99b253",
+      "To": "",
+      "Amount": "200\u039e ($605,022)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "299.99\u039e ($773,971)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf4b4a5",
+      "To": "",
+      "Amount": "140\u039e ($265,339)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "MrTpunks",
+      "To": "0x09d408",
+      "Amount": "165\u039e ($312,721)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf4b4a5",
+      "To": "",
+      "Amount": "140\u039e ($265,339)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "165\u039e ($312,721)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf4b4a5",
+      "To": "",
+      "Amount": "125\u039e ($238,036)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf4b4a5",
+      "To": "",
+      "Amount": "125\u039e ($238,036)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Alex3422",
+      "To": "",
+      "Amount": "4.36\u039e ($791)",
+      "Date": "Jan 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Alex3422",
+      "To": "",
+      "Amount": "4.36\u039e ($791)",
+      "Date": "Jan 30, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc352b5",
+      "To": "MrTpunks",
+      "Amount": "6.50\u039e ($1,041)",
+      "Date": "Jan 25, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "MrTpunks",
+      "To": "",
+      "Amount": "6.50\u039e ($1,061)",
+      "Date": "Jan 24, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "3\u039e ($457)",
+      "Date": "Jan 14, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "3\u039e ($432)",
+      "Date": "Jan 14, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "natealex",
+      "To": "",
+      "Amount": "2.70\u039e ($381)",
+      "Date": "Jan 06, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "natealex",
+      "To": "",
+      "Amount": "2.70\u039e ($361)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1.50\u039e ($198)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

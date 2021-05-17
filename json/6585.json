@@ -1,0 +1,110 @@
+{
+  "id": "6585",
+  "owner": "0x1e815a8188f1b84564577c1c998f7e6b4706b752",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Chinstrap",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "grunar.e\u2026",
+      "To": "",
+      "Amount": "3\u039e ($4,951)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0a4eaf\u2026",
+      "To": "digitalo\u2026",
+      "Amount": "4.17\u039e ($4,787)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "grunar.e\u2026",
+      "To": "",
+      "Amount": "3\u039e ($3,278)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.17\u039e ($5,955)",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x3b737b",
+      "To": "",
+      "Amount": "2.11\u039e ($2,793)",
+      "Date": "Jan 10, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3b737b",
+      "To": "",
+      "Amount": "2.11\u039e ($2,601)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa2ad56",
+      "To": "",
+      "Amount": "0.50\u039e ($613)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.55\u039e ($7,054)",
+      "Date": "Jan 07, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "juggerna\u2026",
+      "To": "0x0a4eaf\u2026",
+      "Amount": "0.30\u039e ($56)",
+      "Date": "Nov 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($54)",
+      "Date": "Oct 26, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($87)",
+      "Date": "Oct 18, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "juggerna\u2026",
+      "Amount": "",
+      "Date": "Oct 04, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($138)",
+      "Date": "Jul 12, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

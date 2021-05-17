@@ -1,0 +1,154 @@
+{
+  "id": "9692",
+  "owner": "0x422fac9209d91c24b3115bf7fb0ef7a3a7efbd7d",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Normal Beard Black",
+    "Earring",
+    "Shaved Head",
+    "Clown Eyes Green"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xe5e771",
+      "To": "0x422fac",
+      "Amount": "",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Dude_Nak\u2026",
+      "To": "0xe5e771",
+      "Amount": "14.95\u039e ($5,411)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.95\u039e ($5,454)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "12.95\u039e ($4,355)",
+      "Date": "Sep 24, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "futurema\u2026",
+      "To": "Dude_Nak\u2026",
+      "Amount": "1\u039e ($202)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($202)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "ethereum\u2026",
+      "To": "futurema\u2026",
+      "Amount": "",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "futurema\u2026",
+      "To": "ethereum\u2026",
+      "Amount": "",
+      "Date": "Oct 23, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Aug 29, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.38\u039e ($72)",
+      "Date": "Aug 15, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "ppp_ppp",
+      "To": "",
+      "Amount": "0.20\u039e ($42)",
+      "Date": "Aug 13, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "futurema\u2026",
+      "Amount": "0.25\u039e ($52)",
+      "Date": "Aug 13, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "ppp_ppp",
+      "To": "",
+      "Amount": "0.20\u039e ($42)",
+      "Date": "Aug 12, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($53)",
+      "Date": "Aug 12, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($63)",
+      "Date": "Aug 12, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($153)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4\u039e ($1,087)",
+      "Date": "May 27, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "sov",
+      "To": "",
+      "Amount": "0.10\u039e ($114)",
+      "Date": "Jan 11, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "sov",
+      "To": "",
+      "Amount": "0.10\u039e ($29)",
+      "Date": "Nov 07, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "9222",
+  "owner": "0x007508a6c38bcf12a30728c363968dab1be6384a",
+  "attributes": [
+    "Male",
+    "Nerd Glasses",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "50\u039e ($103,060)",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x007508",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

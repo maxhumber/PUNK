@@ -1,0 +1,39 @@
+{
+  "id": "4992",
+  "owner": "0x0e9aed5c7721c642a032812c2c4816f7d6cb87d7",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xd79b93",
+      "To": "0x0e9aed",
+      "Amount": "61.30\u039e ($196,826)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "61.30\u039e ($196,826)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x133524",
+      "To": "0xd79b93",
+      "Amount": "",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x133524",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

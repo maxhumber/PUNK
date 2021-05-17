@@ -1,0 +1,124 @@
+{
+  "id": "7745",
+  "owner": "0x450638daf0caedbdd9f8cb4a41fa1b24788b123e",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Wild Hair",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb155c5",
+      "To": "",
+      "Amount": "26\u039e ($60,531)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x034b46",
+      "To": "0x450638",
+      "Amount": "30.97\u039e ($72,101)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb155c5",
+      "To": "",
+      "Amount": "26\u039e ($58,696)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb155c5",
+      "To": "",
+      "Amount": "25\u039e ($56,439)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30.97\u039e ($74,538)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb155c5",
+      "To": "",
+      "Amount": "25\u039e ($60,170)",
+      "Date": "Apr 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31.50\u039e ($76,220)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($81,232)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "ashpool.\u2026",
+      "To": "0x034b46",
+      "Amount": "23\u039e ($49,668)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x034b46",
+      "To": "",
+      "Amount": "23\u039e ($50,174)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "Deeze",
+      "To": "",
+      "Amount": "15\u039e ($32,722)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x62bdc6",
+      "To": "",
+      "Amount": "14\u039e ($30,541)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x034b46",
+      "To": "",
+      "Amount": "13.50\u039e ($29,450)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($391)",
+      "Date": "Oct 29, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($368)",
+      "Date": "Oct 20, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "ashpool.\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

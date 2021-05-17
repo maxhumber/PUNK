@@ -1,0 +1,19 @@
+{
+  "id": "9738",
+  "owner": "0x729fcb34c7c84af5fb9a4ad514bae745d30c9aab",
+  "attributes": [
+    "Male",
+    "Messy Hair",
+    "Luxurious Beard",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x729fcb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

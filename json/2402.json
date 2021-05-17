@@ -1,0 +1,75 @@
+{
+  "id": "2402",
+  "owner": "0x3bb0fe1d19e1f10a457cd3d26cd0db78dfdd677e",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Earring",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "Mr_0x",
+      "To": "0x3bb0fe",
+      "Amount": "",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($393)",
+      "Date": "Oct 26, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "1\u039e ($368)",
+      "Date": "Oct 20, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8ba3e2",
+      "To": "Mr_0x",
+      "Amount": "0.58\u039e ($81)",
+      "Date": "Mar 20, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.58\u039e ($81)",
+      "Date": "Mar 19, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xb6be4d",
+      "To": "0x8ba3e2",
+      "Amount": "0.09\u039e ($26)",
+      "Date": "Nov 01, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x8ba3e2",
+      "To": "",
+      "Amount": "0.07\u039e ($20)",
+      "Date": "Nov 01, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.09\u039e ($26)",
+      "Date": "Nov 01, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xb6be4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

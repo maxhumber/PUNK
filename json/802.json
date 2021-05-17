@@ -1,0 +1,53 @@
+{
+  "id": "802",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1\u039e ($136)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "1\u039e ($132)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Mr_0x",
+      "To": "",
+      "Amount": "0.30\u039e ($41)",
+      "Date": "Feb 28, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Mr_0x",
+      "To": "",
+      "Amount": "0.10\u039e ($14)",
+      "Date": "Feb 28, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "Mr_0x",
+      "To": "",
+      "Amount": "0.10\u039e ($12)",
+      "Date": "Feb 11, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

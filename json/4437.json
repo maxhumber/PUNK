@@ -1,0 +1,116 @@
+{
+  "id": "4437",
+  "owner": "0x0bc95f14395270a3c236ca1e15d77fb77b66c0a1",
+  "attributes": [
+    "Male",
+    "Fedora",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7a612b",
+      "To": "",
+      "Amount": "60\u039e ($212,312)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7a612b",
+      "To": "",
+      "Amount": "60\u039e ($197,664)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x052564",
+      "To": "",
+      "Amount": "55\u039e ($180,606)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x052564",
+      "To": "",
+      "Amount": "55\u039e ($161,792)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x052564",
+      "To": "",
+      "Amount": "47\u039e ($125,950)",
+      "Date": "Apr 28, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "60\u039e ($145,404)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "75\u039e ($175,967)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "60\u039e ($135,727)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69\u039e ($156,086)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x940a26",
+      "To": "",
+      "Amount": "20\u039e ($31,732)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x940a26",
+      "To": "",
+      "Amount": "20\u039e ($32,905)",
+      "Date": "Feb 25, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x003a97",
+      "To": "l1qu1d",
+      "Amount": "",
+      "Date": "Jan 25, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x0a4eaf\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($56)",
+      "Date": "Jul 24, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0a4eaf\u2026",
+      "To": "",
+      "Amount": "0.25\u039e ($42)",
+      "Date": "Jul 15, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x003a97",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

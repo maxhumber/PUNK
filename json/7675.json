@@ -1,0 +1,40 @@
+{
+  "id": "7675",
+  "owner": "0x20af8cccbce9013a9c0718046f49e1af9b238c08",
+  "attributes": [
+    "Male",
+    "Muttonchops",
+    "Earring",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x47d4f2",
+      "To": "0x20af8c",
+      "Amount": "22.90\u039e ($37,524)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.90\u039e ($37,760)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.70\u039e ($42,386)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x47d4f2",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

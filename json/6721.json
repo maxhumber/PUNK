@@ -1,0 +1,102 @@
+{
+  "id": "6721",
+  "owner": "0x18ee9cebca35d323068e5edc5b41ffca11d605b9",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Smile"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "299\u039e ($875,325)",
+      "Date": "May 02, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x18ee9c",
+      "Amount": "150\u039e ($394,972)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x052564",
+      "To": "",
+      "Amount": "115\u039e ($242,126)",
+      "Date": "Apr 20, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "150\u039e ($324,255)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x052564",
+      "To": "",
+      "Amount": "115\u039e ($253,641)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "100\u039e ($245,689)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "100\u039e ($226,211)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x29664e",
+      "To": "",
+      "Amount": "80\u039e ($171,741)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x29664e",
+      "To": "",
+      "Amount": "80\u039e ($171,741)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x052564",
+      "To": "",
+      "Amount": "50\u039e ($103,694)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x656c90",
+      "To": "0x6611fe",
+      "Amount": "0.61\u039e ($116)",
+      "Date": "Jul 17, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6611fe",
+      "To": "",
+      "Amount": "0.61\u039e ($150)",
+      "Date": "Jul 08, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x656c90",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

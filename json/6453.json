@@ -1,0 +1,82 @@
+{
+  "id": "6453",
+  "owner": "0xbd17e0c2d7ab5cc7c3aeb00219c9213863e44084",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Bandana",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x196a3d",
+      "To": "0xbd17e0",
+      "Amount": "",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x88e759",
+      "To": "",
+      "Amount": "3\u039e ($1,222)",
+      "Date": "Oct 28, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x88e759",
+      "To": "",
+      "Amount": "3\u039e ($1,242)",
+      "Date": "Oct 24, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.50\u039e ($2,799)",
+      "Date": "Oct 12, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8ad68e",
+      "To": "0x196a3d",
+      "Amount": "2\u039e ($775)",
+      "Date": "Sep 13, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($451)",
+      "Date": "Jul 24, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x682c30",
+      "To": "0x8ad68e",
+      "Amount": "0.49\u039e ($110)",
+      "Date": "Jul 24, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.49\u039e ($97)",
+      "Date": "Jul 14, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x682c30",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

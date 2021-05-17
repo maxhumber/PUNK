@@ -1,0 +1,96 @@
+{
+  "id": "6631",
+  "owner": "0xa910fab85e318a449689a9733d398b4da7711714",
+  "attributes": [
+    "Female",
+    "Purple Eye Shadow",
+    "Hot Lipstick",
+    "Half Shaved"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "VonMises",
+      "To": "0xa910fa",
+      "Amount": "35\u039e ($66,012)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "35\u039e ($63,348)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xaf5e63",
+      "To": "VonMises",
+      "Amount": "",
+      "Date": "May 07, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "1.20\u039e ($240)",
+      "Date": "May 04, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0xaf5e63",
+      "Amount": "1.33\u039e ($266)",
+      "Date": "May 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.33\u039e ($283)",
+      "Date": "May 02, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaf5e63",
+      "To": "",
+      "Amount": "1.20\u039e ($255)",
+      "Date": "May 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($263)",
+      "Date": "Jan 19, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.70\u039e ($117)",
+      "Date": "Jan 14, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.70\u039e ($100)",
+      "Date": "Jan 11, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe4d36b",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe4d36b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "2619",
+  "owner": "0x4cc53c9fe95839843dcce489f994ca0056af8aec",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Front Beard Dark",
+    "Earring",
+    "Horned Rim Glasses",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x42f3f7",
+      "To": "",
+      "Amount": "55\u039e ($180,759)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x42f3f7",
+      "To": "",
+      "Amount": "55\u039e ($185,382)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "99\u039e ($182,965)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Kenney",
+      "To": "0x4cc53c",
+      "Amount": "53.50\u039e ($99,026)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x4cc53c",
+      "To": "",
+      "Amount": "53.50\u039e ($99,026)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdc5556",
+      "To": "",
+      "Amount": "10\u039e ($18,162)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdc5556",
+      "To": "",
+      "Amount": "10\u039e ($18,262)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69.99\u039e ($129,464)",
+      "Date": "Mar 10, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "Kenney",
+      "Amount": "0.17\u039e ($196)",
+      "Date": "Jan 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.17\u039e ($134)",
+      "Date": "Dec 21, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

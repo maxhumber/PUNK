@@ -1,0 +1,96 @@
+{
+  "id": "9479",
+  "owner": "0x8ca89c56aefd379baa15e0ec91c7f5ae7f5b096f",
+  "attributes": [
+    "Female",
+    "Blue Eye Shadow",
+    "Silver Chain",
+    "Pink With Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xd582a5",
+      "To": "",
+      "Amount": "1\u039e ($429)",
+      "Date": "Aug 16, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd582a5",
+      "To": "",
+      "Amount": "1\u039e ($323)",
+      "Date": "Jul 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xf5099e",
+      "To": "0x8ca89c",
+      "Amount": "0.75\u039e ($520)",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.75\u039e ($343)",
+      "Date": "Dec 02, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa0a59c",
+      "To": "0xf5099e",
+      "Amount": "",
+      "Date": "Aug 11, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x22ff03",
+      "To": "0xa0a59c",
+      "Amount": "0.40\u039e ($124)",
+      "Date": "Aug 11, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.40\u039e ($119)",
+      "Date": "Aug 10, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd8e806",
+      "To": "",
+      "Amount": "0.31\u039e ($92)",
+      "Date": "Aug 10, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa0a59c",
+      "To": "",
+      "Amount": "0.30\u039e ($89)",
+      "Date": "Aug 10, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd8e806",
+      "To": "",
+      "Amount": "0.20\u039e ($60)",
+      "Date": "Aug 10, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x22ff03",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

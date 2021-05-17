@@ -1,0 +1,88 @@
+{
+  "id": "1044",
+  "owner": "0x2ac2a4b5774f124cdc778f966cd9bea563fb9f6a",
+  "attributes": [
+    "Male",
+    "Normal Beard",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x1d337f",
+      "To": "0x2ac2a4",
+      "Amount": "27.70\u039e ($49,974)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x023ef7",
+      "To": "",
+      "Amount": "18.25\u039e ($32,464)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x023ef7",
+      "To": "",
+      "Amount": "18.25\u039e ($32,877)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27.70\u039e ($50,049)",
+      "Date": "Mar 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "31.40\u039e ($53,758)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xb166dd",
+      "To": "0x1d337f",
+      "Amount": "",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xce6969",
+      "To": "",
+      "Amount": "18.50\u039e ($36,275)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xce6969",
+      "To": "",
+      "Amount": "18.50\u039e ($35,945)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x5b098b",
+      "To": "0xb166dd",
+      "Amount": "7.90\u039e ($13,489)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.90\u039e ($13,492)",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

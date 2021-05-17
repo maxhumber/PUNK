@@ -1,0 +1,95 @@
+{
+  "id": "5289",
+  "owner": "0xdde8df9a7dc9f68bdac815f493d1d731de911b5a",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Handlebars"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x46b4fa",
+      "To": "",
+      "Amount": "1.76\u039e ($2,665)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x46b4fa",
+      "To": "",
+      "Amount": "1.76\u039e ($2,325)",
+      "Date": "Feb 01, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "Kenney",
+      "Amount": "0.15\u039e ($152)",
+      "Date": "Jan 18, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.15\u039e ($145)",
+      "Date": "Jan 05, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($103)",
+      "Date": "Dec 11, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($84)",
+      "Date": "Nov 14, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($99)",
+      "Date": "Sep 19, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "juggerna\u2026",
+      "To": "",
+      "Amount": "0.20\u039e ($54)",
+      "Date": "Aug 07, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "juggerna\u2026",
+      "To": "",
+      "Amount": "0.20\u039e ($44)",
+      "Date": "Aug 04, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($230)",
+      "Date": "Jul 22, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($381)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Cyborg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

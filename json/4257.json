@@ -1,0 +1,82 @@
+{
+  "id": "4257",
+  "owner": "0xdbf58407556c99ec0ec743f4c2549fcfa467fa67",
+  "attributes": [
+    "Female",
+    "Purple Eye Shadow",
+    "Mohawk Thin",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Hex",
+      "To": "0xdbf584",
+      "Amount": "10.50\u039e ($16,216)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10.50\u039e ($15,968)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "2pac",
+      "To": "",
+      "Amount": "4.50\u039e ($3,298)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "2pac",
+      "To": "",
+      "Amount": "4.50\u039e ($3,298)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xde0193",
+      "To": "Hex",
+      "Amount": "4\u039e ($2,931)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Hex",
+      "To": "",
+      "Amount": "4\u039e ($2,931)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "2pac",
+      "To": "",
+      "Amount": "3.80\u039e ($2,785)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5554a0",
+      "To": "",
+      "Amount": "3\u039e ($2,198)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Zonked",
+      "To": "",
+      "Amount": "2.80\u039e ($2,052)",
+      "Date": "Dec 31, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xde0193",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

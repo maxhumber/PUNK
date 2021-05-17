@@ -1,0 +1,96 @@
+{
+  "id": "9494",
+  "owner": "0x609630f177090662bf270b72378921063811559e",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "VR",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xc7ded8",
+      "To": "",
+      "Amount": "15\u039e ($25,887)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7ded8",
+      "To": "",
+      "Amount": "15\u039e ($24,663)",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "94.94\u039e ($141,957)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xda6bb8",
+      "To": "0x609630",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "ddaavvee",
+      "To": "0xda6bb8",
+      "Amount": "9.40\u039e ($16,323)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x257e2b",
+      "To": "",
+      "Amount": "6.70\u039e ($2,287)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x257e2b",
+      "To": "",
+      "Amount": "6.70\u039e ($2,283)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9.40\u039e ($3,255)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7f1382",
+      "To": "",
+      "Amount": "0.08\u039e ($43)",
+      "Date": "Apr 19, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7f1382",
+      "To": "",
+      "Amount": "0.08\u039e ($43)",
+      "Date": "Apr 19, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

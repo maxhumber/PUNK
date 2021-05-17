@@ -1,0 +1,74 @@
+{
+  "id": "7423",
+  "owner": "0x4d92ad3932218b0fcaf7605f225af1965d4f06c3",
+  "attributes": [
+    "Male",
+    "Peak Spike",
+    "3D Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "sartoshi\u2026",
+      "To": "",
+      "Amount": "16\u039e ($64,202)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "sartoshi\u2026",
+      "To": "",
+      "Amount": "16\u039e ($66,069)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x967ee5",
+      "To": "",
+      "Amount": "1.50\u039e ($2,207)",
+      "Date": "Mar 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x967ee5",
+      "To": "",
+      "Amount": "1.50\u039e ($2,049)",
+      "Date": "Feb 28, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "jmg",
+      "To": "0x4d92ad",
+      "Amount": "0.79\u039e ($209)",
+      "Date": "May 16, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.79\u039e ($152)",
+      "Date": "May 11, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "jmg",
+      "Amount": "0.30\u039e ($52)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.30\u039e ($52)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

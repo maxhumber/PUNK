@@ -1,0 +1,90 @@
+{
+  "id": "9180",
+  "owner": "0x81facc69908d9c1188280fbb2793567de39f8f9b",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Luxurious Beard",
+    "Big Shades",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.78\u039e ($1,084)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.78\u039e ($323)",
+      "Date": "Oct 22, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "friskynf\u2026",
+      "To": "",
+      "Amount": "4\u039e ($1,380)",
+      "Date": "Sep 21, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "friskynf\u2026",
+      "To": "",
+      "Amount": "4\u039e ($1,480)",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($3,705)",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 04, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($4,669)",
+      "Date": "Dec 04, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "Ajiyl",
+      "Amount": "0.10\u039e ($46)",
+      "Date": "Dec 03, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($37)",
+      "Date": "Nov 20, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

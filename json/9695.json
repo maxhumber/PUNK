@@ -1,0 +1,89 @@
+{
+  "id": "9695",
+  "owner": "0x649f69ccd077da03dfb11f4b1daab4b625f5e9a3",
+  "attributes": [
+    "Male",
+    "Goat",
+    "Crazy Hair",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xd191b1",
+      "To": "0x649f69",
+      "Amount": "",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "30\u039e ($101,508)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xfa793f",
+      "To": "0xd191b1",
+      "Amount": "",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xd4f513",
+      "To": "0xfa793f",
+      "Amount": "",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "100\u039e ($167,267)",
+      "Date": "Mar 26, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xf4a775",
+      "To": "0xd4f513",
+      "Amount": "",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x00d7c9",
+      "To": "0xf4a775",
+      "Amount": "0.10\u039e ($47)",
+      "Date": "Dec 04, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.10\u039e ($37)",
+      "Date": "Nov 20, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.25\u039e ($65)",
+      "Date": "Sep 17, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.30\u039e ($97)",
+      "Date": "Aug 21, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

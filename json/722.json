@@ -1,0 +1,61 @@
+{
+  "id": "722",
+  "owner": "0x89d5387bd2bfedb3c8a869f0dbe6d3296859470a",
+  "attributes": [
+    "Male",
+    "Normal Beard Black",
+    "Big Shades",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7ed716",
+      "To": "",
+      "Amount": "22\u039e ($42,228)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7ed716",
+      "To": "",
+      "Amount": "22\u039e ($37,045)",
+      "Date": "Mar 28, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x0d4678",
+      "To": "",
+      "Amount": "3\u039e ($4,780)",
+      "Date": "Mar 25, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x63ec60",
+      "To": "",
+      "Amount": "0\u039e ($17)",
+      "Date": "Mar 16, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 14, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0x89d538",
+      "Amount": "",
+      "Date": "Dec 13, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

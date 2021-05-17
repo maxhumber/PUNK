@@ -1,0 +1,33 @@
+{
+  "id": "4297",
+  "owner": "0xb394f1aa30ba874df3ae6097bf4c2474b2d8f3ac",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Shadow Beard",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "Hans",
+      "Amount": "8.20\u039e ($14,941)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.20\u039e ($14,964)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

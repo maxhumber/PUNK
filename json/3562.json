@@ -1,0 +1,40 @@
+{
+  "id": "3562",
+  "owner": "0xc70a09dd6944cbb4ebd02db4fc506d407b095a29",
+  "attributes": [
+    "Male",
+    "Clown Eyes Blue",
+    "Mohawk Thin",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "daLenz",
+      "To": "daLenz_v\u2026",
+      "Amount": "",
+      "Date": "Nov 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "daLenz",
+      "Amount": "1.30\u039e ($307)",
+      "Date": "Jun 12, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "daLenz",
+      "To": "",
+      "Amount": "1.30\u039e ($307)",
+      "Date": "Jun 12, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

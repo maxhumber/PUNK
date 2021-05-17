@@ -1,0 +1,68 @@
+{
+  "id": "7791",
+  "owner": "0x283d4f6752f4d2d112cce4bc5c55fb1955d76b83",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Hot Lipstick",
+    "Half Shaved"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "snax",
+      "To": "0x283d4f",
+      "Amount": "8.50\u039e ($14,786)",
+      "Date": "Feb 10, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.42\u039e ($522)",
+      "Date": "Jan 18, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbfa319",
+      "To": "",
+      "Amount": "0.42\u039e ($159)",
+      "Date": "Oct 15, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.50\u039e ($3,012)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "snax",
+      "Amount": "0.16\u039e ($184)",
+      "Date": "Jan 20, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.16\u039e ($130)",
+      "Date": "Dec 19, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe4d36b",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe4d36b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

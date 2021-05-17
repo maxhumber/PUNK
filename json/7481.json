@@ -1,0 +1,40 @@
+{
+  "id": "7481",
+  "owner": "0x32dd0756316b31d731aa6ae0f60b9b560e0ed92c",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Wild Hair",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0x32dd07",
+      "Amount": "11\u039e ($20,174)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11\u039e ($20,005)",
+      "Date": "Feb 17, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 31, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

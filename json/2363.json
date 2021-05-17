@@ -1,0 +1,47 @@
+{
+  "id": "2363",
+  "owner": "0x2649c4628da55e874c85fa0bcb189777cd41b8ad",
+  "attributes": [
+    "Male",
+    "Nerd Glasses",
+    "Normal Beard",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "seel.eth",
+      "To": "0x2649c4",
+      "Amount": "10\u039e ($18,172)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($18,172)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xcc7c33",
+      "To": "seel.eth",
+      "Amount": "8.44\u039e ($15,345)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.44\u039e ($15,182)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcc7c33",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

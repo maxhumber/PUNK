@@ -1,0 +1,55 @@
+{
+  "id": "5110",
+  "owner": "0x41a3c90f8084878762946584b318bf6f44263b83",
+  "attributes": [
+    "Male",
+    "Earring",
+    "Nerd Glasses",
+    "Goat",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x23b50b",
+      "To": "",
+      "Amount": "23.80\u039e ($40,385)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xa3cb30",
+      "To": "0x41a3c9",
+      "Amount": "28.99\u039e ($49,413)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x23b50b",
+      "To": "",
+      "Amount": "23.80\u039e ($40,942)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "28.99\u039e ($52,033)",
+      "Date": "Mar 22, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

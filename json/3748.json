@@ -1,0 +1,74 @@
+{
+  "id": "3748",
+  "owner": "0x5154dceeadd948111678616de0394a4544e3abe4",
+  "attributes": [
+    "Male",
+    "Clown Eyes Blue",
+    "Police Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x95749c",
+      "To": "",
+      "Amount": "8.90\u039e ($15,886)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x95749c",
+      "To": "",
+      "Amount": "8.90\u039e ($16,238)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x585f98",
+      "To": "Korniej",
+      "Amount": "6.50\u039e ($4,177)",
+      "Date": "Dec 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.50\u039e ($2,522)",
+      "Date": "Oct 12, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($2,807)",
+      "Date": "Oct 08, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.07\u039e ($22)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.07\u039e ($22)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "sov",
+      "To": "",
+      "Amount": "0.07\u039e ($22)",
+      "Date": "Jun 28, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x585f98",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

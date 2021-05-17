@@ -1,0 +1,104 @@
+{
+  "id": "8326",
+  "owner": "0xc70a09dd6944cbb4ebd02db4fc506d407b095a29",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Green Eye Shadow",
+    "Mohawk Thin",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "daLenz",
+      "To": "daLenz_v\u2026",
+      "Amount": "",
+      "Date": "Nov 08, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Pranksy",
+      "To": "daLenz",
+      "Amount": "0.95\u039e ($218)",
+      "Date": "Jul 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "daLenz",
+      "To": "",
+      "Amount": "0.95\u039e ($218)",
+      "Date": "Jul 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.99\u039e ($403)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.49\u039e ($264)",
+      "Date": "Jan 18, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.99\u039e ($134)",
+      "Date": "Jan 05, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "Pranksy",
+      "Amount": "0.57\u039e ($77)",
+      "Date": "Jan 04, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.57\u039e ($112)",
+      "Date": "Jul 14, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x682c30",
+      "To": "0x6611fe",
+      "Amount": "0.35\u039e ($86)",
+      "Date": "Jul 08, 2017"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.04\u039e ($10)",
+      "Date": "Jul 04, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.04\u039e ($11)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($98)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x682c30",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

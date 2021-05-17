@@ -1,0 +1,32 @@
+{
+  "id": "5483",
+  "owner": "0x7a341c8d5f04e55f907c3b1ef5c6c74b5add01c6",
+  "attributes": [
+    "Male",
+    "Chinstrap",
+    "Wild Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x0bf913",
+      "To": "0x7a341c",
+      "Amount": "0.14\u039e ($41)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.14\u039e ($41)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x0bf913",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "9382",
+  "owner": "0xa25803ab86a327786bb59395fc0164d826b98298",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Purple Hair",
+    "Earring",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "Wilcox",
+      "To": "0xa25803",
+      "Amount": "",
+      "Date": "Apr 25, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "Wilcox",
+      "Amount": "",
+      "Date": "Sep 11, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "GtC",
+      "To": "",
+      "Amount": "0.25\u039e ($45)",
+      "Date": "Sep 03, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "GtC",
+      "To": "",
+      "Amount": "0.25\u039e ($45)",
+      "Date": "Sep 03, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($138)",
+      "Date": "Jul 12, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

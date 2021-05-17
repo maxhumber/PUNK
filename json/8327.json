@@ -1,0 +1,54 @@
+{
+  "id": "8327",
+  "owner": "0x75863c5dd30fc162d7e6b30a6caf015cc4c066c6",
+  "attributes": [
+    "Male",
+    "Big Shades",
+    "Goat",
+    "Knitted Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xcd2c66",
+      "To": "astheale\u2026",
+      "Amount": "25.85\u039e ($55,349)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "25.85\u039e ($55,460)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0xcd2c66",
+      "Amount": "1\u039e ($400)",
+      "Date": "Aug 04, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcd2c66",
+      "To": "",
+      "Amount": "1\u039e ($245)",
+      "Date": "Jun 11, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($331)",
+      "Date": "May 29, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

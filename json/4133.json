@@ -1,0 +1,95 @@
+{
+  "id": "4133",
+  "owner": "0xbb1ec73938b9df4baab4f5c43af96385a862811e",
+  "attributes": [
+    "Female",
+    "Green Eye Shadow",
+    "Wild Blonde"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x062c54",
+      "To": "0xbb1ec7",
+      "Amount": "55\u039e ($192,134)",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbb1ec7",
+      "To": "",
+      "Amount": "55\u039e ($193,244)",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "85\u039e ($285,574)",
+      "Date": "May 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xa3cb30",
+      "To": "0x062c54",
+      "Amount": "",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "DANNY",
+      "To": "",
+      "Amount": "8\u039e ($2,721)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "DANNY",
+      "To": "",
+      "Amount": "8\u039e ($2,713)",
+      "Date": "Oct 07, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Carlini8",
+      "To": "",
+      "Amount": "5\u039e ($1,734)",
+      "Date": "Oct 06, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Carlini8",
+      "To": "",
+      "Amount": "5\u039e ($1,756)",
+      "Date": "Oct 06, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "0.20\u039e ($70)",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd9f",
+      "To": "0xa3cb30",
+      "Amount": "",
+      "Date": "Mar 07, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x5b098b",
+      "To": "",
+      "Amount": "0.20\u039e ($67)",
+      "Date": "Oct 13, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00bd9f",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

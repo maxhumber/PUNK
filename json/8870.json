@@ -1,0 +1,343 @@
+{
+  "id": "8870",
+  "owner": "0xf3cad40f7f7b43ae2a4226a8c53420569458710c",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Luxurious Beard",
+    "Big Shades",
+    "Earring",
+    "Top Hat"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x701f37",
+      "To": "0xf3cad4",
+      "Amount": "",
+      "Date": "May 07, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "200\u039e ($484,680)",
+      "Date": "Apr 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "200\u039e ($459,902)",
+      "Date": "Apr 13, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "175\u039e ($374,183)",
+      "Date": "Apr 11, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x78b58e",
+      "To": "",
+      "Amount": "175\u039e ($364,285)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Apr 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "415\u039e ($809,213)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "415\u039e ($809,213)",
+      "Date": "Apr 01, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "180\u039e ($320,699)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3bb0fe",
+      "To": "0x701f37",
+      "Amount": "120\u039e ($201,478)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "5\u039e ($6,599)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe369a8",
+      "To": "",
+      "Amount": "5\u039e ($6,636)",
+      "Date": "Jan 25, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x54ca97",
+      "To": "",
+      "Amount": "6.50\u039e ($8,057)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x54ca97",
+      "To": "",
+      "Amount": "6.50\u039e ($7,649)",
+      "Date": "Jan 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "120\u039e ($46,214)",
+      "Date": "Sep 19, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "80\u039e ($16,110)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "DANNY",
+      "To": "",
+      "Amount": "2\u039e ($426)",
+      "Date": "May 20, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "DANNY",
+      "To": "",
+      "Amount": "2\u039e ($370)",
+      "Date": "May 11, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "DANNY",
+      "To": "",
+      "Amount": "1.70\u039e ($314)",
+      "Date": "May 11, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "DANNY",
+      "To": "",
+      "Amount": "1.70\u039e ($372)",
+      "Date": "May 03, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "ark1",
+      "To": "0x3bb0fe",
+      "Amount": "1.20\u039e ($147)",
+      "Date": "Dec 17, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Zieg",
+      "To": "ark1",
+      "Amount": "",
+      "Date": "Nov 27, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3bb0fe",
+      "To": "",
+      "Amount": "1.20\u039e ($184)",
+      "Date": "Nov 27, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($370)",
+      "Date": "Nov 26, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "el",
+      "To": "",
+      "Amount": "1\u039e ($148)",
+      "Date": "Nov 26, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.99\u039e ($443)",
+      "Date": "Nov 26, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "4.99\u039e ($908)",
+      "Date": "Nov 03, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "9\u039e ($1,683)",
+      "Date": "Oct 14, 2019"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Sep 02, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.25\u039e ($707)",
+      "Date": "Aug 01, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.50\u039e ($1,008)",
+      "Date": "Jul 06, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.75\u039e ($198)",
+      "Date": "Jun 18, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "jmg",
+      "To": "",
+      "Amount": "0.75\u039e ($202)",
+      "Date": "Jun 15, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xa80be8\u2026",
+      "To": "",
+      "Amount": "0.14\u039e ($16)",
+      "Date": "Dec 20, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa80be8\u2026",
+      "To": "",
+      "Amount": "0.14\u039e ($86)",
+      "Date": "Apr 20, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 21, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($255)",
+      "Date": "Sep 20, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.50\u039e ($441)",
+      "Date": "Sep 12, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Aug 30, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.50\u039e ($552)",
+      "Date": "Aug 04, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 29, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.90\u039e ($387)",
+      "Date": "Jul 25, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 17, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2\u039e ($394)",
+      "Date": "Jul 14, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Zieg",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

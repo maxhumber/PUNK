@@ -1,0 +1,67 @@
+{
+  "id": "2070",
+  "owner": "0x890dbc463f22c164c192ed0e3accdd99c5494f4f",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Headband"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "32\u039e ($62,229)",
+      "Date": "Feb 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdfe5f1",
+      "To": "",
+      "Amount": "0.08\u039e ($64)",
+      "Date": "Feb 28, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x890dbc",
+      "Amount": "0.12\u039e ($100)",
+      "Date": "Feb 24, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdfe5f1",
+      "To": "",
+      "Amount": "0.08\u039e ($63)",
+      "Date": "Feb 21, 2018"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xbc8da2",
+      "To": "",
+      "Amount": "0.05\u039e ($39)",
+      "Date": "Dec 21, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xbc8da2",
+      "To": "",
+      "Amount": "0.05\u039e ($41)",
+      "Date": "Dec 19, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.12\u039e ($83)",
+      "Date": "Dec 14, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

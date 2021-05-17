@@ -1,0 +1,53 @@
+{
+  "id": "8333",
+  "owner": "0x00fef499b2624ce9b1526ffb6c37dec77da6eb0f",
+  "attributes": [
+    "Male",
+    "Frumpy Hair",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x2a3bcc",
+      "To": "",
+      "Amount": "6\u039e ($10,903)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x2a3bcc",
+      "To": "",
+      "Amount": "6\u039e ($11,145)",
+      "Date": "Feb 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xa66f42",
+      "To": "",
+      "Amount": "0.50\u039e ($644)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf4ed4f",
+      "To": "",
+      "Amount": "0.03\u039e ($39)",
+      "Date": "Jan 26, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 14, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00fef4",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

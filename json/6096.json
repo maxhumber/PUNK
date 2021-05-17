@@ -1,0 +1,39 @@
+{
+  "id": "6096",
+  "owner": "0xdc9e112ab6859b519dd51548c64894496bb38faf",
+  "attributes": [
+    "Female",
+    "Green Eye Shadow",
+    "Mohawk Thin"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x938bd2",
+      "To": "0xdc9e11",
+      "Amount": "",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x577ebc",
+      "To": "0x938bd2",
+      "Amount": "",
+      "Date": "Feb 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x28b564",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x28b564",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

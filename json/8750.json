@@ -1,0 +1,96 @@
+{
+  "id": "8750",
+  "owner": "0xe83c750b2708320bb134796c555b80df39a3d97b",
+  "attributes": [
+    "Female",
+    "Orange Side",
+    "Black Lipstick",
+    "Rosy Cheeks"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "2pac",
+      "To": "",
+      "Amount": "14\u039e ($7,125)",
+      "Date": "Nov 20, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "2pac",
+      "To": "",
+      "Amount": "14\u039e ($7,133)",
+      "Date": "Nov 20, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "9.50\u039e ($1,962)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "9.50\u039e ($1,962)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "GoWest23",
+      "To": "",
+      "Amount": "9\u039e ($1,856)",
+      "Date": "May 23, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "GoWest23",
+      "To": "",
+      "Amount": "9\u039e ($1,846)",
+      "Date": "May 22, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x470e9b",
+      "To": "Snowfro",
+      "Amount": "3.50\u039e ($505)",
+      "Date": "Mar 29, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.50\u039e ($680)",
+      "Date": "Jul 19, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.30\u039e ($80)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc352b5",
+      "To": "",
+      "Amount": "0.30\u039e ($80)",
+      "Date": "Jul 06, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($14)",
+      "Date": "Jun 25, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x470e9b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

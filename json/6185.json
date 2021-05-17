@@ -1,0 +1,46 @@
+{
+  "id": "6185",
+  "owner": "0x20ee31efb8e96d346ceb065b993494d136368e96",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Normal Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x48db19",
+      "To": "Choyna",
+      "Amount": "1.10\u039e ($248)",
+      "Date": "Jun 30, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Choyna",
+      "To": "",
+      "Amount": "1\u039e ($225)",
+      "Date": "Jun 30, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Choyna",
+      "To": "",
+      "Amount": "1\u039e ($225)",
+      "Date": "Jun 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.10\u039e ($267)",
+      "Date": "Jun 23, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x48db19",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

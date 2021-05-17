@@ -1,0 +1,39 @@
+{
+  "id": "1239",
+  "owner": "0xc5faf10fe84467422a78c39e591bced4f6c71462",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Big Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "25\u039e ($52,038)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "wookie.e\u2026",
+      "To": "",
+      "Amount": "25\u039e ($52,285)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "curating\u2026",
+      "To": "0xc5faf1",
+      "Amount": "",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "curating\u2026",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

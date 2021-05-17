@@ -1,0 +1,60 @@
+{
+  "id": "923",
+  "owner": "0x84d34f4f83a87596cd3fb6887cff8f17bf5a7b83",
+  "attributes": [
+    "Male",
+    "Mohawk Thin",
+    "Shadow Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x0055cd",
+      "To": "0x84d34f",
+      "Amount": "19.89\u039e ($36,057)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.89\u039e ($34,718)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($34,910)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x2cbee4",
+      "To": "0x0055cd",
+      "Amount": "",
+      "Date": "Mar 07, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x35388c",
+      "To": "0x2cbee4",
+      "Amount": "",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xc352b5",
+      "To": "0x35388c",
+      "Amount": "",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

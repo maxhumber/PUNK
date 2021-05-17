@@ -1,0 +1,34 @@
+{
+  "id": "4280",
+  "owner": "0x4a3e3f2ac93042a613efb31a9336a309754a0fce",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Frown",
+    "Shadow Beard",
+    "Regular Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0x4a3e3f",
+      "Amount": "14.99\u039e ($29,000)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "14.99\u039e ($28,498)",
+      "Date": "Feb 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

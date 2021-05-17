@@ -1,0 +1,76 @@
+{
+  "id": "1624",
+  "owner": "0xdde8df9a7dc9f68bdac815f493d1d731de911b5a",
+  "attributes": [
+    "Male",
+    "Bandana",
+    "Chinstrap",
+    "Earring",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "capital_\u2026",
+      "To": "",
+      "Amount": "3\u039e ($1,795)",
+      "Date": "Dec 06, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "capital_\u2026",
+      "To": "",
+      "Amount": "3\u039e ($1,523)",
+      "Date": "Nov 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x01d897",
+      "To": "Kenney",
+      "Amount": "0.09\u039e ($87)",
+      "Date": "Feb 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.09\u039e ($87)",
+      "Date": "Feb 03, 2018"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Feb 03, 2018"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.30\u039e ($853)",
+      "Date": "Dec 12, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "0x01d897",
+      "Amount": "0.13\u039e ($85)",
+      "Date": "Dec 12, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.13\u039e ($85)",
+      "Date": "Dec 12, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

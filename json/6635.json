@@ -1,0 +1,54 @@
+{
+  "id": "6635",
+  "owner": "0x0e9aed5c7721c642a032812c2c4816f7d6cb87d7",
+  "attributes": [
+    "Male",
+    "Front Beard",
+    "Cap Forward",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xb11c61",
+      "To": "",
+      "Amount": "15.50\u039e ($52,687)",
+      "Date": "May 17, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xb11c61",
+      "To": "",
+      "Amount": "15.50\u039e ($62,195)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "17.99\u039e ($68,087)",
+      "Date": "May 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x8b27de",
+      "To": "0x0e9aed",
+      "Amount": "20\u039e ($78,267)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "20\u039e ($78,267)",
+      "Date": "May 10, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x8b27de",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

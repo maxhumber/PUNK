@@ -1,0 +1,47 @@
+{
+  "id": "1399",
+  "owner": "0x5d89cc281c3f45433d93a33e1c64958b61bbef7b",
+  "attributes": [
+    "Female",
+    "Black Lipstick",
+    "Wild Hair",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xa1e4f7",
+      "To": "0x5d89cc",
+      "Amount": "",
+      "Date": "May 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x938bd2",
+      "To": "0xa1e4f7",
+      "Amount": "",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x577ebc",
+      "To": "0x938bd2",
+      "Amount": "",
+      "Date": "Feb 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

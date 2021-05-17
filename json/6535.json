@@ -1,0 +1,103 @@
+{
+  "id": "6535",
+  "owner": "0x5bb4fffef211f4aa96ab22a446fdeed2e9fb457e",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Mohawk Thin",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Theodora",
+      "To": "0x5bb4ff",
+      "Amount": "21.92\u039e ($41,790)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.92\u039e ($43,246)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x3a8441",
+      "To": "Theodora",
+      "Amount": "0.90\u039e ($317)",
+      "Date": "Sep 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.90\u039e ($304)",
+      "Date": "Sep 09, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($243)",
+      "Date": "Jun 23, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Wilcox",
+      "To": "0x3a8441",
+      "Amount": "",
+      "Date": "Jun 23, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x3a8441",
+      "To": "Wilcox",
+      "Amount": "",
+      "Date": "Jun 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($232)",
+      "Date": "Jun 17, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.49\u039e ($303)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Wilcox",
+      "To": "0x3a8441",
+      "Amount": "",
+      "Date": "May 24, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00d7c9",
+      "To": "Wilcox",
+      "Amount": "",
+      "Date": "Sep 18, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.50\u039e ($153)",
+      "Date": "Jul 07, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00d7c9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

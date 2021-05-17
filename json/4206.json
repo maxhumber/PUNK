@@ -1,0 +1,82 @@
+{
+  "id": "4206",
+  "owner": "0xe41691564a88301bee84a8886740e04d83e75ea9",
+  "attributes": [
+    "Male",
+    "Chinstrap",
+    "Classic Shades",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x76555d",
+      "To": "0xe41691",
+      "Amount": "26.50\u039e ($47,687)",
+      "Date": "Mar 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe41691",
+      "To": "",
+      "Amount": "26.50\u039e ($50,115)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "29\u039e ($51,587)",
+      "Date": "Mar 11, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xc272ed",
+      "To": "0x76555d",
+      "Amount": "22\u039e ($38,897)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x76555d",
+      "To": "",
+      "Amount": "22\u039e ($38,897)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "24\u039e ($41,631)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x050159",
+      "To": "",
+      "Amount": "20\u039e ($34,713)",
+      "Date": "Mar 08, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($13)",
+      "Date": "Dec 29, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "0.10\u039e ($12)",
+      "Date": "Dec 28, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc272ed",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

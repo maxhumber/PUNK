@@ -1,0 +1,40 @@
+{
+  "id": "6464",
+  "owner": "0x6301add4fb128de9778b8651a2a9278b86761423",
+  "attributes": [
+    "Female",
+    "Cap",
+    "Hot Lipstick",
+    "Classic Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "64.64\u039e ($96,652)",
+      "Date": "Feb 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "GtC",
+      "To": "",
+      "Amount": "0.25\u039e ($47)",
+      "Date": "Sep 15, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "GtC",
+      "To": "",
+      "Amount": "0.25\u039e ($45)",
+      "Date": "Sep 03, 2019"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

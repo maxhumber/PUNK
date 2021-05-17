@@ -1,0 +1,53 @@
+{
+  "id": "6114",
+  "owner": "0xc88908b233501ca848df3156fdb30af41ec29a8b",
+  "attributes": [
+    "Male",
+    "Handlebars",
+    "Police Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "40.49\u039e ($70,566)",
+      "Date": "Mar 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0xc88908",
+      "Amount": "27\u039e ($43,947)",
+      "Date": "Feb 24, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xf7c889",
+      "To": "",
+      "Amount": "23\u039e ($34,620)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xf7c889",
+      "To": "",
+      "Amount": "23\u039e ($40,807)",
+      "Date": "Feb 23, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "27\u039e ($50,129)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "id": "3474",
+  "owner": "0xb363cf2998adeb558b3e4a1e9ff09b12fc6f17c3",
+  "attributes": [
+    "Male",
+    "Eye Patch",
+    "Mohawk Dark"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "aviexkak\u2026",
+      "To": "0xb363cf",
+      "Amount": "19\u039e ($36,574)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19\u039e ($37,485)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "aviexkak\u2026",
+      "Amount": "",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "GoWest23",
+      "To": "0x568cf5",
+      "Amount": "5.50\u039e ($1,946)",
+      "Date": "Sep 29, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0xa18fd5",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "GoWest23",
+      "To": "0xa18fd5",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x87e225",
+      "To": "GoWest23",
+      "Amount": "0.35\u039e ($61)",
+      "Date": "May 06, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "renaissa\u2026",
+      "To": "",
+      "Amount": "0.27\u039e ($47)",
+      "Date": "Apr 18, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "renaissa\u2026",
+      "To": "",
+      "Amount": "0.27\u039e ($45)",
+      "Date": "Apr 17, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.35\u039e ($58)",
+      "Date": "Apr 16, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.39\u039e ($54)",
+      "Date": "Mar 28, 2019"
+    },
+    {
+      "Type": "Sold",
+      "From": "Cyborg",
+      "To": "0x87e225",
+      "Amount": "0.28\u039e ($42)",
+      "Date": "Jan 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.28\u039e ($42)",
+      "Date": "Jan 07, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1\u039e ($486)",
+      "Date": "Mar 26, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xd8e806",
+      "To": "Cyborg",
+      "Amount": "0.18\u039e ($55)",
+      "Date": "Aug 12, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.18\u039e ($55)",
+      "Date": "Aug 12, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.20\u039e ($62)",
+      "Date": "Aug 12, 2017"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 13, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.80\u039e ($179)",
+      "Date": "Jul 12, 2017"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x0a4eaf\u2026",
+      "To": "0xd8e806",
+      "Amount": "0.40\u039e ($90)",
+      "Date": "Jul 12, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.40\u039e ($76)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x5b098b",
+      "To": "0x0a4eaf\u2026",
+      "Amount": "",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "0x0a4eaf\u2026",
+      "Amount": "0.50\u039e ($95)",
+      "Date": "Jul 11, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x5b098b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

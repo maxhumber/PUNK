@@ -1,0 +1,34 @@
+{
+  "id": "370",
+  "owner": "0xc352b534e8b987e036a93539fd6897f53488e56a",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Peak Spike",
+    "Rosy Cheeks",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x9d5eb0",
+      "To": "",
+      "Amount": "0.10\u039e ($47)",
+      "Date": "Jul 19, 2018"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x9d5eb0",
+      "To": "",
+      "Amount": "0.10\u039e ($97)",
+      "Date": "Jan 05, 2018"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc352b5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

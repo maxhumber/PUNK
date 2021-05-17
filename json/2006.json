@@ -1,0 +1,76 @@
+{
+  "id": "2006",
+  "owner": "0xa351a4fffceed60b6d4351e1b20c55e3a6fb5503",
+  "attributes": [
+    "Male",
+    "Cigarette",
+    "Front Beard Dark",
+    "Earring",
+    "Crazy Hair"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0xf8cc87",
+      "To": "0xa351a4",
+      "Amount": "",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x034b46",
+      "To": "0xf8cc87",
+      "Amount": "23.99\u039e ($58,407)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.99\u039e ($55,964)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f8af4",
+      "To": "0x034b46",
+      "Amount": "22.50\u039e ($52,331)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "22.50\u039e ($52,331)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x938bd2",
+      "To": "0x6f8af4",
+      "Amount": "",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x577ebc",
+      "To": "0x938bd2",
+      "Amount": "",
+      "Date": "Feb 06, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

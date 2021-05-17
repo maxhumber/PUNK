@@ -1,0 +1,61 @@
+{
+  "id": "2906",
+  "owner": "0x5eb423fc6e5fc37c8a07c880c378fb1d70c5667f",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Knitted Cap",
+    "Eye Patch"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "69.69\u039e ($117,007)",
+      "Date": "Mar 29, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x07c5ea",
+      "To": "0x5eb423",
+      "Amount": "8.95\u039e ($16,121)",
+      "Date": "Feb 16, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8.95\u039e ($16,276)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xba19ba",
+      "To": "0x07c5ea",
+      "Amount": "8\u039e ($14,549)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "8\u039e ($14,829)",
+      "Date": "Feb 12, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00dab6",
+      "To": "0xba19ba",
+      "Amount": "",
+      "Date": "Feb 08, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x00dab6",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

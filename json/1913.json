@@ -1,0 +1,40 @@
+{
+  "id": "1913",
+  "owner": "0x8bb4f3be31bc5aac56c75a41522b1e0d517aabc0",
+  "attributes": [
+    "Female",
+    "Straight Hair",
+    "Hot Lipstick",
+    "Earring"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "0x8bb4f3",
+      "Amount": "7\u039e ($10,025)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x8bb4f3",
+      "To": "",
+      "Amount": "7\u039e ($10,025)",
+      "Date": "Feb 02, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Jan 30, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "3567",
+  "owner": "0x449c69df8487c9faf14d0b798f142ee128cd4fc8",
+  "attributes": [
+    "Female",
+    "Mole",
+    "Cap"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xa6e2e9",
+      "To": "0x449c69",
+      "Amount": "23.99\u039e ($51,785)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "23.99\u039e ($51,785)",
+      "Date": "Apr 19, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xa6e2e9",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

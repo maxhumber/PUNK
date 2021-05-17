@@ -1,0 +1,82 @@
+{
+  "id": "6358",
+  "owner": "0xb813c62ad216a274057cd602ad754e3ac8b914a6",
+  "attributes": [
+    "Female",
+    "Messy Hair",
+    "Medical Mask",
+    "Purple Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.99\u039e ($156,363)",
+      "Date": "May 09, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "jmg",
+      "To": "0xb813c6",
+      "Amount": "",
+      "Date": "Mar 17, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jan 10, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "scalynel\u2026",
+      "To": "",
+      "Amount": "1\u039e ($141)",
+      "Date": "Jan 09, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "scalynel\u2026",
+      "To": "",
+      "Amount": "1\u039e ($141)",
+      "Date": "Jan 08, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.35\u039e ($243)",
+      "Date": "Oct 12, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x00bd3a",
+      "To": "jmg",
+      "Amount": "",
+      "Date": "Dec 22, 2018"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6611fe",
+      "To": "0x00bd3a",
+      "Amount": "0.40\u039e ($112)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x00bd3a",
+      "To": "",
+      "Amount": "0.40\u039e ($112)",
+      "Date": "Jun 30, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6611fe",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

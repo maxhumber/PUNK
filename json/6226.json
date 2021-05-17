@@ -1,0 +1,237 @@
+{
+  "id": "6226",
+  "owner": "0xe9e7b800ec5fc6015cf6b2826711254bab3c12e4",
+  "attributes": [
+    "Male",
+    "Shadow Beard",
+    "Purple Hair",
+    "Earring",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Korniej",
+      "To": "0xe9e7b8",
+      "Amount": "11\u039e ($20,301)",
+      "Date": "Feb 14, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11\u039e ($18,355)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Dec 27, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.10\u039e ($3,547)",
+      "Date": "Dec 24, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "Korniej",
+      "Amount": "",
+      "Date": "Dec 24, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x8d66f3",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Korniej",
+      "To": "0x8d66f3",
+      "Amount": "",
+      "Date": "Dec 23, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "7.40\u039e ($4,531)",
+      "Date": "Dec 22, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.90\u039e ($3,699)",
+      "Date": "Dec 01, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "Korniej",
+      "Amount": "",
+      "Date": "Nov 30, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xff40d2",
+      "To": "Korniej",
+      "Amount": "3.85\u039e ($2,221)",
+      "Date": "Nov 30, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x4fa27c",
+      "To": "0xff40d2",
+      "Amount": "4.85\u039e ($1,886)",
+      "Date": "Oct 31, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "MrTpunks\u2026",
+      "To": "0x4fa27c",
+      "Amount": "6\u039e ($2,230)",
+      "Date": "Oct 11, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "TJ2010",
+      "To": "MrTpunks\u2026",
+      "Amount": "5.75\u039e ($2,058)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x0b87ca",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "TJ2010",
+      "To": "0x0b87ca",
+      "Amount": "",
+      "Date": "Sep 26, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "DANNY",
+      "To": "TJ2010",
+      "Amount": "1.40\u039e ($492)",
+      "Date": "Sep 09, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "1\u039e ($394)",
+      "Date": "Aug 07, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Michel_M\u2026",
+      "To": "",
+      "Amount": "1\u039e ($397)",
+      "Date": "Aug 06, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.40\u039e ($466)",
+      "Date": "Jul 31, 2020"
+    },
+    {
+      "Type": "Offer Withdrawn",
+      "From": "",
+      "To": "",
+      "Amount": "",
+      "Date": "Jul 31, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "2.20\u039e ($464)",
+      "Date": "May 21, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x1a96af",
+      "To": "DANNY",
+      "Amount": "1.11\u039e ($243)",
+      "Date": "May 03, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.11\u039e ($189)",
+      "Date": "Apr 17, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xe45df5",
+      "To": "0x1a96af",
+      "Amount": "",
+      "Date": "Apr 17, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xe9d43c",
+      "To": "",
+      "Amount": "0.30\u039e ($44)",
+      "Date": "Feb 21, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe9d43c",
+      "To": "",
+      "Amount": "0.30\u039e ($47)",
+      "Date": "Jan 02, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x7760e0",
+      "To": "",
+      "Amount": "0.15\u039e ($41)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x6611fe",
+      "To": "",
+      "Amount": "0.15\u039e ($41)",
+      "Date": "Jul 03, 2017"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "1.10\u039e ($335)",
+      "Date": "Jun 24, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xe45df5",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "7504",
+  "owner": "0xc06dbddf5b059d4de36ed72fde4bc3793c63ce6e",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "VR"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x69f068",
+      "To": "",
+      "Amount": "21\u039e ($69,630)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x69f068",
+      "To": "",
+      "Amount": "21\u039e ($39,382)",
+      "Date": "Mar 14, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x69f068",
+      "To": "",
+      "Amount": "20\u039e ($32,914)",
+      "Date": "Mar 06, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x69f068",
+      "To": "",
+      "Amount": "20\u039e ($30,749)",
+      "Date": "Mar 04, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xdbc416",
+      "To": "0xc06dbd",
+      "Amount": "11\u039e ($18,013)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "11\u039e ($17,826)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x_NFT",
+      "To": "",
+      "Amount": "8\u039e ($13,308)",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "15\u039e ($21,226)",
+      "Date": "Jan 29, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x_NFT",
+      "To": "",
+      "Amount": "8\u039e ($9,896)",
+      "Date": "Jan 27, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "3van.eth",
+      "To": "",
+      "Amount": "7\u039e ($9,285)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "3van.eth",
+      "To": "",
+      "Amount": "7\u039e ($9,775)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "3van.eth",
+      "To": "",
+      "Amount": "6.50\u039e ($9,077)",
+      "Date": "Jan 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "3van.eth",
+      "To": "",
+      "Amount": "6.50\u039e ($9,123)",
+      "Date": "Jan 19, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "10\u039e ($11,001)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x2fdacd",
+      "To": "0xdbc416",
+      "Amount": "5.50\u039e ($6,065)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdbc416",
+      "To": "",
+      "Amount": "5.50\u039e ($6,065)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "evkort",
+      "To": "",
+      "Amount": "4.75\u039e ($5,238)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdbc416",
+      "To": "",
+      "Amount": "4.50\u039e ($4,962)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "OnlyToas\u2026",
+      "To": "",
+      "Amount": "4\u039e ($4,411)",
+      "Date": "Jan 13, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x2fdacd",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "9125",
+  "owner": "0x3042887f97821ec36be64d2677efd2e943a4cb0f",
+  "attributes": [
+    "Female",
+    "Clown Nose",
+    "Big Shades",
+    "Wild Blonde"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "Slats_et\u2026",
+      "To": "0x304288",
+      "Amount": "39.90\u039e ($76,806)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "39.90\u039e ($69,230)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "7\u039e ($8,489)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "TweetyPi\u2026",
+      "To": "",
+      "Amount": "7\u039e ($8,587)",
+      "Date": "Jan 09, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "sov",
+      "To": "Slats_et\u2026",
+      "Amount": "6\u039e ($1,235)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "4.50\u039e ($927)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "4.50\u039e ($925)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Ambrose",
+      "To": "",
+      "Amount": "2\u039e ($405)",
+      "Date": "May 27, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Ambrose",
+      "To": "",
+      "Amount": "2\u039e ($400)",
+      "Date": "May 26, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6\u039e ($1,241)",
+      "Date": "May 17, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.12\u039e ($21)",
+      "Date": "Jan 22, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "7478",
+      "To": "",
+      "Amount": "0.12\u039e ($22)",
+      "Date": "Jan 18, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "sov",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "3956",
+  "owner": "0x8e3934250212bdfa0ea88ec6fcd9a42d26bad78b",
+  "attributes": [
+    "Male",
+    "Front Beard Dark",
+    "Earring",
+    "Shaved Head"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "niwin",
+      "To": "",
+      "Amount": "15\u039e ($28,126)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0xd6d7ea",
+      "To": "0x8e3934",
+      "Amount": "21.50\u039e ($41,211)",
+      "Date": "Feb 22, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "21.50\u039e ($41,518)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x6f4a2d",
+      "To": "0xd6d7ea",
+      "Amount": "19.50\u039e ($37,655)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "niwin",
+      "To": "",
+      "Amount": "15\u039e ($28,598)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xd56dc3",
+      "To": "",
+      "Amount": "<",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "19.50\u039e ($38,099)",
+      "Date": "Feb 21, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

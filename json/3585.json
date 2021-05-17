@@ -1,0 +1,33 @@
+{
+  "id": "3585",
+  "owner": "0x8449593b8e9d4410e571486232d5d42590e25893",
+  "attributes": [
+    "Male",
+    "Cap Forward",
+    "Mustache",
+    "Horned Rim Glasses"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0x470e9b",
+      "To": "0x844959",
+      "Amount": "0.55\u039e ($143)",
+      "Date": "May 19, 2019"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "0.55\u039e ($112)",
+      "Date": "Jul 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x470e9b",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

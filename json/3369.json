@@ -1,0 +1,130 @@
+{
+  "id": "3369",
+  "owner": "0x9e67d018488ad636b538e4158e9e7577f2ecac12",
+  "attributes": [
+    "Male",
+    "Stringy Hair",
+    "Luxurious Beard"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "flipper_",
+      "To": "WuTangCl\u2026",
+      "Amount": "5.58\u039e ($1,939)",
+      "Date": "Oct 04, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "bolaand",
+      "To": "",
+      "Amount": "4\u039e ($1,386)",
+      "Date": "Oct 03, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "bolaand",
+      "To": "",
+      "Amount": "4\u039e ($1,373)",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "5.58\u039e ($1,969)",
+      "Date": "Oct 02, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "6.24\u039e ($2,219)",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "flipper_",
+      "Amount": "",
+      "Date": "Sep 30, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "redlione\u2026",
+      "To": "flipper_",
+      "Amount": "4.79\u039e ($1,741)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x11c9a7",
+      "To": "redlione\u2026",
+      "Amount": "4.20\u039e ($1,503)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x692885",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x11c9a7",
+      "To": "0x692885",
+      "Amount": "",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "PM_disco\u2026",
+      "To": "0x11c9a7",
+      "Amount": "3.90\u039e ($1,395)",
+      "Date": "Sep 28, 2020"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "3.90\u039e ($1,374)",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "(Unwrap)",
+      "From": "WrappedC\u2026",
+      "To": "PM_disco\u2026",
+      "Amount": "",
+      "Date": "Sep 27, 2020"
+    },
+    {
+      "Type": "Sold",
+      "From": "Hemba",
+      "To": "PM_disco\u2026",
+      "Amount": "1.80\u039e ($667)",
+      "Date": "Sep 20, 2020"
+    },
+    {
+      "Type": "(Wrap)",
+      "From": "0x193847",
+      "To": "WrappedC\u2026",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "Hemba",
+      "To": "0x193847",
+      "Amount": "",
+      "Date": "Sep 15, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "Hemba",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

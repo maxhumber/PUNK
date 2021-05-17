@@ -1,0 +1,20 @@
+{
+  "id": "4030",
+  "owner": "0x800b4dbcef65cb5d1b2f8e33d5d0bbcbffea2a8e",
+  "attributes": [
+    "Female",
+    "Hot Lipstick",
+    "Wild Hair",
+    "Earring",
+    "Cigarette"
+  ],
+  "transactions": [
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x800b4d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

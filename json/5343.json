@@ -1,0 +1,46 @@
+{
+  "id": "5343",
+  "owner": "0xea9724fe1b46b3e397e3b00a62323e49c867cacc",
+  "attributes": [
+    "Female",
+    "Tassle Hat",
+    "Clown Eyes Blue"
+  ],
+  "transactions": [
+    {
+      "Type": "Sold",
+      "From": "0xc480fb",
+      "To": "0xea9724",
+      "Amount": "26.75\u039e ($88,159)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x465126",
+      "To": "",
+      "Amount": "19\u039e ($47,984)",
+      "Date": "Apr 27, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x465126",
+      "To": "",
+      "Amount": "19\u039e ($44,249)",
+      "Date": "Apr 21, 2021"
+    },
+    {
+      "Type": "Offered",
+      "From": "",
+      "To": "",
+      "Amount": "26.75\u039e ($57,590)",
+      "Date": "Apr 18, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xc480fb",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

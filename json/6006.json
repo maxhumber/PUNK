@@ -1,0 +1,32 @@
+{
+  "id": "6006",
+  "owner": "0x6301add4fb128de9778b8651a2a9278b86761423",
+  "attributes": [
+    "Male",
+    "Wild Hair",
+    "Small Shades"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x3f8b5e",
+      "To": "",
+      "Amount": "15\u039e ($34,544)",
+      "Date": "Apr 14, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x3f8b5e",
+      "To": "",
+      "Amount": "15\u039e ($31,982)",
+      "Date": "Apr 06, 2021"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "ddaavvee",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

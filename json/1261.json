@@ -1,0 +1,60 @@
+{
+  "id": "1261",
+  "owner": "0x70dd0782cb3130d530e6e00abc0f47c199919462",
+  "attributes": [
+    "Female",
+    "Clown Eyes Green",
+    "Blonde Bob"
+  ],
+  "transactions": [
+    {
+      "Type": "Transfer",
+      "From": "0x000c1c\u2026",
+      "To": "rleshner\u2026",
+      "Amount": "",
+      "Date": "Jan 25, 2020"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.50\u039e ($65)",
+      "Date": "Jan 01, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "Pranksy",
+      "To": "",
+      "Amount": "0.50\u039e ($66)",
+      "Date": "Dec 31, 2019"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($154)",
+      "Date": "Jun 23, 2019"
+    },
+    {
+      "Type": "Bid",
+      "From": "TokenAng\u2026",
+      "To": "",
+      "Amount": "0.50\u039e ($134)",
+      "Date": "Jun 16, 2019"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x887caa",
+      "To": "0x000c1c\u2026",
+      "Amount": "",
+      "Date": "Oct 02, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x887caa",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

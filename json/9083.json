@@ -1,0 +1,54 @@
+{
+  "id": "9083",
+  "owner": "0x9eecb70a1fcdeb5ca0e1fbad841e2ee9db86ef61",
+  "attributes": [
+    "Male",
+    "Hoodie",
+    "Horned Rim Glasses",
+    "Smile"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0x38d0db",
+      "To": "",
+      "Amount": "70\u039e ($117,090)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x38d0db",
+      "To": "",
+      "Amount": "70\u039e ($119,315)",
+      "Date": "Mar 23, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xe1f1c9",
+      "To": "",
+      "Amount": "0.90\u039e ($1,644)",
+      "Date": "Mar 20, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x26737c",
+      "To": "",
+      "Amount": "0.06\u039e ($97)",
+      "Date": "Mar 12, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x717403",
+      "To": "",
+      "Amount": "0.05\u039e ($13)",
+      "Date": "Jun 26, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x9eecb7",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

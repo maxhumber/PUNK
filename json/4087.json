@@ -1,0 +1,117 @@
+{
+  "id": "4087",
+  "owner": "0x6f4a2d3a4f47f9c647d86c929755593911ee91ec",
+  "attributes": [
+    "Female",
+    "Tassle Hat",
+    "Choker",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xddfdcb",
+      "To": "",
+      "Amount": "60\u039e ($124,262)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xddfdcb",
+      "To": "",
+      "Amount": "60\u039e ($124,564)",
+      "Date": "Apr 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "25\u039e ($43,795)",
+      "Date": "Feb 15, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "25\u039e ($43,983)",
+      "Date": "Feb 09, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xdcf227",
+      "To": "",
+      "Amount": "20.50\u039e ($32,838)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xdcf227",
+      "To": "",
+      "Amount": "20.50\u039e ($33,446)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "CPyrc",
+      "To": "",
+      "Amount": "15\u039e ($24,580)",
+      "Date": "Feb 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xaa2229",
+      "To": "",
+      "Amount": "4.50\u039e ($2,130)",
+      "Date": "Nov 13, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaa2229",
+      "To": "",
+      "Amount": "4.50\u039e ($1,998)",
+      "Date": "Nov 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "4\u039e ($1,756)",
+      "Date": "Nov 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaa2229",
+      "To": "",
+      "Amount": "3\u039e ($1,312)",
+      "Date": "Nov 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "2.60\u039e ($1,137)",
+      "Date": "Nov 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xaa2229",
+      "To": "",
+      "Amount": "2.50\u039e ($1,093)",
+      "Date": "Nov 08, 2020"
+    },
+    {
+      "Type": "Bid",
+      "From": "0x34e801",
+      "To": "",
+      "Amount": "2\u039e ($834)",
+      "Date": "Nov 06, 2020"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0x6f4a2d",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "5708",
+  "owner": "0x82b1f29c5608238df2618f996827933c0d844079",
+  "attributes": [
+    "Female",
+    "Clown Hair Green",
+    "Hot Lipstick"
+  ],
+  "transactions": [
+    {
+      "Type": "Bid Withdrawn",
+      "From": "0xcf8401",
+      "To": "",
+      "Amount": "80\u039e ($246,372)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xcf8401",
+      "To": "",
+      "Amount": "80\u039e ($244,481)",
+      "Date": "May 03, 2021"
+    },
+    {
+      "Type": "Bid Withdrawn",
+      "From": "anonymou\u2026",
+      "To": "",
+      "Amount": "45\u039e ($102,442)",
+      "Date": "Apr 24, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "anonymou\u2026",
+      "To": "",
+      "Amount": "45\u039e ($103,878)",
+      "Date": "Apr 23, 2021"
+    },
+    {
+      "Type": "Sold",
+      "From": "0x577ebc",
+      "To": "ross_VRO\u2026",
+      "Amount": "14\u039e ($24,102)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "ross_VRO\u2026",
+      "To": "",
+      "Amount": "14\u039e ($24,102)",
+      "Date": "Feb 05, 2021"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0x28b564",
+      "To": "0x577ebc",
+      "Amount": "",
+      "Date": "Feb 04, 2021"
+    },
+    {
+      "Type": "Bid",
+      "From": "0xc7c6b9",
+      "To": "",
+      "Amount": "<",
+      "Date": "Dec 17, 2020"
+    },
+    {
+      "Type": "Transfer",
+      "From": "0xcbd482",
+      "To": "0x28b564",
+      "Amount": "",
+      "Date": "Jul 16, 2017"
+    },
+    {
+      "Type": "Claimed",
+      "From": "",
+      "To": "0xcbd482",
+      "Amount": "",
+      "Date": "Jun 23, 2017"
+    }
+  ]
+}
